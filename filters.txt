@@ -1,0 +1,288 @@
+! 12/12/2019 https://community.spiceworks.com
+community.spiceworks.com###join-login_alt-modal
+
+! 1/14/2020 https://www.neowin.net
+www.neowin.net##.deals > .wrap > .row
+
+! 1/17/2020 https://www.gumtree.com.au
+www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
+
+! 1/17/2020 https://www.drive.com.au
+www.drive.com.au###designstudio-iframe
+www.drive.com.au##.cotw
+
+! 1/31/2020 https://forums.androidcentral.com
+forums.androidcentral.com##.jw-reset.jw-video
+
+! 2/10/2020 https://login.microsoftonline.com
+||aadcdn.msauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
+
+! 2/10/2020 https://www.flickr.com
+www.flickr.com###yui_3_16_0_1_1581312878209_7336
+
+! 2/14/2020 https://login.microsoftonline.com
+||aadcdn.msftauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
+
+! 2/17/2020 https://login.live.com
+||logincdn.msauth.net/16.000.28497.4/content/images/backgrounds/0*.jpg$image
+
+! 2/17/2020 https://login.microsoftonline.com
+||aadcdn.msftauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
+
+! 2/18/2020 https://open.spotify.com
+open.spotify.com##.a88f0b25501df313b75b70d458d9fe87-scss._56a12d0978529b654affa11ca9390bd7-scss._2221af4e93029bedeab751d04fab4b8b-scss
+
+! 2/19/2020 https://www.carsales.com.au
+www.carsales.com.au##.listing-items > .guaranteed-consideration
+
+! 2/19/2020 https://login.microsoftonline.com
+||aadcdn.msauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
+
+! 3/5/2020 https://www.youtube.com
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+
+! 3/12/2020 https://www.theage.com.au
+www.theage.com.au##._22FRK > div.noPrint
+
+! 3/13/2020 https://p0vavmwvcs01.unisuper.lan
+p0vavmwvcs01.unisuper.lan##.km-right.k-state-border-up.k-reset.k-group.k-popup.km-popup-wrapper
+
+! 5/19/2020 https://www.youtube.com
+www.youtube.com##.ytp-endscreen-content
+
+! 5/27/2020 https://www.gumtree.com.au
+www.gumtree.com.au##.user-ad-collection--row.user-ad-collection.search-results-page__top-ads-wrapper.panel > .user-ad-collection__list-wrapper.panel-body--flat-panel-shadow.panel-body
+www.gumtree.com.au##.alert
+
+! 6/4/2020 https://www.seek.com.au
+www.seek.com.au##._3KwIuf8._1_Q8jzT > div:nth-of-type(2) > div > div:nth-of-type(1)
+
+! 6/15/2020 https://tabs.ultimate-guitar.com
+tabs.ultimate-guitar.com##._3o2b6
+tabs.ultimate-guitar.com##.js-fp-video
+tabs.ultimate-guitar.com##._2ATGy
+
+! 6/24/2020 https://www.essentialbaby.com.au
+www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
+
+! 7/6/2020 https://www.ebay.com.au
+www.ebay.com.au###merch_html_100008
+
+! 7/6/2020 https://www.kotaku.com.au
+www.kotaku.com.au##.brightcove-video
+
+! 7/28/2020 https://www.quora.com
+www.quora.com###__w2_wj6MaD071_signup_wall_wrapper
+www.quora.com###__w2_wzbSlpOx1_signup_wall_wrapper
+
+! 8/5/2020 https://www.howtogeek.com
+www.howtogeek.com##.overlay-wrapper
+
+! 8/12/2020 https://outlook.live.com
+outlook.live.com##.xpcE12DTdKx2lSq2Rp9cN.chat-wrapper
+outlook.live.com##.skype-recents
+outlook.live.com###skype_container
+
+! 8/12/2020 live.com
+||prod.registrar.skype.com^
+||go.trouter.skype.com^
+
+! 8/12/2020 https://outlook.live.com
+outlook.live.com##.conversation-active.swc-focus-outline-area.skype-conversation.conversation
+
+! 8/18/2020 https://outlook.live.com
+outlook.live.com##._3zQI3WiOC__cGoCqhRmdWG
+
+! 2020-09-08 https://www.tomsguide.com
+www.tomsguide.com##.jw-reset.jw-video
+www.tomsguide.com##.jw-carousel
+
+! 2020-09-13 https://www.msp360.com
+www.msp360.com###slidebox
+
+! 2020-09-21 cas.ms
+||browser.pipe.aria.microsoft.com.us2.cas.ms^
+
+! 2020-09-22 https://search.nine.com.au
+search.nine.com.au##.top.adsList
+search.nine.com.au##.sidePanelAds
+search.nine.com.au##.bottom.adsList
+
+! 2020-09-27 https://www.businessinsider.com.au
+www.businessinsider.com.au##.brightcove-video
+
+! 2020-10-06 live.com
+||msnmessenger.msn.com.akadns.net^$xhr
+||gateway.messenger.live.com^$xhr
+
+! 2020-10-11 https://old.reddit.com
+old.reddit.com##.linkinfo
+old.reddit.com##.subButtons
+old.reddit.com###form-t5_2qh4pole > .md-container.may-blank-within.usertext-body > .md
+old.reddit.com##.sidecontentbox
+old.reddit.com##.premium-banner-outer
+old.reddit.com##.flairtoggle.toggle
+old.reddit.com##.bottom
+old.reddit.com##.titlebox > .tagline
+
+! 2020-10-20 https://www.kingarthurbaking.com
+www.kingarthurbaking.com##li.field__item > aside
+
+! 2020-11-04 https://au.movember.com
+au.movember.com##.row.mospace-fb-and-apps
+au.movember.com##.mospace-key-statistics--title
+
+! 2020-11-05 https://microsoftlivechat.net
+||24x7helpsupport.com/chat/image.php$image
+microsoftlivechat.net###lz_overlay_box
+microsoftlivechat.net##.livezilla_livebox_background_classlz_overlay_box
+
+! 2020-11-16 http://192.168.1.2
+! 192.168.1.2##.in.fade.modal
+
+! 2020-11-17 https://www.mytoll.com
+www.mytoll.com###shipementDetailForm > div.clearfix
+www.mytoll.com##.footer
+
+! 2020-11-24 https://webcamtests.com
+||webcamtests.com/MyShowroom/view.php$subdocument
+
+! 2020-11-25 https://old.reddit.com
+old.reddit.com##.RESDialogSmall.RESHoverInfoCard.RESHover
+old.reddit.com##ol
+old.reddit.com##div.spacer:nth-of-type(8)
+old.reddit.com##.embed-comment
+old.reddit.com##.give-gold-button
+old.reddit.com##.RESUserTag
+old.reddit.com##.reddiquette
+old.reddit.com##.RESSubscriptionButton
+old.reddit.com###form-t5_2qh4p7o0 > .md-container.may-blank-within.usertext-body > .md
+old.reddit.com##.footer-parent
+old.reddit.com###sr-header-area
+
+! 2020-11-30 https://forum.xda-developers.com
+forum.xda-developers.com###stickyNav
+forum.xda-developers.com##.postbit-social
+forum.xda-developers.com###sidepanel
+forum.xda-developers.com##.postbutton-row
+forum.xda-developers.com###prev-next
+forum.xda-developers.com###qrform
+
+! 2020-12-02 https://forum.xda-developers.com
+forum.xda-developers.com##.spot_container_content_above.spot_container.spot
+forum.xda-developers.com##.uix_sidebarNav
+forum.xda-developers.com##.xda_appsWidget.block
+
+! 2020-12-02 https://www.pinterest.com.au
+www.pinterest.com.au##.Hsu.iyn.zI7.qJc.p6V.ojN.jzS.gjz.fte.fev.dxm._he.PKX.Lej.LCN.Jea
+
+! 2020-12-07 https://www.experts-exchange.com
+www.experts-exchange.com##.popWrapper
+www.experts-exchange.com##.featherlight-content
+www.experts-exchange.com##.exitOverlay.featherlight
+www.experts-exchange.com##.limitedUsagesWrapper
+www.experts-exchange.com##.askQuestionSidebar.textComponent.component
+
+! 2021-01-04 https://community.windows.com
+community.windows.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert > div
+community.windows.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
+
+! 2021-01-04 https://answers.microsoft.com
+answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
+
+! 2021-01-05 https://www.buzzfeed.com
+www.buzzfeed.com##.ad-inline.js-ad-placement.clearfix
+
+! 2021-01-07 https://www.musicradar.com
+www.musicradar.com##.jw-carousel
+www.musicradar.com##.future__jwplayer--carousel
+
+! 2021-01-11 https://www.examtopics.com
+www.examtopics.com##.footer-contact-desc.row
+www.examtopics.com##.d-print-none.footer-top
+www.examtopics.com##.d-print-none.footer-bottom
+
+! 2021-01-11 http://192.168.1.212:8080
+! 192.168.1.212##.row > .form-horizontal > div.form-group:nth-of-type(3)
+
+! 2021-01-12 https://www.examtopics.com
+www.examtopics.com###engagement-modal
+www.examtopics.com##.show.modal-backdrop
+
+! 2021-01-14 https://www.realestate.com.au
+www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
+www.realestate.com.au##.floating-pill__wrapper
+
+! 2021-02-07 https://techcommunity.microsoft.com
+techcommunity.microsoft.com##.request-survey
+
+! 2021-02-10 https://www.domain.com.au
+www.domain.com.au##li.css-1b4kfhp:nth-of-type(14)
+
+! 2021-02-14 https://www.youtube.com
+www.youtube.com###related
+
+! 2021-02-22 https://7news.com.au
+7news.com.au##.eg8dsi40.css-16fe05k-StyledStickyContainer
+
+! 2021-02-28 https://outlook.live.com
+outlook.live.com##._2PxBL_S6KFCMTya8zm3aLF.ZXaaK9lo4E9sH50KY3o0C
+
+! 2021-03-01 https://www.masterclass.com
+www.masterclass.com##.trailer-gem__full-vw-container.uncontainer > .mc-background--fit-content.mc-background--color-dark.mc-background > .mc-background__content-container
+www.masterclass.com##.mc-py-8.bulk-banner-container.uncontainer
+www.masterclass.com##.mc-background--fit-content.mc-background--color-dark.mc-background.d-none.mc-mb-8.mc-pt-9.d-lg-block.mc-theme-dark.uncontainer
+www.masterclass.com##.article-ad__container.mc-mt-6
+
+! 2021-03-02 https://outlook.live.com
+outlook.live.com##.main-166._2hro2_DZ0s6Yn3wwT5_5ZC.ms-Dialog-main
+outlook.live.com##.root-170.ms-Overlay--dark.ms-Overlay
+
+! 2021-03-02 https://login.microsoftonline.com
+||aadcdn.msauth.net/shared/1.0/content/images/backgrounds/*$image
+
+! 2021-03-02 https://www.domain.com.au
+www.domain.com.au##li.css-1b4kfhp:nth-of-type(3)
+
+! 2021-03-15 https://www.domain.com.au
+www.domain.com.au##.css-ue0p7b
+
+! 2021-03-21 https://www.domain.com.au
+www.domain.com.au##li.css-1b4kfhp:nth-of-type(10)
+
+! 2021-04-11 http://192.168.1.2
+192.168.1.2##.content > .fade.modal
+192.168.1.2##.in.fade.modal-backdrop
+
+! 2021-04-25 https://www.domain.com.au
+www.domain.com.au##.css-176pzbt > .slick-initialized.slick-slider
+
+! 2021-05-27 https://www.glassdoor.com.au
+www.glassdoor.com.au##.giveToGetContentModule
+
+! 2021-05-30 https://allthatsinteresting.com
+allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
+allthatsinteresting.com##div.pbh_inline:nth-of-type(2)
+allthatsinteresting.com##div.pbh_inline:nth-of-type(3)
+
+! 2021-05-31 https://www.vembu.com
+www.vembu.com###spu-bg-44816
+
+! 2021-06-09 https://www.pinterest.com.au
+||www.pinterest.com.au/resource/ContextLogResource/create/*$xhr,domain=www.pinterest.com.au
+
+! 2021-06-14 https://www.gumtree.com.au
+www.gumtree.com.au##.footer
+www.gumtree.com.au##.paypal-linking-message
+
+! 2021-06-28 https://www.news.com.au
+www.news.com.au##.rp-recommendations-container
+www.news.com.au##.list-wrapper
+www.news.com.au##.active.vjs-playlist
+
+! 2021-07-08 https://www.manualslib.com
+www.manualslib.com##section.whitebg:nth-of-type(1)
+www.manualslib.com##section.whitebg:nth-of-type(2)
+
+! 2021-07-11 https://outlook.live.com
+outlook.live.com##._2atHZl-IhpN84h24Mt1JCU._38q9kfVlcNA62oQUTbgvLT
