@@ -286,3 +286,9 @@ www.manualslib.com##section.whitebg:nth-of-type(2)
 
 ! 2021-07-11 https://outlook.live.com
 outlook.live.com##._2atHZl-IhpN84h24Mt1JCU._38q9kfVlcNA62oQUTbgvLT
+
+! 2021-07-11 https://www.manualslib.com
+www.manualslib.com##footer
+
+! 2021-07-20 https://www.ifixit.com
+www.ifixit.com##div > div > .react-component
