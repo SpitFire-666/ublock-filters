@@ -7,6 +7,64 @@ www.neowin.net##.deals > .wrap > .row
 ! 1/17/2020 https://www.gumtree.com.au
 www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
 
+! 2021-07-23 https://www.gumtree.com.au
+www.gumtree.com.au##.top-ad-upsell__details
+www.gumtree.com.au##.top-ad-upsell
+www.gumtree.com.au##.nudge-login
+
+! 2021-07-31 https://www.nme.com
+www.nme.com##.jw-reset.jw-video
+www.nme.com##.jw-reset.jw-media
+www.nme.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.nme.com##.jw-reset.jw-wrapper
+www.nme.com###botr_mmlgkHZx_TADMMIT9_div > .jw-reset.jw-aspect
+
+! 2021-07-31 https://www.drive.com.au
+www.drive.com.au##.pb-10.pt-10.bg-teal-dark
+
+! 2021-08-04 https://devblogs.microsoft.com
+devblogs.microsoft.com##.smcx-opaque.smcx-hide-branding.smcx-widget-dark.smcx-show.smcx-modal-invitation.smcx-modal.smcx-widget
+
+! 2021-05-08 https://coinmarketcap.com
+coinmarketcap.com##.routeSwitcher___3u2Qr.container
+coinmarketcap.com##.tabRow___3QcNP.hKZfDX.sc-16r8icm-0
+coinmarketcap.com##.statsContainer___2uXZW.hide___2JmAL
+coinmarketcap.com##.linksSection___2uV91.iiNgcJ.sc-16r8icm-0
+
+! 2021-05-11 https://www.ramint.gov.au
+www.ramint.gov.au##.region-footer-upper.region
+
+! 2021-05-14 https://old.reddit.com
+old.reddit.com##.give-gold-button
+
+! 2021-05-15 https://www.grays.com
+www.grays.com###mdl-subscriptionpanel
+www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw:nth-of-type(8)
+www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw > .marketing
+www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_targetedTiles6 > .marketing
+
+! 2021-05-18 https://www.coinspot.com.au
+www.coinspot.com.au###twofawarning > .modal-dialog
+www.coinspot.com.au###twofawarning
+www.coinspot.com.au##.in.modal-backdrop
+
+! 2021-05-22 https://www.justanswer.com
+www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
+www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
+
+! 2021-05-22 https://www.pinterest.com.au
+||www.pinterest.com.au/resource/ContextLogResource/*$domain=www.pinterest.com.au
+||www.pinterest.com.au/resource/StatsLogResource/create/*$domain=www.pinterest.com.au
+||www.pinterest.com.au/resource/RepinResource/create/*$xhr,domain=www.pinterest.com.au
+||www.pinterest.com.au/resource/ActivateExperimentResource/create/*$xhr,domain=www.pinterest.com.au
+
+! 2021-05-22 https://www.gumtree.com.au
+www.gumtree.com.au##.module-body > .pstad-featrs-list
+www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
+www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
+www.gumtree.com.au##.social-links
+
+
 ! 1/17/2020 https://www.drive.com.au
 www.drive.com.au###designstudio-iframe
 www.drive.com.au##.cotw
@@ -292,3 +350,36 @@ www.manualslib.com##footer
 
 ! 2021-07-20 https://www.ifixit.com
 www.ifixit.com##div > div > .react-component
+
+! 2021-01-25 https://www.gumtree.com.au
+www.gumtree.com.au##.alert
+
+! 2021-01-25 https://www.ebay.com.au
+www.ebay.com.au##.srp-1p__link
+
+! 2020-11-06 https://www.anacondastores.com
+www.anacondastores.com##.show.fade.modal-backdrop
+
+! 7/21/2020 https://www.broadsheet.com.au
+www.broadsheet.com.au##.subscription-slide.subscription-wrapper
+
+! 7/26/2020 https://www.gumtree.com.au
+www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
+
+! 7/29/2020 https://www.lifehacker.com.au
+www.lifehacker.com.au##.brightcove-video
+
+! 2021-07-27 https://www.mamamia.com.au
+www.mamamia.com.au##.none.main-article-post.article-holder > .pos1_spacer > .leaderboard_pos1.original-element.leaderboard-main-ad
+
+! 2021-06-14 https://search.nine.com.au
+search.nine.com.au##.bottom.adsList
+
+! 2021-02-21 https://www.reddit.com
+www.reddit.com##.premium-banner
+
+! 2021-02-22 https://cryptonews.com
+cryptonews.com##.centered
+cryptonews.com##.show.cn-invite-fixed
+cryptonews.com##.ssk-left.ssk-center.ssk-sticky.ssk-group
+cryptonews.com##.inarticle
