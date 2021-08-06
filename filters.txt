@@ -574,3 +574,101 @@ www.mountaindesigns.com##.show.fade.modal-backdrop
 ! 2021-08-05 https://www.news.com.au
 www.news.com.au###nca-behavioural-banner-wrapper
 
+! 2021-07-27 https://mp1st.com
+mp1st.com##.jnews_popup_post_container
+
+
+
+! 2021-07-29 https://www.bunnings.com.au
+www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
+
+! 2021-07-29 https://auctions.yahoo.co.jp
+auctions.yahoo.co.jp##.gNTkeR.Link-sc-ndxwch
+auctions.yahoo.co.jp##.bLIneM.Layer-sc-1524xzp
+auctions.yahoo.co.jp##.irfroh.Body-sc-1fn305e
+
+
+! 2021-06-29 https://www.gumtree.com.au
+www.gumtree.com.au##.zero-search-results__panel-content
+
+! 2021-07-15 https://www.coronavirus.vic.gov.au
+||www.coronavirus.vic.gov.au/img/header-pattern-bottom.png$image
+||www.coronavirus.vic.gov.au/img/header-pattern-bottom.png$image
+www.coronavirus.vic.gov.au##.rpl-above-content__below
+www.coronavirus.vic.gov.au##.rpl-accordion__button
+
+! 2021-03-07 https://www.google.com
+www.google.com##div.section-divider:nth-of-type(11)
+www.google.com##.b-ad-main
+
+! 2021-03-10 https://www.theurbanlist.com
+www.theurbanlist.com##.jw-reset.jw-video
+www.theurbanlist.com##.jw-reset.jw-media
+www.theurbanlist.com##.nsm_jwplayer_in_article_wrapper
+
+! 2021-02-24 https://www.9news.com.au
+www.9news.com.au##[href="https://www.9news.com.au/national/how-to-follow-9news-digital/29855bb1-ad3d-4c38-bc25-3cb52af1216f"]
+
+! 2021-03-01 https://www.dailymail.co.uk
+www.dailymail.co.uk##.has-button-share.floating-buttons
+
+! 2021-02-06 https://www.twenty20.com
+www.twenty20.com##div.modal-stack.in.fade.modal-backdrop:nth-of-type(5)
+www.twenty20.com##div.modal-stack.in.fade.modal-backdrop:nth-of-type(4)
+
+! 2021-02-07 https://www.news.com.au
+www.news.com.au##.vms-end-state.vjs-pause-state.videoWrapper
+
+! 2021-02-08 https://buildfire.com
+buildfire.com###ebook-popup
+buildfire.com###ebook-popup-overlay
+
+! 2021-02-15 https://www.glassdoor.com.au
+www.glassdoor.com.au##.row.mt-lg.justify-content-md-between.justify-content-around
+
+
+! 2021-01-26 https://community.infosecinstitute.com
+community.infosecinstitute.com##.userContent.UserSignature.Signature
+community.infosecinstitute.com##.Reactions
+
+! 2021-01-30 https://www.gumtree.com.au
+www.gumtree.com.au##.simplified.footer
+www.gumtree.com.au##.c-rounded-corners5.c-clearfix.rs-ma-ad-feature-box.rs-ad-field
+www.gumtree.com.au##.sticky.sticky-desktop.header__banner-container
+www.gumtree.com.au##.footer
+
+! 2021-02-01 https://www.android-x86.org
+www.android-x86.org##.brid-touch-overlay
+www.android-x86.org##.brid-holder
+
+
+! 2021-01-12 https://imgur.com
+imgur.com##.FastGrid
+
+! 2021-01-13 https://developer.android.com
+developer.android.com##.devsite-banner-message
+
+! 2021-01-09 https://www.ebay.com.au
+www.ebay.com.au###glbfooter
+www.ebay.com.au##.cl-lcat
+www.ebay.com.au##.sh-inner
+www.ebay.com.au###storeHeader
+www.ebay.com.au##div:nth-of-type(7)
+www.ebay.com.au###merch_html_100008
+
+
+! 2021-01-02 https://forum.xda-developers.com
+forum.xda-developers.com##.notice-content
+
+! 2020-10-26 https://www.bunnings.com.au
+||www.bunnings.com.au/assets/styleguide/v211.1.0.2689-release/bunnings-main-site/assets/img/bg-banner-brands.jpg$image
+||www.bunnings.com.au/assets/styleguide/v211.1.0.2689-release/bunnings-main-site/assets/img/bg-banner-brands.jpg$image
+www.bunnings.com.au##.brand-static-banner
+
+
+! 2020-09-12 https://www.collective-evolution.com
+www.collective-evolution.com##.clearfix.et_bloom_form_container_wrapper
+www.collective-evolution.com##.et_bloom_animated.et_bloom_visible.et_bloom_auto_close.et_bloom_trigger_bottom.et_bloom_auto_popup.et_bloom_optin_23.et_bloom_resize.et_bloom_optin.et_bloom_popup
+
+! 2020-09-12 https://webcamtests.com
+webcamtests.com##header
