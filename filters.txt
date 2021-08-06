@@ -560,3 +560,17 @@ www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-
 
 ! 1/31/2020 https://forums.androidcentral.com
 forums.androidcentral.com##.jw-reset.jw-video
+
+
+! 2021-08-05 https://www.bunnings.com.au
+www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
+
+! 2021-08-05 https://www.wikihow.com
+www.wikihow.com##.stuck.sticky.tips.section > .wh_ad_spacing
+
+! 2021-08-05 https://www.mountaindesigns.com
+www.mountaindesigns.com##.show.fade.modal-backdrop
+
+! 2021-08-05 https://www.news.com.au
+www.news.com.au###nca-behavioural-banner-wrapper
+
