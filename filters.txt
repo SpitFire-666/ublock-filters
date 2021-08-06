@@ -383,3 +383,180 @@ cryptonews.com##.centered
 cryptonews.com##.show.cn-invite-fixed
 cryptonews.com##.ssk-left.ssk-center.ssk-sticky.ssk-group
 cryptonews.com##.inarticle
+
+
+! 2021-08-02 https://www.cakemail.com.au
+www.cakemail.com.au##.footer_wrap
+
+! 2021-08-02 http://www.mzcupcake.com.au
+||www.mzcupcake.com.au/wp-content/uploads/2020/07/mzcc-notice.jpg$image
+||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
+||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
+www.mzcupcake.com.au##.fancybox-opened.fancybox-type-html.fancybox-desktop.fancybox-wrap
+
+! 2021-08-02 https://thecupcakequeens.com.au
+thecupcakequeens.com.au##.kl-private-reset-css-Xuajs1.klaviyo-form.fJjqzc.Modal__ModalPortalStyled-sbc762-0.needsclick
+
+! 2021-08-05 https://www.kmart.com.au
+www.kmart.com.au###kmailSignupDialog
+www.kmart.com.au###model_bg_postcode
+
+! 2021-08-05 https://www.target.com.au
+www.target.com.au##.hfma.enews-quick.quick-form
+
+! 2021-08-05 https://www.aldi.com.au
+||www.aldi.com.au/fileadmin/fm-dam/images/Masterbrand/2018/Banners/ALN1457-1_CB_MASTERBRAND_948x360.jpg$image
+
+
+! 2021-07-11 https://www.manualslib.com
+www.manualslib.com##footer
+
+! 2021-07-20 https://www.ifixit.com
+www.ifixit.com##div > div > .react-component
+
+! 2021-07-26 https://www.familyhandyman.com
+www.familyhandyman.com##.jw-reset.jw-media
+www.familyhandyman.com##.jw-reset.jw-wrapper
+www.familyhandyman.com##.non-contextual-video
+www.familyhandyman.com##.in-content-nl-container
+www.familyhandyman.com##.taboola-wrapper
+
+! 2021-07-26 https://www.element14.com
+www.element14.com##.e14-registration-required-bg.js_lb_overlay.lb_overlay
+www.element14.com##.e14-registration-required.j-modal-login.j-modal.jive-modal-narrow.jive-modal
+
+! 2021-07-28 https://www.glassdoor.com.au
+www.glassdoor.com.au##.e91w1dn0.css-13nldfg.pt.align-items-center.flex-column.d-flex
+www.glassdoor.com.au##.e91w1dn3.css-6ile9a.gdGrid
+
+! 2021-07-28 https://www.carpetcourt.com.au
+www.carpetcourt.com.au##.mfp-with-anim.popup-content
+www.carpetcourt.com.au##.mfp-inline-holder.mfp-s-ready.mfp-container
+www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-bg
+www.carpetcourt.com.au##.page-wrapper
+
+! 2021-08-01 https://www.gumtree.com.au
+www.gumtree.com.au##.modal--backdrop.modal
+
+! 2021-08-01 https://home.howstuffworks.com
+home.howstuffworks.com##.overflow-y-auto.inset-0.z-10.fixed.newsletter-modal
+
+
+! 2021-06-14 https://www.gumtree.com.au
+www.gumtree.com.au##.footer
+www.gumtree.com.au##.paypal-linking-message
+
+! 2021-06-28 https://www.news.com.au
+www.news.com.au##.rp-recommendations-container
+www.news.com.au##.list-wrapper
+www.news.com.au##.active.vjs-playlist
+
+! 2021-05-27 https://www.glassdoor.com.au
+www.glassdoor.com.au##.giveToGetContentModule
+
+! 2021-05-30 https://allthatsinteresting.com
+allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
+allthatsinteresting.com##div.pbh_inline:nth-of-type(2)
+allthatsinteresting.com##div.pbh_inline:nth-of-type(3)
+
+
+! 2020-12-07 https://www.experts-exchange.com
+www.experts-exchange.com##.popWrapper
+www.experts-exchange.com##.featherlight-content
+www.experts-exchange.com##.exitOverlay.featherlight
+www.experts-exchange.com##.limitedUsagesWrapper
+www.experts-exchange.com##.askQuestionSidebar.textComponent.component
+
+! 2020-11-17 https://www.mytoll.com
+www.mytoll.com###shipementDetailForm > div.clearfix
+www.mytoll.com##.footer
+
+! 2020-09-22 https://search.nine.com.au
+search.nine.com.au##.top.adsList
+search.nine.com.au##.sidePanelAds
+search.nine.com.au##.bottom.adsList
+
+! 2020-09-27 https://www.businessinsider.com.au
+www.businessinsider.com.au##.brightcove-video
+
+! 2020-09-08 https://www.tomsguide.com
+www.tomsguide.com##.jw-reset.jw-video
+www.tomsguide.com##.jw-carousel
+
+! 6/24/2020 https://www.essentialbaby.com.au
+www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
+
+! 7/6/2020 https://www.ebay.com.au
+www.ebay.com.au###merch_html_100008
+
+! 7/6/2020 https://www.kotaku.com.au
+www.kotaku.com.au##.brightcove-video
+
+! 7/28/2020 https://www.quora.com
+www.quora.com###__w2_wj6MaD071_signup_wall_wrapper
+www.quora.com###__w2_wzbSlpOx1_signup_wall_wrapper
+
+! 8/5/2020 https://www.howtogeek.com
+www.howtogeek.com##.overlay-wrapper
+
+
+! 2021-01-12 https://www.examtopics.com
+www.examtopics.com###engagement-modal
+www.examtopics.com##.show.modal-backdrop
+
+! 2021-01-14 https://www.realestate.com.au
+www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
+www.realestate.com.au##.floating-pill__wrapper
+
+! 2021-01-05 https://www.buzzfeed.com
+www.buzzfeed.com##.ad-inline.js-ad-placement.clearfix
+
+! 2021-01-07 https://www.musicradar.com
+www.musicradar.com##.jw-carousel
+www.musicradar.com##.future__jwplayer--carousel
+
+! 2021-01-11 https://www.examtopics.com
+www.examtopics.com##.footer-contact-desc.row
+www.examtopics.com##.d-print-none.footer-top
+www.examtopics.com##.d-print-none.footer-bottom
+
+! 2020-11-30 https://forum.xda-developers.com
+forum.xda-developers.com###stickyNav
+forum.xda-developers.com##.postbit-social
+forum.xda-developers.com###sidepanel
+forum.xda-developers.com##.postbutton-row
+forum.xda-developers.com###prev-next
+forum.xda-developers.com###qrform
+
+! 2020-10-20 https://www.kingarthurbaking.com
+www.kingarthurbaking.com##li.field__item > aside
+
+! 2020-11-04 https://au.movember.com
+au.movember.com##.row.mospace-fb-and-apps
+au.movember.com##.mospace-key-statistics--title
+
+
+! 2020-09-13 https://www.msp360.com
+www.msp360.com###slidebox
+
+! 3/12/2020 https://www.theage.com.au
+www.theage.com.au##._22FRK > div.noPrint
+
+! 1/17/2020 https://www.drive.com.au
+www.drive.com.au###designstudio-iframe
+www.drive.com.au##.cotw
+
+! 12/12/2019 https://community.spiceworks.com
+community.spiceworks.com###join-login_alt-modal
+
+! 1/14/2020 https://www.neowin.net
+www.neowin.net##.deals > .wrap > .row
+
+! 1/17/2020 https://www.gumtree.com.au
+www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
+
+
+
+! 1/31/2020 https://forums.androidcentral.com
+forums.androidcentral.com##.jw-reset.jw-video
