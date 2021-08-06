@@ -672,3 +672,49 @@ www.collective-evolution.com##.et_bloom_animated.et_bloom_visible.et_bloom_auto_
 
 ! 2020-09-12 https://webcamtests.com
 webcamtests.com##header
+
+! 2020-10-07 https://www.howtogeek.com
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.overlay-wrapper > .overlay-inner
+
+! 2020-10-10 https://www.tomshardware.com
+www.tomshardware.com##.jw-reset.jw-video
+www.tomshardware.com##.jw-reset.jw-media
+www.tomshardware.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.tomshardware.com##.jw-reset.jw-wrapper
+www.tomshardware.com###botr_67Yco6KI_0Kv4Uumt_div > .jw-reset.jw-aspect
+www.tomshardware.com##.sticky-player-background
+www.tomshardware.com##.future__jwplayer--carousel
+
+! 2020-10-10 https://www.dell.com
+www.dell.com##.ask-question-banner-wrapper
+
+! 2020-10-14 https://www.smokeandpickles.com.au
+www.smokeandpickles.com.au##.sqs-slide-layer-content
+
+! 2020-10-16 https://www.booking.com
+www.booking.com##.b_leaving_users_light_box.modal-wrapper
+www.booking.com##.b_leaving_users_light_box_mask.modal-mask
+
+
+
+! 2020-10-23 thepersonalisedgiftshop.com.au
+||vts.zohopublic.com/watch
+||js.zohocdn.com/salesiq/*
+||api.trustisto.com^
+
+
+! 8/2/2020 https://www.heraldsun.com.au
+www.heraldsun.com.au###persistent-marketing-banner
+
+! 8/2/2020 https://tutorials-raspberrypi.com
+tutorials-raspberrypi.com###spu-4210
+tutorials-raspberrypi.com###spu-bg-4210
+tutorials-raspberrypi.com##.cookie-notice-container
+
+! 8/3/2020 https://7news.com.au
+7news.com.au##.ezspa790.css-1p6t1b1-StyledStickyContainer
+
+! 8/5/2020 https://www.mayoclinic.org
+||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
+||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
