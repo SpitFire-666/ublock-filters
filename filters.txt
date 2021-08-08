@@ -718,3 +718,24 @@ tutorials-raspberrypi.com##.cookie-notice-container
 ! 8/5/2020 https://www.mayoclinic.org
 ||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
 ||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
+
+! 2021-08-07 https://www.circuitbasics.com
+www.circuitbasics.com##.opened.dpsp-no-animation.dpsp-button-style-1.dpsp-position-left.dpsp-hide-on-mobile.dpsp-size-large.dpsp-shape-rectangular
+||www.circuitbasics.com/wp-content/uploads/2021/03/PCBWay-Ad-NEW-23Mar2021.gif$image
+||www.circuitbasics.com/wp-content/uploads/2020/09/PCB-Way-9_21_2020-750x170-updated.png$image
+
+! 2021-08-07 https://raspberrypi.stackexchange.com
+raspberrypi.stackexchange.com##.js-consent-banner
+
+! 2021-08-07 https://www.wikihow.com
+www.wikihow.com###article_courses_banner
+
+! 2021-08-07 https://www.nico-maas.de
+www.nico-maas.de##.cookie-notice-container
+
+! 2021-08-07 https://linuxhint.com
+linuxhint.com##.cb-box__wrapper-center_modal
+
+! 2021-08-08 https://www.jimenezphoto.com
+www.jimenezphoto.com##.is-show.rb-cookie
+
