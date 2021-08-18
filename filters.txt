@@ -75,16 +75,18 @@ forums.androidcentral.com##.jw-reset.jw-video
 ! 2/10/2020 https://login.microsoftonline.com
 ||aadcdn.msauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
 
-! 2/10/2020 https://www.flickr.com
+! https://www.flickr.com
 www.flickr.com###yui_3_16_0_1_1581312878209_7336
+www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
 
-! 2/14/2020 https://login.microsoftonline.com
+
+! https://login.microsoftonline.com
 ||aadcdn.msftauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
 
-! 2/17/2020 https://login.live.com
+! https://login.live.com
 ||logincdn.msauth.net/16.000.28497.4/content/images/backgrounds/0*.jpg$image
 
-! 2/17/2020 https://login.microsoftonline.com
+! https://login.microsoftonline.com
 ||aadcdn.msftauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
 
 ! 2/18/2020 https://open.spotify.com
@@ -130,7 +132,7 @@ www.ebay.com###ad_html_101198 > .merch-module
 www.ebay.com##.vi-lb-placeholder
 www.ebay.com.au###ad_html_101197
 www.ebay.com.au###ad_html_101198
-
+www.ebay.com.au###ad_html_*
 
 ! 7/6/2020 https://www.kotaku.com.au
 www.kotaku.com.au##.brightcove-video
@@ -287,7 +289,7 @@ www.domain.com.au##li.css-1b4kfhp:nth-of-type(14)
 www.youtube.com###related
 
 ! 2021-02-22 https://7news.com.au
-7news.com.au##.eg8dsi40.css-16fe05k-StyledStickyContainer
+7##.eg8dsi40.css-16fe05k-StyledStickyContainer
 
 ! 2021-02-28 https://outlook.live.com
 outlook.live.com##._2PxBL_S6KFCMTya8zm3aLF.ZXaaK9lo4E9sH50KY3o0C
@@ -339,10 +341,12 @@ www.vembu.com###spu-bg-44816
 www.gumtree.com.au##.footer
 www.gumtree.com.au##.paypal-linking-message
 
-! 2021-06-28 https://www.news.com.au
+! https://www.news.com.au
 www.news.com.au##.rp-recommendations-container
 www.news.com.au##.list-wrapper
 www.news.com.au##.active.vjs-playlist
+www.news.com.au###nca-behavioural-banner-wrapper
+
 
 ! 2021-07-08 https://www.manualslib.com
 www.manualslib.com##section.whitebg:nth-of-type(1)
@@ -745,3 +749,6 @@ linuxhint.com##.cb-box__wrapper-center_modal
 ! 2021-08-08 https://www.jimenezphoto.com
 www.jimenezphoto.com##.is-show.rb-cookie
 
+! 2021-07-21 https://www.wikihow.com
+www.wikihow.com###rightrail0_ad_1 > .adsbygoogle
+www.wikihow.com###article_courses_banner
