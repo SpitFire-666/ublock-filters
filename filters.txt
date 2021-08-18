@@ -128,6 +128,9 @@ www.ebay.com.au###merch_html_100008
 www.ebay.com###ad_html_101197 > .merch-module
 www.ebay.com###ad_html_101198 > .merch-module
 www.ebay.com##.vi-lb-placeholder
+www.ebay.com.au###ad_html_101197
+www.ebay.com.au###ad_html_101198
+
 
 ! 7/6/2020 https://www.kotaku.com.au
 www.kotaku.com.au##.brightcove-video
