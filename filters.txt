@@ -123,8 +123,11 @@ tabs.ultimate-guitar.com##._2ATGy
 ! 6/24/2020 https://www.essentialbaby.com.au
 www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
 
-! 7/6/2020 https://www.ebay.com.au
+! https://www.ebay.com.au
 www.ebay.com.au###merch_html_100008
+www.ebay.com###ad_html_101197 > .merch-module
+www.ebay.com###ad_html_101198 > .merch-module
+www.ebay.com##.vi-lb-placeholder
 
 ! 7/6/2020 https://www.kotaku.com.au
 www.kotaku.com.au##.brightcove-video
