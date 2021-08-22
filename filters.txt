@@ -843,3 +843,102 @@ uploaded.net###placement_209659_0_iframe
 ||adrunnr.com/
 
 uploaded.net###premium-button-area > .tfree-standard.tfree > tbody > .aT > td > form > .prem
+
+! 2021-08-18 https://www.digikey.com
+www.digikey.com##.cookie-notice
+
+! 2021-08-18 https://www.semicon.sanken-ele.co.jp
+www.semicon.sanken-ele.co.jp##.gdpr
+
+! 2021-08-10 https://www.moviestudiozen.com
+www.moviestudiozen.com##.cc-color-override--1784902839.cc-bottom.cc-opacity-90.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
+
+! 2021-08-10 https://www.inlivo.com
+www.inlivo.com##.in.fade.modal
+www.inlivo.com##.in.fade.modal-backdrop
+||www.inlivo.com//js/plugins/newsletter-form.js$xhr,domain=www.inlivo.com
+||cdn.jsdelivr.net/jquery.jssocials/*$script
+
+! 2021-08-11 https://www.itnews.com.au
+www.itnews.com.au###gdpr-alert
+
+! 2021-08-11 https://semaphoreci.com
+semaphoreci.com##.gagpzpd.g1b36ey.g4yn9cd.g-fh86qq.gifw5gm.g-h0t0jn
+
+! 2021-08-13 http://live.cdnz.one
+live.cdnz.one##.cc-color-override--907048115.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+! 2021-08-15 https://www.kmart.com.au
+www.kmart.com.au##.sign-up
+
+! 2021-08-16 https://mozilla.crowdicity.com
+mozilla.crowdicity.com##.cc_container--open.cc_container.cc_banner
+
+! 2021-08-16 https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-08-17 https://askubuntu.com
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-08-17 https://www.experts-exchange.com
+www.experts-exchange.com##.gOGrqS.learnFromTheBest__LearnFromWrapper-qhnvu1-0
+
+! 2021-08-19 https://unix.stackexchange.com
+unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-08-19 https://logout.hu
+logout.hu###accept_container
+
+! 2021-08-19 https://www.commbank.com.au
+www.commbank.com.au##.load-stack.hide-stack.hide-on-print.row
+
+! 2021-08-21 https://www.bloomberg.com
+www.bloomberg.com##.fence-rendered.fadeinAnimation__37b4335c.newsletterModal__8056e2c2
+www.bloomberg.com##.inline-newsletter-top
+www.bloomberg.com###fortress-preblocked-container-root
+||www.bloomberg.com/subscription-offer$subdocument
+
+! 2021-08-21 https://www.rollingstone.com
+www.rollingstone.com##.l-article-header__block--share.l-article-header__block
+www.rollingstone.com##.jw-reset.jw-wrapper
+
+! 2021-08-21 https://www.businessinsider.com.au
+www.businessinsider.com.au##.brightcove-video-title
+
+! 2021-08-06 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner
+
+! 2021-08-06 https://raspberrypi.stackexchange.com
+raspberrypi.stackexchange.com##.js-consent-banner
+
+! 2021-08-06 https://serverfault.com
+serverfault.com##.js-consent-banner
+serverfault.com##.js-consent-banner
+
+! 2021-08-06 https://resistorcolorcodecalc.com
+resistorcolorcodecalc.com##.show.consent.text-center.alert-dismissible.alert
+
+! 2021-08-06 https://www.diynot.com
+www.diynot.com##.cc-color-override-1519961192.cc-right.cc-top.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+
+! 2021-08-07 https://www.bing.com
+www.bing.com##.bw-unSerp.bw-unAcctRt
+
+! 2021-08-07 https://www.theverge.com
+www.theverge.com##.c-newsletter_signup_box__main
+
+! 2021-08-07 https://softwarerecs.stackexchange.com
+softwarerecs.stackexchange.com##.js-consent-banner
+
+! 2021-08-07 https://www.nickscali.com.au
+www.nickscali.com.au##.popup-center-center
+www.nickscali.com.au##.popup-bg-none
+
+! 2021-08-09 https://www.bhg.com.au
+www.bhg.com.au##.jw-reset.jw-video
+www.bhg.com.au##.jw-reset.jw-display
+www.bhg.com.au##.jw-reset.jw-wrapper
+||imagesvc.meredithcorp.io/v3/jumpstartpure/image$image
+www.bhg.com##.jumpstart-video
+www.bhg.com.au##.Video--Loaded.Video--StickyAdOpen.Video--JWPlayer.Video
+
