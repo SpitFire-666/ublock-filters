@@ -53,9 +53,9 @@ www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
 ! 2021-05-22 https://www.pinterest.com.au
-||www.pinterest.com.au/resource/ContextLogResource/*$domain=www.pinterest.com.au
+
 ||www.pinterest.com.au/resource/StatsLogResource/create/*$domain=www.pinterest.com.au
-||www.pinterest.com.au/resource/RepinResource/create/*$xhr,domain=www.pinterest.com.au
+
 ||www.pinterest.com.au/resource/ActivateExperimentResource/create/*$xhr,domain=www.pinterest.com.au
 
 ! 2021-05-22 https://www.gumtree.com.au
