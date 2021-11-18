@@ -957,3 +957,100 @@ www.microsoft.com##.sortable-control.bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col
 www.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 www.microsoft.com##.theme-dark.context-accessory.f-y-center.f-x-left.m-hero-item
 
+
+! 2021-08-30 https://www.seek.com.au
+www.seek.com.au##.in3Tnzl > div > ._16BygUP
+www.seek.com.au##._2YF0s4X.yvsb871.yvsb870 > ._1QLmZio.yvsb870
+
+! 2021-08-31 https://www.lovehappensmag.com
+www.lovehappensmag.com###myModal
+
+! 2021-09-01 https://www.urbandictionary.com
+www.urbandictionary.com##.mug-ad
+www.urbandictionary.com##.slogan-panel > .panel-margin
+
+! 2021-09-01 https://www.goldisaneutral.co.uk
+www.goldisaneutral.co.uk##.pie-wrapper
+
+! 2021-09-01 https://www.bhg.com.au
+www.bhg.com.au##.MagDriver
+
+! 2021-09-02 https://scalibq.wordpress.com
+scalibq.wordpress.com##.ads-active.hide-on-button
+
+! 2021-09-03 https://www.aldi.com.au
+www.aldi.com.au##.ym-clearfix.noprint.detail-socialsharing
+
+! 2021-09-03 https://www.ikea.com
+www.ikea.com###eb83966f-ca61-11eb-abb4-07e90b187c64 > .v18by0fb.v11tpn0s.gd8xc1c > div > .pub__carousel > .pub__carousel__wrapper > .pub__carousel__content--snap-slide.pub__carousel__content > .pub__carousel__body-wrapper
+www.ikea.com##section.v18by0fb.v19w64p3.gd8xc1c:nth-of-type(11)
+
+! 2021-09-04 https://www.gumtree.com.au
+www.gumtree.com.au##.liberty-container-1001--dweb-hg-cars-vans-ute.liberty-container-1001
+
+! 2021-09-04 https://diy.stackexchange.com
+diy.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-09-04 https://stylebyemilyhenderson.com
+stylebyemilyhenderson.com##.my-5.row
+
+! 2021-09-07 https://www.familyhandyman.com
+www.familyhandyman.com##.project-top-advertisment
+
+! 2021-09-11 https://www.styletread.com.au
+www.styletread.com.au##.popup_overlay.popups-util__overlay
+
+! 2021-09-17 https://www.eevblog.com
+||www.eevblog.com/images/comm/jlc_jan_2021.gif.pagespeed.ce.jdGg5hHdyS.gif$image
+www.eevblog.com##[href^="https://saving.em.keysight.com/en/used/oscilloscopes/infiniivision-2-4-channel-digital-msox-3000t-x-series"]
+||www.eevblog.com/images/comm/jlc_jan_2021.gif.pagespeed.ce.jdGg5hHdyS.gif$image
+
+! 2021-09-21 https://cryptonews.com
+||v2.cimg.co/other/155/25954/*loans-300x*600.jpg$image
+cryptonews.com##.cookieConsentWrapper
+||v2.cimg.co/other/159/25972/*970x250-copy-2*.jpg$image
+cryptonews.com##[href="https://rapi.cryptonews.com/outgoing/159"]
+
+! 2021-09-21 https://cryptoslate.com
+cryptoslate.com##.leaderboard.placement > .lazyloaded
+||cryptoslate.com/wp-content/themes/cryptoslate-2020/images/partners/amber/amber-sticky-footer-desktop.jpg$image
+cryptoslate.com##.clearfix.post-box .edge-cta
+||cryptoslate.com/wp-content/themes/cryptoslate-2020/images/partners/amber/amber-sticky-footer-desktop.jpg$image
+cryptoslate.com##.top-sticky
+||cryptoslate.com/wp-content/themes/cryptoslate-2020/images/partners/amber/amber-sticky-footer-desktop.jpg$image
+cryptoslate.com##.edge-cta
+cryptoslate.com##.lazyloaded.ls-is-cached.desktop
+
+! 2021-09-23 https://graphicriver.net
+graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas > .headerstrip-content
+graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas
+||assets.banners.envato-static.com/header_banner/background_image/5e308f624b.png$image
+
+! 2021-09-24 https://graphicriver.net
+graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas > .headerstrip-content
+
+! 2021-09-24 http://live.cdnz.one
+live.cdnz.one##.overlay_video
+
+! 2021-09-27 https://paycalculator.com.au
+paycalculator.com.au##.jss318
+paycalculator.com.au##.jss321
+paycalculator.com.au##.jss1341.MuiBox-root
+
+! 2021-09-27 https://adminscache.wordpress.com
+adminscache.wordpress.com###infinite-footer
+
+! 2021-10-02 https://www.domain.com.au
+www.domain.com.au##.css-1fjvlsb
+
+! 2021-10-04 https://www.manualslib.com
+www.manualslib.com##.blue2.tagsbg
+
+! 2021-10-31 https://medium.com
+medium.com##.ts.fn.cw.ct
+
+! 2021-11-05 https://www.bunnings.com.au
+@@||mpsnare.iesnare.com/snare.js$script,domain=www.bunnings.com.au
+
+! 2021-11-12 https://www.thegoodguys.com.au
+www.thegoodguys.com.au##.seen-a-lower-price
