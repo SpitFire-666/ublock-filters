@@ -942,3 +942,18 @@ www.bhg.com.au##.jw-reset.jw-wrapper
 www.bhg.com##.jumpstart-video
 www.bhg.com.au##.Video--Loaded.Video--StickyAdOpen.Video--JWPlayer.Video
 
+! 2021-10-14 https://stackoverflow.com
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+
+! 2021-11-14 https://www.gardendesign.com
+www.gardendesign.com###subscribe_popup
+www.gardendesign.com##.fancybox-overlay-fixed.fancybox-overlay
+
+! 2021-11-17 https://www.microsoft.com
+www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > div
+www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > picture
+www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item
+
+! 2021-11-18 https://www.microsoft.com
+www.microsoft.com##.sortable-control.bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col-1-1.span > section
+
