@@ -953,7 +953,7 @@ www.gardendesign.com##.fancybox-overlay-fixed.fancybox-overlay
 www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > div
 www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > picture
 www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item
-
-! 2021-11-18 https://www.microsoft.com
 www.microsoft.com##.sortable-control.bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col-1-1.span > section
+www.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
+www.microsoft.com##.theme-dark.context-accessory.f-y-center.f-x-left.m-hero-item
 
