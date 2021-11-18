@@ -1054,3 +1054,109 @@ medium.com##.ts.fn.cw.ct
 
 ! 2021-11-12 https://www.thegoodguys.com.au
 www.thegoodguys.com.au##.seen-a-lower-price
+
+! 2021-08-21 https://www.bloomberg.com
+www.bloomberg.com##.fence-rendered.fadeinAnimation__37b4335c.newsletterModal__8056e2c2
+www.bloomberg.com##.inline-newsletter-top
+www.bloomberg.com###fortress-preblocked-container-root
+||www.bloomberg.com/subscription-offer$subdocument
+
+! 2021-08-21 https://www.rollingstone.com
+www.rollingstone.com##.l-article-header__block--share.l-article-header__block
+www.rollingstone.com##.jw-reset.jw-wrapper
+
+! 2021-08-21 https://www.businessinsider.com.au
+www.businessinsider.com.au##.brightcove-video-title
+
+! 2021-08-21 https://www.ebay.com.au
+www.ebay.com.au##div.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module:nth-of-type(3)
+
+! 2021-08-22 https://appleinsider.com
+appleinsider.com##.primis-ad-wrap
+appleinsider.com##.ad.col-sm-12
+
+! 2021-08-23 https://www.spotlightstores.com
+www.spotlightstores.com##.cookies-popup-wrapper
+www.spotlightstores.com##.show.fade.modal-backdrop
+
+! 2021-08-23 https://www.ruralsprout.com
+www.ruralsprout.com##.widget_dpsp_social_media_follow.widget
+
+! 2021-08-23 http://www.slate.com
+www.slate.com##div.rr-ad-container:nth-of-type(2)
+
+
+! 2021-08-25 https://jonhilton.net
+jonhilton.net##.iubenda-cs-content
+jonhilton.net##.pt-4.post-content > .my-12.bg-purple-100.border-gray-300.border.pt-2.px-12.cta-form
+jonhilton.net##.shadow-md
+
+! 2021-08-25 https://portal.cvms.vic.gov.au
+portal.cvms.vic.gov.au##footer
+
+! 2021-08-27 https://sourceforge.net
+sourceforge.net###newsletter-floating
+sourceforge.net##a.default.button:nth-of-type(2)
+sourceforge.net###share-project-button
+
+! 2021-08-29 https://www.gumtree.com.au
+www.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
+www.gumtree.com.au##.ecommerce-ad.panel
+
+
+! 2020-08-31 https://insider.windows.com
+insider.windows.com###epb
+
+! 2020-09-02 https://www.collective-evolution.com
+www.collective-evolution.com##.et_bloom_animation_fadein.et_bloom_form_text_dark.et_bloom_rounded.et_bloom_form_bottom.et_bloom_popup_container.et_bloom_form_container
+
+
+! 2020-09-04 https://auspost.com.au
+auspost.com.au##.header
+
+! 2020-09-06 sbs.com.au
+||source=dclk_video_ads&requiressl=yes$xhr,domain=sbs.com.au
+
+! 2020-09-13 https://www.youtube.com
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.ytp-ce-element-shadow
+
+! 2020-09-26 https://old.reddit.com
+old.reddit.com##.premium-banner-outer
+
+
+! 2020-10-23 https://answers.microsoft.com
+answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
+
+! 2020-10-23 https://www.domain.com.au
+www.domain.com.au##li.css-1b4kfhp > .css-11ag9qu
+www.domain.com.au##.css-ue0p7b
+
+! 2020-10-27 https://www.youtube.com
+www.youtube.com##.ytp-videowall-still-info-content
+www.youtube.com##.ytp-videowall-still-image
+
+
+! 2020-11-05 twitter.com
+@@||syndication.twitter.com^
+
+
+! 2020-11-15 https://www.stuff.tv
+||www.ultimedia.com/deliver/generic/iframe$subdocument
+
+! 2020-11-16 https://www.dailymail.co.uk
+www.dailymail.co.uk##.floater-19vuu.shared-2QYfa
+
+! 2020-11-16 https://7news.com.au
+7news.com.au##.e1rlhwat3.css-1x7afyc-StyledCenter
+7news.com.au##.vjs-tech
+
+! 2020-11-18 https://www.mytoll.com
+www.mytoll.com##.contact-box-wrpr.clearfix
+www.mytoll.com##.footer
+
+! 2020-11-29 https://www.productreview.com.au
+www.productreview.com.au##.leaderboard_2Ov.mt-3_3Rf
+
+! 2020-11-30 https://calendar.google.com
+calendar.google.com##div.FrSOzf:nth-of-type(1)
