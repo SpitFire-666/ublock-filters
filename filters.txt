@@ -1160,3 +1160,7 @@ www.productreview.com.au##.leaderboard_2Ov.mt-3_3Rf
 
 ! 2020-11-30 https://calendar.google.com
 calendar.google.com##div.FrSOzf:nth-of-type(1)
+
+! no gradient over videos when showing controls:
+www.youtube.com##.ytp-gradient-bottom
+www.youtube.com##.ytp-gradient-top
