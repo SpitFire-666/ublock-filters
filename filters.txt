@@ -4,13 +4,20 @@ community.spiceworks.com###join-login_alt-modal
 ! 1/14/2020 https://www.neowin.net
 www.neowin.net##.deals > .wrap > .row
 
-! 1/17/2020 https://www.gumtree.com.au
+! https://www.gumtree.com.au
 www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-
-! 2021-07-23 https://www.gumtree.com.au
 www.gumtree.com.au##.top-ad-upsell__details
 www.gumtree.com.au##.top-ad-upsell
 www.gumtree.com.au##.nudge-login
+www.gumtree.com.au##.module-body > .pstad-featrs-list
+www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
+www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
+www.gumtree.com.au##.social-links
+www.gumtree.com.au##.user-ad-collection--row.user-ad-collection.search-results-page__top-ads-wrapper.panel > .user-ad-collection__list-wrapper.panel-body--flat-panel-shadow.panel-body
+www.gumtree.com.au##.alert
+www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
+
+
 
 ! 2021-07-31 https://www.nme.com
 www.nme.com##.jw-reset.jw-video
@@ -58,11 +65,6 @@ www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-windo
 
 ||www.pinterest.com.au/resource/ActivateExperimentResource/create/*$xhr,domain=www.pinterest.com.au
 
-! 2021-05-22 https://www.gumtree.com.au
-www.gumtree.com.au##.module-body > .pstad-featrs-list
-www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
-www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
-www.gumtree.com.au##.social-links
 
 
 ! 1/17/2020 https://www.drive.com.au
@@ -104,15 +106,9 @@ www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 ! 3/12/2020 https://www.theage.com.au
 www.theage.com.au##._22FRK > div.noPrint
 
-! 3/13/2020 https://p0vavmwvcs01.unisuper.lan
-p0vavmwvcs01.unisuper.lan##.km-right.k-state-border-up.k-reset.k-group.k-popup.km-popup-wrapper
-
 ! 5/19/2020 https://www.youtube.com
 www.youtube.com##.ytp-endscreen-content
 
-! 5/27/2020 https://www.gumtree.com.au
-www.gumtree.com.au##.user-ad-collection--row.user-ad-collection.search-results-page__top-ads-wrapper.panel > .user-ad-collection__list-wrapper.panel-body--flat-panel-shadow.panel-body
-www.gumtree.com.au##.alert
 
 ! 6/4/2020 https://www.seek.com.au
 www.seek.com.au##._3KwIuf8._1_Q8jzT > div:nth-of-type(2) > div > div:nth-of-type(1)
@@ -203,9 +199,6 @@ au.movember.com##.mospace-key-statistics--title
 microsoftlivechat.net###lz_overlay_box
 microsoftlivechat.net##.livezilla_livebox_background_classlz_overlay_box
 
-! 2020-11-16 http://192.168.1.2
-! 192.168.1.2##.in.fade.modal
-
 ! 2020-11-17 https://www.mytoll.com
 www.mytoll.com###shipementDetailForm > div.clearfix
 www.mytoll.com##.footer
@@ -233,8 +226,6 @@ forum.xda-developers.com###sidepanel
 forum.xda-developers.com##.postbutton-row
 forum.xda-developers.com###prev-next
 forum.xda-developers.com###qrform
-
-! 2020-12-02 https://forum.xda-developers.com
 forum.xda-developers.com##.spot_container_content_above.spot_container.spot
 forum.xda-developers.com##.uix_sidebarNav
 forum.xda-developers.com##.xda_appsWidget.block
@@ -267,11 +258,6 @@ www.musicradar.com##.future__jwplayer--carousel
 www.examtopics.com##.footer-contact-desc.row
 www.examtopics.com##.d-print-none.footer-top
 www.examtopics.com##.d-print-none.footer-bottom
-
-! 2021-01-11 http://192.168.1.212:8080
-! 192.168.1.212##.row > .form-horizontal > div.form-group:nth-of-type(3)
-
-! 2021-01-12 https://www.examtopics.com
 www.examtopics.com###engagement-modal
 www.examtopics.com##.show.modal-backdrop
 
@@ -351,12 +337,11 @@ www.news.com.au###nca-behavioural-banner-wrapper
 ! 2021-07-08 https://www.manualslib.com
 www.manualslib.com##section.whitebg:nth-of-type(1)
 www.manualslib.com##section.whitebg:nth-of-type(2)
+www.manualslib.com##footer
 
 ! 2021-07-11 https://outlook.live.com
 outlook.live.com##._2atHZl-IhpN84h24Mt1JCU._38q9kfVlcNA62oQUTbgvLT
 
-! 2021-07-11 https://www.manualslib.com
-www.manualslib.com##footer
 
 ! 2021-07-20 https://www.ifixit.com
 www.ifixit.com##div > div > .react-component
@@ -373,8 +358,6 @@ www.anacondastores.com##.show.fade.modal-backdrop
 ! 7/21/2020 https://www.broadsheet.com.au
 www.broadsheet.com.au##.subscription-slide.subscription-wrapper
 
-! 7/26/2020 https://www.gumtree.com.au
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
 
 ! 7/29/2020 https://www.lifehacker.com.au
 www.lifehacker.com.au##.brightcove-video
@@ -1135,6 +1118,9 @@ www.domain.com.au##.css-ue0p7b
 ! 2020-10-27 https://www.youtube.com
 www.youtube.com##.ytp-videowall-still-info-content
 www.youtube.com##.ytp-videowall-still-image
+! no gradient over videos when showing controls:
+www.youtube.com##.ytp-gradient-bottom
+www.youtube.com##.ytp-gradient-top
 
 
 ! 2020-11-05 twitter.com
@@ -1161,6 +1147,3 @@ www.productreview.com.au##.leaderboard_2Ov.mt-3_3Rf
 ! 2020-11-30 https://calendar.google.com
 calendar.google.com##div.FrSOzf:nth-of-type(1)
 
-! no gradient over videos when showing controls:
-www.youtube.com##.ytp-gradient-bottom
-www.youtube.com##.ytp-gradient-top
