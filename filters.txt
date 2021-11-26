@@ -60,12 +60,8 @@ www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
 ! 2021-05-22 https://www.pinterest.com.au
-
 ||www.pinterest.com.au/resource/StatsLogResource/create/*$domain=www.pinterest.com.au
-
 ||www.pinterest.com.au/resource/ActivateExperimentResource/create/*$xhr,domain=www.pinterest.com.au
-
-
 
 ! 1/17/2020 https://www.drive.com.au
 www.drive.com.au###designstudio-iframe
@@ -102,12 +98,24 @@ www.carsales.com.au##.listing-items > .guaranteed-consideration
 
 ! 3/5/2020 https://www.youtube.com
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+! YT Search - just videos
+youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer),ytd-secondary-search-container-renderer
+! YT Search - just videos + channels
+youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer,ytd-channel-renderer),ytd-secondary-search-container-renderer
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com###related
+www.youtube.com##.ytp-videowall-still-info-content
+www.youtube.com##.ytp-videowall-still-image
+! no gradient over videos when showing controls:
+www.youtube.com##.ytp-gradient-bottom
+www.youtube.com##.ytp-gradient-top
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.ytp-ce-element-shadow
+
 
 ! 3/12/2020 https://www.theage.com.au
 www.theage.com.au##._22FRK > div.noPrint
 
-! 5/19/2020 https://www.youtube.com
-www.youtube.com##.ytp-endscreen-content
 
 
 ! 6/4/2020 https://www.seek.com.au
@@ -271,8 +279,6 @@ techcommunity.microsoft.com##.request-survey
 ! 2021-02-10 https://www.domain.com.au
 www.domain.com.au##li.css-1b4kfhp:nth-of-type(14)
 
-! 2021-02-14 https://www.youtube.com
-www.youtube.com###related
 
 ! 2021-02-22 https://7news.com.au
 7##.eg8dsi40.css-16fe05k-StyledStickyContainer
@@ -1100,9 +1106,6 @@ auspost.com.au##.header
 ! 2020-09-06 sbs.com.au
 ||source=dclk_video_ads&requiressl=yes$xhr,domain=sbs.com.au
 
-! 2020-09-13 https://www.youtube.com
-www.youtube.com##.ytp-ce-covering-overlay
-www.youtube.com##.ytp-ce-element-shadow
 
 ! 2020-09-26 https://old.reddit.com
 old.reddit.com##.premium-banner-outer
@@ -1115,12 +1118,6 @@ answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 www.domain.com.au##li.css-1b4kfhp > .css-11ag9qu
 www.domain.com.au##.css-ue0p7b
 
-! 2020-10-27 https://www.youtube.com
-www.youtube.com##.ytp-videowall-still-info-content
-www.youtube.com##.ytp-videowall-still-image
-! no gradient over videos when showing controls:
-www.youtube.com##.ytp-gradient-bottom
-www.youtube.com##.ytp-gradient-top
 
 
 ! 2020-11-05 twitter.com
