@@ -1144,3 +1144,64 @@ www.productreview.com.au##.leaderboard_2Ov.mt-3_3Rf
 ! 2020-11-30 https://calendar.google.com
 calendar.google.com##div.FrSOzf:nth-of-type(1)
 
+! 2021-11-18 https://www.hardtofind.com.au
+www.hardtofind.com.au##.is-hidden-mobile.otp-overlay
+
+! 2021-08-15 https://www.kmart.com.au
+www.kmart.com.au##.sign-up
+
+! 2021-08-11 https://www.itnews.com.au
+www.itnews.com.au###gdpr-alert
+
+! 2021-08-05 https://7news.com.au
+7news.com.au##.e1ar06v00.css-1k86mvy-StyledToastContainer.ToastNotification.cookie-consent--normal
+
+
+! 2021-05-25 https://www.metrotrains.com.au
+www.metrotrains.com.au##.slick-track
+www.metrotrains.com.au##.slick-slider.slick-initialized.carousel
+
+
+! 2021-01-09 https://www.domain.com.au
+www.domain.com.au##.css-1dra2ks .css-1m25tex
+
+
+
+
+! 2021-01-10 https://www.domain.com.au
+www.domain.com.au##.css-76lvh6
+
+! 2021-01-12 https://www.realestate.com.au
+||i2.au.reastatic.net/1038x753-resize,extend,r=33,g=40,b=46/29507e16bbb53d65f051da9203e1ad3f40c29f1991dd261aa08873978b8312c4/image.jpg$image
+www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
+
+! 2021-02-06 https://www.youtube.com
+www.youtube.com###voice-search-button
+
+
+! 2021-03-08 https://www.theage.com.au
+www.theage.com.au##.noPrint._2rhIe.o-hc3._2JlsU.undefined
+
+
+! 7/18/2020 https://www.ebay.com.au
+www.ebay.com.au##.x-footer
+www.ebay.com.au###nume_html_100752_276182-w0-w0 > .last.first.mfe-card
+www.ebay.com.au###nume_html_100010_969470-w0-w0 > .last.first.mfe-card
+
+! 7/15/2020 https://www.9news.com.au
+www.9news.com.au##div:nth-of-type(4) > div > [href^="https://login.nine.com.au/edm"]
+
+
+! 2020-11-30 https://www.glassdoor.com.au
+www.glassdoor.com.au###ContentWallHardsell
+www.glassdoor.com.au##.tooltipContainer
+
+! 2020-12-15 https://www.glassdoor.com.au
+www.glassdoor.com.au##.giveToGetContentModule
+www.glassdoor.com.au##div.notEepHasJobs.inlineJobs:nth-of-type(2)
+
+
+! 2020-12-28 https://pay.ebay.com.au
+pay.ebay.com.au###recommendation_100282 > .lex.secure.mfe-lex
+pay.ebay.com.au##.col-lg-4.col-5.right-column
+pay.ebay.com.au###recommendation_100284 > .lex.secure.mfe-lex
