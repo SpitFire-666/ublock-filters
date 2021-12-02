@@ -4,20 +4,6 @@ community.spiceworks.com###join-login_alt-modal
 ! 1/14/2020 https://www.neowin.net
 www.neowin.net##.deals > .wrap > .row
 
-! https://www.gumtree.com.au
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-www.gumtree.com.au##.top-ad-upsell__details
-www.gumtree.com.au##.top-ad-upsell
-www.gumtree.com.au##.nudge-login
-www.gumtree.com.au##.module-body > .pstad-featrs-list
-www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
-www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
-www.gumtree.com.au##.social-links
-www.gumtree.com.au##.user-ad-collection--row.user-ad-collection.search-results-page__top-ads-wrapper.panel > .user-ad-collection__list-wrapper.panel-body--flat-panel-shadow.panel-body
-www.gumtree.com.au##.alert
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-
-
 
 ! 2021-07-31 https://www.nme.com
 www.nme.com##.jw-reset.jw-video
@@ -25,9 +11,6 @@ www.nme.com##.jw-reset.jw-media
 www.nme.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 www.nme.com##.jw-reset.jw-wrapper
 www.nme.com###botr_mmlgkHZx_TADMMIT9_div > .jw-reset.jw-aspect
-
-! 2021-07-31 https://www.drive.com.au
-www.drive.com.au##.pb-10.pt-10.bg-teal-dark
 
 ! 2021-08-04 https://devblogs.microsoft.com
 devblogs.microsoft.com##.smcx-opaque.smcx-hide-branding.smcx-widget-dark.smcx-show.smcx-modal-invitation.smcx-modal.smcx-widget
@@ -38,9 +21,6 @@ coinmarketcap.com##.tabRow___3QcNP.hKZfDX.sc-16r8icm-0
 coinmarketcap.com##.statsContainer___2uXZW.hide___2JmAL
 coinmarketcap.com##.linksSection___2uV91.iiNgcJ.sc-16r8icm-0
 
-! 2021-05-11 https://www.ramint.gov.au
-www.ramint.gov.au##.region-footer-upper.region
-
 ! 2021-05-14 https://old.reddit.com
 old.reddit.com##.give-gold-button
 
@@ -50,22 +30,10 @@ www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw
 www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw > .marketing
 www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_targetedTiles6 > .marketing
 
-! 2021-05-18 https://www.coinspot.com.au
-www.coinspot.com.au###twofawarning > .modal-dialog
-www.coinspot.com.au###twofawarning
-www.coinspot.com.au##.in.modal-backdrop
-
 ! 2021-05-22 https://www.justanswer.com
 www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
-! 2021-05-22 https://www.pinterest.com.au
-||www.pinterest.com.au/resource/StatsLogResource/create/*$domain=www.pinterest.com.au
-||www.pinterest.com.au/resource/ActivateExperimentResource/create/*$xhr,domain=www.pinterest.com.au
-
-! 1/17/2020 https://www.drive.com.au
-www.drive.com.au###designstudio-iframe
-www.drive.com.au##.cotw
 
 ! 1/31/2020 https://forums.androidcentral.com
 forums.androidcentral.com##.jw-reset.jw-video
@@ -90,9 +58,6 @@ www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
 ! 2/18/2020 https://open.spotify.com
 open.spotify.com##.a88f0b25501df313b75b70d458d9fe87-scss._56a12d0978529b654affa11ca9390bd7-scss._2221af4e93029bedeab751d04fab4b8b-scss
 
-! 2/19/2020 https://www.carsales.com.au
-www.carsales.com.au##.listing-items > .guaranteed-consideration
-
 ! 2/19/2020 https://login.microsoftonline.com
 ||aadcdn.msauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
 
@@ -113,33 +78,12 @@ www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element-shadow
 
 
-! 3/12/2020 https://www.theage.com.au
-www.theage.com.au##._22FRK > div.noPrint
-
-
-
-! 6/4/2020 https://www.seek.com.au
-www.seek.com.au##._3KwIuf8._1_Q8jzT > div:nth-of-type(2) > div > div:nth-of-type(1)
 
 ! 6/15/2020 https://tabs.ultimate-guitar.com
 tabs.ultimate-guitar.com##._3o2b6
 tabs.ultimate-guitar.com##.js-fp-video
 tabs.ultimate-guitar.com##._2ATGy
 
-! 6/24/2020 https://www.essentialbaby.com.au
-www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
-
-! https://www.ebay.com.au
-www.ebay.com.au###merch_html_100008
-www.ebay.com###ad_html_101197 > .merch-module
-www.ebay.com###ad_html_101198 > .merch-module
-www.ebay.com##.vi-lb-placeholder
-www.ebay.com.au###ad_html_101197
-www.ebay.com.au###ad_html_101198
-www.ebay.com.au###ad_html_*
-
-! 7/6/2020 https://www.kotaku.com.au
-www.kotaku.com.au##.brightcove-video
 
 ! 7/28/2020 https://www.quora.com
 www.quora.com###__w2_wj6MaD071_signup_wall_wrapper
@@ -172,14 +116,6 @@ www.msp360.com###slidebox
 
 ! 2020-09-21 cas.ms
 ||browser.pipe.aria.microsoft.com.us2.cas.ms^
-
-! 2020-09-22 https://search.nine.com.au
-search.nine.com.au##.top.adsList
-search.nine.com.au##.sidePanelAds
-search.nine.com.au##.bottom.adsList
-
-! 2020-09-27 https://www.businessinsider.com.au
-www.businessinsider.com.au##.brightcove-video
 
 ! 2020-10-06 live.com
 ||msnmessenger.msn.com.akadns.net^$xhr
@@ -238,8 +174,6 @@ forum.xda-developers.com##.spot_container_content_above.spot_container.spot
 forum.xda-developers.com##.uix_sidebarNav
 forum.xda-developers.com##.xda_appsWidget.block
 
-! 2020-12-02 https://www.pinterest.com.au
-www.pinterest.com.au##.Hsu.iyn.zI7.qJc.p6V.ojN.jzS.gjz.fte.fev.dxm._he.PKX.Lej.LCN.Jea
 
 ! 2020-12-07 https://www.experts-exchange.com
 www.experts-exchange.com##.popWrapper
@@ -269,19 +203,8 @@ www.examtopics.com##.d-print-none.footer-bottom
 www.examtopics.com###engagement-modal
 www.examtopics.com##.show.modal-backdrop
 
-! 2021-01-14 https://www.realestate.com.au
-www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
-www.realestate.com.au##.floating-pill__wrapper
-
 ! 2021-02-07 https://techcommunity.microsoft.com
 techcommunity.microsoft.com##.request-survey
-
-! 2021-02-10 https://www.domain.com.au
-www.domain.com.au##li.css-1b4kfhp:nth-of-type(14)
-
-
-! 2021-02-22 https://7news.com.au
-7##.eg8dsi40.css-16fe05k-StyledStickyContainer
 
 ! 2021-02-28 https://outlook.live.com
 outlook.live.com##._2PxBL_S6KFCMTya8zm3aLF.ZXaaK9lo4E9sH50KY3o0C
@@ -299,25 +222,6 @@ outlook.live.com##.root-170.ms-Overlay--dark.ms-Overlay
 ! 2021-03-02 https://login.microsoftonline.com
 ||aadcdn.msauth.net/shared/1.0/content/images/backgrounds/*$image
 
-! 2021-03-02 https://www.domain.com.au
-www.domain.com.au##li.css-1b4kfhp:nth-of-type(3)
-
-! 2021-03-15 https://www.domain.com.au
-www.domain.com.au##.css-ue0p7b
-
-! 2021-03-21 https://www.domain.com.au
-www.domain.com.au##li.css-1b4kfhp:nth-of-type(10)
-
-! 2021-04-11 http://192.168.1.2
-192.168.1.2##.content > .fade.modal
-192.168.1.2##.in.fade.modal-backdrop
-
-! 2021-04-25 https://www.domain.com.au
-www.domain.com.au##.css-176pzbt > .slick-initialized.slick-slider
-
-! 2021-05-27 https://www.glassdoor.com.au
-www.glassdoor.com.au##.giveToGetContentModule
-
 ! 2021-05-30 https://allthatsinteresting.com
 allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
 allthatsinteresting.com##div.pbh_inline:nth-of-type(2)
@@ -325,19 +229,6 @@ allthatsinteresting.com##div.pbh_inline:nth-of-type(3)
 
 ! 2021-05-31 https://www.vembu.com
 www.vembu.com###spu-bg-44816
-
-! 2021-06-09 https://www.pinterest.com.au
-||www.pinterest.com.au/resource/ContextLogResource/create/*$xhr,domain=www.pinterest.com.au
-
-! 2021-06-14 https://www.gumtree.com.au
-www.gumtree.com.au##.footer
-www.gumtree.com.au##.paypal-linking-message
-
-! https://www.news.com.au
-www.news.com.au##.rp-recommendations-container
-www.news.com.au##.list-wrapper
-www.news.com.au##.active.vjs-playlist
-www.news.com.au###nca-behavioural-banner-wrapper
 
 
 ! 2021-07-08 https://www.manualslib.com
@@ -352,27 +243,9 @@ outlook.live.com##._2atHZl-IhpN84h24Mt1JCU._38q9kfVlcNA62oQUTbgvLT
 ! 2021-07-20 https://www.ifixit.com
 www.ifixit.com##div > div > .react-component
 
-! 2021-01-25 https://www.gumtree.com.au
-www.gumtree.com.au##.alert
-
-! 2021-01-25 https://www.ebay.com.au
-www.ebay.com.au##.srp-1p__link
 
 ! 2020-11-06 https://www.anacondastores.com
 www.anacondastores.com##.show.fade.modal-backdrop
-
-! 7/21/2020 https://www.broadsheet.com.au
-www.broadsheet.com.au##.subscription-slide.subscription-wrapper
-
-
-! 7/29/2020 https://www.lifehacker.com.au
-www.lifehacker.com.au##.brightcove-video
-
-! 2021-07-27 https://www.mamamia.com.au
-www.mamamia.com.au##.none.main-article-post.article-holder > .pos1_spacer > .leaderboard_pos1.original-element.leaderboard-main-ad
-
-! 2021-06-14 https://search.nine.com.au
-search.nine.com.au##.bottom.adsList
 
 ! 2021-02-21 https://www.reddit.com
 www.reddit.com##.premium-banner
@@ -383,28 +256,6 @@ cryptonews.com##.show.cn-invite-fixed
 cryptonews.com##.ssk-left.ssk-center.ssk-sticky.ssk-group
 cryptonews.com##.inarticle
 
-
-! 2021-08-02 https://www.cakemail.com.au
-www.cakemail.com.au##.footer_wrap
-
-! 2021-08-02 http://www.mzcupcake.com.au
-||www.mzcupcake.com.au/wp-content/uploads/2020/07/mzcc-notice.jpg$image
-||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
-||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
-www.mzcupcake.com.au##.fancybox-opened.fancybox-type-html.fancybox-desktop.fancybox-wrap
-
-! 2021-08-02 https://thecupcakequeens.com.au
-thecupcakequeens.com.au##.kl-private-reset-css-Xuajs1.klaviyo-form.fJjqzc.Modal__ModalPortalStyled-sbc762-0.needsclick
-
-! 2021-08-05 https://www.kmart.com.au
-www.kmart.com.au###kmailSignupDialog
-www.kmart.com.au###model_bg_postcode
-
-! 2021-08-05 https://www.target.com.au
-www.target.com.au##.hfma.enews-quick.quick-form
-
-! 2021-08-05 https://www.aldi.com.au
-||www.aldi.com.au/fileadmin/fm-dam/images/Masterbrand/2018/Banners/ALN1457-1_CB_MASTERBRAND_948x360.jpg$image
 
 
 ! 2021-07-11 https://www.manualslib.com
@@ -424,35 +275,11 @@ www.familyhandyman.com##.taboola-wrapper
 www.element14.com##.e14-registration-required-bg.js_lb_overlay.lb_overlay
 www.element14.com##.e14-registration-required.j-modal-login.j-modal.jive-modal-narrow.jive-modal
 
-! 2021-07-28 https://www.glassdoor.com.au
-www.glassdoor.com.au##.e91w1dn0.css-13nldfg.pt.align-items-center.flex-column.d-flex
-www.glassdoor.com.au##.e91w1dn3.css-6ile9a.gdGrid
-
-! 2021-07-28 https://www.carpetcourt.com.au
-www.carpetcourt.com.au##.mfp-with-anim.popup-content
-www.carpetcourt.com.au##.mfp-inline-holder.mfp-s-ready.mfp-container
-www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
-www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-bg
-www.carpetcourt.com.au##.page-wrapper
-
-! 2021-08-01 https://www.gumtree.com.au
-www.gumtree.com.au##.modal--backdrop.modal
 
 ! 2021-08-01 https://home.howstuffworks.com
 home.howstuffworks.com##.overflow-y-auto.inset-0.z-10.fixed.newsletter-modal
 
 
-! 2021-06-14 https://www.gumtree.com.au
-www.gumtree.com.au##.footer
-www.gumtree.com.au##.paypal-linking-message
-
-! 2021-06-28 https://www.news.com.au
-www.news.com.au##.rp-recommendations-container
-www.news.com.au##.list-wrapper
-www.news.com.au##.active.vjs-playlist
-
-! 2021-05-27 https://www.glassdoor.com.au
-www.glassdoor.com.au##.giveToGetContentModule
 
 ! 2021-05-30 https://allthatsinteresting.com
 allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
@@ -471,26 +298,9 @@ www.experts-exchange.com##.askQuestionSidebar.textComponent.component
 www.mytoll.com###shipementDetailForm > div.clearfix
 www.mytoll.com##.footer
 
-! 2020-09-22 https://search.nine.com.au
-search.nine.com.au##.top.adsList
-search.nine.com.au##.sidePanelAds
-search.nine.com.au##.bottom.adsList
-
-! 2020-09-27 https://www.businessinsider.com.au
-www.businessinsider.com.au##.brightcove-video
-
 ! 2020-09-08 https://www.tomsguide.com
 www.tomsguide.com##.jw-reset.jw-video
 www.tomsguide.com##.jw-carousel
-
-! 6/24/2020 https://www.essentialbaby.com.au
-www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
-
-! 7/6/2020 https://www.ebay.com.au
-www.ebay.com.au###merch_html_100008
-
-! 7/6/2020 https://www.kotaku.com.au
-www.kotaku.com.au##.brightcove-video
 
 ! 7/28/2020 https://www.quora.com
 www.quora.com###__w2_wj6MaD071_signup_wall_wrapper
@@ -504,9 +314,6 @@ www.howtogeek.com##.overlay-wrapper
 www.examtopics.com###engagement-modal
 www.examtopics.com##.show.modal-backdrop
 
-! 2021-01-14 https://www.realestate.com.au
-www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
-www.realestate.com.au##.floating-pill__wrapper
 
 ! 2021-01-05 https://www.buzzfeed.com
 www.buzzfeed.com##.ad-inline.js-ad-placement.clearfix
@@ -539,30 +346,16 @@ au.movember.com##.mospace-key-statistics--title
 ! 2020-09-13 https://www.msp360.com
 www.msp360.com###slidebox
 
-! 3/12/2020 https://www.theage.com.au
-www.theage.com.au##._22FRK > div.noPrint
-
-! 1/17/2020 https://www.drive.com.au
-www.drive.com.au###designstudio-iframe
-www.drive.com.au##.cotw
-
 ! 12/12/2019 https://community.spiceworks.com
 community.spiceworks.com###join-login_alt-modal
 
 ! 1/14/2020 https://www.neowin.net
 www.neowin.net##.deals > .wrap > .row
 
-! 1/17/2020 https://www.gumtree.com.au
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-
-
 
 ! 1/31/2020 https://forums.androidcentral.com
 forums.androidcentral.com##.jw-reset.jw-video
 
-
-! 2021-08-05 https://www.bunnings.com.au
-www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
 
 ! 2021-08-05 https://www.wikihow.com
 www.wikihow.com##.stuck.sticky.tips.section > .wh_ad_spacing
@@ -570,31 +363,16 @@ www.wikihow.com##.stuck.sticky.tips.section > .wh_ad_spacing
 ! 2021-08-05 https://www.mountaindesigns.com
 www.mountaindesigns.com##.show.fade.modal-backdrop
 
-! 2021-08-05 https://www.news.com.au
-www.news.com.au###nca-behavioural-banner-wrapper
-
 ! 2021-07-27 https://mp1st.com
 mp1st.com##.jnews_popup_post_container
 
 
-
-! 2021-07-29 https://www.bunnings.com.au
-www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
 
 ! 2021-07-29 https://auctions.yahoo.co.jp
 auctions.yahoo.co.jp##.gNTkeR.Link-sc-ndxwch
 auctions.yahoo.co.jp##.bLIneM.Layer-sc-1524xzp
 auctions.yahoo.co.jp##.irfroh.Body-sc-1fn305e
 
-
-! 2021-06-29 https://www.gumtree.com.au
-www.gumtree.com.au##.zero-search-results__panel-content
-
-! 2021-07-15 https://www.coronavirus.vic.gov.au
-||www.coronavirus.vic.gov.au/img/header-pattern-bottom.png$image
-||www.coronavirus.vic.gov.au/img/header-pattern-bottom.png$image
-www.coronavirus.vic.gov.au##.rpl-above-content__below
-www.coronavirus.vic.gov.au##.rpl-accordion__button
 
 ! 2021-03-07 https://www.google.com
 www.google.com##div.section-divider:nth-of-type(11)
@@ -605,9 +383,6 @@ www.theurbanlist.com##.jw-reset.jw-video
 www.theurbanlist.com##.jw-reset.jw-media
 www.theurbanlist.com##.nsm_jwplayer_in_article_wrapper
 
-! 2021-02-24 https://www.9news.com.au
-www.9news.com.au##[href="https://www.9news.com.au/national/how-to-follow-9news-digital/29855bb1-ad3d-4c38-bc25-3cb52af1216f"]
-
 ! 2021-03-01 https://www.dailymail.co.uk
 www.dailymail.co.uk##.has-button-share.floating-buttons
 
@@ -615,26 +390,14 @@ www.dailymail.co.uk##.has-button-share.floating-buttons
 www.twenty20.com##div.modal-stack.in.fade.modal-backdrop:nth-of-type(5)
 www.twenty20.com##div.modal-stack.in.fade.modal-backdrop:nth-of-type(4)
 
-! 2021-02-07 https://www.news.com.au
-www.news.com.au##.vms-end-state.vjs-pause-state.videoWrapper
-
 ! 2021-02-08 https://buildfire.com
 buildfire.com###ebook-popup
 buildfire.com###ebook-popup-overlay
-
-! 2021-02-15 https://www.glassdoor.com.au
-www.glassdoor.com.au##.row.mt-lg.justify-content-md-between.justify-content-around
-
 
 ! 2021-01-26 https://community.infosecinstitute.com
 community.infosecinstitute.com##.userContent.UserSignature.Signature
 community.infosecinstitute.com##.Reactions
 
-! 2021-01-30 https://www.gumtree.com.au
-www.gumtree.com.au##.simplified.footer
-www.gumtree.com.au##.c-rounded-corners5.c-clearfix.rs-ma-ad-feature-box.rs-ad-field
-www.gumtree.com.au##.sticky.sticky-desktop.header__banner-container
-www.gumtree.com.au##.footer
 
 ! 2021-02-01 https://www.android-x86.org
 www.android-x86.org##.brid-touch-overlay
@@ -647,22 +410,10 @@ imgur.com##.FastGrid
 ! 2021-01-13 https://developer.android.com
 developer.android.com##.devsite-banner-message
 
-! 2021-01-09 https://www.ebay.com.au
-www.ebay.com.au###glbfooter
-www.ebay.com.au##.cl-lcat
-www.ebay.com.au##.sh-inner
-www.ebay.com.au###storeHeader
-www.ebay.com.au##div:nth-of-type(7)
-www.ebay.com.au###merch_html_100008
 
 
 ! 2021-01-02 https://forum.xda-developers.com
 forum.xda-developers.com##.notice-content
-
-! 2020-10-26 https://www.bunnings.com.au
-||www.bunnings.com.au/assets/styleguide/v211.1.0.2689-release/bunnings-main-site/assets/img/bg-banner-brands.jpg$image
-||www.bunnings.com.au/assets/styleguide/v211.1.0.2689-release/bunnings-main-site/assets/img/bg-banner-brands.jpg$image
-www.bunnings.com.au##.brand-static-banner
 
 
 ! 2020-09-12 https://www.collective-evolution.com
@@ -688,8 +439,6 @@ www.tomshardware.com##.future__jwplayer--carousel
 ! 2020-10-10 https://www.dell.com
 www.dell.com##.ask-question-banner-wrapper
 
-! 2020-10-14 https://www.smokeandpickles.com.au
-www.smokeandpickles.com.au##.sqs-slide-layer-content
 
 ! 2020-10-16 https://www.booking.com
 www.booking.com##.b_leaving_users_light_box.modal-wrapper
@@ -697,22 +446,10 @@ www.booking.com##.b_leaving_users_light_box_mask.modal-mask
 
 
 
-! 2020-10-23 thepersonalisedgiftshop.com.au
-||vts.zohopublic.com/watch
-||js.zohocdn.com/salesiq/*
-||api.trustisto.com^
-
-
-! 8/2/2020 https://www.heraldsun.com.au
-www.heraldsun.com.au###persistent-marketing-banner
-
 ! 8/2/2020 https://tutorials-raspberrypi.com
 tutorials-raspberrypi.com###spu-4210
 tutorials-raspberrypi.com###spu-bg-4210
 tutorials-raspberrypi.com##.cookie-notice-container
-
-! 8/3/2020 https://7news.com.au
-7news.com.au##.ezspa790.css-1p6t1b1-StyledStickyContainer
 
 ! 8/5/2020 https://www.mayoclinic.org
 ||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
@@ -759,20 +496,12 @@ breakingmuscle.com###fluidtop > div
 
 ||widget.intercom.io/widget/*$script
 
-
 www.ehow.com##.fancybox-overlay-fixed.fancybox-overlay
 www.ehow.com##.fancybox-overlay-fixed.fancybox-overlay
-
-
-
 
 ||anabolicminds.com/forum/images/banners/$image
 
-
-
 www.healthline.com##.dlb__sticky-container--stickyDLB.dlb__sticky-container
-
-
 ||a.mailmunch.co^$script
 
 
@@ -785,17 +514,11 @@ www.reverta.com##.floatBottom.nc_wrapper
 www.reverta.com##.columns-4.woocommerce
 
 
-
 www.healthline.com##.css-1eq9wwn
-
-
 www.healthline.com##.e58647k2.css-1jwvau1
-
-
 www.healthline.com##.css-1abgmbt
 healthunlocked.com##.floating-box-sign-up
 healthunlocked.com##.featured-post__list
-
 
 www.dailymail.co.uk###vjs_video_3_html5_api
 
@@ -848,17 +571,12 @@ www.inlivo.com##.in.fade.modal-backdrop
 ||www.inlivo.com//js/plugins/newsletter-form.js$xhr,domain=www.inlivo.com
 ||cdn.jsdelivr.net/jquery.jssocials/*$script
 
-! 2021-08-11 https://www.itnews.com.au
-www.itnews.com.au###gdpr-alert
-
 ! 2021-08-11 https://semaphoreci.com
 semaphoreci.com##.gagpzpd.g1b36ey.g4yn9cd.g-fh86qq.gifw5gm.g-h0t0jn
 
 ! 2021-08-13 http://live.cdnz.one
 live.cdnz.one##.cc-color-override--907048115.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 
-! 2021-08-15 https://www.kmart.com.au
-www.kmart.com.au##.sign-up
 
 ! 2021-08-16 https://mozilla.crowdicity.com
 mozilla.crowdicity.com##.cc_container--open.cc_container.cc_banner
@@ -878,9 +596,6 @@ unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-
 ! 2021-08-19 https://logout.hu
 logout.hu###accept_container
 
-! 2021-08-19 https://www.commbank.com.au
-www.commbank.com.au##.load-stack.hide-stack.hide-on-print.row
-
 ! 2021-08-21 https://www.bloomberg.com
 www.bloomberg.com##.fence-rendered.fadeinAnimation__37b4335c.newsletterModal__8056e2c2
 www.bloomberg.com##.inline-newsletter-top
@@ -890,9 +605,6 @@ www.bloomberg.com###fortress-preblocked-container-root
 ! 2021-08-21 https://www.rollingstone.com
 www.rollingstone.com##.l-article-header__block--share.l-article-header__block
 www.rollingstone.com##.jw-reset.jw-wrapper
-
-! 2021-08-21 https://www.businessinsider.com.au
-www.businessinsider.com.au##.brightcove-video-title
 
 ! 2021-08-06 https://stackoverflow.com
 stackoverflow.com##.js-consent-banner
@@ -919,17 +631,6 @@ www.theverge.com##.c-newsletter_signup_box__main
 ! 2021-08-07 https://softwarerecs.stackexchange.com
 softwarerecs.stackexchange.com##.js-consent-banner
 
-! 2021-08-07 https://www.nickscali.com.au
-www.nickscali.com.au##.popup-center-center
-www.nickscali.com.au##.popup-bg-none
-
-! 2021-08-09 https://www.bhg.com.au
-www.bhg.com.au##.jw-reset.jw-video
-www.bhg.com.au##.jw-reset.jw-display
-www.bhg.com.au##.jw-reset.jw-wrapper
-||imagesvc.meredithcorp.io/v3/jumpstartpure/image$image
-www.bhg.com##.jumpstart-video
-www.bhg.com.au##.Video--Loaded.Video--StickyAdOpen.Video--JWPlayer.Video
 
 ! 2021-10-14 https://stackoverflow.com
 stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
@@ -947,9 +648,6 @@ www.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 www.microsoft.com##.theme-dark.context-accessory.f-y-center.f-x-left.m-hero-item
 
 
-! 2021-08-30 https://www.seek.com.au
-www.seek.com.au##.in3Tnzl > div > ._16BygUP
-www.seek.com.au##._2YF0s4X.yvsb871.yvsb870 > ._1QLmZio.yvsb870
 
 ! 2021-08-31 https://www.lovehappensmag.com
 www.lovehappensmag.com###myModal
@@ -961,21 +659,13 @@ www.urbandictionary.com##.slogan-panel > .panel-margin
 ! 2021-09-01 https://www.goldisaneutral.co.uk
 www.goldisaneutral.co.uk##.pie-wrapper
 
-! 2021-09-01 https://www.bhg.com.au
-www.bhg.com.au##.MagDriver
-
 ! 2021-09-02 https://scalibq.wordpress.com
 scalibq.wordpress.com##.ads-active.hide-on-button
-
-! 2021-09-03 https://www.aldi.com.au
-www.aldi.com.au##.ym-clearfix.noprint.detail-socialsharing
 
 ! 2021-09-03 https://www.ikea.com
 www.ikea.com###eb83966f-ca61-11eb-abb4-07e90b187c64 > .v18by0fb.v11tpn0s.gd8xc1c > div > .pub__carousel > .pub__carousel__wrapper > .pub__carousel__content--snap-slide.pub__carousel__content > .pub__carousel__body-wrapper
 www.ikea.com##section.v18by0fb.v19w64p3.gd8xc1c:nth-of-type(11)
 
-! 2021-09-04 https://www.gumtree.com.au
-www.gumtree.com.au##.liberty-container-1001--dweb-hg-cars-vans-ute.liberty-container-1001
 
 ! 2021-09-04 https://diy.stackexchange.com
 diy.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
@@ -985,9 +675,6 @@ stylebyemilyhenderson.com##.my-5.row
 
 ! 2021-09-07 https://www.familyhandyman.com
 www.familyhandyman.com##.project-top-advertisment
-
-! 2021-09-11 https://www.styletread.com.au
-www.styletread.com.au##.popup_overlay.popups-util__overlay
 
 ! 2021-09-17 https://www.eevblog.com
 ||www.eevblog.com/images/comm/jlc_jan_2021.gif.pagespeed.ce.jdGg5hHdyS.gif$image
@@ -1021,28 +708,15 @@ graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas > .headerstrip-
 ! 2021-09-24 http://live.cdnz.one
 live.cdnz.one##.overlay_video
 
-! 2021-09-27 https://paycalculator.com.au
-paycalculator.com.au##.jss318
-paycalculator.com.au##.jss321
-paycalculator.com.au##.jss1341.MuiBox-root
-
 ! 2021-09-27 https://adminscache.wordpress.com
 adminscache.wordpress.com###infinite-footer
 
-! 2021-10-02 https://www.domain.com.au
-www.domain.com.au##.css-1fjvlsb
 
 ! 2021-10-04 https://www.manualslib.com
 www.manualslib.com##.blue2.tagsbg
 
 ! 2021-10-31 https://medium.com
 medium.com##.ts.fn.cw.ct
-
-! 2021-11-05 https://www.bunnings.com.au
-@@||mpsnare.iesnare.com/snare.js$script,domain=www.bunnings.com.au
-
-! 2021-11-12 https://www.thegoodguys.com.au
-www.thegoodguys.com.au##.seen-a-lower-price
 
 ! 2021-08-21 https://www.bloomberg.com
 www.bloomberg.com##.fence-rendered.fadeinAnimation__37b4335c.newsletterModal__8056e2c2
@@ -1054,19 +728,9 @@ www.bloomberg.com###fortress-preblocked-container-root
 www.rollingstone.com##.l-article-header__block--share.l-article-header__block
 www.rollingstone.com##.jw-reset.jw-wrapper
 
-! 2021-08-21 https://www.businessinsider.com.au
-www.businessinsider.com.au##.brightcove-video-title
-
-! 2021-08-21 https://www.ebay.com.au
-www.ebay.com.au##div.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module:nth-of-type(3)
-
 ! 2021-08-22 https://appleinsider.com
 appleinsider.com##.primis-ad-wrap
 appleinsider.com##.ad.col-sm-12
-
-! 2021-08-23 https://www.spotlightstores.com
-www.spotlightstores.com##.cookies-popup-wrapper
-www.spotlightstores.com##.show.fade.modal-backdrop
 
 ! 2021-08-23 https://www.ruralsprout.com
 www.ruralsprout.com##.widget_dpsp_social_media_follow.widget
@@ -1080,17 +744,11 @@ jonhilton.net##.iubenda-cs-content
 jonhilton.net##.pt-4.post-content > .my-12.bg-purple-100.border-gray-300.border.pt-2.px-12.cta-form
 jonhilton.net##.shadow-md
 
-! 2021-08-25 https://portal.cvms.vic.gov.au
-portal.cvms.vic.gov.au##footer
 
 ! 2021-08-27 https://sourceforge.net
 sourceforge.net###newsletter-floating
 sourceforge.net##a.default.button:nth-of-type(2)
 sourceforge.net###share-project-button
-
-! 2021-08-29 https://www.gumtree.com.au
-www.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
-www.gumtree.com.au##.ecommerce-ad.panel
 
 
 ! 2020-08-31 https://insider.windows.com
@@ -1099,25 +757,12 @@ insider.windows.com###epb
 ! 2020-09-02 https://www.collective-evolution.com
 www.collective-evolution.com##.et_bloom_animation_fadein.et_bloom_form_text_dark.et_bloom_rounded.et_bloom_form_bottom.et_bloom_popup_container.et_bloom_form_container
 
-
-! 2020-09-04 https://auspost.com.au
-auspost.com.au##.header
-
-! 2020-09-06 sbs.com.au
-||source=dclk_video_ads&requiressl=yes$xhr,domain=sbs.com.au
-
-
 ! 2020-09-26 https://old.reddit.com
 old.reddit.com##.premium-banner-outer
 
 
 ! 2020-10-23 https://answers.microsoft.com
 answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
-
-! 2020-10-23 https://www.domain.com.au
-www.domain.com.au##li.css-1b4kfhp > .css-11ag9qu
-www.domain.com.au##.css-ue0p7b
-
 
 
 ! 2020-11-05 twitter.com
@@ -1130,78 +775,16 @@ www.domain.com.au##.css-ue0p7b
 ! 2020-11-16 https://www.dailymail.co.uk
 www.dailymail.co.uk##.floater-19vuu.shared-2QYfa
 
-! 2020-11-16 https://7news.com.au
-7news.com.au##.e1rlhwat3.css-1x7afyc-StyledCenter
-7news.com.au##.vjs-tech
-
 ! 2020-11-18 https://www.mytoll.com
 www.mytoll.com##.contact-box-wrpr.clearfix
 www.mytoll.com##.footer
 
-! 2020-11-29 https://www.productreview.com.au
-www.productreview.com.au##.leaderboard_2Ov.mt-3_3Rf
 
 ! 2020-11-30 https://calendar.google.com
 calendar.google.com##div.FrSOzf:nth-of-type(1)
 
-! 2021-11-18 https://www.hardtofind.com.au
-www.hardtofind.com.au##.is-hidden-mobile.otp-overlay
 
-! 2021-08-15 https://www.kmart.com.au
-www.kmart.com.au##.sign-up
-
-! 2021-08-11 https://www.itnews.com.au
-www.itnews.com.au###gdpr-alert
-
-! 2021-08-05 https://7news.com.au
-7news.com.au##.e1ar06v00.css-1k86mvy-StyledToastContainer.ToastNotification.cookie-consent--normal
-
-
-! 2021-05-25 https://www.metrotrains.com.au
-www.metrotrains.com.au##.slick-track
-www.metrotrains.com.au##.slick-slider.slick-initialized.carousel
-
-
-! 2021-01-09 https://www.domain.com.au
-www.domain.com.au##.css-1dra2ks .css-1m25tex
-
-
-
-
-! 2021-01-10 https://www.domain.com.au
-www.domain.com.au##.css-76lvh6
-
-! 2021-01-12 https://www.realestate.com.au
-||i2.au.reastatic.net/1038x753-resize,extend,r=33,g=40,b=46/29507e16bbb53d65f051da9203e1ad3f40c29f1991dd261aa08873978b8312c4/image.jpg$image
-www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
 
 ! 2021-02-06 https://www.youtube.com
 www.youtube.com###voice-search-button
 
-
-! 2021-03-08 https://www.theage.com.au
-www.theage.com.au##.noPrint._2rhIe.o-hc3._2JlsU.undefined
-
-
-! 7/18/2020 https://www.ebay.com.au
-www.ebay.com.au##.x-footer
-www.ebay.com.au###nume_html_100752_276182-w0-w0 > .last.first.mfe-card
-www.ebay.com.au###nume_html_100010_969470-w0-w0 > .last.first.mfe-card
-
-! 7/15/2020 https://www.9news.com.au
-www.9news.com.au##div:nth-of-type(4) > div > [href^="https://login.nine.com.au/edm"]
-
-
-! 2020-11-30 https://www.glassdoor.com.au
-www.glassdoor.com.au###ContentWallHardsell
-www.glassdoor.com.au##.tooltipContainer
-
-! 2020-12-15 https://www.glassdoor.com.au
-www.glassdoor.com.au##.giveToGetContentModule
-www.glassdoor.com.au##div.notEepHasJobs.inlineJobs:nth-of-type(2)
-
-
-! 2020-12-28 https://pay.ebay.com.au
-pay.ebay.com.au###recommendation_100282 > .lex.secure.mfe-lex
-pay.ebay.com.au##.col-lg-4.col-5.right-column
-pay.ebay.com.au###recommendation_100284 > .lex.secure.mfe-lex
