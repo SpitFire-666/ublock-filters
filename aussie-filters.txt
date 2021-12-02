@@ -153,3 +153,16 @@ www.target.com.au##.hfma.enews-quick.quick-form
 ! 2021-08-05 https://www.aldi.com.au
 ||www.aldi.com.au/fileadmin/fm-dam/images/Masterbrand/2018/Banners/ALN1457-1_CB_MASTERBRAND_948x360.jpg$image
 
+! 2021-07-28 https://www.glassdoor.com.au
+www.glassdoor.com.au##.e91w1dn0.css-13nldfg.pt.align-items-center.flex-column.d-flex
+www.glassdoor.com.au##.e91w1dn3.css-6ile9a.gdGrid
+
+! 2021-07-28 https://www.carpetcourt.com.au
+www.carpetcourt.com.au##.mfp-with-anim.popup-content
+www.carpetcourt.com.au##.mfp-inline-holder.mfp-s-ready.mfp-container
+www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-bg
+www.carpetcourt.com.au##.page-wrapper
+
+! 2021-08-01 https://www.gumtree.com.au
+www.gumtree.com.au##.modal--backdrop.modal
