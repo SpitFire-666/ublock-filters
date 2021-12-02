@@ -1,3 +1,4 @@
+[SpitFire-666's Aussie Filter List!]
 7news.com.au##.e1ar06v00.css-1k86mvy-StyledToastContainer.ToastNotification.cookie-consent--normal
 7news.com.au##.e1rlhwat3.css-1x7afyc-StyledCenter
 7news.com.au##.ezspa790.css-1p6t1b1-StyledStickyContainer
