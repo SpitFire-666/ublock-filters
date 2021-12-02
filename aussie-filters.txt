@@ -1,168 +1,162 @@
-
-! https://www.gumtree.com.au
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-www.gumtree.com.au##.top-ad-upsell__details
-www.gumtree.com.au##.top-ad-upsell
-www.gumtree.com.au##.nudge-login
-www.gumtree.com.au##.module-body > .pstad-featrs-list
-www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
-www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
-www.gumtree.com.au##.social-links
-www.gumtree.com.au##.user-ad-collection--row.user-ad-collection.search-results-page__top-ads-wrapper.panel > .user-ad-collection__list-wrapper.panel-body--flat-panel-shadow.panel-body
-www.gumtree.com.au##.alert
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-
-
-
-! 2021-01-14 https://www.realestate.com.au
-www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
-www.realestate.com.au##.floating-pill__wrapper
-
-
-
-! 2021-02-10 https://www.domain.com.au
-www.domain.com.au##li.css-1b4kfhp:nth-of-type(14)
-
-
-
-! 2021-03-02 https://www.domain.com.au
-www.domain.com.au##li.css-1b4kfhp:nth-of-type(3)
-
-! 2021-03-15 https://www.domain.com.au
-www.domain.com.au##.css-ue0p7b
-
-! 2021-03-21 https://www.domain.com.au
-www.domain.com.au##li.css-1b4kfhp:nth-of-type(10)
-
-
-! 2021-07-31 https://www.drive.com.au
-www.drive.com.au##.pb-10.pt-10.bg-teal-dark
-
-
-! 2021-05-11 https://www.ramint.gov.au
-www.ramint.gov.au##.region-footer-upper.region
-
-
-! 2021-05-18 https://www.coinspot.com.au
-www.coinspot.com.au###twofawarning > .modal-dialog
+7news.com.au##.e1ar06v00.css-1k86mvy-StyledToastContainer.ToastNotification.cookie-consent--normal
+7news.com.au##.e1rlhwat3.css-1x7afyc-StyledCenter
+7news.com.au##.ezspa790.css-1p6t1b1-StyledStickyContainer
+7news.com.au##.vjs-tech
+auspost.com.au##.header
+pay.ebay.com.au###recommendation_100282 > .lex.secure.mfe-lex
+pay.ebay.com.au###recommendation_100284 > .lex.secure.mfe-lex
+pay.ebay.com.au##.col-lg-4.col-5.right-column
+paycalculator.com.au##.jss1341.MuiBox-root
+paycalculator.com.au##.jss318
+paycalculator.com.au##.jss321
+portal.cvms.vic.gov.au##footer
+search.nine.com.au##.bottom.adsList
+search.nine.com.au##.sidePanelAds
+search.nine.com.au##.top.adsList
+thecupcakequeens.com.au##.kl-private-reset-css-Xuajs1.klaviyo-form.fJjqzc.Modal__ModalPortalStyled-sbc762-0.needsclick
+www.9news.com.au##[href="https://www.9news.com.au/national/how-to-follow-9news-digital/29855bb1-ad3d-4c38-bc25-3cb52af1216f"]
+www.9news.com.au##div:nth-of-type(4) > div > [href^="https://login.nine.com.au/edm"]
+www.aldi.com.au##.ym-clearfix.noprint.detail-socialsharing
+www.bhg.com##.jumpstart-video
+www.bhg.com.au##.MagDriver
+www.bhg.com.au##.Video--Loaded.Video--StickyAdOpen.Video--JWPlayer.Video
+www.bhg.com.au##.jw-reset.jw-display
+www.bhg.com.au##.jw-reset.jw-video
+www.bhg.com.au##.jw-reset.jw-wrapper
+www.broadsheet.com.au##.subscription-slide.subscription-wrapper
+www.bunnings.com.au##.brand-static-banner
+www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
+www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
+www.businessinsider.com.au##.brightcove-video
+www.businessinsider.com.au##.brightcove-video-title
+www.cakemail.com.au##.footer_wrap
+www.carsales.com.au##.listing-items > .guaranteed-consideration
 www.coinspot.com.au###twofawarning
+www.coinspot.com.au###twofawarning > .modal-dialog
 www.coinspot.com.au##.in.modal-backdrop
-
-
-! 1/17/2020 https://www.drive.com.au
+www.commbank.com.au##.load-stack.hide-stack.hide-on-print.row
+www.coronavirus.vic.gov.au##.rpl-above-content__below
+www.coronavirus.vic.gov.au##.rpl-accordion__button
+www.domain.com.au##.css-176pzbt > .slick-initialized.slick-slider
+www.domain.com.au##.css-1dra2ks .css-1m25tex
+www.domain.com.au##.css-1fjvlsb
+www.domain.com.au##.css-76lvh6
+www.domain.com.au##.css-ue0p7b
+www.domain.com.au##.css-ue0p7b
+www.domain.com.au##li.css-1b4kfhp > .css-11ag9qu
+www.domain.com.au##li.css-1b4kfhp:nth-of-type(10)
+www.domain.com.au##li.css-1b4kfhp:nth-of-type(14)
+www.domain.com.au##li.css-1b4kfhp:nth-of-type(3)
+www.drive.com.au###designstudio-iframe
 www.drive.com.au###designstudio-iframe
 www.drive.com.au##.cotw
-
-
-
-! 2/19/2020 https://www.carsales.com.au
-www.carsales.com.au##.listing-items > .guaranteed-consideration
-
-
-! 3/12/2020 https://www.theage.com.au
-www.theage.com.au##._22FRK > div.noPrint
-
-
-
-! 6/4/2020 https://www.seek.com.au
-www.seek.com.au##._3KwIuf8._1_Q8jzT > div:nth-of-type(2) > div > div:nth-of-type(1)
-
-
-! 6/24/2020 https://www.essentialbaby.com.au
-www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
-
-! https://www.ebay.com.au
-www.ebay.com.au###merch_html_100008
+www.drive.com.au##.cotw
+www.drive.com.au##.pb-10.pt-10.bg-teal-dark
 www.ebay.com###ad_html_101197 > .merch-module
 www.ebay.com###ad_html_101198 > .merch-module
 www.ebay.com##.vi-lb-placeholder
+www.ebay.com.au###ad_html_*
 www.ebay.com.au###ad_html_101197
 www.ebay.com.au###ad_html_101198
-www.ebay.com.au###ad_html_*
-
-! 7/6/2020 https://www.kotaku.com.au
-www.kotaku.com.au##.brightcove-video
-
-
-! 2020-09-22 https://search.nine.com.au
-search.nine.com.au##.top.adsList
-search.nine.com.au##.sidePanelAds
-search.nine.com.au##.bottom.adsList
-
-www.businessinsider.com.au##.brightcove-video
-www.pinterest.com.au##.Hsu.iyn.zI7.qJc.p6V.ojN.jzS.gjz.fte.fev.dxm._he.PKX.Lej.LCN.Jea
-
-
-! 2021-04-25 https://www.domain.com.au
-www.domain.com.au##.css-176pzbt > .slick-initialized.slick-slider
-
-! 2021-05-27 https://www.glassdoor.com.au
-www.glassdoor.com.au##.giveToGetContentModule
-
-
-
-! 2021-06-14 https://www.gumtree.com.au
-www.gumtree.com.au##.footer
-www.gumtree.com.au##.paypal-linking-message
-
-! https://www.news.com.au
-www.news.com.au##.rp-recommendations-container
-www.news.com.au##.list-wrapper
-www.news.com.au##.active.vjs-playlist
-www.news.com.au###nca-behavioural-banner-wrapper
-
-! 2021-06-09 https://www.pinterest.com.au
-||www.pinterest.com.au/resource/ContextLogResource/create/*$xhr,domain=www.pinterest.com.au
-
-
-! 2021-01-25 https://www.gumtree.com.au
-www.gumtree.com.au##.alert
-
-! 2021-01-25 https://www.ebay.com.au
+www.ebay.com.au###glbfooter
+www.ebay.com.au###merch_html_100008
+www.ebay.com.au###merch_html_100008
+www.ebay.com.au###merch_html_100008
+www.ebay.com.au###nume_html_100010_969470-w0-w0 > .last.first.mfe-card
+www.ebay.com.au###nume_html_100752_276182-w0-w0 > .last.first.mfe-card
+www.ebay.com.au###storeHeader
+www.ebay.com.au##.cl-lcat
+www.ebay.com.au##.sh-inner
 www.ebay.com.au##.srp-1p__link
-
-! 7/21/2020 https://www.broadsheet.com.au
-www.broadsheet.com.au##.subscription-slide.subscription-wrapper
-
-
-! 7/29/2020 https://www.lifehacker.com.au
-www.lifehacker.com.au##.brightcove-video
-
-! 2021-07-27 https://www.mamamia.com.au
-www.mamamia.com.au##.none.main-article-post.article-holder > .pos1_spacer > .leaderboard_pos1.original-element.leaderboard-main-ad
-
-! 2021-06-14 https://search.nine.com.au
-search.nine.com.au##.bottom.adsList
-
-! 2021-08-02 http://www.mzcupcake.com.au
-||www.mzcupcake.com.au/wp-content/uploads/2020/07/mzcc-notice.jpg$image
-||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
-||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
-www.mzcupcake.com.au##.fancybox-opened.fancybox-type-html.fancybox-desktop.fancybox-wrap
-
-! 2021-08-02 https://thecupcakequeens.com.au
-thecupcakequeens.com.au##.kl-private-reset-css-Xuajs1.klaviyo-form.fJjqzc.Modal__ModalPortalStyled-sbc762-0.needsclick
-
-! 2021-08-05 https://www.kmart.com.au
+www.ebay.com.au##.x-footer
+www.ebay.com.au##div.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module:nth-of-type(3)
+www.ebay.com.au##div:nth-of-type(7)
+www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
+www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
+www.glassdoor.com.au###ContentWallHardsell
+www.glassdoor.com.au##.giveToGetContentModule
+www.glassdoor.com.au##.giveToGetContentModule
+www.glassdoor.com.au##.giveToGetContentModule
+www.glassdoor.com.au##.row.mt-lg.justify-content-md-between.justify-content-around
+www.glassdoor.com.au##.tooltipContainer
+www.glassdoor.com.au##div.notEepHasJobs.inlineJobs:nth-of-type(2)
+www.gumtree.com.au##.alert
+www.gumtree.com.au##.alert
+www.gumtree.com.au##.c-rounded-corners5.c-clearfix.rs-ma-ad-feature-box.rs-ad-field
+www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
+www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
+www.gumtree.com.au##.ecommerce-ad.panel
+www.gumtree.com.au##.footer
+www.gumtree.com.au##.footer
+www.gumtree.com.au##.footer
+www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
+www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
+www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
+www.gumtree.com.au##.liberty-container-1001--dweb-hg-cars-vans-ute.liberty-container-1001
+www.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
+www.gumtree.com.au##.module-body > .pstad-featrs-list
+www.gumtree.com.au##.nudge-login
+www.gumtree.com.au##.paypal-linking-message
+www.gumtree.com.au##.paypal-linking-message
+www.gumtree.com.au##.simplified.footer
+www.gumtree.com.au##.social-links
+www.gumtree.com.au##.sticky.sticky-desktop.header__banner-container
+www.gumtree.com.au##.top-ad-upsell
+www.gumtree.com.au##.top-ad-upsell__details
+www.gumtree.com.au##.user-ad-collection--row.user-ad-collection.search-results-page__top-ads-wrapper.panel > .user-ad-collection__list-wrapper.panel-body--flat-panel-shadow.panel-body
+www.gumtree.com.au##.zero-search-results__panel-content
+www.hardtofind.com.au##.is-hidden-mobile.otp-overlay
+www.heraldsun.com.au###persistent-marketing-banner
+www.itnews.com.au###gdpr-alert
+www.itnews.com.au###gdpr-alert
 www.kmart.com.au###kmailSignupDialog
 www.kmart.com.au###model_bg_postcode
-
-! 2021-08-05 https://www.target.com.au
+www.kmart.com.au##.sign-up
+www.kmart.com.au##.sign-up
+www.kotaku.com.au##.brightcove-video
+www.kotaku.com.au##.brightcove-video
+www.lifehacker.com.au##.brightcove-video
+www.mamamia.com.au##.none.main-article-post.article-holder > .pos1_spacer > .leaderboard_pos1.original-element.leaderboard-main-ad
+www.metrotrains.com.au##.slick-slider.slick-initialized.carousel
+www.metrotrains.com.au##.slick-track
+www.mzcupcake.com.au##.fancybox-opened.fancybox-type-html.fancybox-desktop.fancybox-wrap
+www.news.com.au###nca-behavioural-banner-wrapper
+www.news.com.au##.active.vjs-playlist
+www.news.com.au##.list-wrapper
+www.news.com.au##.rp-recommendations-container
+www.news.com.au##.rp-recommendations-container
+www.news.com.au##.vms-end-state.vjs-pause-state.videoWrapper
+www.nickscali.com.au##.popup-bg-none
+www.nickscali.com.au##.popup-center-center
+www.pinterest.com.au##.Hsu.iyn.zI7.qJc.p6V.ojN.jzS.gjz.fte.fev.dxm._he.PKX.Lej.LCN.Jea
+www.productreview.com.au##.leaderboard_2Ov.mt-3_3Rf
+www.ramint.gov.au##.region-footer-upper.region
+www.realestate.com.au##.bkYFHe.ContentCarouselContainer-sc-139sd3a-0
+www.realestate.com.au##.floating-pill__wrapper
+www.seek.com.au##._2YF0s4X.yvsb871.yvsb870 > ._1QLmZio.yvsb870
+www.seek.com.au##._3KwIuf8._1_Q8jzT > div:nth-of-type(2) > div > div:nth-of-type(1)
+www.seek.com.au##.in3Tnzl > div > ._16BygUP
+www.smokeandpickles.com.au##.sqs-slide-layer-content
+www.spotlightstores.com##.cookies-popup-wrapper
+www.spotlightstores.com##.show.fade.modal-backdrop
+www.styletread.com.au##.popup_overlay.popups-util__overlay
 www.target.com.au##.hfma.enews-quick.quick-form
-
-! 2021-08-05 https://www.aldi.com.au
-||www.aldi.com.au/fileadmin/fm-dam/images/Masterbrand/2018/Banners/ALN1457-1_CB_MASTERBRAND_948x360.jpg$image
-
-! 2021-07-28 https://www.glassdoor.com.au
-www.glassdoor.com.au##.e91w1dn0.css-13nldfg.pt.align-items-center.flex-column.d-flex
-www.glassdoor.com.au##.e91w1dn3.css-6ile9a.gdGrid
-
-! 2021-07-28 https://www.carpetcourt.com.au
-www.carpetcourt.com.au##.mfp-with-anim.popup-content
-www.carpetcourt.com.au##.mfp-inline-holder.mfp-s-ready.mfp-container
-www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
-www.carpetcourt.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-bg
-www.carpetcourt.com.au##.page-wrapper
-
-! 2021-08-01 https://www.gumtree.com.au
-www.gumtree.com.au##.modal--backdrop.modal
+www.theage.com.au##._22FRK > div.noPrint
+www.theage.com.au##.noPrint._2rhIe.o-hc3._2JlsU.undefined
+www.thegoodguys.com.au##.seen-a-lower-price
+||api.trustisto.com^
+||i2.au.reastatic.net/1038x753-resize,extend,r=33,g=40,b=46/29507e16bbb53d65f051da9203e1ad3f40c29f1991dd261aa08873978b8312c4/image.jpg$image
+||imagesvc.meredithcorp.io/v3/jumpstartpure/image$image
+||js.zohocdn.com/salesiq/*
+||source=dclk_video_ads&requiressl=yes$xhr,domain=sbs.com.au
+||vts.zohopublic.com/watch
+||www.bunnings.com.au/assets/styleguide/v211.1.0.2689-release/bunnings-main-site/assets/img/bg-banner-brands.jpg$image
+||www.bunnings.com.au/assets/styleguide/v211.1.0.2689-release/bunnings-main-site/assets/img/bg-banner-brands.jpg$image
+||www.coronavirus.vic.gov.au/img/header-pattern-bottom.png$image
+||www.coronavirus.vic.gov.au/img/header-pattern-bottom.png$image
+||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
+||www.mzcupcake.com.au/wp-content/uploads/2014/01/popup_background-2014.jpg$image
+||www.mzcupcake.com.au/wp-content/uploads/2020/07/mzcc-notice.jpg$image
+||www.pinterest.com.au/resource/ActivateExperimentResource/create/*$xhr,domain=www.pinterest.com.au
+||www.pinterest.com.au/resource/ContextLogResource/create/*$xhr,domain=www.pinterest.com.au
+||www.pinterest.com.au/resource/StatsLogResource/create/*$domain=www.pinterest.com.au
