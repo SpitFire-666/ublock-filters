@@ -27,7 +27,6 @@ www.bhg.com.au##.jw-reset.jw-wrapper
 www.broadsheet.com.au##.subscription-slide.subscription-wrapper
 www.bunnings.com.au##.brand-static-banner
 www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
-www.bunnings.com.au##.gHnpZM.NewsletterSubscriptionTilestyle__StyledWrapper-sc-1r7xevc-5
 www.businessinsider.com.au##.brightcove-video
 www.businessinsider.com.au##.brightcove-video-title
 www.cakemail.com.au##.footer_wrap
@@ -161,3 +160,6 @@ www.thegoodguys.com.au##.seen-a-lower-price
 ||www.pinterest.com.au/resource/ActivateExperimentResource/create/*$xhr,domain=www.pinterest.com.au
 ||www.pinterest.com.au/resource/ContextLogResource/create/*$xhr,domain=www.pinterest.com.au
 ||www.pinterest.com.au/resource/StatsLogResource/create/*$domain=www.pinterest.com.au
+www.huffingtonpost.com.au###social_badges.social_badges_en.social-bar.group.floating > .social-badge > .shares.group
+www.huffingtonpost.com.au###wrapper.wrapper.bpage.entry.australia.regular > .content > .main.group > .rail.fix > .follow-huffpost.no-ad
+forums.whirlpool.net.au###replylist > .reply-archived.reply:nth-of-type(8)
