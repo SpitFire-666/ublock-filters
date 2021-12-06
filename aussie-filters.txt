@@ -42,14 +42,11 @@ www.domain.com.au##.css-1dra2ks .css-1m25tex
 www.domain.com.au##.css-1fjvlsb
 www.domain.com.au##.css-76lvh6
 www.domain.com.au##.css-ue0p7b
-www.domain.com.au##.css-ue0p7b
 www.domain.com.au##li.css-1b4kfhp > .css-11ag9qu
 www.domain.com.au##li.css-1b4kfhp:nth-of-type(10)
 www.domain.com.au##li.css-1b4kfhp:nth-of-type(14)
 www.domain.com.au##li.css-1b4kfhp:nth-of-type(3)
 www.drive.com.au###designstudio-iframe
-www.drive.com.au###designstudio-iframe
-www.drive.com.au##.cotw
 www.drive.com.au##.cotw
 www.drive.com.au##.pb-10.pt-10.bg-teal-dark
 www.ebay.com###ad_html_101197 > .merch-module
@@ -60,9 +57,6 @@ www.ebay.com.au###ad_html_101197
 www.ebay.com.au###ad_html_101198
 www.ebay.com.au###glbfooter
 www.ebay.com.au###merch_html_100008
-www.ebay.com.au###merch_html_100008
-www.ebay.com.au###merch_html_100008
-www.ebay.com.au###nume_html_100010_969470-w0-w0 > .last.first.mfe-card
 www.ebay.com.au###nume_html_100752_276182-w0-w0 > .last.first.mfe-card
 www.ebay.com.au###storeHeader
 www.ebay.com.au##.cl-lcat
@@ -72,31 +66,22 @@ www.ebay.com.au##.x-footer
 www.ebay.com.au##div.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module:nth-of-type(3)
 www.ebay.com.au##div:nth-of-type(7)
 www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
-www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
 www.glassdoor.com.au###ContentWallHardsell
-www.glassdoor.com.au##.giveToGetContentModule
-www.glassdoor.com.au##.giveToGetContentModule
 www.glassdoor.com.au##.giveToGetContentModule
 www.glassdoor.com.au##.row.mt-lg.justify-content-md-between.justify-content-around
 www.glassdoor.com.au##.tooltipContainer
 www.glassdoor.com.au##div.notEepHasJobs.inlineJobs:nth-of-type(2)
-www.gumtree.com.au##.alert
 www.gumtree.com.au##.alert
 www.gumtree.com.au##.c-rounded-corners5.c-clearfix.rs-ma-ad-feature-box.rs-ad-field
 www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
 www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
 www.gumtree.com.au##.ecommerce-ad.panel
 www.gumtree.com.au##.footer
-www.gumtree.com.au##.footer
-www.gumtree.com.au##.footer
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
 www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
 www.gumtree.com.au##.liberty-container-1001--dweb-hg-cars-vans-ute.liberty-container-1001
 www.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
 www.gumtree.com.au##.module-body > .pstad-featrs-list
 www.gumtree.com.au##.nudge-login
-www.gumtree.com.au##.paypal-linking-message
 www.gumtree.com.au##.paypal-linking-message
 www.gumtree.com.au##.simplified.footer
 www.gumtree.com.au##.social-links
@@ -108,22 +93,23 @@ www.gumtree.com.au##.zero-search-results__panel-content
 www.hardtofind.com.au##.is-hidden-mobile.otp-overlay
 www.heraldsun.com.au###persistent-marketing-banner
 www.itnews.com.au###gdpr-alert
-www.itnews.com.au###gdpr-alert
 www.kmart.com.au###kmailSignupDialog
 www.kmart.com.au###model_bg_postcode
 www.kmart.com.au##.sign-up
-www.kmart.com.au##.sign-up
-www.kotaku.com.au##.brightcove-video
 www.kotaku.com.au##.brightcove-video
 www.lifehacker.com.au##.brightcove-video
+www.lifehacker.com.au##.adWrapper.leaderboard__container
+www.lifehacker.com.au##.leaderboard-container
 www.mamamia.com.au##.none.main-article-post.article-holder > .pos1_spacer > .leaderboard_pos1.original-element.leaderboard-main-ad
 www.metrotrains.com.au##.slick-slider.slick-initialized.carousel
 www.metrotrains.com.au##.slick-track
 www.mzcupcake.com.au##.fancybox-opened.fancybox-type-html.fancybox-desktop.fancybox-wrap
+www.news.com.au###module-more-in > .module-content
+www.news.com.au##.lined-background
+www.news.com.au###module-more-in
 www.news.com.au###nca-behavioural-banner-wrapper
 www.news.com.au##.active.vjs-playlist
 www.news.com.au##.list-wrapper
-www.news.com.au##.rp-recommendations-container
 www.news.com.au##.rp-recommendations-container
 www.news.com.au##.vms-end-state.vjs-pause-state.videoWrapper
 www.nickscali.com.au##.popup-bg-none
@@ -163,3 +149,4 @@ www.thegoodguys.com.au##.seen-a-lower-price
 www.huffingtonpost.com.au###social_badges.social_badges_en.social-bar.group.floating > .social-badge > .shares.group
 www.huffingtonpost.com.au###wrapper.wrapper.bpage.entry.australia.regular > .content > .main.group > .rail.fix > .follow-huffpost.no-ad
 forums.whirlpool.net.au###replylist > .reply-archived.reply:nth-of-type(8)
+www.betterhealth.vic.gov.au###top-floating-bar
