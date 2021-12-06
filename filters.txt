@@ -1,7 +1,10 @@
-! 12/12/2019 https://community.spiceworks.com
 community.spiceworks.com###join-login_alt-modal
+community.spiceworks.com###community_message
+community.spiceworks.com##.join-promotion.sui-alert--info.sui-alert
+community.spiceworks.com##.community-content-banner
+community.spiceworks.com##.gekko_post
 
-! 1/14/2020 https://www.neowin.net
+
 www.neowin.net##.deals > .wrap > .row
 
 
@@ -12,19 +15,19 @@ www.nme.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 www.nme.com##.jw-reset.jw-wrapper
 www.nme.com###botr_mmlgkHZx_TADMMIT9_div > .jw-reset.jw-aspect
 
-! 2021-08-04 https://devblogs.microsoft.com
+
 devblogs.microsoft.com##.smcx-opaque.smcx-hide-branding.smcx-widget-dark.smcx-show.smcx-modal-invitation.smcx-modal.smcx-widget
 
-! 2021-05-08 https://coinmarketcap.com
+
 coinmarketcap.com##.routeSwitcher___3u2Qr.container
 coinmarketcap.com##.tabRow___3QcNP.hKZfDX.sc-16r8icm-0
 coinmarketcap.com##.statsContainer___2uXZW.hide___2JmAL
 coinmarketcap.com##.linksSection___2uV91.iiNgcJ.sc-16r8icm-0
 
-! 2021-05-14 https://old.reddit.com
+
 old.reddit.com##.give-gold-button
 
-! 2021-05-15 https://www.grays.com
+
 www.grays.com###mdl-subscriptionpanel
 www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw:nth-of-type(8)
 www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw > .marketing
@@ -35,24 +38,24 @@ www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
 
-! 1/31/2020 https://forums.androidcentral.com
+
 forums.androidcentral.com##.jw-reset.jw-video
 
-! 2/10/2020 https://login.microsoftonline.com
+
 ||aadcdn.msauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
 
-! https://www.flickr.com
+
 www.flickr.com###yui_3_16_0_1_1581312878209_7336
 www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
 
 
-! https://login.microsoftonline.com
+
 ||aadcdn.msftauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
 
-! https://login.live.com
+
 ||logincdn.msauth.net/16.000.28497.4/content/images/backgrounds/0*.jpg$image
 
-! https://login.microsoftonline.com
+
 ||aadcdn.msftauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
 
 ! 2/18/2020 https://open.spotify.com
@@ -787,4 +790,3 @@ calendar.google.com##div.FrSOzf:nth-of-type(1)
 
 ! 2021-02-06 https://www.youtube.com
 www.youtube.com###voice-search-button
-
