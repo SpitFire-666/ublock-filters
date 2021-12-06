@@ -71,6 +71,8 @@ www.glassdoor.com.au##.giveToGetContentModule
 www.glassdoor.com.au##.row.mt-lg.justify-content-md-between.justify-content-around
 www.glassdoor.com.au##.tooltipContainer
 www.glassdoor.com.au##div.notEepHasJobs.inlineJobs:nth-of-type(2)
+https://www.glassdoor.com/garnish/static/css/gd-user-hardsell-overlay.bundle.css
+https://www.glassdoor.com/garnish/static/js/gd-user-hardsell-overlay.bundle.js
 www.gumtree.com.au##.alert
 www.gumtree.com.au##.c-rounded-corners5.c-clearfix.rs-ma-ad-feature-box.rs-ad-field
 www.gumtree.com.au##.c-rounded-corners5.feature-package_2.feature-package
