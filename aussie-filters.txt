@@ -4,9 +4,6 @@
 7news.com.au##.ezspa790.css-1p6t1b1-StyledStickyContainer
 7news.com.au##.vjs-tech
 auspost.com.au##.header
-pay.ebay.com.au###recommendation_100282 > .lex.secure.mfe-lex
-pay.ebay.com.au###recommendation_100284 > .lex.secure.mfe-lex
-pay.ebay.com.au##.col-lg-4.col-5.right-column
 paycalculator.com.au##.jss1341.MuiBox-root
 paycalculator.com.au##.jss318
 paycalculator.com.au##.jss321
