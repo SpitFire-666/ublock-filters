@@ -77,18 +77,18 @@ www.gumtree.com.au##.c-rounded-corners5.feature-package_3.feature-package
 www.gumtree.com.au##.ecommerce-ad.panel
 www.gumtree.com.au##.footer
 www.gumtree.com.au##.header__leaderboard-ad--sticky-visible.header__leaderboard-ad--sticky-top.header__leaderboard-ad
-www.gumtree.com.au##.liberty-container-1001--dweb-hg-cars-vans-ute.liberty-container-1001
-www.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
+zwww.gumtree.com.au##.liberty-container-1001--dweb-hg-cars-vans-ute.liberty-container-1001
+zwww.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
 www.gumtree.com.au##.module-body > .pstad-featrs-list
 www.gumtree.com.au##.nudge-login
 www.gumtree.com.au##.paypal-linking-message
 www.gumtree.com.au##.simplified.footer
 www.gumtree.com.au##.social-links
-www.gumtree.com.au##.sticky.sticky-desktop.header__banner-container
+
 www.gumtree.com.au##.top-ad-upsell
 www.gumtree.com.au##.top-ad-upsell__details
-www.gumtree.com.au##.user-ad-collection--row.user-ad-collection.search-results-page__top-ads-wrapper.panel > .user-ad-collection__list-wrapper.panel-body--flat-panel-shadow.panel-body
 www.gumtree.com.au##.zero-search-results__panel-content
+
 www.hardtofind.com.au##.is-hidden-mobile.otp-overlay
 www.heraldsun.com.au###persistent-marketing-banner
 www.itnews.com.au###gdpr-alert
