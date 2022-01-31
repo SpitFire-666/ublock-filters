@@ -1,4 +1,7 @@
-! Title: TEST
+[Adblock Plus 2.0]
+! Title: Filters by SpitFire-666
+! Version: 1
+! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
 community.spiceworks.com###join-login_alt-modal
 community.spiceworks.com###community_message
@@ -787,8 +790,6 @@ www.mytoll.com##.footer
 
 ! 2020-11-30 https://calendar.google.com
 calendar.google.com##div.FrSOzf:nth-of-type(1)
-
-
 
 ! 2021-02-06 https://www.youtube.com
 www.youtube.com###voice-search-button
