@@ -46,22 +46,6 @@ www.domain.com.au##li.css-1b4kfhp:nth-of-type(3)
 www.drive.com.au###designstudio-iframe
 www.drive.com.au##.cotw
 www.drive.com.au##.pb-10.pt-10.bg-teal-dark
-www.ebay.com###ad_html_101197 > .merch-module
-www.ebay.com###ad_html_101198 > .merch-module
-www.ebay.com##.vi-lb-placeholder
-www.ebay.com.au###ad_html_*
-www.ebay.com.au###ad_html_101197
-www.ebay.com.au###ad_html_101198
-www.ebay.com.au###glbfooter
-www.ebay.com.au###merch_html_100008
-www.ebay.com.au###nume_html_100752_276182-w0-w0 > .last.first.mfe-card
-www.ebay.com.au###storeHeader
-www.ebay.com.au##.cl-lcat
-www.ebay.com.au##.sh-inner
-www.ebay.com.au##.srp-1p__link
-www.ebay.com.au##.x-footer
-www.ebay.com.au##div.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module:nth-of-type(3)
-www.ebay.com.au##div:nth-of-type(7)
 www.essentialbaby.com.au##.article__body > div:nth-of-type(3) > div
 www.glassdoor.com.au###ContentWallHardsell
 www.glassdoor.com.au##.giveToGetContentModule
