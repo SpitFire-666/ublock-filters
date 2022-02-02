@@ -133,3 +133,75 @@ www.huffingtonpost.com.au###social_badges.social_badges_en.social-bar.group.floa
 www.huffingtonpost.com.au###wrapper.wrapper.bpage.entry.australia.regular > .content > .main.group > .rail.fix > .follow-huffpost.no-ad
 forums.whirlpool.net.au###replylist > .reply-archived.reply:nth-of-type(8)
 www.betterhealth.vic.gov.au###top-floating-bar
+
+! 2022-01-28 https://www.gumtree.com.au
+www.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
+
+! 2022-01-30 https://www.carsales.com.au
+||carsales.vxcrush.net/au/general/content/45i80bsd2euna8auc44mt4t5u.mp4?vxc_format=jpg&vxc_size=hd$image
+www.carsales.com.au##.slide.carousel
+
+! 2022-01-31 https://www.carsguide.com.au
+www.carsguide.com.au##.id-0.leaderboard
+
+! 2022-01-12 https://www.amazon.com.au
+www.amazon.com.au##.nav-sprite-v1.navLeftFooter
+www.amazon.com.au###anonCarousel2 > .a-carousel > li.a-carousel-card > div
+
+! 2022-01-15 https://www.ebay.com.au
+www.ebay.com.au##.vi-lb-placeholder
+
+
+! 2021-12-31 https://www.jbl.com.au
+www.jbl.com.au##.ctd-modal-subscribe
+
+
+! 2021-12-21 https://www.standard.net.au
+||buy-au.piano.io/checkout/template/cacheableShow$subdocument
+||buy-au.piano.io/checkout/template/cacheableShow?aid=zFviteD8av&templateId=OTRNV6ZTR2YD&templateVariantId=OTVR9BVSH6LAH&offerId=fakeOfferId&experienceId=EXA0KESWACND&iframeId=offer_8aaf6bea4e58e852aeaa-0&displayMode=modal&pianoIdUrl=https%3A%2F%2Fid-au.piano.io%2Fid%2F&widget=template&url=https%3A%2F%2Fwww.standard.net.au$subdocument
+www.standard.net.au##.tp-modal
+www.standard.net.au##.current.blocker.jquery-modal
+
+! 2021-12-22 https://petrolspy.com.au
+petrolspy.com.au###content
+petrolspy.com.au###content-background
+
+! 2021-12-26 https://www.babybunting.com.au
+www.babybunting.com.au##.bb-gdpr
+
+! 2021-12-27 https://www.productreview.com.au
+www.productreview.com.au##.top_ibV.leaderboard_RPe.d-flex_RNf.bg-light_mo3.justify-content-center_zro.flex-column__BR.py-3_UXp
+www.productreview.com.au##.in-between-reviews-ad__41.d-flex_RNf.justify-content-center_zro.flex-column__BR.mt-3_bFD
+
+
+! 2021-12-01 https://www.commbank.com.au
+www.commbank.com.au##.hide-on-print.xs-description-hidden.prominence-panel
+www.commbank.com.au##.hide-on-print-receipt.side-panel-section.sales-card
+
+! 2021-12-07 https://www.danmurphys.com.au
+||www.danmurphys.com.au/assets/images/page-bg.png$image
+||www.danmurphys.com.au/assets/images/page-bg.png$image
+www.danmurphys.com.au##div.is-nav-fixed.header-overlay:nth-of-type(2)
+
+! 2021-12-07 https://www.myshopping.com.au
+www.myshopping.com.au##div:nth-of-type(21)
+
+! 2021-12-09 https://www.glassdoor.com.au
+www.glassdoor.com.au##div.ec4dwm00.css-11b1byw.gd-ui-module:nth-of-type(4)
+www.glassdoor.com.au##.ec4dwm00.css-18hgx8a.gd-ui-module.mb-std.m-0.notEepHasJobs.inlineJobs
+
+
+! 2021-08-07 https://www.nickscali.com.au
+www.nickscali.com.au##.popup-center-center
+www.nickscali.com.au##.popup-bg-none
+
+! 2021-08-09 https://www.bhg.com.au
+www.bhg.com.au##.jw-reset.jw-video
+www.bhg.com.au##.jw-reset.jw-display
+www.bhg.com.au##.jw-reset.jw-wrapper
+  
+! 2021-08-10 https://www.bhg.com.au
+www.bhg.com.au##.Video--Loaded.Video--StickyAdOpen.Video--JWPlayer.Video
+
+! 2020-08-17 https://www.ebay.com.au
+www.ebay.com.au###merch_html_100752
