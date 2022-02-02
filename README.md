@@ -1,10 +1,11 @@
 # ublock-filters
 
-HERE:
-
+## Click to subscribe:
 
 https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/filters.txt&title=SpitFire-666%20%uBlock%20Filters
 
+- Text version:
+- 
 https://github.com/SpitFire-666/ublock-filters/raw/main/filters.txt
 
 
