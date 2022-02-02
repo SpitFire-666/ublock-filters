@@ -23,15 +23,12 @@ www.nme.com###botr_mmlgkHZx_TADMMIT9_div > .jw-reset.jw-aspect
 
 devblogs.microsoft.com##.smcx-opaque.smcx-hide-branding.smcx-widget-dark.smcx-show.smcx-modal-invitation.smcx-modal.smcx-widget
 
-
 coinmarketcap.com##.routeSwitcher___3u2Qr.container
 coinmarketcap.com##.tabRow___3QcNP.hKZfDX.sc-16r8icm-0
 coinmarketcap.com##.statsContainer___2uXZW.hide___2JmAL
 coinmarketcap.com##.linksSection___2uV91.iiNgcJ.sc-16r8icm-0
 
-
 old.reddit.com##.give-gold-button
-
 
 www.grays.com###mdl-subscriptionpanel
 www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw:nth-of-type(8)
@@ -69,12 +66,12 @@ open.spotify.com##.a88f0b25501df313b75b70d458d9fe87-scss._56a12d0978529b654affa1
 ! 2/19/2020 https://login.microsoftonline.com
 ||aadcdn.msauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
 
-! 3/5/2020 https://www.youtube.com
+! https://www.youtube.com
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-! YT Search - just videos
-youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer),ytd-secondary-search-container-renderer
-! YT Search - just videos + channels
-youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer,ytd-channel-renderer),ytd-secondary-search-container-renderer
+! YT Search - just videos (disabled as it blocks playlists)
+! youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer),ytd-secondary-search-container-renderer
+! YT Search - just videos + channels (disabled as it blocks playlists)
+! youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer,ytd-channel-renderer),ytd-secondary-search-container-renderer
 www.youtube.com##.ytp-endscreen-content
 www.youtube.com###related
 www.youtube.com##.ytp-videowall-still-info-content
@@ -85,9 +82,7 @@ www.youtube.com##.ytp-gradient-top
 www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element-shadow
 
-
-
-! 6/15/2020 https://tabs.ultimate-guitar.com
+! https://tabs.ultimate-guitar.com
 tabs.ultimate-guitar.com##._3o2b6
 tabs.ultimate-guitar.com##.js-fp-video
 tabs.ultimate-guitar.com##._2ATGy
@@ -263,7 +258,6 @@ cryptonews.com##.centered
 cryptonews.com##.show.cn-invite-fixed
 cryptonews.com##.ssk-left.ssk-center.ssk-sticky.ssk-group
 cryptonews.com##.inarticle
-
 
 
 ! 2021-07-11 https://www.manualslib.com
@@ -793,3 +787,81 @@ calendar.google.com##div.FrSOzf:nth-of-type(1)
 
 ! 2021-02-06 https://www.youtube.com
 www.youtube.com###voice-search-button
+
+! 8/2/2020 https://www.youtube.com
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(2)
+
+! 2020-12-20 https://www.experts-exchange.com
+www.experts-exchange.com##.limitedUsagesWrapper
+
+! 2022-01-31 https://www.theurbanlist.com
+www.theurbanlist.com##.linkby-widget
+
+! 2022-01-26 https://h30434.www3.hp.com
+h30434.www3.hp.com##.alert-section > ul > .notification-alert > .announcements-content
+
+! 2021-12-05 https://community.spiceworks.com
+community.spiceworks.com##.card-columns--old.card-columns
+community.spiceworks.com##.curated-items.constrained-content.js-read-next-footer.read-next-footer
+community.spiceworks.com##.global-nav_wrapper > .global-nav_destinations
+
+! 2021-11-18 https://bestdroidplayer.com
+bestdroidplayer.com##.ulp-fadeIn.ulp-animated.ulp-overlay
+bestdroidplayer.com##.ulp-window-container
+bestdroidplayer.com##p:nth-of-type(6)
+
+
+! 2021-11-28 https://www.nasdaq.com
+www.nasdaq.com##.series-video-player-new
+www.nasdaq.com##div.body--no-ads.body:nth-of-type(6)
+www.nasdaq.com##.video__inline
+
+! 2021-08-19 https://logout.hu
+logout.hu###accept_container
+
+! 2021-08-17 https://www.experts-exchange.com
+www.experts-exchange.com##.gOGrqS.learnFromTheBest__LearnFromWrapper-qhnvu1-0
+
+! 2021-08-13 http://live.cdnz.one
+live.cdnz.one##.cc-color-override--907048115.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+
+! 2021-08-16 https://mozilla.crowdicity.com
+mozilla.crowdicity.com##.cc_container--open.cc_container.cc_banner
+
+! 2021-08-10 https://www.moviestudiozen.com
+www.moviestudiozen.com##.cc-color-override--1784902839.cc-bottom.cc-opacity-90.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
+
+! 2021-08-10 https://www.inlivo.com
+www.inlivo.com##.in.fade.modal
+www.inlivo.com##.in.fade.modal-backdrop
+||www.inlivo.com//js/plugins/newsletter-form.js$xhr,domain=www.inlivo.com
+||cdn.jsdelivr.net/jquery.jssocials/*$script
+
+! 2021-05-27 https://serverfault.com
+serverfault.com##.js-footer.site-footer
+
+
+! 2021-07-23 https://tabs.ultimate-guitar.com
+tabs.ultimate-guitar.com##._1Rmfr.h0mpP
+tabs.ultimate-guitar.com##._32WVf.GNs3K._17Cml > ._2LdY7._3DU-x
+tabs.ultimate-guitar.com##._179GN
+
+! 2021-07-24 https://tabs.ultimate-guitar.com
+tabs.ultimate-guitar.com##._3JqBu
+
+! 2021-08-05 https://retrocomputing.stackexchange.com
+retrocomputing.stackexchange.com##.js-consent-banner
+
+
+! 2021-08-05 https://hackaday.com
+hackaday.com##.cookie-notifications
+
+! 2021-08-06 https://www.aliexpress.com
+www.aliexpress.com##.notice-content
+
+! 2021-08-07 https://www.theverge.com
+www.theverge.com##.c-newsletter_signup_box__main
+
+! 2021-08-07 https://softwarerecs.stackexchange.com
+softwarerecs.stackexchange.com##.js-consent-banner
