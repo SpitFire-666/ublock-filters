@@ -9,11 +9,13 @@ community.spiceworks.com##.join-promotion.sui-alert--info.sui-alert
 community.spiceworks.com##.community-content-banner
 community.spiceworks.com##.gekko_post
 
+twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
+twitter.com##html:style(overflow: auto !important;)
+
+www.amazon.com###desktop-banner
 
 www.neowin.net##.deals > .wrap > .row
 
-
-! 2021-07-31 https://www.nme.com
 www.nme.com##.jw-reset.jw-video
 www.nme.com##.jw-reset.jw-media
 www.nme.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
@@ -870,26 +872,18 @@ https://cdn.jsdelivr.net/gh/Arlina-Design/quasar@master/arlinablock.js
 
 https://www.file-upload.com/js/advertisement.js
 
-! 2022-02-02 https://www.thebump.com
 www.thebump.com##.ReactModalPortal
 
-! 2022-02-02 https://www.bbcearth.com
 www.bbcearth.com##.modal__overlay--after-open.modal__overlay
 
 ||forum.funkysouls.com/go.php$doc
 
-! 2021-12-27 https://www.cnet.com
 www.cnet.com##.col-4 > div
 
-! 2022-01-02 https://www.lucieslist.com
 www.lucieslist.com##body > .d-flex.open.flex-align-center.flex-column.llpopup
 
-! 2022-01-03 https://www.layerform.com
 www.layerform.com##.sgpb-popup-dialog-main-div-wrapper
 
-! 2022-01-06 https://androidtvnews.com
 androidtvnews.com##.wp-block-affiliate-plugin-lasso
 
-! 2021-05-27 https://allthatsinteresting.com
 allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
-
