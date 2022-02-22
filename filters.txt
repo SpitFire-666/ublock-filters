@@ -954,3 +954,46 @@ facebook.com##div[role=button] > span:not(>*):has-text(/related/i):upward(4)
 ! facebook.com##div[role=feed] > div span:not(>*):has-text(/^Related discussions$/):upward(span)
 ! Removes FB's "Related discussions" panel [OPTION 4]:
 ! facebook.com##div[role=feed] > div > div > div > div > div > div > div > div > div > div > div > div:nth-child(2) > div > span > div > div:nth-child(2) > div > div > div > span:not(>*):has-text(/^Related discussions$/):upward(span)
+
+
+answers.microsoft.com##.railbanner_m365_answers.RailBanner.iuSINM.sc-giYglK
+
+appuals.com##.wp-timed-p
+
+www.partitionwizard.com##.downbtn
+www.partitionwizard.com##.article-recommend
+www.partitionwizard.com##.promotions-banner-wrap
+www.partitionwizard.com##.promotions-banner-wrap
+www.partitionwizard.com##.bottom-cookie-wrap
+
+www.sunwestgenetics.com##.elementor-location-popup.elementor-5008116.elementor
+msfn.org##.ipsMessage_error.ipsAnnouncement.ipsJS_hide.cAnnouncementPageTop
+unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+serverfault.com##.js-consent-banner
+www.usatoday.com##.gnt_em_vp__tavp.gnt_em > div
+www.urbandictionary.com##.mug-ad
+www.urbandictionary.com##.subscribe-panel > .panel
+app.sli.do##.privacy-manager__banner--visible.privacy-manager__banner.privacy-manager
+
+www.businessinsider.com##.content-lock-content > .only-desktop.in-post.fluid.ad-wrapper.ad
+www.businessinsider.com###gpt-slideshow-sai_contributor-slideshow_one_page_ad_desktop-desktop-0
+www.businessinsider.com###gpt-slideshow-sai_contributor-slideshow_one_page_ad_desktop-desktop-1
+www.businessinsider.com###gpt-slideshow-sai_contributor-slideshow_one_page_ad_desktop-desktop-2
+www.businessinsider.com###gpt-slideshow-sai_contributor-slideshow_one_page_ad_desktop-desktop-3
+www.businessinsider.com###gpt-slideshow-sai_contributor-slideshow_one_page_ad_desktop-desktop-4
+www.businessinsider.com##.subnav-ad-position-sticky.post-page.subnav-ad-layout.l-ad
+www.the-sun.com##.advert-wrapper--placeholder.advert-wrapper--leaderboard.advert-wrapper
+www.the-sun.com##.mpu-container.dfp-ad-container.advert-wrapper--placeholder
+www.the-sun.com##.mpu3-container.dfp-ad-container.advert-wrapper--placeholder
+
+www.nytimes.com##.efw9frv0.css-3fbowa.expanded-dock.expanded.shown.MAG_web_all_Monthly-Sale-dock
+nypost.com##.news-com-au-header__inner
+9gag.com###sidebar-stream-0 > .sticky > div
+||app.link/_r$script,domain=twitter.com
+||api.twitter.com/1.1/jot/client_event.json$xhr,1p
+||twitter.com/i/api/1.1/onboarding/fatigue.json$xhr,1p
+twitter.com##.r-13qz1uu.r-1rnoaur.r-1ye8kvj.r-pm9dpa.r-1jgb5lz.r-1867qdf.r-kemksi.css-1dbjc4n
+twitter.com##.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n
+www.tiktok.com##span.lazyload-wrapper:nth-of-type(6)
