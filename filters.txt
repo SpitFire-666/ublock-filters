@@ -997,3 +997,15 @@ nypost.com##.news-com-au-header__inner
 twitter.com##.r-13qz1uu.r-1rnoaur.r-1ye8kvj.r-pm9dpa.r-1jgb5lz.r-1867qdf.r-kemksi.css-1dbjc4n
 twitter.com##.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n
 www.tiktok.com##span.lazyload-wrapper:nth-of-type(6)
+filesmerge.com##.text-center.navbar-fixed-top.navbar-default.yamm.navbar
+filesmerge.com##.col-sm-12.col-xs-12 > div > div > p
+linuxhint.com##.cb-box__wrapper-row
+linuxhint.com##.cb-box__wrapper-center_modal
+
+
+pf-electronicstt.com###h860
+
+
+kinsta.com##div.in-post-container:nth-of-type(3)
+kinsta.com##.sidebar-cta
+
