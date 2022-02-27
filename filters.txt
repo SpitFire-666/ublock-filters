@@ -1009,3 +1009,7 @@ pf-electronicstt.com###h860
 kinsta.com##div.in-post-container:nth-of-type(3)
 kinsta.com##.sidebar-cta
 
+twitter.com##html:style(overflow: auto !important;)
+twitter.com##div#layers div[data-testid=”sheetDialog”]:upward(div[role=”group”][tabindex=”0″])
+twitter.com##+js(overlay-buster.js)
+twitter.com##html:style(overflow: unset !important)
