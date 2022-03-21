@@ -1013,3 +1013,14 @@ twitter.com##html:style(overflow: auto !important;)
 twitter.com##div#layers div[data-testid=”sheetDialog”]:upward(div[role=”group”][tabindex=”0″])
 twitter.com##+js(overlay-buster.js)
 twitter.com##html:style(overflow: unset !important)
+
+www.ebay.com.au###placement_html_101195 > .merch-module
+www.ebay.com.au###placement_html_101196 > .merch-module
+www.ebay.co.uk##.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module
+www.ebay.com###placement_html_101197
+www.ebay.com###placement_html_101198
+www.ebay.com###glbfooter
+www.ebay.com.au###s0-14-11-8-5\[0\]-1-20-list
+www.ebay.com.au###placement_html_101197 > .merch-module
+www.ebay.com.au###placement_html_101198 > .merch-module
+
