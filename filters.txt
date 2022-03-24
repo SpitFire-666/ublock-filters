@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Filters by SpitFire-666
+! Title: uBlock Filters by SpitFire-666
 ! Version: 1
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
