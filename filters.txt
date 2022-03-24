@@ -1,6 +1,7 @@
-[Adblock Plus 2.0]
-! Title: uBlock Filters by SpitFire-666
-! Version: 1
+[Adblock Plus 3.4]
+! Title: 🛩 uBlock Filters by SpitFire-666
+! Expires: 10 days
+! Description: Remove all the 💩
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
 community.spiceworks.com###join-login_alt-modal
@@ -22,7 +23,6 @@ www.nme.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 www.nme.com##.jw-reset.jw-wrapper
 www.nme.com###botr_mmlgkHZx_TADMMIT9_div > .jw-reset.jw-aspect
 
-
 devblogs.microsoft.com##.smcx-opaque.smcx-hide-branding.smcx-widget-dark.smcx-show.smcx-modal-invitation.smcx-modal.smcx-widget
 
 coinmarketcap.com##.routeSwitcher___3u2Qr.container
@@ -41,8 +41,6 @@ www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_targetedTiles6 > .market
 www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
-
-
 forums.androidcentral.com##.jw-reset.jw-video
 
 
@@ -52,10 +50,7 @@ forums.androidcentral.com##.jw-reset.jw-video
 www.flickr.com###yui_3_16_0_1_1581312878209_7336
 www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
 
-
-
 ||aadcdn.msftauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
-
 
 ||logincdn.msauth.net/16.000.28497.4/content/images/backgrounds/0*.jpg$image
 
@@ -447,7 +442,6 @@ www.dell.com##.ask-question-banner-wrapper
 ! 2020-10-16 https://www.booking.com
 www.booking.com##.b_leaving_users_light_box.modal-wrapper
 www.booking.com##.b_leaving_users_light_box_mask.modal-mask
-
 
 
 ! 8/2/2020 https://tutorials-raspberrypi.com
@@ -1024,3 +1018,37 @@ www.ebay.com.au###s0-14-11-8-5\[0\]-1-20-list
 www.ebay.com.au###placement_html_101197 > .merch-module
 www.ebay.com.au###placement_html_101198 > .merch-module
 
+www.propertychat.com.au###nativeads_ad_below_messages
+
+! 2022-03-01 https://forums.tomsguide.com
+forums.tomsguide.com##.jw-floating-dismissible.jw-breakpoint-4.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-playing.jw-reset.jwplayer
+forums.tomsguide.com##.jw-reset.jw-video
+forums.tomsguide.com###jwplayer-container-div > .jw-reset.jw-aspect
+forums.tomsguide.com##.jw-reset.jw-media
+forums.tomsguide.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+||videos-cloudflare.jwpsrv.com^$xhr,domain=forums.tomsguide.com
+||cdn.jwplayer.com^$xhr,domain=forums.tomsguide.com
+||ssl.p.jwpcdn.com^$script,domain=forums.tomsguide.com
+||jwplayer-dualstack.map.fastly.net^$script,domain=forums.tomsguide.com
+||cdn.jwplayer.com^$script,domain=forums.tomsguide.com
+forums.tomsguide.com###jwplayer-container-div
+
+! 2022-02-06 https://www.catch.com.au
+www.catch.com.au##.lazyloaded.event--card.img-responsive
+www.catch.com.au##.banner--container
+www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(5)
+www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(3)
+
+! 2022-02-03 https://www.broadsheet.com.au
+www.broadsheet.com.au##.hvEBaY.SearchForm-sc-1rtba0o-0
+||www.broadsheet.com.au/ping/*$xhr,domain=www.broadsheet.com.au
+
+! 2021-08-09 https://www.bhg.com
+||imagesvc.meredithcorp.io/v3/jumpstartpure/image$image
+www.bhg.com##.jumpstart-video
+
+! 2021-08-06 https://resistorcolorcodecalc.com
+resistorcolorcodecalc.com##.show.consent.text-center.alert-dismissible.alert
+
+! 2021-08-06 https://www.diynot.com
+www.diynot.com##.cc-color-override-1519961192.cc-right.cc-top.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
