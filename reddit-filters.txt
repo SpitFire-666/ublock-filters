@@ -1,3 +1,6 @@
+! Title: REDDIT cleanser
+! Description: Removes comments by users and removes inane comments about cake days etc
+
 ! SHIT reddit comments
 reddit.com#?#.Comment,.entry:-abp-contains(/Happy Cake ?Day/i)
 
