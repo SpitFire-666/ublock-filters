@@ -1,4 +1,4 @@
-! Title: REDDIT cleanser
+! Title: SpitFire-666: REDDIT cleanser
 ! Description: Removes comments by users and removes inane comments about cake days etc
 
 ! SHIT reddit comments
