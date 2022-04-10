@@ -1,0 +1,8 @@
+! SHIT reddit comments
+reddit.com#?#.Comment,.entry:-abp-contains(/Happy Cake ?Day/i)
+
+! block comments from bad users
+reddit.com#?#.Comment,.Post:-abp-has(a[href="/user/AutoModerator"])
+
+! old.reddit.com SHIT users/posts
+reddit.com#?#.entry:-abp-has(a[href*="/user/AutoModerator"])
