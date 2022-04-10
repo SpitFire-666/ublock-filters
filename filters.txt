@@ -1,4 +1,3 @@
-[Adblock Plus 3.4]
 ! Title: SpitFire-666: uBlock Filters
 ! Expires: 10 days
 ! Description: Remove all the 💩
@@ -1027,3 +1026,10 @@ thehouseofportable.com###preload
 thehouseofportable.com###modalDisclaimer
 thehouseofportable.com##.mlock
 
+||music.youtube.com^$csp=worker-src 'none'
+||www.youtube.com^$csp=worker-src 'none'
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
