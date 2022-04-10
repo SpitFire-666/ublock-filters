@@ -1,5 +1,5 @@
 [Adblock Plus 3.4]
-! Title: 🛩 uBlock Filters by SpitFire-666
+! Title: SpitFire-666: uBlock Filters
 ! Expires: 10 days
 ! Description: Remove all the 💩
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
@@ -710,10 +710,9 @@ live.cdnz.one##.overlay_video
 adminscache.wordpress.com###infinite-footer
 
 
-! 2021-10-04 https://www.manualslib.com
 www.manualslib.com##.blue2.tagsbg
 
-! 2021-10-31 https://medium.com
+
 medium.com##.ts.fn.cw.ct
 
 ! 2021-08-21 https://www.bloomberg.com
@@ -748,8 +747,6 @@ sourceforge.net###newsletter-floating
 sourceforge.net##a.default.button:nth-of-type(2)
 sourceforge.net###share-project-button
 
-
-! 2020-08-31 https://insider.windows.com
 insider.windows.com###epb
 
 ! 2020-09-02 https://www.collective-evolution.com
@@ -758,8 +755,6 @@ www.collective-evolution.com##.et_bloom_animation_fadein.et_bloom_form_text_dark
 ! 2020-09-26 https://old.reddit.com
 old.reddit.com##.premium-banner-outer
 
-
-! 2020-10-23 https://answers.microsoft.com
 answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 
 
@@ -846,20 +841,17 @@ tabs.ultimate-guitar.com##._179GN
 ! 2021-07-24 https://tabs.ultimate-guitar.com
 tabs.ultimate-guitar.com##._3JqBu
 
-! 2021-08-05 https://retrocomputing.stackexchange.com
+
 retrocomputing.stackexchange.com##.js-consent-banner
 
-
-! 2021-08-05 https://hackaday.com
 hackaday.com##.cookie-notifications
 
-! 2021-08-06 https://www.aliexpress.com
 www.aliexpress.com##.notice-content
 
-! 2021-08-07 https://www.theverge.com
+
 www.theverge.com##.c-newsletter_signup_box__main
 
-! 2021-08-07 https://softwarerecs.stackexchange.com
+
 softwarerecs.stackexchange.com##.js-consent-banner
 
 https://cdn.jsdelivr.net/gh/Arlina-Design/quasar@master/arlinablock.js
@@ -1008,15 +1000,6 @@ twitter.com##div#layers div[data-testid=”sheetDialog”]:upward(div[role=”gr
 twitter.com##+js(overlay-buster.js)
 twitter.com##html:style(overflow: unset !important)
 
-www.ebay.com.au###placement_html_101195 > .merch-module
-www.ebay.com.au###placement_html_101196 > .merch-module
-www.ebay.co.uk##.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module
-www.ebay.com###placement_html_101197
-www.ebay.com###placement_html_101198
-www.ebay.com###glbfooter
-www.ebay.com.au###s0-14-11-8-5\[0\]-1-20-list
-www.ebay.com.au###placement_html_101197 > .merch-module
-www.ebay.com.au###placement_html_101198 > .merch-module
 
 www.propertychat.com.au###nativeads_ad_below_messages
 
@@ -1033,22 +1016,14 @@ forums.tomsguide.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 ||cdn.jwplayer.com^$script,domain=forums.tomsguide.com
 forums.tomsguide.com###jwplayer-container-div
 
-! 2022-02-06 https://www.catch.com.au
-www.catch.com.au##.lazyloaded.event--card.img-responsive
-www.catch.com.au##.banner--container
-www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(5)
-www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(3)
-
-! 2022-02-03 https://www.broadsheet.com.au
-www.broadsheet.com.au##.hvEBaY.SearchForm-sc-1rtba0o-0
-||www.broadsheet.com.au/ping/*$xhr,domain=www.broadsheet.com.au
-
-! 2021-08-09 https://www.bhg.com
 ||imagesvc.meredithcorp.io/v3/jumpstartpure/image$image
 www.bhg.com##.jumpstart-video
-
-! 2021-08-06 https://resistorcolorcodecalc.com
 resistorcolorcodecalc.com##.show.consent.text-center.alert-dismissible.alert
-
-! 2021-08-06 https://www.diynot.com
 www.diynot.com##.cc-color-override-1519961192.cc-right.cc-top.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+www.editpad.org###consent
+www.editpad.org##.inlinADs
+
+thehouseofportable.com###preload
+thehouseofportable.com###modalDisclaimer
+thehouseofportable.com##.mlock
+
