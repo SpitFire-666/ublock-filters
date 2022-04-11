@@ -3,6 +3,7 @@
 
 ! SHIT reddit comments
 reddit.com#?#.Comment,.entry:-abp-contains(/Happy Cake ?Day/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/[deleted]/i)
 
 ! block comments from bad users
 reddit.com#?#.Comment,.Post:-abp-has(a[href="/user/AutoModerator"])
