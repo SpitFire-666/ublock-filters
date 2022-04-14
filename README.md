@@ -14,6 +14,11 @@ https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Sp
 
 # Recommended additional filters
 
+- Easylist Cookie
+
+
+- DandelionSprout's Legitimate URL Shortener
+
 https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener
 
 # How Tos
