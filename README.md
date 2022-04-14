@@ -1,25 +1,17 @@
-# ublock-filters
-
-## Click to subscribe:
-
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/filters.txt&title=SpitFire-666%20%uBlock%20Filters
-
-- Text version:
-- 
-https://github.com/SpitFire-666/ublock-filters/raw/main/filters.txt
+# SpitFire-666's ublock-filters page
 
 
-Aussie uBlock Filters
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt&title=SpitFire-666%20Aussie%20uBlock%20Filters
+| Filter | Desc | Click to subscribe | View filters |
+|--|--|--|--|
+| SpitFire-666: uBlock Filters | |  https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/filters.txt&title=SpitFire-666%20%uBlock%20Filters  |
+| SpitFire-666: Aussie uBlock Filters | | https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt&title=SpitFire-666%20Aussie%20uBlock%20Filters
 
 # Recommended additional filters
 
-- Easylist Cookie
-
-
-- DandelionSprout's Legitimate URL Shortener
-
-https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener
+| Filter | Desc | Click to subscribe | View filters |
+|--|--|--|--|
+| Easylist Cookie | | |
+| DandelionSprout's Legitimate URL Shortener | https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener | | |
 
 # How Tos
 
