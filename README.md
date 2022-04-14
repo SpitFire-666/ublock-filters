@@ -10,9 +10,11 @@ https://github.com/SpitFire-666/ublock-filters/raw/main/filters.txt
 
 
 Aussie uBlock Filters
-https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt&title=SpitFire-666%20Aussie%20uBlock%20Filters
 
+# Recommended additional filters
 
+https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener
 
 # How Tos
 
