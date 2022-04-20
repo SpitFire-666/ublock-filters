@@ -2,9 +2,18 @@
 ! Description: Removes comments by users and removes inane comments about cake days etc
 
 ! SHIT reddit comments
+
+!#if !adguard
 reddit.com#?#.Comment,.entry:-abp-contains(/Happy Cake ?Day/i)
-reddit.com#?#.Comment,.entry:-abp-contains(/[deleted]/i)
-reddit.com#?#.Comment,.entry:-abp-contains(/RemindMe!/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/RemindMe/i)
+reddit.com#?#.Comment,.entry:-abp-has(a:-abp-contains(/^r/chargeyourphone$/))
+reddit.com#?#.Comment,.entry:-abp-contains(/Charge your phone/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/there are dozens of us/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/there are literally dozens of us/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/nice/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/solid chuckle/i)
+!#endif
+
 
 
 ! block comments from bad users
