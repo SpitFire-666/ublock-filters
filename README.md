@@ -1,10 +1,10 @@
 # SpitFire-666's ublock-filters page
 
 
-| Filter | Desc | Click to subscribe | View filters |
+| Name | Desc | Click to subscribe | View filters |
 |--|--|--|--|
 | SpitFire-666: uBlock Filters | |  https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/filters.txt&title=SpitFire-666%20%uBlock%20Filters  |
-| SpitFire-666: Aussie uBlock Filters | | https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt&title=SpitFire-666%20Aussie%20uBlock%20Filters
+| SpitFire-666: Aussie uBlock Filters | 🇦🇺 | https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt&title=SpitFire-666%20Aussie%20uBlock%20Filters
 
 # Recommended additional filters
 
