@@ -12,6 +12,8 @@ reddit.com#?#.Comment,.entry:-abp-contains(/there are dozens of us/i)
 reddit.com#?#.Comment,.entry:-abp-contains(/there are literally dozens of us/i)
 reddit.com#?#.Comment,.entry:-abp-contains(/nice/i)
 reddit.com#?#.Comment,.entry:-abp-contains(/solid chuckle/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/t.me/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/ty/i)
 !#endif
 
 
