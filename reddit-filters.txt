@@ -23,3 +23,5 @@ reddit.com#?#.Comment,.Post:-abp-has(a[href="/user/AutoModerator"])
 
 ! old.reddit.com SHIT users/posts
 reddit.com#?#.entry:-abp-has(a[href*="/user/AutoModerator"])
+reddit.com#?#.entry:-abp-has(a[href*="/user/RemindMeBot"])
+reddit.com#?#.entry:-abp-has(a[href*="/user/HaikuBot"])
