@@ -14,6 +14,7 @@ reddit.com#?#.Comment,.entry:-abp-contains(/nice/i)
 reddit.com#?#.Comment,.entry:-abp-contains(/solid chuckle/i)
 reddit.com#?#.Comment,.entry:-abp-contains(/t.me/i)
 reddit.com#?#.Comment,.entry:-abp-contains(/ty/i)
+reddit.com#?#.Comment,.entry:-abp-contains(/Bump/i)
 !#endif
 
 
