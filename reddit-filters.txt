@@ -20,9 +20,9 @@ reddit.com#?#.Comment,.entry:-abp-contains(/Bump/i)
 
 
 ! block comments from bad users
-reddit.com#?#.Comment,.Post:-abp-has(a[href="/user/AutoModerator"])
+!reddit.com#?#.Comment,.Post:-abp-has(a[href="/user/AutoModerator"])
 
 ! old.reddit.com SHIT users/posts
-reddit.com#?#.entry:-abp-has(a[href*="/user/AutoModerator"])
-reddit.com#?#.entry:-abp-has(a[href*="/user/RemindMeBot"])
-reddit.com#?#.entry:-abp-has(a[href*="/user/HaikuBot"])
+!reddit.com#?#.entry:-abp-has(a[href*="/user/AutoModerator"])
+!reddit.com#?#.entry:-abp-has(a[href*="/user/RemindMeBot"])
+!reddit.com#?#.entry:-abp-has(a[href*="/user/HaikuBot"])
