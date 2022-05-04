@@ -26,3 +26,4 @@
 !reddit.com#?#.entry:-abp-has(a[href*="/user/AutoModerator"])
 !reddit.com#?#.entry:-abp-has(a[href*="/user/RemindMeBot"])
 !reddit.com#?#.entry:-abp-has(a[href*="/user/HaikuBot"])
+!reddit.com#?#.entry:-abp-has(a[href*="/user/Shakespeare-Bot"])
