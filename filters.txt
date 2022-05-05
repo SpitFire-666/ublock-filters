@@ -1033,3 +1033,41 @@ youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
 youtube.com##+js(json-prune, playerResponse.adPlacements)
 youtube.com##+js(json-prune, playerResponse.playerAds)
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
+
+! 2022-04-19 https://fourhundredandtwenty.biz
+||fourhundredandtwenty.biz/wp-content/themes/fourhundredandtwenty_new/assets/420-bg.jpg$image
+fourhundredandtwenty.biz##.popup_ukraine__overlay
+fourhundredandtwenty.biz##.hiring__banner-active.hiring__banner
+
+! 2022-04-19 https://blog.davey.com
+blog.davey.com##.collection-overlay-block
+
+! 2022-04-19 https://teachschoolnepal.wordpress.com
+teachschoolnepal.wordpress.com##.noskim.marketing-bar
+
+! 2022-04-19 https://old.reddit.com
+old.reddit.com##.listingsignupbar.infobar
+
+! 2022-04-21 https://moovitapp.com
+moovitapp.com##.multi-side-bar-1.layout-row.app-container > .collapsed
+moovitapp.com##.multi-side-bar-1.layout-row.app-container > .expanded
+
+
+! 2022-04-21 https://chrome.google.com
+chrome.google.com##.yD5gtd
+
+! 2022-04-27 https://old.reddit.com
+old.reddit.com##.commentsignupbar.infobar
+
+! 2022-04-27 https://clickamericana.com
+clickamericana.com##.IRPP_ruby
+
+! 2022-04-28 https://behind-the-scene
+||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*$xhr
+||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*
+
+! 2022-04-28 https://www.homeimproverx.com
+||www.homeimproverx.com/?wmcAction=wmcTrack
+
+! 2022-05-01 https://www.hunker.com
+www.hunker.com##.component-article-section-jwplayer
