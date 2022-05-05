@@ -1,5 +1,6 @@
 ! Title: SpitFire-666: Aussie uBlock Filters 
 
+
 7news.com.au##.e1ar06v00.css-1k86mvy-StyledToastContainer.ToastNotification.cookie-consent--normal
 7news.com.au##.e1rlhwat3.css-1x7afyc-StyledCenter
 7news.com.au##.ezspa790.css-1p6t1b1-StyledStickyContainer
@@ -191,25 +192,19 @@ www.myshopping.com.au##div:nth-of-type(21)
 www.glassdoor.com.au##div.ec4dwm00.css-11b1byw.gd-ui-module:nth-of-type(4)
 www.glassdoor.com.au##.ec4dwm00.css-18hgx8a.gd-ui-module.mb-std.m-0.notEepHasJobs.inlineJobs
 
-www.nickscali.com.au##.popup-center-center
-www.nickscali.com.au##.popup-bg-none
 
 www.bhg.com.au##.jw-reset.jw-video
 www.bhg.com.au##.jw-reset.jw-display
 www.bhg.com.au##.jw-reset.jw-wrapper
 www.bhg.com.au##.Video--Loaded.Video--StickyAdOpen.Video--JWPlayer.Video
 
-! 2020-08-17 https://www.ebay.com.au
 www.ebay.com.au###merch_html_100752
 
-
-! 2022-02-06 https://www.catch.com.au
 www.catch.com.au##.lazyloaded.event--card.img-responsive
 www.catch.com.au##.banner--container
 www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(5)
 www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(3)
 
-! 2022-02-03 https://www.broadsheet.com.au
 www.broadsheet.com.au##.hvEBaY.SearchForm-sc-1rtba0o-0
 ||www.broadsheet.com.au/ping/*$xhr,domain=www.broadsheet.com.au
 
@@ -222,3 +217,9 @@ www.ebay.com###glbfooter
 www.ebay.com.au###s0-14-11-8-5\[0\]-1-20-list
 www.ebay.com.au###placement_html_101197 > .merch-module
 www.ebay.com.au###placement_html_101198 > .merch-module
+
+www.ptv.vic.gov.au##.favourites-layout__modal--non-blocking.favourites-layout__modal.modal--simple.myki-modal.show.fade.modal
+
+www.nickscali.com.au##.popup-center-center
+www.nickscali.com.au##.popup-bg-none
+www.nickscali.com.au##._hide-for-tablet._hide-for-mobile.non-purchasable-info
