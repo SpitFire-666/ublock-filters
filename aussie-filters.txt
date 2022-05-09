@@ -150,15 +150,11 @@ www.carsguide.com.au##.id-0.leaderboard
 www.amazon.com.au##.nav-sprite-v1.navLeftFooter
 www.amazon.com.au###anonCarousel2 > .a-carousel > li.a-carousel-card > div
 
-! 2022-01-15 https://www.ebay.com.au
-www.ebay.com.au##.vi-lb-placeholder
 
 
-! 2021-12-31 https://www.jbl.com.au
 www.jbl.com.au##.ctd-modal-subscribe
 
 
-! 2021-12-21 https://www.standard.net.au
 ||buy-au.piano.io/checkout/template/cacheableShow$subdocument
 ||buy-au.piano.io/checkout/template/cacheableShow?aid=zFviteD8av&templateId=OTRNV6ZTR2YD&templateVariantId=OTVR9BVSH6LAH&offerId=fakeOfferId&experienceId=EXA0KESWACND&iframeId=offer_8aaf6bea4e58e852aeaa-0&displayMode=modal&pianoIdUrl=https%3A%2F%2Fid-au.piano.io%2Fid%2F&widget=template&url=https%3A%2F%2Fwww.standard.net.au$subdocument
 www.standard.net.au##.tp-modal
@@ -198,8 +194,6 @@ www.bhg.com.au##.jw-reset.jw-display
 www.bhg.com.au##.jw-reset.jw-wrapper
 www.bhg.com.au##.Video--Loaded.Video--StickyAdOpen.Video--JWPlayer.Video
 
-www.ebay.com.au###merch_html_100752
-
 www.catch.com.au##.lazyloaded.event--card.img-responsive
 www.catch.com.au##.banner--container
 www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(5)
@@ -217,9 +211,32 @@ www.ebay.com###glbfooter
 www.ebay.com.au###s0-14-11-8-5\[0\]-1-20-list
 www.ebay.com.au###placement_html_101197 > .merch-module
 www.ebay.com.au###placement_html_101198 > .merch-module
+www.ebay.com.au###placement_html_101197 > .merch-module > .aspects-1.container_wrapper
+www.ebay.com.au###placement_html_101198 > .merch-module > .aspects-1.container_wrapper
+www.ebay.com.au##.vi-lb-placeholder
+www.ebay.com.au###merch_html_100752
 
 www.ptv.vic.gov.au##.favourites-layout__modal--non-blocking.favourites-layout__modal.modal--simple.myki-modal.show.fade.modal
 
 www.nickscali.com.au##.popup-center-center
 www.nickscali.com.au##.popup-bg-none
 www.nickscali.com.au##._hide-for-tablet._hide-for-mobile.non-purchasable-info
+
+paycalculator.com.au##.jss493.MuiBox-root
+
+au.nextdoor.com##.css-1nl4xtf
+
+$removeparam=psrid,domain=totaltools.com.au
+$removeparam=psrid,domain=sydneytools.com.au
+$removeparam=psrid,domain=cltoolcentre.com.au
+
+www.gumtree.com.au##.liberty-container-1001--dweb-hg-cars-vans-ute.liberty-container-1001
+
+www.babybunting.com.au##.consent-cookie
+
+forums.whirlpool.net.au###rr49507306 > div.reply-archived.reply > .abvertibing_block
+forums.whirlpool.net.au###rr70872218 > div.reply-archived.reply > .abvertibing_block
+forums.whirlpool.net.au##div.reply-archived.reply:nth-of-type(2)
+
+www.comedyfestival.com.au##.takeover
+www.comedyfestival.com.au##.container.footer__heritage.footer__signoff
