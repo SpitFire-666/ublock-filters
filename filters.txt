@@ -1,5 +1,5 @@
 ! Title: SpitFire-666: uBlock Filters
-! Expires: 10 days
+! Expires: 3 days
 ! Description: Remove all the 💩
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
@@ -42,9 +42,7 @@ www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-windo
 
 forums.androidcentral.com##.jw-reset.jw-video
 
-
 ||aadcdn.msauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
-
 
 www.flickr.com###yui_3_16_0_1_1581312878209_7336
 www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
@@ -1062,12 +1060,70 @@ old.reddit.com##.commentsignupbar.infobar
 ! 2022-04-27 https://clickamericana.com
 clickamericana.com##.IRPP_ruby
 
-! 2022-04-28 https://behind-the-scene
 ||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*$xhr
 ||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*
 
-! 2022-04-28 https://www.homeimproverx.com
 ||www.homeimproverx.com/?wmcAction=wmcTrack
 
-! 2022-05-01 https://www.hunker.com
 www.hunker.com##.component-article-section-jwplayer
+
+www.thelocal.de##.show.fade.modal
+www.thelocal.de##.show.fade.modal-backdrop
+
+haydenjames.io###chkmk_mp4_1-main-video
+
+! 2022-04-23 https://www.vari.com
+www.vari.com##.underlay
+www.vari.com##.body-overlay.veil
+
+$removeparam=ref,domain=amazon.com
+
+$removeparam=cp,domain=nextdoor.com
+$removeparam=s,domain=nextdoor.com
+$removeparam=section,domain=nextdoor.com
+$removeparam=ct,domain=nextdoor.com
+$removeparam=ec,domain=nextdoor.com
+
+
+! 2022-04-25 https://www.youtube.com
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+
+! 2022-05-03 http://www.brisray.com
+||www.brisray.com/common/back1.jpg$image
+
+! 2022-05-04 https://www.techradar.com
+www.techradar.com##.region_redirect_banner
+
+www.spiegel.de###sp_message_container_624689
+
+||i0.wp.com/image.tmdb.org/t/p/w780/bjBkAK4TyxINQutldopaIfajrWD.jpg$image
+bemovies.club##.modal-dialog-centered.modal-dialog
+bemovies.club##.show.fade.modal
+bemovies.club##.show.fade.modal-backdrop
+
+4.app.fujifilmimagine.com##.TrackingBanner
+
+techcommunity.microsoft.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+techcommunity.microsoft.com##.ui-widget-overlay
+
+outlook.live.com##.main-403.DqTF3RVZk-VVk1-AVfue-.ms-Dialog-main
+outlook.live.com##.root-407.ms-Overlay--dark.ms-Overlay
+
+medium.com##.zt.zs.zr.zq.zp > .sq.sp.pw-highlight-menu > div
+
+semaphoreci.com##.gagpzpd.g1b36ey.g4yn9cd.g-fh86qq.gifw5gm.g-h0t0jn
+
+||mcs-sg.tiktok.com^$xhr,domain=www.tiktok.com
+||mcs-sg.tiktok.com^$domain=www.tiktok.com
+
+www.dropbox.com##.ReactModalPortal
+
+www.ebay.com###placement_html_101197 > .merch-module
+www.ebay.com###placement_html_101198
+
+www.picturecorrect.com###tve_tcb2_set-040 > .tve-leads-conversion-object
+
+www.wired.com##.sticky-box.luKJG.StickyBoxWrapper-euhCxU > .sticky-box__primary.dFVkFO.StickyBoxPrimary-fEgDcn
+
+www.reddit.com##.create.sidebox
+www.reddit.com##.footer-parent
