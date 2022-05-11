@@ -15,6 +15,10 @@
 !reddit.com#?#.Comment,.entry:-abp-contains(/t.me/i)
 !reddit.com#?#.Comment,.entry:-abp-contains(/ty/i)
 !reddit.com#?#.Comment,.entry:-abp-contains(/Bump/i)
+!reddit.com#?#.Comment,.entry:-abp-contains(/Hi Dad/i)
+!reddit.com#?#.Comment,.entry:-abp-contains(/Thank you kind stranger/i)
+!reddit.com#?#.Comment,.entry:-abp-contains(/F/i)
+
 !#endif
 
 
