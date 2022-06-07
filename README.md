@@ -4,7 +4,8 @@
 | Name | Desc | Click to subscribe | View filters |
 |--|--|--|--|
 | SpitFire-666: uBlock Filters | |  https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/filters.txt&title=SpitFire-666%20%uBlock%20Filters  |
-| SpitFire-666: Aussie uBlock Filters | 🇦🇺 | https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt&title=SpitFire-666%20Aussie%20uBlock%20Filters
+| SpitFire-666: Aussie uBlock Filters | 🇦🇺 | https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/aussie-filters.txt&title=SpitFire-666%20Aussie%20uBlock%20Filters |
+| SpitFire-666: IT Pro Filters | | https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/SpitFire-666/ublock-filters/main/IT-Pro-Filters.txt&title=SpitFire-666%20-%20IT-Pro-Filters |
 
 # Recommended additional filters
 
