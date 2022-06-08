@@ -19,3 +19,126 @@ www.techrepublic.com###leader-plus-top
 www.techrepublic.com###mpu-plus-top
 
 www.zdnet.com##.g-inner-spacing-bottom-small.g-outer-spacing-bottom-medium.g-outer-spacing-top-medium.g-border-thin-light-bottom.g-border-thin-light-top.c-shortcodePinbox-single.c-shortcodePinbox
+
+
+
+! 2022-05-30 https://helpdeskgeek.com
+helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
+
+! 2022-06-06 https://www.easeus.com
+www.easeus.com##.pop_20210519
+www.easeus.com##.pop_bg_20210519
+www.easeus.com##.bottom.float_banner
+
+! 2022-05-18 https://www.elevenforum.com
+www.elevenforum.com##div.gads.block-container:nth-of-type(3)
+www.elevenforum.com##div.gads.block-container:nth-of-type(1)
+www.elevenforum.com##div.gads.message--post.message:nth-of-type(1)
+www.elevenforum.com##.gads.minh.message--post.message
+www.elevenforum.com##.fc_section_header.block-formSectionHeader
+
+! 2022-05-19 https://askme4tech.com
+askme4tech.com##.mc-modal
+askme4tech.com##.mc-modal-bg
+askme4tech.com##.p-lg-6.p-4.mt-6.comments-wrapper
+
+
+
+$removeparam=sysparm_record_target,domain=service-now.com
+$removeparam=sysparm_record_row,domain=service-now.com
+$removeparam=sysparm_record_list,domain=service-now.com
+$removeparam=sysparm_record_rows,domain=service-now.com
+$removeparam=sysparm_stack,domain=service-now.com
+
+! 2022-05-05 https://www.isunshare.com
+www.isunshare.com##div.advertising:nth-of-type(2)
+www.isunshare.com##div.advertising:nth-of-type(3)
+
+! 2022-05-15 https://www.wired.com
+www.wired.com##.eaBlEi.VideoFigure-hZUgyy
+www.wired.com##.paywall-bar__expanded
+www.wired.com##.journey-template--paywall-bar.paywall-bar--expanded.paywall-bar-failsafe
+
+! 2022-04-13 https://answers.microsoft.com
+answers.microsoft.com##.m365_rail_unlock.RailBanner.hkKCZy.sc-ezbkAF
+
+
+! 2022-03-14 https://docs.servicenow.com
+docs.servicenow.com##.popup-intro.popup
+
+! 2022-03-22 https://windowsmanagementexperts.com
+||js.driftt.com/core$subdocument
+windowsmanagementexperts.com##.color_footer-top.height_large.wpb_row.l-section
+windowsmanagementexperts.com##.drift-has-chat.drift-frame-controller-align-right.drift-frame-controller.drift-conductor-item
+
+! 2022-03-27 https://chromeenterprise.google
+chromeenterprise.google##.glue-header__cta > .glue-button--high-emphasis.ce-link-button.glue-button
+
+! 2022-03-30 https://www.tenforums.com
+www.tenforums.com###yui-gen0
+www.tenforums.com###yui-gen1
+www.tenforums.com###yui-gen6
+www.tenforums.com###yui-gen7
+
+! 2022-02-22 https://stackoverflow.com
+stackoverflow.com##.m0.p0.d-block
+
+! 2022-02-22 https://www.office-forums.com
+www.office-forums.com##div.message--post.message
+
+! 2022-02-22 https://www.experts-exchange.com
+www.experts-exchange.com###bottomBarSignup
+www.experts-exchange.com##.signUpBlock
+
+! 2022-02-22 https://community.spiceworks.com
+community.spiceworks.com##.community-content-card.daily-challenge-card
+community.spiceworks.com##.community-content-card.help-desk-callout
+
+! 2022-02-23 https://www.bleepingcomputer.com
+www.bleepingcomputer.com##.cz-main-left-section > .cz-related-article-wrapp
+
+! 2022-01-31 https://community.spiceworks.com
+community.spiceworks.com##.topic-suggestion
+community.spiceworks.com##.curated-items.constrained-content.js-read-next-footer.read-next-footer
+community.spiceworks.com##.dynamic-layout-sidebar--item.sui-opt-in
+
+! 2022-01-31 https://www.howtogeek.com
+www.howtogeek.com###notificationAllowPrompt
+
+! 2022-02-02 https://www.mrexcel.com
+www.mrexcel.com##.block-body > .block
+
+! 2022-02-06 https://www.sevenforums.com
+||www.sevenforums.com/img/greenstripbg2.png$image
+www.sevenforums.com##.block.thread_info
+
+! 2022-02-06 https://www.daleisphere.com
+www.daleisphere.com###divBottomRight
+
+! 2022-02-06 https://www.apextechservices.com
+www.apextechservices.com##[href="/eNewsletterSignup.aspx"]
+www.apextechservices.com###ITEXPOMsg
+
+! 2022-02-07 https://techcommunity.microsoft.com
+techcommunity.microsoft.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+techcommunity.microsoft.com##.ui-widget-overlay
+
+! 2022-02-08 https://techcommunity.microsoft.com
+techcommunity.microsoft.com##.custom-profile-completeness-banner
+
+! 2022-02-14 https://serverfault.com
+serverfault.com##.js-dismissable-hero
+
+! 2022-02-17 https://endpoint.microsoft.com
+endpoint.microsoft.com##.fxs-toast-content
+
+! 2022-02-17 https://www.anoopcnair.com
+www.anoopcnair.com##.code-block-11.code-block
+www.anoopcnair.com##.code-block-13.code-block
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(3)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(5)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(6)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(7)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(8)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(10)
+www.anoopcnair.com##.code-block-9.code-block
