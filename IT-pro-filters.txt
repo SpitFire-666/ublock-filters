@@ -1,3 +1,5 @@
+! Title: SpitFire-666: uBlock filters for IT Pros
+
 petri.com##.popup
 petri.com##div.adContainer:nth-of-type(1)
 petri.com##.inContent.contentHighlight
