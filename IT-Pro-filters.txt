@@ -145,3 +145,23 @@ www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(8)
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(10)
 www.anoopcnair.com##.code-block-9.code-block
 
+www.smallnetbuilder.com###leaderboardspacer
+www.microsoft.com###slide-2 > .light-foreground.heroitem.slide-darktext.slide
+www.microsoft.com###dlc-hp-hero-slideshow
+
+techrrival.com##div.code-block-2.code-block:nth-of-type(25)
+techrrival.com##div.code-block-2.code-block:nth-of-type(37)
+techrrival.com##div.code-block-2.code-block:nth-of-type(45)
+techrrival.com##div.code-block-2.code-block:nth-of-type(54)
+techrrival.com##.rank-math-answer > .code-block-2.code-block
+
+www.cultofmac.com##.active.visible.transition.page.modals.dimmer.ui
+www.androidcentral.com##.gated-container > div
+||c.s-microsoft.com/en-us/CMSImages/SrfcFam_Cliff_1920x480_ROW.jpg?version=70cb5bd6-7cca-a2cc-ba83-55ba6a75eb4f$image
+
+! 2021-08-06 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner
+
+! 2021-08-06 https://raspberrypi.stackexchange.com
+raspberrypi.stackexchange.com##.js-consent-banner
+
