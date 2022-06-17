@@ -1127,3 +1127,6 @@ www.wired.com##.sticky-box.luKJG.StickyBoxWrapper-euhCxU > .sticky-box__primary.
 
 www.reddit.com##.create.sidebox
 www.reddit.com##.footer-parent
+
+reelgood.com###modal_mountpoint
+reelgood.com##.e1uhrq710.css-109oxhp
