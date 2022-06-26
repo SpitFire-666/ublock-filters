@@ -406,8 +406,6 @@ imgur.com##.FastGrid
 ! 2021-01-13 https://developer.android.com
 developer.android.com##.devsite-banner-message
 
-
-
 ! 2021-01-02 https://forum.xda-developers.com
 forum.xda-developers.com##.notice-content
 
@@ -424,13 +422,6 @@ www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-wrapper > .overlay-inner
 
 ! 2020-10-10 https://www.tomshardware.com
-www.tomshardware.com##.jw-reset.jw-video
-www.tomshardware.com##.jw-reset.jw-media
-www.tomshardware.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
-www.tomshardware.com##.jw-reset.jw-wrapper
-www.tomshardware.com###botr_67Yco6KI_0Kv4Uumt_div > .jw-reset.jw-aspect
-www.tomshardware.com##.sticky-player-background
-www.tomshardware.com##.future__jwplayer--carousel
 
 ! 2020-10-10 https://www.dell.com
 www.dell.com##.ask-question-banner-wrapper
@@ -441,22 +432,11 @@ www.booking.com##.b_leaving_users_light_box.modal-wrapper
 www.booking.com##.b_leaving_users_light_box_mask.modal-mask
 
 
-! 8/2/2020 https://tutorials-raspberrypi.com
-tutorials-raspberrypi.com###spu-4210
-tutorials-raspberrypi.com###spu-bg-4210
-tutorials-raspberrypi.com##.cookie-notice-container
 
 ! 8/5/2020 https://www.mayoclinic.org
 ||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
 ||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
 
-! 2021-08-07 https://www.circuitbasics.com
-www.circuitbasics.com##.opened.dpsp-no-animation.dpsp-button-style-1.dpsp-position-left.dpsp-hide-on-mobile.dpsp-size-large.dpsp-shape-rectangular
-||www.circuitbasics.com/wp-content/uploads/2021/03/PCBWay-Ad-NEW-23Mar2021.gif$image
-||www.circuitbasics.com/wp-content/uploads/2020/09/PCB-Way-9_21_2020-750x170-updated.png$image
-
-! 2021-08-07 https://raspberrypi.stackexchange.com
-raspberrypi.stackexchange.com##.js-consent-banner
 
 ! 2021-08-07 https://www.wikihow.com
 www.wikihow.com###article_courses_banner
@@ -464,8 +444,6 @@ www.wikihow.com###article_courses_banner
 ! 2021-08-07 https://www.nico-maas.de
 www.nico-maas.de##.cookie-notice-container
 
-! 2021-08-07 https://linuxhint.com
-linuxhint.com##.cb-box__wrapper-center_modal
 
 ! 2021-08-08 https://www.jimenezphoto.com
 www.jimenezphoto.com##.is-show.rb-cookie
@@ -530,7 +508,6 @@ www.quora.com##.promoted_answer_wrapper
 
 www.imdb.com##div.aux-content-widget-2:nth-of-type(2)
 
-
 www.medicalnewstoday.com##.modal-stack.in.fade.modal-backdrop
 
 
@@ -540,11 +517,7 @@ www.trendhunter.com###_th_lb
 
 ||adsyo.depositfiles.com//ad.php
 
-
-
 uploaded.net###placement_209660_0_iframe
-
-
 uploaded.net###placement_209659_0_iframe
 
 ||adrunnr.com/
@@ -576,18 +549,6 @@ live.cdnz.one##.cc-color-override--907048115.cc-right.cc-bottom.cc-theme-classic
 ! 2021-08-16 https://mozilla.crowdicity.com
 mozilla.crowdicity.com##.cc_container--open.cc_container.cc_banner
 
-! 2021-08-16 https://superuser.com
-superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-
-! 2021-08-17 https://askubuntu.com
-askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-
-! 2021-08-17 https://www.experts-exchange.com
-www.experts-exchange.com##.gOGrqS.learnFromTheBest__LearnFromWrapper-qhnvu1-0
-
-! 2021-08-19 https://unix.stackexchange.com
-unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-
 ! 2021-08-19 https://logout.hu
 logout.hu###accept_container
 
@@ -600,19 +561,6 @@ www.bloomberg.com###fortress-preblocked-container-root
 ! 2021-08-21 https://www.rollingstone.com
 www.rollingstone.com##.l-article-header__block--share.l-article-header__block
 www.rollingstone.com##.jw-reset.jw-wrapper
-
-! 2021-08-06 https://stackoverflow.com
-stackoverflow.com##.js-consent-banner
-
-! 2021-08-06 https://raspberrypi.stackexchange.com
-raspberrypi.stackexchange.com##.js-consent-banner
-
-! 2021-08-06 https://serverfault.com
-serverfault.com##.js-consent-banner
-serverfault.com##.js-consent-banner
-
-! 2021-08-06 https://resistorcolorcodecalc.com
-resistorcolorcodecalc.com##.show.consent.text-center.alert-dismissible.alert
 
 ! 2021-08-06 https://www.diynot.com
 www.diynot.com##.cc-color-override-1519961192.cc-right.cc-top.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
@@ -634,14 +582,6 @@ stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.
 www.gardendesign.com###subscribe_popup
 www.gardendesign.com##.fancybox-overlay-fixed.fancybox-overlay
 
-! 2021-11-17 https://www.microsoft.com
-www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > div
-www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > picture
-www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item
-www.microsoft.com##.sortable-control.bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col-1-1.span > section
-www.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
-www.microsoft.com##.theme-dark.context-accessory.f-y-center.f-x-left.m-hero-item
-
 
 
 ! 2021-08-31 https://www.lovehappensmag.com
@@ -662,8 +602,6 @@ www.ikea.com###eb83966f-ca61-11eb-abb4-07e90b187c64 > .v18by0fb.v11tpn0s.gd8xc1c
 www.ikea.com##section.v18by0fb.v19w64p3.gd8xc1c:nth-of-type(11)
 
 
-! 2021-09-04 https://diy.stackexchange.com
-diy.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 
 ! 2021-09-04 https://stylebyemilyhenderson.com
 stylebyemilyhenderson.com##.my-5.row
@@ -703,8 +641,6 @@ graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas > .headerstrip-
 ! 2021-09-24 http://live.cdnz.one
 live.cdnz.one##.overlay_video
 
-! 2021-09-27 https://adminscache.wordpress.com
-adminscache.wordpress.com###infinite-footer
 
 
 www.manualslib.com##.blue2.tagsbg
@@ -722,9 +658,6 @@ www.bloomberg.com###fortress-preblocked-container-root
 www.rollingstone.com##.l-article-header__block--share.l-article-header__block
 www.rollingstone.com##.jw-reset.jw-wrapper
 
-! 2021-08-22 https://appleinsider.com
-appleinsider.com##.primis-ad-wrap
-appleinsider.com##.ad.col-sm-12
 
 ! 2021-08-23 https://www.ruralsprout.com
 www.ruralsprout.com##.widget_dpsp_social_media_follow.widget
@@ -744,15 +677,15 @@ sourceforge.net###newsletter-floating
 sourceforge.net##a.default.button:nth-of-type(2)
 sourceforge.net###share-project-button
 
-insider.windows.com###epb
+
 
 ! 2020-09-02 https://www.collective-evolution.com
 www.collective-evolution.com##.et_bloom_animation_fadein.et_bloom_form_text_dark.et_bloom_rounded.et_bloom_form_bottom.et_bloom_popup_container.et_bloom_form_container
 
-! 2020-09-26 https://old.reddit.com
+
 old.reddit.com##.premium-banner-outer
 
-answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
+
 
 
 ! 2020-11-05 twitter.com
@@ -779,14 +712,12 @@ www.youtube.com###voice-search-button
 ! 8/2/2020 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(2)
 
-! 2020-12-20 https://www.experts-exchange.com
-www.experts-exchange.com##.limitedUsagesWrapper
 
 ! 2022-01-31 https://www.theurbanlist.com
 www.theurbanlist.com##.linkby-widget
 
 ! 2022-01-26 https://h30434.www3.hp.com
-h30434.www3.hp.com##.alert-section > ul > .notification-alert > .announcements-content
+
 
 ! 2021-12-05 https://community.spiceworks.com
 community.spiceworks.com##.card-columns--old.card-columns
@@ -807,8 +738,6 @@ www.nasdaq.com##.video__inline
 ! 2021-08-19 https://logout.hu
 logout.hu###accept_container
 
-! 2021-08-17 https://www.experts-exchange.com
-www.experts-exchange.com##.gOGrqS.learnFromTheBest__LearnFromWrapper-qhnvu1-0
 
 ! 2021-08-13 http://live.cdnz.one
 live.cdnz.one##.cc-color-override--907048115.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
@@ -826,8 +755,6 @@ www.inlivo.com##.in.fade.modal-backdrop
 ||www.inlivo.com//js/plugins/newsletter-form.js$xhr,domain=www.inlivo.com
 ||cdn.jsdelivr.net/jquery.jssocials/*$script
 
-! 2021-05-27 https://serverfault.com
-serverfault.com##.js-footer.site-footer
 
 
 ! 2021-07-23 https://tabs.ultimate-guitar.com
@@ -839,17 +766,9 @@ tabs.ultimate-guitar.com##._179GN
 tabs.ultimate-guitar.com##._3JqBu
 
 
-retrocomputing.stackexchange.com##.js-consent-banner
-
-hackaday.com##.cookie-notifications
-
 www.aliexpress.com##.notice-content
 
 
-www.theverge.com##.c-newsletter_signup_box__main
-
-
-softwarerecs.stackexchange.com##.js-consent-banner
 
 https://cdn.jsdelivr.net/gh/Arlina-Design/quasar@master/arlinablock.js
 
@@ -860,8 +779,6 @@ www.thebump.com##.ReactModalPortal
 www.bbcearth.com##.modal__overlay--after-open.modal__overlay
 
 ||forum.funkysouls.com/go.php$doc
-
-www.cnet.com##.col-4 > div
 
 www.lucieslist.com##body > .d-flex.open.flex-align-center.flex-column.llpopup
 
@@ -939,22 +856,10 @@ facebook.com##div[role=button] > span:not(>*):has-text(/related/i):upward(4)
 ! facebook.com##div[role=feed] > div > div > div > div > div > div > div > div > div > div > div > div:nth-child(2) > div > span > div > div:nth-child(2) > div > div > div > span:not(>*):has-text(/^Related discussions$/):upward(span)
 
 
-answers.microsoft.com##.railbanner_m365_answers.RailBanner.iuSINM.sc-giYglK
-
 appuals.com##.wp-timed-p
 
-www.partitionwizard.com##.downbtn
-www.partitionwizard.com##.article-recommend
-www.partitionwizard.com##.promotions-banner-wrap
-www.partitionwizard.com##.promotions-banner-wrap
-www.partitionwizard.com##.bottom-cookie-wrap
 
 www.sunwestgenetics.com##.elementor-location-popup.elementor-5008116.elementor
-msfn.org##.ipsMessage_error.ipsAnnouncement.ipsJS_hide.cAnnouncementPageTop
-unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-serverfault.com##.js-consent-banner
 www.usatoday.com##.gnt_em_vp__tavp.gnt_em > div
 www.urbandictionary.com##.mug-ad
 www.urbandictionary.com##.subscribe-panel > .panel
@@ -982,8 +887,6 @@ twitter.com##.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbj
 www.tiktok.com##span.lazyload-wrapper:nth-of-type(6)
 filesmerge.com##.text-center.navbar-fixed-top.navbar-default.yamm.navbar
 filesmerge.com##.col-sm-12.col-xs-12 > div > div > p
-linuxhint.com##.cb-box__wrapper-row
-linuxhint.com##.cb-box__wrapper-center_modal
 
 
 pf-electronicstt.com###h860
@@ -999,19 +902,6 @@ twitter.com##html:style(overflow: unset !important)
 
 
 www.propertychat.com.au###nativeads_ad_below_messages
-
-! 2022-03-01 https://forums.tomsguide.com
-forums.tomsguide.com##.jw-floating-dismissible.jw-breakpoint-4.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-playing.jw-reset.jwplayer
-forums.tomsguide.com##.jw-reset.jw-video
-forums.tomsguide.com###jwplayer-container-div > .jw-reset.jw-aspect
-forums.tomsguide.com##.jw-reset.jw-media
-forums.tomsguide.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
-||videos-cloudflare.jwpsrv.com^$xhr,domain=forums.tomsguide.com
-||cdn.jwplayer.com^$xhr,domain=forums.tomsguide.com
-||ssl.p.jwpcdn.com^$script,domain=forums.tomsguide.com
-||jwplayer-dualstack.map.fastly.net^$script,domain=forums.tomsguide.com
-||cdn.jwplayer.com^$script,domain=forums.tomsguide.com
-forums.tomsguide.com###jwplayer-container-div
 
 ||imagesvc.meredithcorp.io/v3/jumpstartpure/image$image
 www.bhg.com##.jumpstart-video
@@ -1037,7 +927,7 @@ youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
 fourhundredandtwenty.biz##.popup_ukraine__overlay
 fourhundredandtwenty.biz##.hiring__banner-active.hiring__banner
 
-! 2022-04-19 https://blog.davey.com
+
 blog.davey.com##.collection-overlay-block
 
 ! 2022-04-19 https://teachschoolnepal.wordpress.com
@@ -1046,7 +936,6 @@ teachschoolnepal.wordpress.com##.noskim.marketing-bar
 ! 2022-04-19 https://old.reddit.com
 old.reddit.com##.listingsignupbar.infobar
 
-! 2022-04-21 https://moovitapp.com
 moovitapp.com##.multi-side-bar-1.layout-row.app-container > .collapsed
 moovitapp.com##.multi-side-bar-1.layout-row.app-container > .expanded
 
@@ -1072,12 +961,11 @@ www.thelocal.de##.show.fade.modal-backdrop
 
 haydenjames.io###chkmk_mp4_1-main-video
 
-! 2022-04-23 https://www.vari.com
+
 www.vari.com##.underlay
 www.vari.com##.body-overlay.veil
 
 $removeparam=ref,domain=amazon.com
-
 $removeparam=cp,domain=nextdoor.com
 $removeparam=s,domain=nextdoor.com
 $removeparam=section,domain=nextdoor.com
@@ -1085,14 +973,10 @@ $removeparam=ct,domain=nextdoor.com
 $removeparam=ec,domain=nextdoor.com
 
 
-! 2022-04-25 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 
-! 2022-05-03 http://www.brisray.com
 ||www.brisray.com/common/back1.jpg$image
 
-! 2022-05-04 https://www.techradar.com
-www.techradar.com##.region_redirect_banner
 
 www.spiegel.de###sp_message_container_624689
 
@@ -1103,8 +987,7 @@ bemovies.club##.show.fade.modal-backdrop
 
 4.app.fujifilmimagine.com##.TrackingBanner
 
-techcommunity.microsoft.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
-techcommunity.microsoft.com##.ui-widget-overlay
+
 
 outlook.live.com##.main-403.DqTF3RVZk-VVk1-AVfue-.ms-Dialog-main
 outlook.live.com##.root-407.ms-Overlay--dark.ms-Overlay
@@ -1130,3 +1013,16 @@ www.reddit.com##.footer-parent
 
 reelgood.com###modal_mountpoint
 reelgood.com##.e1uhrq710.css-109oxhp
+
+||cn.cdnbye.com^
+||newcoinmedia^.^.click^
+
+|about:$popup,domain=vikistream.com
+||^$popup,domain=vikistream.com
+||vikistream.com^$popup
+||troild.com^
+
+cdn2.link###adholder
+cdn1.link###adholder
+
+cdn122.com###btn-unmute
