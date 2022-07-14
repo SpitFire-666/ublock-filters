@@ -229,3 +229,12 @@ www.begindot.com##.elementor-widget-image.elementor-widget.elementor-element-b71
 www.begindot.com##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.elementor-sticky.elementor-section-height-default.elementor-section-boxed.elementor-element-20049f6.elementor-element.elementor-inner-section.elementor-section > .elementor-column-gap-default.elementor-container
 
 helpx.adobe.com##div.static.modalContainer:nth-of-type(6)
+
+
+thenextweb.com##.tnw-ad--has-placeholder.tnw-ad--billboard.tnw-ad
+
+answers.microsoft.com##.ucsUhfContainer
+
+$removeparam=emcs_t,domain=mozilla.org
+
+$removeparam=rq,domain=stackexchange.com
