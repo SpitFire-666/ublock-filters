@@ -215,3 +215,17 @@ www.robotikindonesia.com##.related-simplify
 
 ! 2022-07-11 https://www.techcoil.com
 www.techcoil.com##[href^="https://click.linksynergy.com/fs-bin/click"]
+
+www.hackster.io##.auth_dialog__wrapper__1VAk8.styles__wrapper__1gHmn
+www.hackster.io##.styles__dialog__1KnWX
+www.hackster.io##html:style(overflow: auto !important;)
+www.hackster.io##.project_count_banner__banner__1YjpI
+
+! 2022-07-09 http://www.esp32learning.com
+www.esp32learning.com##.bottom_right.pushassist_notification7 
+arduinolearning.com##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
+
+www.begindot.com##.elementor-widget-image.elementor-widget.elementor-element-b71596c.elementor-element > .elementor-widget-container > .elementor-image
+www.begindot.com##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.elementor-sticky.elementor-section-height-default.elementor-section-boxed.elementor-element-20049f6.elementor-element.elementor-inner-section.elementor-section > .elementor-column-gap-default.elementor-container
+
+helpx.adobe.com##div.static.modalContainer:nth-of-type(6)
