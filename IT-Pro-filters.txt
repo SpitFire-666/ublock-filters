@@ -22,17 +22,12 @@ www.techrepublic.com###mpu-plus-top
 
 www.zdnet.com##.g-inner-spacing-bottom-small.g-outer-spacing-bottom-medium.g-outer-spacing-top-medium.g-border-thin-light-bottom.g-border-thin-light-top.c-shortcodePinbox-single.c-shortcodePinbox
 
-
-
-! 2022-05-30 https://helpdeskgeek.com
 helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 
-! 2022-06-06 https://www.easeus.com
 www.easeus.com##.pop_20210519
 www.easeus.com##.pop_bg_20210519
 www.easeus.com##.bottom.float_banner
 
-! 2022-05-18 https://www.elevenforum.com
 www.elevenforum.com##div.gads.block-container:nth-of-type(3)
 www.elevenforum.com##div.gads.block-container:nth-of-type(1)
 www.elevenforum.com##div.gads.message--post.message:nth-of-type(1)
@@ -61,22 +56,16 @@ www.wired.com##.eaBlEi.VideoFigure-hZUgyy
 www.wired.com##.paywall-bar__expanded
 www.wired.com##.journey-template--paywall-bar.paywall-bar--expanded.paywall-bar-failsafe
 
-! 2022-04-13 https://answers.microsoft.com
 answers.microsoft.com##.m365_rail_unlock.RailBanner.hkKCZy.sc-ezbkAF
 
-
-! 2022-03-14 https://docs.servicenow.com
 docs.servicenow.com##.popup-intro.popup
 
-! 2022-03-22 https://windowsmanagementexperts.com
 ||js.driftt.com/core$subdocument
 windowsmanagementexperts.com##.color_footer-top.height_large.wpb_row.l-section
 windowsmanagementexperts.com##.drift-has-chat.drift-frame-controller-align-right.drift-frame-controller.drift-conductor-item
 
-! 2022-03-27 https://chromeenterprise.google
 chromeenterprise.google##.glue-header__cta > .glue-button--high-emphasis.ce-link-button.glue-button
 
-! 2022-03-30 https://www.tenforums.com
 www.tenforums.com###yui-gen0
 www.tenforums.com###yui-gen1
 www.tenforums.com###yui-gen6
@@ -248,15 +237,12 @@ answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 
 insider.windows.com###epb
 
-
 appleinsider.com##.primis-ad-wrap
 appleinsider.com##.ad.col-sm-12
 
-! 2021-09-27 https://adminscache.wordpress.com
 adminscache.wordpress.com###infinite-footer
 
 diy.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-
 
 www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > div
 www.microsoft.com##.theme-light.context-accessory.f-y-center.f-x-left.m-hero-item > picture
@@ -265,7 +251,6 @@ www.microsoft.com##.sortable-control.bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col
 www.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 www.microsoft.com##.theme-dark.context-accessory.f-y-center.f-x-left.m-hero-item
 
-! 2021-08-06 https://stackoverflow.com
 stackoverflow.com##.js-consent-banner
 
 ! 2021-08-06 https://raspberrypi.stackexchange.com
