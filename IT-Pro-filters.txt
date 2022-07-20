@@ -45,13 +45,14 @@ $removeparam=sysparm_record_target,domain=service-now.com
 $removeparam=sysparm_record_row,domain=service-now.com
 $removeparam=sysparm_record_list,domain=service-now.com
 $removeparam=sysparm_record_rows,domain=service-now.com
-$removeparam=sysparm_stack,domain=service-now.com
+$removeparam=sysparm_view,domain=service-now.com
+$removeparam=sysparm_domain,domain=service-now.com
+$removeparam=sysparm_domain_scope,domain=service-now.com
 
-! 2022-05-05 https://www.isunshare.com
+
 www.isunshare.com##div.advertising:nth-of-type(2)
 www.isunshare.com##div.advertising:nth-of-type(3)
 
-! 2022-05-15 https://www.wired.com
 www.wired.com##.eaBlEi.VideoFigure-hZUgyy
 www.wired.com##.paywall-bar__expanded
 www.wired.com##.journey-template--paywall-bar.paywall-bar--expanded.paywall-bar-failsafe
@@ -96,28 +97,23 @@ community.spiceworks.com##.dynamic-layout-sidebar--item.sui-opt-in
 ! 2022-01-31 https://www.howtogeek.com
 www.howtogeek.com###notificationAllowPrompt
 
-! 2022-02-02 https://www.mrexcel.com
+
 www.mrexcel.com##.block-body > .block
 
-! 2022-02-06 https://www.sevenforums.com
 ||www.sevenforums.com/img/greenstripbg2.png$image
 www.sevenforums.com##.block.thread_info
 
-! 2022-02-06 https://www.daleisphere.com
+
 www.daleisphere.com###divBottomRight
 
-! 2022-02-06 https://www.apextechservices.com
 www.apextechservices.com##[href="/eNewsletterSignup.aspx"]
 www.apextechservices.com###ITEXPOMsg
 
-! 2022-02-07 https://techcommunity.microsoft.com
 techcommunity.microsoft.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 techcommunity.microsoft.com##.ui-widget-overlay
 
-! 2022-02-08 https://techcommunity.microsoft.com
 techcommunity.microsoft.com##.custom-profile-completeness-banner
 
-! 2022-02-14 https://serverfault.com
 serverfault.com##.js-dismissable-hero
 
 ! 2022-02-17 https://endpoint.microsoft.com
