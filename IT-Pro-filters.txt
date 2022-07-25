@@ -537,3 +537,72 @@ answers.microsoft.com##.ucsUhfContainer
 $removeparam=emcs_t,domain=mozilla.org
 
 $removeparam=rq,domain=stackexchange.com
+
+
+
+! 2022-07-10 https://www.bleepingcomputer.com
+www.bleepingcomputer.com##.cz-toa-wrapp
+
+! 2022-07-14 https://www.cqure.nl
+www.cqure.nl##.toast-container
+www.cqure.nl##.advert
+
+! 2022-07-20 https://www.anoopcnair.com
+www.anoopcnair.com###main > .code-block-1.code-block
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(15)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(16)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(17)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(11)
+
+! 2022-07-24 https://www.anoopcnair.com
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(14)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(4)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(9)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(12)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(18)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(21)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(24)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(27)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(30)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(34)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(36)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(39)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(41)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(44)
+www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(46)
+www.anoopcnair.com##.code-block-10.code-block
+
+
+
+! 2022-06-09 https://4sysops.com
+4sysops.com##div:nth-of-type(17)
+
+! 2022-06-13 https://den.dev
+den.dev##div.informational:nth-of-type(1)
+
+! 2022-06-20 https://advisera.com
+advisera.com##.visible.newsletter-subscribe
+advisera.com##.side-banner-link
+
+! 2022-06-23 https://techcommunity.microsoft.com
+techcommunity.microsoft.com##.is-fixed.custom-profile-completeness-banner
+
+! 2022-07-03 https://community.spiceworks.com
+community.spiceworks.com##.gekko_leaderboard
+community.spiceworks.com##.slot-1-wrapper
+
+! 2022-07-04 https://community.spiceworks.com
+community.spiceworks.com##.topic-suggestion
+
+! 2022-07-04 https://appuals.com
+appuals.com##.wptp
+
+! 2022-07-05 https://techcommunity.microsoft.com
+techcommunity.microsoft.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+techcommunity.microsoft.com##.ui-widget-overlay
+
+! 2022-07-06 https://www.techrepublic.com
+||www.techrepublic.com/forums/discussions/how-to-deny-create-folder-on-root-c/$subdocument
+||cdn.jotfor.ms^
+
+
