@@ -606,3 +606,54 @@ techcommunity.microsoft.com##.ui-widget-overlay
 ||cdn.jotfor.ms^
 
 
+www.ifixit.com##div > div > .react-component
+
+www.manualslib.com##footer
+
+! 2021-07-20 https://www.ifixit.com
+www.ifixit.com##div > div > .react-component
+	
+	
+
+www.element14.com##.e14-registration-required-bg.js_lb_overlay.lb_overlay
+www.element14.com##.e14-registration-required.j-modal-login.j-modal.jive-modal-narrow.jive-modal
+
+www.howtogeek.com##.overlay-wrapper
+
+www.examtopics.com###engagement-modal
+www.examtopics.com##.show.modal-backdrop
+
+www.tomsguide.com##.jw-reset.jw-video
+www.tomsguide.com##.jw-carousel
+
+www.examtopics.com##.footer-contact-desc.row
+www.examtopics.com##.d-print-none.footer-top
+www.examtopics.com##.d-print-none.footer-bottom
+
+forum.xda-developers.com###stickyNav
+forum.xda-developers.com##.postbit-social
+forum.xda-developers.com###sidepanel
+forum.xda-developers.com##.postbutton-row
+forum.xda-developers.com###prev-next
+forum.xda-developers.com###qrform
+
+
+! 2021-01-26 https://community.infosecinstitute.com
+community.infosecinstitute.com##.userContent.UserSignature.Signature
+community.infosecinstitute.com##.Reactions
+
+
+! 2021-02-01 https://www.android-x86.org
+www.android-x86.org##.brid-touch-overlay
+www.android-x86.org##.brid-holder
+
+
+! 2020-10-07 https://www.howtogeek.com
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.overlay-wrapper > .overlay-inner
+
+www.dell.com##.ask-question-banner-wrapper
+
+randomnerdtutorials.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+
+||www.androidcentral.com/sites/androidcentral.com/files/images/ga/android-central-background.jpg$image
