@@ -865,7 +865,6 @@ haydenjames.io###chkmk_mp4_1-main-video
 www.vari.com##.underlay
 www.vari.com##.body-overlay.veil
 
-$removeparam=ref,domain=amazon.com
 
 $removeparam=cp,domain=nextdoor.com
 $removeparam=s,domain=nextdoor.com
@@ -874,7 +873,8 @@ $removeparam=ct,domain=nextdoor.com
 $removeparam=ec,domain=nextdoor.com
 
 $removeparam=ref,domain=amazon.com
-
+$removeparam=psc,domain=amazon.com
+$removeparam=content-id,domain=amazon.com
 
 $removeparam=src,domain=aliexpress.com
 $removeparam=albslr,domain=aliexpress.com
