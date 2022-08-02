@@ -972,6 +972,7 @@ $removeparam=section,domain=nextdoor.com
 $removeparam=ct,domain=nextdoor.com
 $removeparam=ec,domain=nextdoor.com
 
+$removeparam=ref,domain=amazon.com
 
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 
@@ -1024,5 +1025,108 @@ reelgood.com##.e1uhrq710.css-109oxhp
 
 cdn2.link###adholder
 cdn1.link###adholder
-
 cdn122.com###btn-unmute
+
+
+||www.washingtonpost.com/wp-apps/imrs.php$image
+
+www.ebay.com.au##.clearfix.srp-merch__items
+
+$removeparam=pdp_npi,domain=aliexpress.com
+newbedev.com##.ads-718-460
+dziurologia.blogspot.com##.skiptranslate.goog-te-banner-frame
+
+www.linkedin.com##.msg-overlay-container-reflow.msg-overlay-container
+
+www.news.com.au##.g_wrapper > .header_date-bar_links
+
+www.weatherzone.com.au##div.eHMuzp.sc-ggVKop:nth-of-type(1)
+www.weatherzone.com.au##.bBxhcf.sc-ciKQPW
+
+blog.google##.uni-newsletter-toast
+
+medium.com##[data-popper-reference-hidden]
+
+extraextrabooks.com##.box.promo-block
+
+food52.com###jw_iframe
+food52.com##div#productCollectionRoot.product-well:nth-of-type(2)
+food52.com##.media-embed--related.media-embed--default.media-embed--jwplayer.media-embed
+food52.com##div#productCollectionRoot.product-well:nth-of-type(7)
+food52.com###mailingListBannerRoot
+
+
+www.bandt.com.au##.in.fade.modal
+
+$removeparam=ref,domain=amazon.com.au
+
+$removeparam=sh,domain=forbes.com
+
+$removeparam=source,domain=nextdoor.com
+$removeparam=init_source,domain=nextdoor.com
+$removeparam=query,domain=nextdoor.com
+
+$removeparam=utm\_source,domain=addons.mozilla.org
+$removeparam=utm\_medium,domain=addons.mozilla.org
+$removeparam=utm\_content,domain=addons.mozilla.org
+
+$removeparam=keywords,domain=amazon.com
+$removeparam=ref,domain=amazon.com
+
+
+$removeparam=ch,domain=ebay.*
+$removeparam=ut,domain=ebay.*
+$removeparam=osub,domain=ebay.*
+$removeparam=segname,domain=ebay.*
+
+$removeparam=ocid,domain=msn.com
+$removeparam=li,domain=msn.com
+$removeparam=cvid,domain=msn.com
+!https://www.msn.com/en-au/news/australia/melbourne-west-gate-bridge-chaos-as-truck-drivers-protest-fuel-levy-call-for-government-action/ar-AAZNigt?ocid=UE12DHP&li=AAgfLCP
+
+
+! 2022-05-14 https://www.typing.com
+www.typing.com###tooltip_zmlm69pv7y > .is-visible.tooltip
+
+! 2022-05-15 https://www.washingtonpost.com
+www.washingtonpost.com##.ease-in.duration-400.transition-all.paywall-overlay.overflow-auto.bottom-0.right-0.left-0.fixed
+
+
+www.productreview.com.au##div.d-flex_RNf.flex-column__BR.align-items-center_amm:nth-of-type(5)
+www.productreview.com.au##div.d-flex_RNf.flex-column__BR.align-items-center_amm:nth-of-type(10)
+
+www.typing.com##.is-active.tooltip--blur.tooltip-wrapper
+
+au.nextdoor.com###id-5 > .css-yh6px8
+
+www.goodreads.com##.Overlay__window
+www.goodreads.com##.Overlay--floating.Overlay
+www.goodreads.com##.Header__primaryNavContainer
+www.goodreads.com##.Header__contents
+www.goodreads.com##.Header__siteHeaderBanner.Header
+www.goodreads.com##.BookPageMetadataSection__genres > .CollapsableList
+www.goodreads.com##.SocialSignalsSection
+www.goodreads.com##.PageSection
+www.goodreads.com##.DynamicCarousel__itemsArea
+www.goodreads.com##.BookActions
+
+www.amazon.com##.a-col-right.a-fixed-right-grid-col > .a-fixed-right-grid > .a-fixed-right-grid-inner
+www.amazon.com##.a-text-bold.a-color-price.a-size-base-plus
+www.amazon.com##div.a-spacing-none.a-section:nth-of-type(7)
+www.amazon.com##.a-col-left.a-fixed-right-grid-col > div.a-spacing-none.a-section > .a-size-small
+www.amazon.com##.a-expander-partial-collapse-header.a-expander-header
+
+$removeparam=eq,domain=pinterest.com.au
+$removeparam=etslf,domain=pinterest.com.au
+$removeparam=term_meta[],domain=pinterest.com.au
+$removeparam=rs,domain=pinterest.com.au
+
+||us1-photo.nextdoor.com/groups_photos/d0/62/d062c3119ad3fc4e675a780719b4dbeb.jpeg$image
+
+www.bing.com##.bw-unSerp.bw-unAcctRt
+
+www.bing.com###bw-un-vnext-anaFooterNol
+
+coinmarketcap.com##.eDKGub.sc-16r8icm-0
+
+coinmarketcap.com##.hgMLDB.sc-16r8icm-0
