@@ -866,6 +866,7 @@ www.vari.com##.underlay
 www.vari.com##.body-overlay.veil
 
 $removeparam=ref,domain=amazon.com
+
 $removeparam=cp,domain=nextdoor.com
 $removeparam=s,domain=nextdoor.com
 $removeparam=section,domain=nextdoor.com
@@ -873,6 +874,11 @@ $removeparam=ct,domain=nextdoor.com
 $removeparam=ec,domain=nextdoor.com
 
 $removeparam=ref,domain=amazon.com
+
+
+$removeparam=src,domain=aliexpress.com
+$removeparam=albslr,domain=aliexpress.com
+$removeparam=isdl,domain=aliexpress.com
 
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 
