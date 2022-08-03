@@ -240,3 +240,6 @@ forums.whirlpool.net.au##div.reply-archived.reply:nth-of-type(2)
 
 www.comedyfestival.com.au##.takeover
 www.comedyfestival.com.au##.container.footer__heritage.footer__signoff
+
+au.movember.com##.row.mospace-fb-and-apps
+au.movember.com##.mospace-key-statistics--title
