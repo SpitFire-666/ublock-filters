@@ -657,3 +657,63 @@ www.dell.com##.ask-question-banner-wrapper
 randomnerdtutorials.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
 
 ||www.androidcentral.com/sites/androidcentral.com/files/images/ga/android-central-background.jpg$image
+
+helpx.adobe.com##.static.modalContainer
+
+www.thewindowsclub.com##.ss-animated.ss-circle-icons.ss-hide-on-mobile.ss-small-icons.ss-left-sidebar.ss-hover-animation-2.ss-hover-animation-1.ss-animate-entrance.ss-entrance-animation-slide
+www.thewindowsclub.com##.site-footer
+
+msendpointmgr.com##[href^="https://t.co/PdtlebzSK4"] > .wp-post-image.size-full.attachment-full
+msendpointmgr.com##.widget_sponsors_widget.gridlove-box.widget
+msendpointmgr.com##.rcc-panel-fixed.group.rcc-panel
+
+www.prajwaldesai.com##.inside-right-sidebar
+
+www.tenforums.com##.body_wrapper > .chill
+
+||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration?ts=637279459485959800$image
+
+www.windowscentral.com##.exit-intent__wrapper
+www.windowscentral.com##.exit-intent__background.exit-intent
+
+helpx.adobe.com##.static.modalContainer
+
+www.windowscentral.com###expanding-articles
+www.windowscentral.com##.related-articles-wrap
+www.windowscentral.com##.widget-newsletter-fter.widget-newsletter-newsletter.widget-newsletter.widget.clear-both
+
+www.itprotoday.com##.gdpr-popup-border
+
+spreadsheeto.com###step_282929 > .cf-step-inner
+spreadsheeto.com###cta25874
+
+community.spiceworks.com##.zd-privacy-content
+
+||logincdn.msauth.net/shared/1.0/content/images/backgrounds/2_bc3d32a696895f78c19df6c717586a5d.svg$image
+
+www.mrexcel.com##.block-row.block-body > .shareButtons--iconic.shareButtons
+
+www.redhat.com##.redhat-cookie-banner-wrapper
+www.redhat.com##.show.subscribe-sidebar
+
+||ogs.google.com/u/0/widget/callout/sid$subdocument
+
+||aadcdn.msauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration?ts=637279459485959800$image
+
+||aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/2_bc3d32a696895f78c19df6c717586a5d.svg$image
+
+www.northerntrust.com###onetrust-consent-sdk
+
+blog.netwrix.com##div.related:nth-of-type(1)
+blog.netwrix.com##.is-active.modal
+blog.netwrix.com##div.related:nth-of-type(2)
+||cdn-blog.netwrix.com/wp-content/uploads/images/FCE_GP.jpg$image
+
+www.lepide.com##.content-sec-form
+
+
+community.spiceworks.com##.how-to-sidebar_primary-wrapper
+community.spiceworks.com##.zd-privacy-content
+community.spiceworks.com##.how-to-sidebar_secondary-wrapper
+
+www.smartsheet.com###CybotCookiebotDialog
