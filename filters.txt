@@ -301,19 +301,12 @@ www.neowin.net##.deals > .wrap > .row
 ! 1/31/2020 https://forums.androidcentral.com
 forums.androidcentral.com##.jw-reset.jw-video
 
-
-! 2021-08-05 https://www.wikihow.com
 www.wikihow.com##.stuck.sticky.tips.section > .wh_ad_spacing
 
-! 2021-08-05 https://www.mountaindesigns.com
 www.mountaindesigns.com##.show.fade.modal-backdrop
 
-! 2021-07-27 https://mp1st.com
 mp1st.com##.jnews_popup_post_container
 
-
-
-! 2021-07-29 https://auctions.yahoo.co.jp
 auctions.yahoo.co.jp##.gNTkeR.Link-sc-ndxwch
 auctions.yahoo.co.jp##.bLIneM.Layer-sc-1524xzp
 auctions.yahoo.co.jp##.irfroh.Body-sc-1fn305e
@@ -321,58 +314,41 @@ auctions.yahoo.co.jp##.irfroh.Body-sc-1fn305e
 www.google.com##div.section-divider:nth-of-type(11)
 www.google.com##.b-ad-main
 
-! 2021-03-10 https://www.theurbanlist.com
 www.theurbanlist.com##.jw-reset.jw-video
 www.theurbanlist.com##.jw-reset.jw-media
 www.theurbanlist.com##.nsm_jwplayer_in_article_wrapper
 
-! 2021-03-01 https://www.dailymail.co.uk
 www.dailymail.co.uk##.has-button-share.floating-buttons
 
-! 2021-02-06 https://www.twenty20.com
 www.twenty20.com##div.modal-stack.in.fade.modal-backdrop:nth-of-type(5)
 www.twenty20.com##div.modal-stack.in.fade.modal-backdrop:nth-of-type(4)
 
-! 2021-02-08 https://buildfire.com
 buildfire.com###ebook-popup
 buildfire.com###ebook-popup-overlay
 
-
-! 2021-01-12 https://imgur.com
 imgur.com##.FastGrid
 
-! 2021-01-13 https://developer.android.com
 developer.android.com##.devsite-banner-message
 
-! 2021-01-02 https://forum.xda-developers.com
 forum.xda-developers.com##.notice-content
 
-! 2020-09-12 https://www.collective-evolution.com
 www.collective-evolution.com##.clearfix.et_bloom_form_container_wrapper
 www.collective-evolution.com##.et_bloom_animated.et_bloom_visible.et_bloom_auto_close.et_bloom_trigger_bottom.et_bloom_auto_popup.et_bloom_optin_23.et_bloom_resize.et_bloom_optin.et_bloom_popup
 
-! 2020-09-12 https://webcamtests.com
 webcamtests.com##header
 
-! 2020-10-16 https://www.booking.com
 www.booking.com##.b_leaving_users_light_box.modal-wrapper
 www.booking.com##.b_leaving_users_light_box_mask.modal-mask
 
-! 8/5/2020 https://www.mayoclinic.org
 ||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
 ||www.mayoclinic.org/styles/img/gbs/bg-main-nav.png$image
 
-! 2021-08-07 https://www.wikihow.com
 www.wikihow.com###article_courses_banner
 
-! 2021-08-07 https://www.nico-maas.de
 www.nico-maas.de##.cookie-notice-container
 
-
-! 2021-08-08 https://www.jimenezphoto.com
 www.jimenezphoto.com##.is-show.rb-cookie
 
-! 2021-07-21 https://www.wikihow.com
 www.wikihow.com###rightrail0_ad_1 > .adsbygoogle
 www.wikihow.com###article_courses_banner
 
@@ -441,67 +417,51 @@ www.semicon.sanken-ele.co.jp##.gdpr
 
 www.moviestudiozen.com##.cc-color-override--1784902839.cc-bottom.cc-opacity-90.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
 
-! 2021-08-10 https://www.inlivo.com
 www.inlivo.com##.in.fade.modal
 www.inlivo.com##.in.fade.modal-backdrop
 ||www.inlivo.com//js/plugins/newsletter-form.js$xhr,domain=www.inlivo.com
 ||cdn.jsdelivr.net/jquery.jssocials/*$script
 
-! 2021-08-11 https://semaphoreci.com
 semaphoreci.com##.gagpzpd.g1b36ey.g4yn9cd.g-fh86qq.gifw5gm.g-h0t0jn
 
-! 2021-08-13 http://live.cdnz.one
 live.cdnz.one##.cc-color-override--907048115.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 
-
-! 2021-08-16 https://mozilla.crowdicity.com
 mozilla.crowdicity.com##.cc_container--open.cc_container.cc_banner
 
-! 2021-08-19 https://logout.hu
 logout.hu###accept_container
 
-! 2021-08-21 https://www.bloomberg.com
 www.bloomberg.com##.fence-rendered.fadeinAnimation__37b4335c.newsletterModal__8056e2c2
 www.bloomberg.com##.inline-newsletter-top
 www.bloomberg.com###fortress-preblocked-container-root
 ||www.bloomberg.com/subscription-offer$subdocument
 
-! 2021-08-21 https://www.rollingstone.com
 www.rollingstone.com##.l-article-header__block--share.l-article-header__block
 www.rollingstone.com##.jw-reset.jw-wrapper
 
 www.diynot.com##.cc-color-override-1519961192.cc-right.cc-top.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 
-! 2021-08-07 https://www.bing.com
 www.bing.com##.bw-unSerp.bw-unAcctRt
 
-! 2021-08-07 https://www.theverge.com
 www.theverge.com##.c-newsletter_signup_box__main
 
 softwarerecs.stackexchange.com##.js-consent-banner
 
 stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
 
-! 2021-11-14 https://www.gardendesign.com
 www.gardendesign.com###subscribe_popup
 www.gardendesign.com##.fancybox-overlay-fixed.fancybox-overlay
 
-
-
-! 2021-08-31 https://www.lovehappensmag.com
 www.lovehappensmag.com###myModal
 
-! 2021-09-01 https://www.urbandictionary.com
 www.urbandictionary.com##.mug-ad
 www.urbandictionary.com##.slogan-panel > .panel-margin
 
-! 2021-09-01 https://www.goldisaneutral.co.uk
 www.goldisaneutral.co.uk##.pie-wrapper
 
-! 2021-09-02 https://scalibq.wordpress.com
+easyodds.com##.cookiefirst-root
+
 scalibq.wordpress.com##.ads-active.hide-on-button
 
-! 2021-09-03 https://www.ikea.com
 www.ikea.com###eb83966f-ca61-11eb-abb4-07e90b187c64 > .v18by0fb.v11tpn0s.gd8xc1c > div > .pub__carousel > .pub__carousel__wrapper > .pub__carousel__content--snap-slide.pub__carousel__content > .pub__carousel__body-wrapper
 www.ikea.com##section.v18by0fb.v19w64p3.gd8xc1c:nth-of-type(11)
 
@@ -524,7 +484,6 @@ cryptonews.com##.cookieConsentWrapper
 ||v2.cimg.co/other/159/25972/*970x250-copy-2*.jpg$image
 cryptonews.com##[href="https://rapi.cryptonews.com/outgoing/159"]
 
-! 2021-09-21 https://cryptoslate.com
 cryptoslate.com##.leaderboard.placement > .lazyloaded
 ||cryptoslate.com/wp-content/themes/cryptoslate-2020/images/partners/amber/amber-sticky-footer-desktop.jpg$image
 cryptoslate.com##.clearfix.post-box .edge-cta
@@ -534,24 +493,17 @@ cryptoslate.com##.top-sticky
 cryptoslate.com##.edge-cta
 cryptoslate.com##.lazyloaded.ls-is-cached.desktop
 
-! 2021-09-23 https://graphicriver.net
 graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas > .headerstrip-content
 graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas
 ||assets.banners.envato-static.com/header_banner/background_image/5e308f624b.png$image
 
-! 2021-09-24 https://graphicriver.net
 graphicriver.net##.is-hidden-tablet-and-below.headerstrip-canvas > .headerstrip-content
 
-! 2021-09-24 http://live.cdnz.one
 live.cdnz.one##.overlay_video
-
-
 
 www.manualslib.com##.blue2.tagsbg
 
-
 medium.com##.ts.fn.cw.ct
-
 
 www.bloomberg.com##.fence-rendered.fadeinAnimation__37b4335c.newsletterModal__8056e2c2
 www.bloomberg.com##.inline-newsletter-top
@@ -562,98 +514,59 @@ www.bloomberg.com###fortress-preblocked-container-root
 www.rollingstone.com##.l-article-header__block--share.l-article-header__block
 www.rollingstone.com##.jw-reset.jw-wrapper
 
-
-
 www.ruralsprout.com##.widget_dpsp_social_media_follow.widget
 
-! 2021-08-23 http://www.slate.com
 www.slate.com##div.rr-ad-container:nth-of-type(2)
 
-
-! 2021-08-25 https://jonhilton.net
 jonhilton.net##.iubenda-cs-content
 jonhilton.net##.pt-4.post-content > .my-12.bg-purple-100.border-gray-300.border.pt-2.px-12.cta-form
 jonhilton.net##.shadow-md
 
-
-! 2021-08-27 https://sourceforge.net
 sourceforge.net###newsletter-floating
 sourceforge.net##a.default.button:nth-of-type(2)
 sourceforge.net###share-project-button
 
-
-
-! 2020-09-02 https://www.collective-evolution.com
 www.collective-evolution.com##.et_bloom_animation_fadein.et_bloom_form_text_dark.et_bloom_rounded.et_bloom_form_bottom.et_bloom_popup_container.et_bloom_form_container
-
 
 old.reddit.com##.premium-banner-outer
 
-
-
-
-! 2020-11-05 twitter.com
 @@||syndication.twitter.com^
 
-
-! 2020-11-15 https://www.stuff.tv
 ||www.ultimedia.com/deliver/generic/iframe$subdocument
 
-! 2020-11-16 https://www.dailymail.co.uk
 www.dailymail.co.uk##.floater-19vuu.shared-2QYfa
 
-! 2020-11-18 https://www.mytoll.com
 www.mytoll.com##.contact-box-wrpr.clearfix
 www.mytoll.com##.footer
 
-
-! 2020-11-30 https://calendar.google.com
 calendar.google.com##div.FrSOzf:nth-of-type(1)
 
-! 2021-02-06 https://www.youtube.com
 www.youtube.com###voice-search-button
 
-! 8/2/2020 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(2)
 
-
-! 2022-01-31 https://www.theurbanlist.com
 www.theurbanlist.com##.linkby-widget
 
-! 2022-01-26 https://h30434.www3.hp.com
-
-
-! 2021-12-05 https://community.spiceworks.com
 community.spiceworks.com##.card-columns--old.card-columns
 community.spiceworks.com##.curated-items.constrained-content.js-read-next-footer.read-next-footer
 community.spiceworks.com##.global-nav_wrapper > .global-nav_destinations
 
-! 2021-11-18 https://bestdroidplayer.com
 bestdroidplayer.com##.ulp-fadeIn.ulp-animated.ulp-overlay
 bestdroidplayer.com##.ulp-window-container
 bestdroidplayer.com##p:nth-of-type(6)
 
-
-! 2021-11-28 https://www.nasdaq.com
 www.nasdaq.com##.series-video-player-new
 www.nasdaq.com##div.body--no-ads.body:nth-of-type(6)
 www.nasdaq.com##.video__inline
 
-! 2021-08-19 https://logout.hu
 logout.hu###accept_container
 
-
-! 2021-08-13 http://live.cdnz.one
 live.cdnz.one##.cc-color-override--907048115.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 
-
-! 2021-08-16 https://mozilla.crowdicity.com
 mozilla.crowdicity.com##.cc_container--open.cc_container.cc_banner
 
-! 2021-08-10 https://www.moviestudiozen.com
 www.moviestudiozen.com##.cc-color-override--1784902839.cc-bottom.cc-opacity-90.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
 
-! 2021-08-10 https://www.inlivo.com
 www.inlivo.com##.in.fade.modal
 www.inlivo.com##.in.fade.modal-backdrop
 ||www.inlivo.com//js/plugins/newsletter-form.js$xhr,domain=www.inlivo.com
@@ -664,7 +577,6 @@ tabs.ultimate-guitar.com##._1Rmfr.h0mpP
 tabs.ultimate-guitar.com##._32WVf.GNs3K._17Cml > ._2LdY7._3DU-x
 tabs.ultimate-guitar.com##._179GN
 
-! 2021-07-24 https://tabs.ultimate-guitar.com
 tabs.ultimate-guitar.com##._3JqBu
 
 
@@ -758,7 +670,6 @@ facebook.com##div[role=button] > span:not(>*):has-text(/related/i):upward(4)
 
 appuals.com##.wp-timed-p
 
-
 www.sunwestgenetics.com##.elementor-location-popup.elementor-5008116.elementor
 www.usatoday.com##.gnt_em_vp__tavp.gnt_em > div
 www.urbandictionary.com##.mug-ad
@@ -788,9 +699,7 @@ www.tiktok.com##span.lazyload-wrapper:nth-of-type(6)
 filesmerge.com##.text-center.navbar-fixed-top.navbar-default.yamm.navbar
 filesmerge.com##.col-sm-12.col-xs-12 > div > div > p
 
-
 pf-electronicstt.com###h860
-
 
 kinsta.com##div.in-post-container:nth-of-type(3)
 kinsta.com##.sidebar-cta
@@ -799,7 +708,6 @@ twitter.com##html:style(overflow: auto !important;)
 twitter.com##div#layers div[data-testid=”sheetDialog”]:upward(div[role=”group”][tabindex=”0″])
 twitter.com##+js(overlay-buster.js)
 twitter.com##html:style(overflow: unset !important)
-
 
 www.propertychat.com.au###nativeads_ad_below_messages
 
@@ -822,7 +730,6 @@ youtube.com##+js(json-prune, playerResponse.adPlacements)
 youtube.com##+js(json-prune, playerResponse.playerAds)
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
 
-! 2022-04-19 https://fourhundredandtwenty.biz
 ||fourhundredandtwenty.biz/wp-content/themes/fourhundredandtwenty_new/assets/420-bg.jpg$image
 fourhundredandtwenty.biz##.popup_ukraine__overlay
 fourhundredandtwenty.biz##.hiring__banner-active.hiring__banner
@@ -830,23 +737,17 @@ fourhundredandtwenty.biz##.hiring__banner-active.hiring__banner
 
 blog.davey.com##.collection-overlay-block
 
-! 2022-04-19 https://teachschoolnepal.wordpress.com
 teachschoolnepal.wordpress.com##.noskim.marketing-bar
 
-! 2022-04-19 https://old.reddit.com
 old.reddit.com##.listingsignupbar.infobar
 
 moovitapp.com##.multi-side-bar-1.layout-row.app-container > .collapsed
 moovitapp.com##.multi-side-bar-1.layout-row.app-container > .expanded
 
-
-! 2022-04-21 https://chrome.google.com
 chrome.google.com##.yD5gtd
 
-! 2022-04-27 https://old.reddit.com
 old.reddit.com##.commentsignupbar.infobar
 
-! 2022-04-27 https://clickamericana.com
 clickamericana.com##.IRPP_ruby
 
 ||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*$xhr
@@ -864,21 +765,6 @@ haydenjames.io###chkmk_mp4_1-main-video
 
 www.vari.com##.underlay
 www.vari.com##.body-overlay.veil
-
-
-$removeparam=cp,domain=nextdoor.com
-$removeparam=s,domain=nextdoor.com
-$removeparam=section,domain=nextdoor.com
-$removeparam=ct,domain=nextdoor.com
-$removeparam=ec,domain=nextdoor.com
-
-$removeparam=ref,domain=amazon.com
-$removeparam=psc,domain=amazon.com
-$removeparam=content-id,domain=amazon.com
-
-$removeparam=src,domain=aliexpress.com
-$removeparam=albslr,domain=aliexpress.com
-$removeparam=isdl,domain=aliexpress.com
 
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 
@@ -961,30 +847,6 @@ food52.com###mailingListBannerRoot
 
 www.bandt.com.au##.in.fade.modal
 
-$removeparam=ref,domain=amazon.com.au
-
-$removeparam=sh,domain=forbes.com
-
-$removeparam=source,domain=nextdoor.com
-$removeparam=init_source,domain=nextdoor.com
-$removeparam=query,domain=nextdoor.com
-
-$removeparam=utm\_source,domain=addons.mozilla.org
-$removeparam=utm\_medium,domain=addons.mozilla.org
-$removeparam=utm\_content,domain=addons.mozilla.org
-
-$removeparam=keywords,domain=amazon.com
-$removeparam=ref,domain=amazon.com
-
-
-$removeparam=ch,domain=ebay.*
-$removeparam=ut,domain=ebay.*
-$removeparam=osub,domain=ebay.*
-$removeparam=segname,domain=ebay.*
-
-$removeparam=ocid,domain=msn.com
-$removeparam=li,domain=msn.com
-$removeparam=cvid,domain=msn.com
 !https://www.msn.com/en-au/news/australia/melbourne-west-gate-bridge-chaos-as-truck-drivers-protest-fuel-levy-call-for-government-action/ar-AAZNigt?ocid=UE12DHP&li=AAgfLCP
 
 
@@ -1019,10 +881,6 @@ www.amazon.com##div.a-spacing-none.a-section:nth-of-type(7)
 www.amazon.com##.a-col-left.a-fixed-right-grid-col > div.a-spacing-none.a-section > .a-size-small
 www.amazon.com##.a-expander-partial-collapse-header.a-expander-header
 
-$removeparam=eq,domain=pinterest.com.au
-$removeparam=etslf,domain=pinterest.com.au
-$removeparam=term_meta[],domain=pinterest.com.au
-$removeparam=rs,domain=pinterest.com.au
 
 ||us1-photo.nextdoor.com/groups_photos/d0/62/d062c3119ad3fc4e675a780719b4dbeb.jpeg$image
 
@@ -1052,3 +910,52 @@ coinmarketcap.com##.hgMLDB.sc-16r8icm-0
 
 ! 08/07/2017, 1:27:35 am http://app.swarm.fm/#/releases/latest
 ||embed.spotify.com/$subdocument
+
+
+$removeparam=eq,domain=pinterest.com.au
+$removeparam=etslf,domain=pinterest.com.au
+$removeparam=term_meta[],domain=pinterest.com.au
+$removeparam=rs,domain=pinterest.com.au
+
+$removeparam=utm_medium,domain=sli.do
+$removeparam=utm_source,domain=drive.com.au
+
+
+$removeparam=ref,domain=amazon.com.au
+
+$removeparam=sh,domain=forbes.com
+
+$removeparam=source,domain=nextdoor.com
+$removeparam=init_source,domain=nextdoor.com
+$removeparam=query,domain=nextdoor.com
+
+$removeparam=utm\_source,domain=addons.mozilla.org
+$removeparam=utm\_medium,domain=addons.mozilla.org
+$removeparam=utm\_content,domain=addons.mozilla.org
+
+$removeparam=keywords,domain=amazon.com
+$removeparam=ref,domain=amazon.com
+
+
+$removeparam=ch,domain=ebay.*
+$removeparam=ut,domain=ebay.*
+$removeparam=osub,domain=ebay.*
+$removeparam=segname,domain=ebay.*
+
+$removeparam=ocid,domain=msn.com
+$removeparam=li,domain=msn.com
+$removeparam=cvid,domain=msn.com
+
+$removeparam=cp,domain=nextdoor.com
+$removeparam=s,domain=nextdoor.com
+$removeparam=section,domain=nextdoor.com
+$removeparam=ct,domain=nextdoor.com
+$removeparam=ec,domain=nextdoor.com
+
+$removeparam=ref,domain=amazon.com
+$removeparam=psc,domain=amazon.com
+$removeparam=content-id,domain=amazon.com
+
+$removeparam=src,domain=aliexpress.com
+$removeparam=albslr,domain=aliexpress.com
+$removeparam=isdl,domain=aliexpress.com
