@@ -1041,3 +1041,4 @@ www.chicagotribune.com##.right-article-section.layout-section.ie-flex-100-percen
 www.johnsonsbaby.com##.sfmc-careclub-modal
 
 www.sevenforums.com###yui-gen2
+$removeparam=ltr,domain=sevenforums.com
