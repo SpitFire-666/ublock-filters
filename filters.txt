@@ -1011,6 +1011,33 @@ businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(1)
 ! 2022-09-08 https://www.bleepingcomputer.com
 www.bleepingcomputer.com##.bc_news_letter_sidebar
 
-! 2022-09-08 https://www.nakivo.com
 www.nakivo.com##.sgpb-popup-dialog-main-div-wrapper
 www.nakivo.com##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
+
+www.dymo.com##.show.fade.modal-backdrop
+||bazaarvoice-prod-01.dn.apigee.net^$domain=dymo.com
+||api.bazaarvoice.com^$script,domain=www.dymo.com
+||content.syndigo.com^$domain=www.dymo.com
+||display.ugc.bazaarvoice.com^$script,domain=www.dymo.com
+
+dymo.com##body,html:style(overflow:auto!important)
+
+www.healthline.com##.css-6l6gc
+
+patient.info##.aftercontentads
+
+www.satellites.co.uk##.js-bottomFixTarget.u-bottomFixer
+
+www.tomshardware.com##.exitIntent.exit-intent-slice.slice-container
+
+www.partitionwizard.com##.swiper-slide-active.swiper-slide
+www.partitionwizard.com##.swiper-slide-duplicate-prev.swiper-slide-next.swiper-slide > [src="https://www.minitool.com/promotions/images/win-upgrade/win-upgrade-ad-banner.png"]
+www.partitionwizard.com##.swiper-slide-duplicate-prev.swiper-slide-next.swiper-slide
+www.partitionwizard.com##.promotions-banner-wrap
+
+www.chicagotribune.com##.met-toaster-zepcomponent.met-footer-toast
+www.chicagotribune.com##.right-article-section.layout-section.ie-flex-100-percent-sm.left-article-section.col-lg-xl-8.col-sm-md-12 > div
+
+www.johnsonsbaby.com##.sfmc-careclub-modal
+
+www.sevenforums.com###yui-gen2
