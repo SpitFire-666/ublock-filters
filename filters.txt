@@ -959,3 +959,58 @@ $removeparam=content-id,domain=amazon.com
 $removeparam=src,domain=aliexpress.com
 $removeparam=albslr,domain=aliexpress.com
 $removeparam=isdl,domain=aliexpress.com
+
+
+! 2022-09-14 https://jeffreyappel.nl
+jeffreyappel.nl##.sh-page-notice
+
+! 2022-09-14 https://www.ionos.com
+www.ionos.com###bio_ep_bg
+www.ionos.com###bio_ep
+www.ionos.com##.cc_banner-wrapper
+www.ionos.com##.sticky-header.sidebar-sticky-box
+
+! 2022-09-19 https://support.zoom.us
+support.zoom.us###onetrust-consent-sdk
+support.zoom.us##.header-banner
+support.zoom.us##.article-body-community
+
+! 2022-09-19 https://www.domain.com.au
+www.domain.com.au###paragraph-5 > .placeholder > div
+www.domain.com.au##.placeholder > div > .css-0 > div > div
+
+
+||cdn.privacy-mgmt.com/index.html$subdocument
+||cdn.privacy-mgmt.com/index.html$subdocument
+
+$removeparam=utm_medium,domain=simplywall.st
+$removeparam=utm_campaign,domain=simplywall.st
+$removeparam=utm_source,domain=simplywall.st
+
+! 2022-08-28 https://simplywall.st
+simplywall.st###modal-container
+
+https://simplywall.st/static/js/components-GuestRegistrationModal.modern.9283a7a6.js
+
+! 2022-08-31 https://www.google.com
+||ogs.google.com/widget/callout$subdocument
+
+! 2022-09-01 https://www.ribbonsoft.com
+www.ribbonsoft.com###redim-cookiehint-bottom
+
+! 2022-09-01 https://success.trendmicro.com
+success.trendmicro.com##.c-container
+
+! 2022-09-01 https://www.cheapsslshop.com
+www.cheapsslshop.com##.cookies
+
+! 2022-09-04 https://businesstechplanet.com
+businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(2)
+businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(1)
+
+! 2022-09-08 https://www.bleepingcomputer.com
+www.bleepingcomputer.com##.bc_news_letter_sidebar
+
+! 2022-09-08 https://www.nakivo.com
+www.nakivo.com##.sgpb-popup-dialog-main-div-wrapper
+www.nakivo.com##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
