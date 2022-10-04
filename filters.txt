@@ -1042,3 +1042,168 @@ www.johnsonsbaby.com##.sfmc-careclub-modal
 
 www.sevenforums.com###yui-gen2
 $removeparam=ltr,domain=sevenforums.com
+
+
+ ! 2021-01-08 https://buxton.com.au
+||buxton-images-prod.s3.amazonaws.com/media/original_images/Buxton-Hero-Full-Home.jpg$image
+
+! 2021-02-11 https://www.seriouseats.com
+www.seriouseats.com##.stuck.d-sticky.d-scrolled.header-global__content
+
+! 2021-02-12 https://m.banggood.com
+m.banggood.com##.main
+
+! 2021-03-09 https://www.metrotrains.com.au
+||ds12k1658w1f2.cloudfront.net/wp-content/uploads/2020/08/Metro-Home-Page.jpg$image
+||ds12k1658w1f2.cloudfront.net/wp-content/uploads/2020/08/Metro-Home-Page.jpg$image
+www.metrotrains.com.au##.slick-track
+www.metrotrains.com.au##.slick-slider.slick-initialized.carousel
+
+! 2021-05-22 https://www.gumtree.com.au
+www.gumtree.com.au##.social-links
+www.gumtree.com.au##.footer
+
+! 2021-05-24 https://www.grays.com
+www.grays.com###topbanner > div
+
+! 2021-05-26 https://m.tiktok.com
+m.tiktok.com##.stateList
+
+! 2021-06-10 https://petrolspy.com.au
+petrolspy.com.au###mobile-footer
+
+! 2021-06-14 https://www.gumtree.com.au
+www.gumtree.com.au##.paypal-linking-message
+
+www.gumtree.com.au##.liberty-container-1001 > .panel > .liberty-adsense__panel-body.panel-body > .ad-sense-ad
+www.gumtree.com.au##.top-ad-upsell__details
+www.gumtree.com.au##.top-ad-upsell
+www.gumtree.com.au##.ecommerce-ad.panel
+www.gumtree.com.au##.liberty-container-1002 > .panel
+www.gumtree.com.au##.warning.panel-body--standard-shadow.panel-body--rounded-full.panel-body
+www.gumtree.com.au##.modal--backdrop.modal
+www.gumtree.com.au##.liberty-container-1001--mweb-others.liberty-container-1001
+
+||www.spotlightstores.com/medias/BP80013896001-silver.jpg-SPOTWF-productHero$image
+
+
+www.ebay.com.au##.no-subtitle.gh-fixed-banner-v3__hasLogo.gh-fixed-banner-v3__container
+www.ebay.com.au##.active.null.gh-fixed-banner-v3__wrapper.gh-coupon-banner
+
+
+tricefy4.com##.app_banner
+
+www.ship24.com##.my-4.block.sm\:pb-0.pb-2.text-center.w-full.adContainer.adReal
+www.ship24.com##.block.mt-4 > .w-full.justify-center.flex
+
+www.ebay.com.au###nume_html_101103_293199-w0-0 > .last.first.mfe-card-container
+
+! 2022-01-18 https://www.fastcompany.com
+www.fastcompany.com##.jw-reset.jw-video
+www.fastcompany.com##.jw-reset.jw-wrapper
+www.fastcompany.com##.mobile-video-module
+
+! 2022-02-06 https://corporatechairs.com.au
+corporatechairs.com.au##.av-share-box
+
+! 2022-03-04 https://dandenongmarket.com.au
+dandenongmarket.com.au##.overlay__content--newsletter.overlay__content.type__centered.bg__white.grid-12
+
+! 2022-03-09 https://giphy.com
+giphy.com##div.dbWvrm.PreviewContainer-sc-11fn3ws > div
+
+! 2022-03-21 https://onedrive.live.com
+onedrive.live.com##.scrollableContent-46.ms-Modal-scrollableContent
+
+! 2022-03-23 https://onedrive.live.com
+onedrive.live.com##.main-45.od-mobileWebToAppUpsell-dialog--BannerStyle.ms-Dialog-main
+
+! 2022-04-04 https://www.rollingstone.com
+www.rollingstone.com###adm-in-list-x > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
+
+! 2022-04-12 https://kmandla.wordpress.com
+kmandla.wordpress.com###eu-cookie-law > form
+kmandla.wordpress.com##.ads-active.hide-on-button
+
+www.apartmenttherapy.com##.Ad--empty.Ad--6782-GenAptTherapy-Post-Post_004.Ad
+www.apartmenttherapy.com##.SitePostLayout > .jsx-853266564
+
+! 2022-04-20 https://forums.theregister.com
+forums.theregister.com##.even.level-3.indent > li > .thread_breaker > .gtag_display.adun
+
+! 2022-04-21 https://www.theregister.com
+www.theregister.com###hawk_7
+
+! 2022-05-01 https://www.gourmettraveller.com.au
+www.gourmettraveller.com.au##.sticky-block--out-of-view.sticky-block--at-bottom.sticky-block
+
+! 2022-05-02 https://www.babycenter.com.au
+www.babycenter.com.au##.bc-show-for-small.bcAd
+
+! 2022-05-08 https://www.digitaltrends.com
+www.digitaltrends.com##.ot-sdk-row > .ot-sdk-columns.ot-sdk-eight
+www.digitaltrends.com###onetrust-button-group-parent
+
+! 2022-05-19 https://m.facebook.com
+m.facebook.com##._56bf._55wo > div
+
+! 2022-05-20 https://www.productreview.com.au
+www.productreview.com.au##div.filters-ad_lv4.d-flex_RNf.justify-content-center_zro.flex-column__BR.align-items-center_amm:nth-of-type(1)
+www.productreview.com.au##.neg-mx-1_em6
+
+! 2022-05-28 https://www.thesun.co.uk
+www.thesun.co.uk##.article__content > .advert-wrapper--header.advert-wrapper
+www.thesun.co.uk##.advert-wrapper--outstream.advert-wrapper
+www.thesun.co.uk##.advert-wrapper--articlempu.advert-wrapper
+www.thesun.co.uk##.advert-wrapper--advert-inarticle-mpu.advert-wrapper
+www.thesun.co.uk##.advert-wrapper--advert-inarticle-mpu-1.advert-wrapper
+www.thesun.co.uk##.advert-wrapper--advert-inarticle-mpu-2.advert-wrapper
+www.thesun.co.uk##.advert-wrapper--advert-inarticle-mpu-3.advert-wrapper
+www.thesun.co.uk##.advert-wrapper--advert-inarticle-mpu-4.advert-wrapper
+||www.thesun.co.uk/simwidgets/v1/sim$subdocument
+www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(3)
+www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(4)
+www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(5)
+
+! 2022-06-08 http://192.168.1.2
+192.168.1.2###queries-over-time
+192.168.1.2###clients
+192.168.1.2##div.col-md-6:nth-of-type(1)
+
+www.tiktok.com##.enx791q2.tiktok-1ba5y2x-DivInfoContainer
+
+datenightmovies.com##.callout > g > path
+
+www.techweekmag.com##.popup-overlay
+
+www.tiktok.com##.epicki90.tiktok-rooe1m-DivTopBannerAB
+
+www.laptopmag.com##.future__jwplayer--carousel
+
+forum.xda-developers.com###xdadevelopers_leaderboard_atf
+
+www.omgubuntu.co.uk##.is-active.CookieWarning
+www.omgubuntu.co.uk##.above-comments > .widget_text.widget
+
+www.urbandictionary.com###Define_300x250_1
+www.urbandictionary.com##.rounded-md.md\:p-8.p-5.shadow-light.mb-4.dark\:text-white.dark\:bg-yankees.bg-white
+www.urbandictionary.com###Define_300x250_2
+www.urbandictionary.com###Define_300x250_3
+www.urbandictionary.com##div.rounded-md.shadow-light.dark\:bg-yankees.bg-white.p-5.mb-4.ad-panel:nth-of-type(8)
+www.urbandictionary.com##div.rounded-md.shadow-light.dark\:bg-yankees.bg-white.p-5.mb-4.ad-panel:nth-of-type(5)
+www.urbandictionary.com##div.rounded-md.shadow-light.dark\:bg-yankees.bg-white.p-5.mb-4.ad-panel:nth-of-type(2)
+www.urbandictionary.com##.justify-end.items-center.flex > li
+
+bellalunafamily.com##.fl-node-content.fl-module-content > .gform_legacy_markup_wrapper.gform_wrapper.gf_browser_chrome
+
+huckleberrycare.com##.mx-lg-5.mx-md-1.cookie-banner
+
+www.ramint.gov.au##.div_text
+
+jakebeldercars.wordpress.com##.widget_eu_cookie_law_widget.widget
+
+www.carsales.com.au##csn-gdpr-toaster
+
+www.subaruforester.org##.vtf.login-buttongroup
+
+www.tiktok.com##.e3jljnd0.tiktok-1jeqist-DivContentWrap
