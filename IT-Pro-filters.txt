@@ -717,3 +717,16 @@ community.spiceworks.com##.zd-privacy-content
 community.spiceworks.com##.how-to-sidebar_secondary-wrapper
 
 www.smartsheet.com###CybotCookiebotDialog
+www.minitool.com##.page-bottom-fixed
+
+
+
+www.tenforums.com##.body_wrapper > .chill
+www.tenforums.com##.feed1.chill.postcontainer.postbitim.postbitlegacy
+www.tenforums.com###yui-gen1
+
+www.experts-exchange.com##.banner-background-image.huvqWs.banner__BannerSection-sc-1ujko8u-0
+www.experts-exchange.com##.newPearl.testimonialBlock
+
+superuser.com##.wmx12
+
