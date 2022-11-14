@@ -891,26 +891,13 @@ www.bing.com###bw-un-vnext-anaFooterNol
 coinmarketcap.com##.eDKGub.sc-16r8icm-0
 coinmarketcap.com##.hgMLDB.sc-16r8icm-0
 
-||skype.com
-
-! 08/07/2017, 1:09:56 am live.com
-||contacts.skype.com
-
-! 08/07/2017, 1:10:13 am live.com
 ||client-s.gateway.messenger.live.com/v1/users/ME/conversations
 
-! 08/07/2017, 1:11:29 am live.com
-||skypeassets.com
-
-! 08/07/2017, 1:22:43 am live.com
 ||client-s.gateway.messenger.live.com
 
-! 08/07/2017, 1:23:01 am live.com
 ||browser.pipe.aria.microsoft.com
 
-! 08/07/2017, 1:27:35 am http://app.swarm.fm/#/releases/latest
 ||embed.spotify.com/$subdocument
-
 
 $removeparam=eq,domain=pinterest.com.au
 $removeparam=etslf,domain=pinterest.com.au
