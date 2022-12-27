@@ -243,3 +243,24 @@ www.comedyfestival.com.au##.container.footer__heritage.footer__signoff
 
 au.movember.com##.row.mospace-fb-and-apps
 au.movember.com##.mospace-key-statistics--title
+
+https://www.weatherzone.com.au/scripts/hotjar.js
+https://www.weatherzone.com.au/scripts/plugin-configs.js
+https://www.weatherzone.com.au/scripts/gtmHead.js
+www.weatherzone.com.au##.publift-ad-wrapper
+
+||media.danmurphys.com.au/dmo/e-commerce/whisky-business-fy23/$image
+||media.danmurphys.com.au/dmo/e-commerce/read-between-the-wines-fy23/$image
+www.danmurphys.com.au##.hidden-on-certain-page.interrupt > [href^="/discover/christmas"]
+||media.danmurphys.com.au/dmo/e-commerce/read-between-the-wines-fy23/$image
+
+visit.museum.wa.gov.au##.uk-open.uk-modal.uk-modal-full.block-block-content22b8c382-3a72-434f-be0d-54220ea66551.block-block-content.block.block--acknowledgementofcountry.block--type-basic
+
+www.carsguide.com.au##.half-page-shared.ad
+www.carsguide.com.au##.m-rec.ad
+www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
+
+10play.com.au##.cvui-large-play
+10play.com.au##.vtg-blank.cvui-clickable.cvui-control.cvui-play-prompt-screen
+
+bws.com.au##.bg--white.merch-card--container
