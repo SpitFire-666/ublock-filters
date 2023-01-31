@@ -9,6 +9,31 @@ community.spiceworks.com##.join-promotion.sui-alert--info.sui-alert
 community.spiceworks.com##.community-content-banner
 community.spiceworks.com##.gekko_post
 
+www.howtogeek.com##.adslot970.adslot
+www.howtogeek.com##.jw-reset.jw-wrapper
+www.howtogeek.com##.jw-flag-user-inactive.jw-floating-dismissible.jw-breakpoint-4.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-playing.jw-reset.jwplayer
+
+www.techradar.com##.dfp-leaderboard-container
+www.techradar.com###desktop-in-article
+www.techradar.com##.carousel--background
+www.techradar.com##.jw-carousel
+www.techradar.com##.future__jwplayer--carousel
+www.techradar.com##.vid-present.van_vid_carousel
+www.techradar.com###sidebar-popular-top
+
+www.maketecheasier.com##.md\:block.hidden.header-widget
+www.maketecheasier.com###custom_html-7 > .custom-html-widget.textwidget > .mb-4.ad-slot.clear.text-center.sidebar-widget
+www.maketecheasier.com###incontent-ad1
+www.maketecheasier.com##.ml-8.widget-area.sidebar-right.sidebar
+www.maketecheasier.com###MTE_in_content_ad2
+
+www.dailymotion.com##.sd_metaheader
+www.dailymotion.com###content > .container > .row > .col-4.side-column > .no-border
+www.dailymotion.com###content > .container > .row > .col-4.side-column
+
+www.pinterest.com##.App.AppBase.Module.full > .appContent > .mainContainer > .Module.Nags.centeredWithinWrapper > .InlineSignup.Module.UnauthBanner.wallStep.halfScreenBanner
+
+
 twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
 
@@ -36,7 +61,6 @@ www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw
 www.grays.com##div.advertisement-search-gallery-middle.google-ad-middle-row.s3rw > .marketing
 www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_targetedTiles6 > .marketing
 
-! 2021-05-22 https://www.justanswer.com
 www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
@@ -50,7 +74,6 @@ www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
 ||aadcdn.msftauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
 
 ||logincdn.msauth.net/16.000.28497.4/content/images/backgrounds/0*.jpg$image
-
 
 ||aadcdn.msftauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
 
@@ -79,15 +102,11 @@ tabs.ultimate-guitar.com##._3o2b6
 tabs.ultimate-guitar.com##.js-fp-video
 tabs.ultimate-guitar.com##._2ATGy
 
-
-! 7/28/2020 https://www.quora.com
 www.quora.com###__w2_wj6MaD071_signup_wall_wrapper
 www.quora.com###__w2_wzbSlpOx1_signup_wall_wrapper
 
-! 8/5/2020 https://www.howtogeek.com
 www.howtogeek.com##.overlay-wrapper
 
-! 8/12/2020 https://outlook.live.com
 outlook.live.com##.xpcE12DTdKx2lSq2Rp9cN.chat-wrapper
 outlook.live.com##.skype-recents
 outlook.live.com###skype_container
@@ -108,11 +127,9 @@ www.msp360.com###slidebox
 
 ||browser.pipe.aria.microsoft.com.us2.cas.ms^
 
-! 2020-10-06 live.com
 ||msnmessenger.msn.com.akadns.net^$xhr
 ||gateway.messenger.live.com^$xhr
 
-! 2020-10-11 https://old.reddit.com
 old.reddit.com##.linkinfo
 old.reddit.com##.subButtons
 old.reddit.com###form-t5_2qh4pole > .md-container.may-blank-within.usertext-body > .md
@@ -122,22 +139,17 @@ old.reddit.com##.flairtoggle.toggle
 old.reddit.com##.bottom
 old.reddit.com##.titlebox > .tagline
 
-! 2020-10-20 https://www.kingarthurbaking.com
 www.kingarthurbaking.com##li.field__item > aside
-
 
 ||24x7helpsupport.com/chat/image.php$image
 microsoftlivechat.net###lz_overlay_box
 microsoftlivechat.net##.livezilla_livebox_background_classlz_overlay_box
 
-
 www.mytoll.com###shipementDetailForm > div.clearfix
 www.mytoll.com##.footer
 
-! 2020-11-24 https://webcamtests.com
 ||webcamtests.com/MyShowroom/view.php$subdocument
 
-! 2020-11-25 https://old.reddit.com
 old.reddit.com##.RESDialogSmall.RESHoverInfoCard.RESHover
 old.reddit.com##ol
 old.reddit.com##div.spacer:nth-of-type(8)
@@ -161,29 +173,22 @@ forum.xda-developers.com##.spot_container_content_above.spot_container.spot
 forum.xda-developers.com##.uix_sidebarNav
 forum.xda-developers.com##.xda_appsWidget.block
 
-
-! 2020-12-07 https://www.experts-exchange.com
 www.experts-exchange.com##.popWrapper
 www.experts-exchange.com##.featherlight-content
 www.experts-exchange.com##.exitOverlay.featherlight
 www.experts-exchange.com##.limitedUsagesWrapper
 www.experts-exchange.com##.askQuestionSidebar.textComponent.component
 
-! 2021-01-04 https://community.windows.com
 community.windows.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert > div
 community.windows.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
 
-! 2021-01-04 https://answers.microsoft.com
 answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 
-! 2021-01-05 https://www.buzzfeed.com
 www.buzzfeed.com##.ad-inline.js-ad-placement.clearfix
 
-! 2021-01-07 https://www.musicradar.com
 www.musicradar.com##.jw-carousel
 www.musicradar.com##.future__jwplayer--carousel
 
-! 2021-01-11 https://www.examtopics.com
 www.examtopics.com##.footer-contact-desc.row
 www.examtopics.com##.d-print-none.footer-top
 www.examtopics.com##.d-print-none.footer-bottom
@@ -202,23 +207,17 @@ www.masterclass.com##.mc-py-8.bulk-banner-container.uncontainer
 www.masterclass.com##.mc-background--fit-content.mc-background--color-dark.mc-background.d-none.mc-mb-8.mc-pt-9.d-lg-block.mc-theme-dark.uncontainer
 www.masterclass.com##.article-ad__container.mc-mt-6
 
-! 2021-03-02 https://outlook.live.com
 outlook.live.com##.main-166._2hro2_DZ0s6Yn3wwT5_5ZC.ms-Dialog-main
 outlook.live.com##.root-170.ms-Overlay--dark.ms-Overlay
 
-! 2021-03-02 https://login.microsoftonline.com
 ||aadcdn.msauth.net/shared/1.0/content/images/backgrounds/*$image
 
-! 2021-05-30 https://allthatsinteresting.com
 allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
 allthatsinteresting.com##div.pbh_inline:nth-of-type(2)
 allthatsinteresting.com##div.pbh_inline:nth-of-type(3)
 
-! 2021-05-31 https://www.vembu.com
 www.vembu.com###spu-bg-44816
 
-
-! 2021-07-08 https://www.manualslib.com
 www.manualslib.com##section.whitebg:nth-of-type(1)
 www.manualslib.com##section.whitebg:nth-of-type(2)
 www.manualslib.com##footer
@@ -244,8 +243,6 @@ www.familyhandyman.com##.non-contextual-video
 www.familyhandyman.com##.in-content-nl-container
 www.familyhandyman.com##.taboola-wrapper
 
-
-! 2021-08-01 https://home.howstuffworks.com
 home.howstuffworks.com##.overflow-y-auto.inset-0.z-10.fixed.newsletter-modal
 
 allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
