@@ -264,3 +264,53 @@ www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
 10play.com.au##.vtg-blank.cvui-clickable.cvui-control.cvui-play-prompt-screen
 
 bws.com.au##.bg--white.merch-card--container
+
+
+www.news.com.au##.g_wrapper > .header_date-bar_links
+
+www.weatherzone.com.au##div.eHMuzp.sc-ggVKop:nth-of-type(1)
+www.weatherzone.com.au##.bBxhcf.sc-ciKQPW
+
+www.bandt.com.au##.in.fade.modal
+
+www.domain.com.au###paragraph-5 > .placeholder > div
+www.domain.com.au##.placeholder > div > .css-0 > div > div
+
+||buxton-images-prod.s3.amazonaws.com/media/original_images/Buxton-Hero-Full-Home.jpg$image
+
+petrolspy.com.au###mobile-footer
+
+||ds12k1658w1f2.cloudfront.net/wp-content/uploads/2020/08/Metro-Home-Page.jpg$image
+||ds12k1658w1f2.cloudfront.net/wp-content/uploads/2020/08/Metro-Home-Page.jpg$image
+www.metrotrains.com.au##.slick-track
+www.metrotrains.com.au##.slick-slider.slick-initialized.carousel
+
+www.gumtree.com.au##.social-links
+www.gumtree.com.au##.footer
+www.gumtree.com.au##.paypal-linking-message
+www.gumtree.com.au##.liberty-container-1001 > .panel > .liberty-adsense__panel-body.panel-body > .ad-sense-ad
+www.gumtree.com.au##.top-ad-upsell__details
+www.gumtree.com.au##.top-ad-upsell
+www.gumtree.com.au##.ecommerce-ad.panel
+www.gumtree.com.au##.liberty-container-1002 > .panel
+www.gumtree.com.au##.warning.panel-body--standard-shadow.panel-body--rounded-full.panel-body
+www.gumtree.com.au##.modal--backdrop.modal
+www.gumtree.com.au##.liberty-container-1001--mweb-others.liberty-container-1001
+
+||www.spotlightstores.com/medias/BP80013896001-silver.jpg-SPOTWF-productHero$image
+
+corporatechairs.com.au##.av-share-box
+
+dandenongmarket.com.au##.overlay__content--newsletter.overlay__content.type__centered.bg__white.grid-12
+
+www.gourmettraveller.com.au##.sticky-block--out-of-view.sticky-block--at-bottom.sticky-block
+
+www.babycenter.com.au##.bc-show-for-small.bcAd
+
+au.movember.com##.row.mospace-fb-and-apps
+au.movember.com##.mospace-key-statistics--title
+
+
+www.ebay.com.au##.no-subtitle.gh-fixed-banner-v3__hasLogo.gh-fixed-banner-v3__container
+www.ebay.com.au##.active.null.gh-fixed-banner-v3__wrapper.gh-coupon-banner
+www.ebay.com.au###nume_html_101103_293199-w0-0 > .last.first.mfe-card-container
