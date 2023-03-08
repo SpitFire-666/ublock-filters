@@ -1053,11 +1053,6 @@ www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(3)
 www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(4)
 www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(5)
 
-! 2022-06-08 http://192.168.1.2
-192.168.1.2###queries-over-time
-192.168.1.2###clients
-192.168.1.2##div.col-md-6:nth-of-type(1)
-
 www.tiktok.com##.enx791q2.tiktok-1ba5y2x-DivInfoContainer
 
 datenightmovies.com##.callout > g > path
@@ -1094,3 +1089,486 @@ www.ramint.gov.au##.div_text
 www.subaruforester.org##.vtf.login-buttongroup
 
 www.tiktok.com##.e3jljnd0.tiktok-1jeqist-DivContentWrap
+
+
+! 8/1/2020 https://www.facebook.com
+www.facebook.com##.fh5enmmv.l9j0dhe7
+
+
+! 2020-08-29 https://outlook.live.com
+outlook.live.com##._1TpU2KF6f_EeQiytBaYj8I > ._3_hHr3kfEhbNYRFM5YJxH9
+! 2020-10-03 https://twitter.com
+twitter.com###layers > .r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n > div.r-12vffkv.css-1dbjc4n > .r-12vffkv.css-1dbjc4n
+
+
+! 2020-12-15 https://www.bing.com
+
+
+! 2021-01-02 https://outlook.live.com
+||outlook-1.cdn.office.net/owamail/20200928003.09/resources/img/outlook-mobile-apps-dark.png$image
+
+! 2021-04-20 https://coinmarketcap.com
+
+
+! 2021-05-07 https://coinmarketcap.com
+
+
+
+! 2021-05-23 https://www.google.com
+www.google.com##.Txmime-wPzPJb-k77Iif
+
+
+! 2021-05-29 https://en.wikipedia.org
+en.wikipedia.org##.cn-wle_2021_au
+
+
+! 2021-08-06 https://www.instagram.com
+www.instagram.com##.ZUqME.N9d2H.TxciK._7JkPY.D8xaz.O1flK.HcJZg.XfCBB.IY_1_.CIRqI._4EzTm.YBx95.pmxbr.IwRSH.Igw0E.tHaIX
+www.instagram.com##.i3VrA.fPMEg.pbNvD
+www.instagram.com##._Yhr4.RnEpo
+www.instagram.com##.o64aR.SCxLW
+
+
+
+! 2021-08-07 https://www.bing.com
+
+
+! 2021-08-19 https://www.commbank.com.au
+www.commbank.com.au##.load-stack.hide-stack.hide-on-print.row
+
+
+! 2022-01-07 https://www.facebook.com
+||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q75/spS444/p640x640/202824226_23848021564240656_1388294037816565016_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=86c3dc&efg=eyJxZV9ncm91cHMiOlsibm9fc2FmZV9pbWFnZV9mb3JfYWRzX2ltYWdlIl19&_nc_ohc=KSnwuPBoTIEAX83MdKu&_nc_ht=scontent.fmel5-1.fna&oh=00_AT9nsu5PlMxcmZ2bAKuep2JUwBmwA91DLUVj9ezLHFl5UQ&oe=61DEA211$image
+||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q75/spS444/p960x960/173458109_23847177560520473_8888048435943896637_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=67cdda&_nc_ohc=2HqRIulOhBkAX9ErghH&tn=BH_k2tKTY60Ov95u&_nc_ht=scontent.fmel5-1.fna&oh=00_AT9yTfXYG_H6bfgeSAeUCS_uVRl7qSq5-VZpDxax7e8qjQ&oe=61DCE6C4$image
+www.facebook.com##[src^="https://scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/240562002_6232377910998_8962167059659309286_n.png.jpg?_nc_cat=104&ccb=1-5&_nc_sid=67cdda&_nc_ohc=bnOqf6krtlcAX8jlVd1&_nc_ht=scontent.fmel5-1.fna&oh=00_AT-fUVKSxmUD-mlQH1ANKFmcvMRmj"]
+www.facebook.com##[src^="https://scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/268400239_6274341733188_2497548554783930911_n.png.jpg?_nc_cat=104&ccb=1-5&_nc_sid=67cdda&_nc_ohc=HNAo1j_3y2IAX8VyoE1&tn=BH_k2tKTY60Ov95u&_nc_ht=scontent.fmel5-1.fna&oh=00_AT-9K_ZDR"]
+www.facebook.com##[src^="https://scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/254832354_23848838744220640_2715882996360780593_n.png.jpg?_nc_cat=108&ccb=1-5&_nc_sid=67cdda&_nc_ohc=JrZEHmMuFkAAX_5zg4m&_nc_ht=scontent.fmel5-1.fna&oh=00_AT-yp2uFXLhz4m0ABweLc_BNN"]
+
+! 2022-01-08 https://www.facebook.com
+||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q75/spS444/p960x960/263856070_23848722129050589_8691291888513271380_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=67cdda&_nc_ohc=wM6lb97UqAUAX_I8K0j&_nc_ht=scontent.fmel5-1.fna&oh=00_AT9AKJn0LXd25clb_KdP3aVnDbjRyp8Ivu93bgh4qqps9w&oe=61DEA9AD$image
+||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/118317058_23845342072610525_3892070097195665926_n.png.jpg?_nc_cat=1&ccb=1-5&_nc_sid=c53a18&_nc_ohc=m8fCLIo_AnIAX9FvDmS&_nc_ht=scontent.fmel5-1.fna&oh=00_AT_YJ3wlPNfUx_mMeDoc4vNY-VVOD9vvTel1ZUjdFJufnA&oe=61DE45A6$image
+||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/fr/cp0/q75/spS444/222134441_6254963955663_7472977932223383726_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=67cdda&_nc_ohc=CxpcEswZg5EAX97PDKS&_nc_ht=scontent.fmel5-1.fna&oh=00_AT_nGIxUm7Ee-YCnpvXc8-7PG4Ae4vztaCL1mJe2DD0aNQ&oe=61DF3490$image
+
+www.facebook.com##.du4w35lb.l9j0dhe7.rq0escxv .n7fi1qx3.i09qtzwb.poy2od1o
+
+www.gumtree.com.au##.view-item-page__leaderboard-wrapper-sticky
+
+! 2022-03-10 https://au.nextdoor.com
+au.nextdoor.com##.static-promo-content
+
+
+! 2022-03-19 https://www.gumtree.com.au
+www.gumtree.com.au##.sticky.sticky-desktop.header__banner-container
+
+www.reddit.com##.RESUserTag
+@@||www.redditstatic.com/onetrust.6tPW2jUogoc.js$script,domain=www.reddit.com
+@@||js.datadome.co/tags.js$script,domain=www.reddit.com
+
+
+
+||aadcdn.msauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration$image
+||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration$image
+||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration?ts=637279459485959800$image
+||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration?ts=637279459485959800$image
+
+||antonjewellery.com/cart.js$xhr,1p
+
+! 2022-07-15 https://www.microsoft.com
+www.microsoft.com###dynamicmarketredirect-dialog
+
+https://odc.officeapps.live.com/odc/stat/images/hrd/Background-blurryGradient.svg
+
+! 2022-07-17 https://chat-messaging.public.openaiplatform.telstra.com
+@@||js-agent.newrelic.com^$domain=telstra.com
+
+! 2022-07-17 https://www.bleepingcomputer.com
+www.bleepingcomputer.com##.cz-boa-wrapp
+
+! 2022-07-21 https://www.reddit.com
+www.reddit.com##.give-gold-button
+
+! 2022-07-21 https://myaccount.chandlermacleod.com
+
+
+http://192.168.1.2/admin/img/boxed-bg-dark.png
+
+! 2022-07-22 https://magnetmagazine.com
+magnetmagazine.com##.postsAd
+
+! 2022-07-22 https://forum.xda-developers.com
+||forum.xda-developers.com/proxy.php?image=https%3A%2F%2Fi.gyazo.com%2Fe780ca581373f8619e1ac57814fff855.gif&hash=f8169b0640a9999923926bf0a7f33605$image
+
+! 2022-07-24 https://www.anoopcnair.com
+www.anoopcnair.com###ai_widget-49
+www.anoopcnair.com###ai_widget-32
+www.anoopcnair.com###ai_widget-2
+www.anoopcnair.com###ai_widget-46
+www.anoopcnair.com###ai_widget-50
+
+! 2022-07-29 https://www.sevenforums.com
+www.sevenforums.com###yui-gen0
+www.sevenforums.com###yui-gen1
+
+! 2022-07-29 https://dziurologia.blogspot.com
+
+! 2022-08-11 https://www.ebay.ca
+www.ebay.ca###placement_html_101197
+www.ebay.ca###placement_html_101198
+
+ebay.*^$removeparam=exe
+ebay.*^$removeparam=ext
+ebay.*^$removeparam=epid
+ebay.*^$removeparam=pt
+
+facebook.*^$removeparam=ref
+facebook.*^$removeparam=referral_code
+facebook.*^$removeparam=referral_story_type
+
+danmurphys.com.au$removeparam=isFromSearch
+danmurphys.com.au$removeparam=test
+danmurphys.com.au$removeparam=isPersonalised
+danmurphys.com.au$removeparam=isSponsored
+danmurphys.com.au$removeparam=pageName
+
+asos.*^$removeparam=clr
+
+! 2022-08-16 https://easy2boot.xyz
+easy2boot.xyz##.boxzilla-center-container.boxzilla-container
+easy2boot.xyz##.boxzilla-3156-overlay.boxzilla-overlay
+
+! 2022-08-18 https://www.healthline.com
+www.healthline.com##.css-6l6gc > .email.button-wrapper
+
+! 2022-08-18 https://www.worthpoint.com
+www.worthpoint.com##.ads-banner-container
+
+! 2022-08-21 https://www.facebook.com
+www.facebook.com##.sl5dfbbs.gldv74r8.alzwoclg
+
+! 2022-08-28 https://www.javascripttutorial.net
+www.javascripttutorial.net##.whitelist
+
+! 2022-08-29 https://login.live.com
+||lgincdnvzeuno.azureedge.net/shared/1.0/content/images/backgrounds/$image
+
+! 2022-08-30 https://login.live.com
+||lgincdnmsftuswe2.azureedge.net/shared/1.0/content/images/backgrounds/$image
+
+! 2022-08-31 https://www.jbhifi.com.au
+www.jbhifi.com.au###webinventory-leaderboard-1
+
+! 2022-09-06 https://web.archive.org
+web.archive.org###dms-txt
+
+
+! 2022-09-09 https://www.espn.com
+www.espn.com##.active.video.feed-item-figure > .img-wrap
+www.espn.com##.editorial.sub-module
+
+
+! 2022-09-14 https://linustechtips.com
+linustechtips.com##.longSignature.ipsPadding_vertical.ipsBorder_top
+
+! 2022-09-16 https://www.harrisscarfe.com.au
+www.harrisscarfe.com.au##.show.fade.modal-backdrop
+
+! 2022-09-17 https://www.sevenforums.com
+
+! 2022-09-20 https://outlook.office.com
+outlook.office.com##.root-267.ms-Dialog.is-open.ms-Modal
+
+! 2022-09-23 https://www.washingtonpost.com
+www.washingtonpost.com##.bg-white.hide-for-print.justify-center.flex.overflow-hidden.border-box.w-100.left-0.bottom-0.fixed
+www.washingtonpost.com##.regwall-overlay.bg-black.w-100.h-100.o-50.fixed.right-0.bottom-0
+
+! 2022-09-23 https://www.theguardian.com
+||sourcepoint.theguardian.com/index.html$subdocument
+
+! 2022-09-24 https://www.fleamarketinsiders.com
+www.fleamarketinsiders.com##.slidein-bottom-right.cp-slidein
+
+! 2022-09-24 https://www.momjunction.com
+www.momjunction.com##.fx-flying-carpet-container
+
+! 2022-09-24 https://mommyhood101.com
+mommyhood101.com##[href="/gift-guides"] > .jch-lazyloaded.ls-is-cached
+mommyhood101.com##.eb-container
+mommyhood101.com##.eb-acc.eb-acm.eb-dialog
+
+! 2022-10-03 https://www.carsguide.com.au
+www.carsguide.com.au##.gncAd.id-1.leaderboard
+www.carsguide.com.au##.id-2.leaderboard
+
+! 2022-10-05 https://www.facebook.com
+www.facebook.com##.xds687c.x1ey2m1c.xixxii4
+
+! 2022-10-07 https://www.ebay.com.au
+www.ebay.com.au##.widgets-placeholder
+
+! 2022-10-21 https://www.kayak.com
+www.kayak.com##div.Dp1L:nth-of-type(6)
+www.kayak.com##div.Dp1L:nth-of-type(12)
+www.kayak.com##div.Dp1L:nth-of-type(2)
+
+! 2022-10-22 https://archive.org
+archive.org##.chevron-color-default.chevron-image-white.background-default.template-chevron.js-donate-banner.row
+
+aliexpress.com*^$removeparam=curPageLogUid
+
+! 2022-10-26 https://gizmodo.com
+gizmodo.com##.video-html5-wrapper.kXvAvi.ynugv2-0 > .lepUzz.sc-1h0epat-0 > .video-html5-playlist.hxLRyg.sc-1wkneyl-0 > .video-html5-loaded
+
+tiktok.com^$removeparam=is_from_webapp
+tiktok.com^$removeparam=item_id
+tiktok.com^$removeparam=embed_source
+
+||linkedin.com^$removeparam=updateEntityUrn
+! 2022-10-31 https://community.tp-link.com
+community.tp-link.com##.tp-cookie-script
+
+! 2022-11-02 https://www.ramint.gov.au
+www.ramint.gov.au##.div_splash
+
+! 2022-11-02 https://cyberark-customers.force.com
+||cyberark-customers.force.com/file-asset/TechCommSiteRebrand_LoginBackground$image
+
+! 2022-11-06 https://www.paypal-community.com
+www.paypal-community.com##.lia-in.lia-dialog-titleless.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+www.paypal-community.com##.ui-widget-overlay
+
+! 2022-11-07 https://download.cnet.com
+download.cnet.com##.c-globalModal_backdrop
+download.cnet.com##.c-globalModal_isOpen.c-adShoppingExit_modal.c-globalModal
+download.cnet.com##.c-pageProductDetail-playlist
+
+! 2022-11-07 https://www.guidingtech.com
+www.guidingtech.com##.content > div
+
+! 2022-11-09 https://account.live.com
+||acctcdn.msauth.net/images/$image
+
+! 2022-11-09 https://www.fresha.com
+www.fresha.com##.CookieBanner_desktop__76b234cb
+
+! 2022-11-10 https://www.facebook.com
+www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(4)
+
+! 2022-11-11 https://www.health.harvard.edu
+www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.welcome-popup
+
+! 2022-11-14 https://www.ebay.com.au
+www.ebay.com.au###placement_html_101112 > .merch-module
+www.ebay.com.au##.merch-module--grid.merch-module > .aspects-1.container_wrapper
+
+! 2022-11-15 https://www.facebook.com
+www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(2)
+www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(1)
+
+! 2022-11-18 https://forum.toolsinaction.com
+forum.toolsinaction.com##p:nth-of-type(13)
+
+! 2022-11-22 https://4sysops.com
+||4sysops.com/img/NewsletterSidebar.html$subdocument
+
+! 2022-11-22 https://bvdub.bandcamp.com
+||s4.bcbits.com/css/jquery-ui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png$image
+bvdub.bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+bvdub.bandcamp.com##.ui-widget-overlay
+
+! 2022-11-23 https://www.pcreview.co.uk
+www.pcreview.co.uk##div.message--post.message:nth-of-type(1)
+www.pcreview.co.uk##div.message--post.message:nth-of-type(2)
+www.pcreview.co.uk##div.message--post.message:nth-of-type(3)
+
+! 2022-11-23 https://www.techspot.com
+www.techspot.com##div.betweenPosts:nth-of-type(1)
+www.techspot.com##div.betweenPosts:nth-of-type(2)
+www.techspot.com##div.betweenPosts:nth-of-type(3)
+
+! 2022-11-30 https://www.lego.com
+www.lego.com##.dgtGMB.AgeGatestyles__Wrapper-sc-xudtvj-0
+www.lego.com##.hgSMAB.Modalstyles__Container-sc-l3z049-0
+
+! 2022-12-01 https://deploymentbunny.com
+||anothermike2.files.wordpress.com/2018/11/dr-newslettersignup-w250.pn*$image
+
+! 2022-12-08 https://bobcares.com
+bobcares.com##.custom-h2-p1-blocks
+
+! 2022-12-08 https://www.techradar.com
+www.techradar.com###expanding-articles
+www.techradar.com##.related-articles-wrap
+
+! 2022-12-14 https://www.undocumented-features.com
+www.undocumented-features.com##.footer-widget-1.widget-column > .widget_custom_html.widget.widget_text
+
+! 2022-12-15 https://devblogs.microsoft.com
+||devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/06/ms-background-1.jpg$image
+
+! 2022-12-16 https://n5md.bandcamp.com
+n5md.bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+n5md.bandcamp.com##.ui-widget-overlay
+
+! 2022-12-17 https://open.spotify.com
+open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+
+! 2022-12-17 https://www.moderndrummer.com
+www.moderndrummer.com##div > .kl-private-reset-css-Xuajs1.needsclick
+
+! 2022-12-19 https://www.vogue.com
+www.vogue.com##.persistent-aside--align-left.persistent-aside.dmuvVb.PersistentAsideWrapper-PqjsW
+www.vogue.com##div.wide-adrail.narrow.grid-layout--adrail.cFPA-DQ.ArticlePageChunksGrid-kRoKdN.grid-items-2.grid-margins.grid.dgApK.GridWrapper-uKcjB:nth-of-type(1)
+www.vogue.com##.cne-video-embed.hwzklX.CneVideoEmbedFigure-bJBeHO > div
+
+! 2022-12-19 https://www.livestrong.com
+www.livestrong.com###lg-jwplayer
+www.livestrong.com##.component-article-section-jwplayer-container
+www.livestrong.com##.component-article-section-jwplayer-wrapper
+
+! 2022-12-21 https://forums.mydigitallife.net
+forums.mydigitallife.net##.ugc.messageText.signature.baseHtml
+
+! 2022-12-22 https://www.danmurphys.com.au
+
+! 2022-12-27 https://www.myabandonware.com
+www.myabandonware.com###fb8beaf423
+www.myabandonware.com###e469655030
+
+! 2022-12-27 https://www.weatherzone.com.au
+www.weatherzone.com.au##.eLQmNC
+
+! 2022-12-29 https://www.hotdeals.com
+www.hotdeals.com##.pc-dialog
+www.hotdeals.com##.ads-list-ad
+
+! 2022-12-29 https://www.thesun.co.uk
+www.thesun.co.uk##.lazyloaded.brightcove__holder
+
+! 2022-12-30 https://magnetmagazine.com
+||magnetmagazine.com/wp-content/uploads/2022/12/Magnet-BO2022.jpg$image
+||magnetmagazine.com/wp-content/uploads/2021/07/Magnet-SIYB-1.jpg$image
+magnetmagazine.com##[href="https://magnetmagazine.com/say-its-your-birthday/"]
+
+! 2023-01-01 https://hackaday.io
+hackaday.io##.guest-message-signup-static.guest-message-signup.page-basic-info-static-dark.page-basic-info-static
+
+! 2023-01-01 https://www.news.com.au
+www.news.com.au##.vms-sticky-player
+www.news.com.au##.rp-muted-autoplay
+www.news.com.au##.vms-playlist-loaded.vms-playing.mobileui-mini
+www.news.com.au##.media-container
+
+! 2023-01-02 https://www.liquorland.co.nz
+www.liquorland.co.nz###newsletterExitPopUpPlaceHolder
+www.liquorland.co.nz##.show.fade.modal-backdrop
+
+
+! 2023-01-06 https://www.ndtv.com
+www.ndtv.com##.fvotd.externalVideo.ins_instory_dv_cont
+
+! 2023-01-06 https://finance.yahoo.com
+finance.yahoo.com###Overlay-0-Lightbox
+
+! 2023-01-06 https://www.nytimes.com
+www.nytimes.com##.efw9frv0.css-1q0ihc0.expanded-dock.expanded.shown.MAG_web_all_Monthly-Sale-dock_1
+
+! 2023-01-07 https://www.mazda3revolution.com
+www.mazda3revolution.com##.tooltip-content
+
+! 2023-01-08 https://forum.allaboutcircuits.com
+forum.allaboutcircuits.com##.mathjax-proceed.message-signature
+
+||geo.yahoo.com^
+
+! 2023-01-14 https://www.thingiverse.com
+www.thingiverse.com##.ThingPage__topAd--cUNKg.AdCard__leaderboard--2Yt9x
+
+! 2023-01-18 https://bugmenot.com
+||bugmenot.com/assets/bmn.js$script,1p
+
+! 2023-01-22 https://login.microsoftonline.com
+||aadcdn.msauthimages.net/$image
+
+! 2023-01-22 https://www.facebook.com
+||www.facebook.com/ajax/webstorage/process_keys/*$xhr,domain=www.facebook.com
+
+||www.facebook.com/ajax/bnzai$ping,domain=www.facebook.com
+
+! 2023-01-23 https://www.parents.com
+www.parents.com##.dialog--visible.dialog.mntl-dialog.mntl-dialog--campaign.campaign-dialog.comp
+
+! 2023-01-24 https://www.mdpub.com
+www.mdpub.com##[href^="https://e.chase.com/"]
+
+! 2023-01-24 https://www.aliexpress.com
+||ae01.alicdn.com/kf/H431e6fd379524a75b153aebd9b3bea01M.gif$image
+
+
+https://app.smartsheet.com/b/images/login-v4-background-desktop.png
+
+! 2023-01-31 https://www.hgtv.com
+www.hgtv.com##.o-Header__m-Area--Bottom.o-Header__m-Area
+
+! 2023-01-31 https://www.almanac.com
+www.almanac.com##div.layout--twocol-section--67-33.layout--twocol-section.layout:nth-of-type(5)
+www.almanac.com##.layout--onecol.layout.print-no.newsletters-signup-wrapper
+
+! 2023-01-31 https://www.bigw.com.au
+www.bigw.com.au##.ModalOverlay.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! 2023-02-02 https://www.lightroompresets.com
+www.lightroompresets.com##.boomMainDemo-0-0-1.mm-slideout.drawer__header-container.is-moved-by-drawer
+
+facebook.com^$removeparam=referralSurface
+
+! 2023-02-09 https://teams.microsoft.com.mcas.ms
+teams.microsoft.com.mcas.ms##.popover-content
+
+! 2023-02-12 https://www.dpreview.com
+www.dpreview.com##.signature
+www.dpreview.com##.gearList.section
+
+! 2023-02-13 https://forum.allaboutcircuits.com
+forum.allaboutcircuits.com##.mathjax-proceed.tooltip-content
+
+! 2023-02-14 https://lifehacker.com
+lifehacker.com##.cDxdXM.sc-1yqkh4a-0 > .video-html5-playlist.hxLRyg.sc-1wkneyl-0 > .video-html5-loaded
+
+! 2023-02-19 https://www.grays.com
+www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_ctl01_targetedTiles1 > .marketing
+
+! 2023-02-22 https://www.thespruce.com
+www.thespruce.com##.mntl-block.div.ad-group.ad-group--sc.js-scads-inline-content.comp
+
+! 2023-02-23 https://www.newegg.com
+www.newegg.com##.bg-lightgrayblue.page-section
+
+! 2023-02-23 https://docs.microinventions.net
+docs.microinventions.net###portals-root
+
+! 2023-02-23 https://windowsreport.com
+windowsreport.com##.refmedprd-b-69.refmedprd-b
+windowsreport.com##.size-full-ctr.main-content > .wr-layout-newsletter-container.wr-layout-section
+
+! 2023-02-23 https://www.mobilesum.com
+www.mobilesum.com###placeholder_sticky_bottom
+
+www.bestslogans.com##div.left_content:nth-of-type(14)
+
+www.babycenter.com.au###appDownloadModule
+www.babycenter.com.au##.hide-for-small.regModule.module
+
+www.droidwin.com###custom_html-2
+
+www.nickscali.com.au##.header-global-promo
+
+www.dontwasteyourmoney.com##.boxzilla-center-container.boxzilla-container
+www.dontwasteyourmoney.com##.boxzilla-193919-overlay.boxzilla-overlay
+
+theawesomer.com##.gcwp-carousel
+
+support.microsoft.com###rail-banner
+
+au.nextdoor.com##.css-1p4ao6t
+https://d19rpgkrjeba2z.cloudfront.net/static/nextdoorv2/js/ads/ads.js
+au.nextdoor.com##.css-15g5td4
