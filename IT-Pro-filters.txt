@@ -497,13 +497,10 @@ robotics.stackexchange.com##.js-dismissable-hero.ps-relative.fc-black-200.bg-bla
 www.doityourself.com##.video-player
 www.doityourself.com###content408782 > .newsletter-container > div > .newsletter-widget-container > .newsletter.widget.large
 
-! 2022-05-08 https://electronics.howstuffworks.com
 electronics.howstuffworks.com##.overflow-y-auto.inset-0.z-10.fixed.newsletter-modal
 
-! 2022-05-09 https://productz.com
 productz.com##.is-active.c-modal.c-rodo-bar
 
-! 2022-05-11 https://skygenius.cc
 ||skygenius.cc/cart.js$xhr
 
 ! 2022-07-03 https://randomnerdtutorials.com
@@ -538,23 +535,16 @@ $removeparam=emcs_t,domain=mozilla.org
 
 $removeparam=rq,domain=stackexchange.com
 
-
-
-! 2022-07-10 https://www.bleepingcomputer.com
 www.bleepingcomputer.com##.cz-toa-wrapp
 
-! 2022-07-14 https://www.cqure.nl
 www.cqure.nl##.toast-container
 www.cqure.nl##.advert
 
-! 2022-07-20 https://www.anoopcnair.com
 www.anoopcnair.com###main > .code-block-1.code-block
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(15)
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(16)
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(17)
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(11)
-
-! 2022-07-24 https://www.anoopcnair.com
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(14)
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(4)
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(9)
@@ -572,48 +562,33 @@ www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(44)
 www.anoopcnair.com##div.code-block-2.code-block:nth-of-type(46)
 www.anoopcnair.com##.code-block-10.code-block
 
-
-
-! 2022-06-09 https://4sysops.com
 4sysops.com##div:nth-of-type(17)
 
-! 2022-06-13 https://den.dev
 den.dev##div.informational:nth-of-type(1)
 
-! 2022-06-20 https://advisera.com
 advisera.com##.visible.newsletter-subscribe
 advisera.com##.side-banner-link
 
-! 2022-06-23 https://techcommunity.microsoft.com
 techcommunity.microsoft.com##.is-fixed.custom-profile-completeness-banner
 
-! 2022-07-03 https://community.spiceworks.com
 community.spiceworks.com##.gekko_leaderboard
 community.spiceworks.com##.slot-1-wrapper
 
-! 2022-07-04 https://community.spiceworks.com
 community.spiceworks.com##.topic-suggestion
 
-! 2022-07-04 https://appuals.com
 appuals.com##.wptp
 
-! 2022-07-05 https://techcommunity.microsoft.com
 techcommunity.microsoft.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 techcommunity.microsoft.com##.ui-widget-overlay
 
-! 2022-07-06 https://www.techrepublic.com
 ||www.techrepublic.com/forums/discussions/how-to-deny-create-folder-on-root-c/$subdocument
 ||cdn.jotfor.ms^
-
 
 www.ifixit.com##div > div > .react-component
 
 www.manualslib.com##footer
 
-! 2021-07-20 https://www.ifixit.com
 www.ifixit.com##div > div > .react-component
-	
-	
 
 www.element14.com##.e14-registration-required-bg.js_lb_overlay.lb_overlay
 www.element14.com##.e14-registration-required.j-modal-login.j-modal.jive-modal-narrow.jive-modal
@@ -637,18 +612,12 @@ forum.xda-developers.com##.postbutton-row
 forum.xda-developers.com###prev-next
 forum.xda-developers.com###qrform
 
-
-! 2021-01-26 https://community.infosecinstitute.com
 community.infosecinstitute.com##.userContent.UserSignature.Signature
 community.infosecinstitute.com##.Reactions
 
-
-! 2021-02-01 https://www.android-x86.org
 www.android-x86.org##.brid-touch-overlay
 www.android-x86.org##.brid-holder
 
-
-! 2020-10-07 https://www.howtogeek.com
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-wrapper > .overlay-inner
 
@@ -669,15 +638,12 @@ msendpointmgr.com##.rcc-panel-fixed.group.rcc-panel
 
 www.prajwaldesai.com##.inside-right-sidebar
 
-www.tenforums.com##.body_wrapper > .chill
-
 ||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration?ts=637279459485959800$image
-
-www.windowscentral.com##.exit-intent__wrapper
-www.windowscentral.com##.exit-intent__background.exit-intent
 
 helpx.adobe.com##.static.modalContainer
 
+www.windowscentral.com##.exit-intent__wrapper
+www.windowscentral.com##.exit-intent__background.exit-intent
 www.windowscentral.com###expanding-articles
 www.windowscentral.com##.related-articles-wrap
 www.windowscentral.com##.widget-newsletter-fter.widget-newsletter-newsletter.widget-newsletter.widget.clear-both
@@ -711,14 +677,12 @@ blog.netwrix.com##div.related:nth-of-type(2)
 
 www.lepide.com##.content-sec-form
 
-
 community.spiceworks.com##.how-to-sidebar_primary-wrapper
 community.spiceworks.com##.zd-privacy-content
 community.spiceworks.com##.how-to-sidebar_secondary-wrapper
 
 www.smartsheet.com###CybotCookiebotDialog
 www.minitool.com##.page-bottom-fixed
-
 
 
 www.tenforums.com##.body_wrapper > .chill
@@ -730,3 +694,40 @@ www.experts-exchange.com##.newPearl.testimonialBlock
 
 superuser.com##.wmx12
 
+retrocomputing.stackexchange.com##.wmx12.mx-auto.jc-center.ai-center.d-flex.px12
+retrocomputing.stackexchange.com##.js-dismissable-hero.ps-relative.fc-black-200.bg-black-750.py24.sm\:d-none
+
+www.cnet.com##.fixed.isCenter.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
+
+www.techradar.com##.exitIntent.exit-intent-slice.slice-container
+www.techradar.com##.newsletter-signup.box
+
+helpx.adobe.com###onetrust-banner-sdk > .ot-sdk-container
+
+www.tapatalk.com##.bar-top.action-bar > .action-bar
+
+
+www.experts-exchange.com##.newDark.smallCta.insertCta.eaoTRi.smallCta__SmallWrapper-sc-62lh5y-1
+www.experts-exchange.com##.newPearl.testimonialBlock
+
+www.sevenforums.com###yui-gen1
+www.sevenforums.com###yui-gen0
+
+1337x.to##center
+
+sourceforge.net###newsletter-floating
+support.microsoft.com###notification-banner
+
+cpuboss.com##.column-right.column > div:nth-of-type(4)
+
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.overlay-wrapper
+
+
+||webcamtests.com/MyShowroom/view.php$subdocument
+webcamtests.com##.box-right.box
+
+
+answers.microsoft.com###Footer > .uhf
+
+forums.stardock.com##.stardockad
