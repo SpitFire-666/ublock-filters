@@ -731,3 +731,14 @@ webcamtests.com##.box-right.box
 answers.microsoft.com###Footer > .uhf
 
 forums.stardock.com##.stardockad
+
+helpdeskgeek.com##.et_bloom_animated.et_bloom_visible
+
+www.easeus.com##.nav_ad_banner
+
+www.experts-exchange.com##.newDark.smallCta.insertCta.eaoTRi.smallCta__SmallWrapper-sc-62lh5y-1
+www.experts-exchange.com##.newPearl.testimonialBlock
+www.sevenforums.com###yui-gen1
+www.sevenforums.com###yui-gen0
+
+answers.microsoft.com###Footer > .uhf
