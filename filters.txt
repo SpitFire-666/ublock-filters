@@ -1604,3 +1604,9 @@ www.essentialhome.eu##.wppopups-whole
 www.essentialhome.eu##.banefixedfull.col-xs-12
 
 https://static.olelive.com/template/conch/asset/js/hlhtml.js
+
+onlinepngtools.com##.show.fade.modal.discount
+onlinepngtools.com##.show.fade.modal-backdrop
+
+https://onlinepngtools.com/CACHE/js/discount.js
+onlinepngtools.com###downloadModal2928e038e240479fa4c34e1087825467 > .modal-lg.modal-dialog > .modal-content > .modal-footer > .btn-upgrade.btn-sm.btn-primary.btn
