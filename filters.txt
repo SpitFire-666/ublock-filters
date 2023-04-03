@@ -33,7 +33,6 @@ www.dailymotion.com###content > .container > .row > .col-4.side-column
 
 www.pinterest.com##.App.AppBase.Module.full > .appContent > .mainContainer > .Module.Nags.centeredWithinWrapper > .InlineSignup.Module.UnauthBanner.wallStep.halfScreenBanner
 
-
 twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
 
@@ -1603,3 +1602,5 @@ luxuryescapes.com##.dOgOzV.GDPRWarningBanner__Root-sc-1mwq5ah-0
 
 www.essentialhome.eu##.wppopups-whole
 www.essentialhome.eu##.banefixedfull.col-xs-12
+
+https://static.olelive.com/template/conch/asset/js/hlhtml.js
