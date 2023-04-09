@@ -1488,8 +1488,6 @@ www.thingiverse.com##.ThingPage__topAd--cUNKg.AdCard__leaderboard--2Yt9x
 ! 2023-01-22 https://login.microsoftonline.com
 ||aadcdn.msauthimages.net/$image
 
-! 2023-01-22 https://www.facebook.com
-||www.facebook.com/ajax/webstorage/process_keys/*$xhr,domain=www.facebook.com
 
 ||www.facebook.com/ajax/bnzai$ping,domain=www.facebook.com
 
