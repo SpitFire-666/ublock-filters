@@ -1630,3 +1630,7 @@ www.stack.com##.advads-content-4
 www.stack.com###advads-639730676 > .content-ad-5
 
 1337x.to##center
+
+@@||bos.hubty.network^$domain=strikeout.ws
+@@||hubty.network^$domain=strikeout.ws
+@@||nol.hubty.network^$domain=www.nolive.me
