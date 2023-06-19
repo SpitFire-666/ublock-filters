@@ -1925,3 +1925,57 @@ techcommunity.microsoft.com##.custom-auth-latest-threads-component-wrapper.relat
 
 https://c.amazon-adsystem.com/aax2/apstag.js
 https://tags.tiqcdn.com/utag/newsltd/news/
+
+! 2023-02-21 https://portal.azure.com
+||sandbox-34-2.reactblade.portal.azure.net/React/Index$subdocument
+
+! 2023-03-19 https://aad.portal.azure.com
+aad.portal.azure.com##.fxs-topbar-toast
+
+! 2023-03-26 https://login.microsoftonline.com
+||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/$image
+
+! 2023-05-02 https://login.microsoftonline.com
+||aadcdn.msauthimages.net/$image
+
+! 2023-05-03 https://endpoint.microsoft.com
+endpoint.microsoft.com##.fxs-toast-content
+
+https://login.microsoftonline.com/common/handlers/watson
+https://entra.microsoft.com/api/Telemetry
+https://entra.microsoft.com/AzureHubs/api/Telemetry
+https://entra.microsoft.com/api/extensiontelemetry
+!https://endpoint.microsoft.com/Content/11.179.4.111.179.0.11926884.230516-1855/Scripts/@microsoft/1ds-analytics-web-js.js
+https://endpoint.microsoft.com/AzureHubs/api/Telemetry
+https://endpoint.microsoft.com/api/extensiontelemetry
+https://endpoint.microsoft.com/api/Telemetry
+
+https://b-ring.msedge.net/apc/trans.gif
+https://atm-fp-direct.office.com/apc/trans.gif
+https://b-ring.msedge.net/apc/100k.gif
+! 2023-05-25 https://security.microsoft.com
+security.microsoft.com##.feedbackContainer
+
+! 2023-06-06 https://portal.azure.com
+portal.azure.com##.msportalfx-shadow-level4.fxs-portal-bg-txt-br.fxs-popup.fxs-toast-item
+
+! 2023-06-07 https://docs.servicenow.com
+docs.servicenow.com##.loginPrompt_popup__o7J9w.popup-intro.popup
+
+! 2023-06-12 https://myaccount.microsoft.com
+myaccount.microsoft.com##.main-253.ms-Dialog-main
+myaccount.microsoft.com##.root-260.ms-Overlay--dark.ms-Overlay
+myaccount.microsoft.com##.root-252.ms-Dialog.is-open.ms-Modal
+
+browser.events.data.microsoft.com
+
+! 2023-06-14 https://portal.azure.com
+||portal.azure.com/api/Telemetry
+
+https://portal.azure.com/Content/11.210.6.111.210.0.188204310.230614-0057/Scripts/@microsoft/1ds-analytics-web-js.js
+https://portal.azure.com/AzureHubs/api/Telemetry
+https://portal.azure.com/api/extensiontelemetry
+
+! 2023-06-18 https://login.microsoftonline.com
+||aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
+||aadcdn.msauth.net/shared/1.0/content/images/backgrounds/$image
