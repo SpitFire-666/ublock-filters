@@ -1588,3 +1588,340 @@ www.dailymail.co.uk##div.watermark.mpu_puff_wrapper:nth-of-type(3)
 ||scripts.dailymail.co.uk/static/mol-fe/static/mol-fe-xpmodule-newsletter-sign-up/$image
 
 www.gettyimages.co.uk###customer_notifications_application
+
+||lgincdnvzeuno.azureedge.net/shared/1.0/content/images/backgrounds/$image
+
+
+www.hp.com###onetrust-consent-sdk
+
+! 2022-09-28 https://www.technipages.com
+www.technipages.com##.entry-content > div
+
+! 2022-10-05 https://support.hp.com
+support.hp.com###onetrust-consent-sdk
+
+learn.microsoft.com##.ignite-banner.padding-bottom-md.padding-top-md.position-relative.tier1-event-banner
+
+www.news.com.au##.vms-playlist-loaded.vms-playing.vms-news.vms-ready.vms-player.mobileui-mini.vms-sticky.vms-queued.module.vms
+
+||lgincdnmsftuswe2.azureedge.net/shared/1.0/content/images/backgrounds/$image
+
+! 2022-10-16 https://forums.anandtech.com
+forums.anandtech.com##.js-bottomFixTarget.u-bottomFixer
+
+! 2022-10-24 https://www.reddit.com
+||www.reddit.com/account/sso/one_tap/$subdocument
+
+! 2022-10-24 https://app.smartsheet.com
+||app.smartsheet.com/b/images/login-v4-background-desktop.png$domain=app.smartsheet.com
+app.smartsheet.com##div.clsJspButtonWide:nth-of-type(2)
+
+winaero.com###cookie-law-info-bar
+
+! 2022-11-03 https://www.ipswitch.com
+www.ipswitch.com###onetrust-consent-sdk
+
+! 2022-11-03 https://www.lcdcomps.com
+www.lcdcomps.com##.ot-sdk-container
+
+! 2022-11-06 https://www.windows-noob.com
+www.windows-noob.com###ipsLayout_mainArea > div > center
+www.windows-noob.com##div.ipsClearfix > div > center
+
+! 2022-11-09 https://useinsider.com
+useinsider.com##.wt-cli-cookie-bar-container
+
+! 2022-11-09 https://www.syntax.com
+www.syntax.com###BorlabsCookieBox
+
+! 2022-11-09 https://forums.prajwaldesai.com
+forums.prajwaldesai.com##.js-bottomFixTarget.u-bottomFixer
+
+! 2022-11-13 https://www.digitalnationaus.com.au
+www.digitalnationaus.com.au###gdpr-alert
+
+! 2022-11-28 https://www.febooti.com
+www.febooti.com###cc
+
+! 2022-11-29 https://helpcenter.trendmicro.com
+helpcenter.trendmicro.com##.cookie_verif
+
+! 2022-11-29 https://blog.f-secure.com
+blog.f-secure.com##.js-pop-notification.c-pop-notification
+
+! 2022-12-05 https://bvdub.bandcamp.com
+bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+bandcamp.com##.ui-widget-overlay
+
+
+! 2022-12-11 https://collectingcars.com
+collectingcars.com###reactCookieBanner
+
+! 2022-12-11 https://4sysops.com
+4sysops.com##.member-navigation.pagination-sticky
+4sysops.com##[src="/img/NewsletterEnd.html"]
+4sysops.com##.sidebar-3lr.col-sm-pull-8.col-sm-2.sidebar-main.sidebar
+4sysops.com###custom_html-3
+4sysops.com##.sidebar-3lr.col-sm-2.sidebar-extra.sidebar > .inner-content
+4sysops.com##.sidebar-3lr.col-sm-2.sidebar-extra.sidebar
+
+! 2022-12-12 https://devblogs.microsoft.com
+||devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/06/$image
+
+! 2022-12-14 https://en.wikipedia.org
+en.wikipedia.org###siteNotice
+en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
+
+! 2022-12-19 https://lazyadmin.nl
+lazyadmin.nl##.swp_float_left.slide.swp_other_full_color.swp_individual_full_color.swp_default_full_color.swp_.swp_social_panel.swp_floating_panel.swp_social_panelSide
+
+! 2022-12-19 https://hostingultraso.com
+hostingultraso.com###jg1r18011m081671497216171
+
+! 2022-12-19 https://security.stackexchange.com
+security.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2022-12-20 https://www.msn.com
+www.msn.com###eplantEntranceBubble
+||assets.msn.com/weathermapdata/1/static/weatherEplant/*$image
+
+! 2022-12-21 https://open.spotify.com
+open.spotify.com###onetrust-consent-sdk
+open.spotify.com##.jtRqaoDIpIR6fEATUTyY > div > [href="https://app.adjust.com/l5xznak"]
+
+! 2022-12-21 https://www.dailymail.co.uk
+www.dailymail.co.uk###dms-txt
+www.dailymail.co.uk##.shareComment
+
+! 2023-01-02 https://twitter.com
+twitter.com###credential_picker_container
+
+! 2023-01-03 https://deviceadvice.io
+deviceadvice.io###cookie-law-info-bar
+
+! 2023-01-03 https://mxtoolbox.com
+mxtoolbox.com###divAd_2
+
+! 2023-01-04 https://learnsentinel.blog
+learnsentinel.blog##.actnbr-has-follow.actnbr-pub-lingonberry
+
+! 2023-01-08 https://open.spotify.com
+open.spotify.com##.main-view-container__mh-footer-container
+
+
+||www.spotify.com/api/masthead/*$xhr,domain=open.spotify.com
+
+! 2023-01-08 https://login.live.com
+||logincdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
+
+! 2023-01-15 https://app.smartsheet.com
+app.smartsheet.com##.clsPostFormInfo
+
+! 2023-01-16 https://community.spiceworks.com
+||community.spiceworksstatic.com/assets/community/join/fullpage-background$image
+
+! 2023-01-17 https://www.tutorialspoint.com
+www.tutorialspoint.com###privacy-banner
+www.tutorialspoint.com##.col-xl-3.col-md-3.col-sm-6
+
+
+
+! 2023-01-31 https://liveonlineradio.net
+liveonlineradio.net##.cookieinfo
+
+! 2023-01-31 https://tunein.com
+tunein.com##.common-dialog-module__content___VMF7d > div
+
+! 2023-01-31 https://teams.microsoft.com
+||statics.teams.cdn.office.net/teams-modular-packages/*$xhr
+
+! 2023-01-31 https://aad.portal.azure.com
+aad.portal.azure.com##.fxs-toast-content
+
+! 2023-02-01 https://aad.portal.azure.com
+||aad.portal.azure.com/Error/Content/Images/MsPortalFx/ErrorBackground.png$image
+||aad.portal.azure.com/Error/Content/*Images/MsPortalFx/*g$image
+||aad.portal.azure.com/Error/Content/Images/MsPortalFx/ErrorBackground.png$image
+
+
+
+! 2023-02-06 https://tunein.com
+tunein.com##.upsellDialogOverlay
+
+! 2023-02-06 https://www.ghacks.net
+www.ghacks.net###didomi-host
+||sdk.privacy-center.org^$script,domain=www.ghacks.net
+
+! 2023-02-06 https://www.slido.com
+www.slido.com##.privacy-manager__banner--visible.privacy-manager__banner
+
+! 2023-02-12 https://tunein.com
+tunein.com##.loginDialogOverlay
+
+! 2023-02-13 https://adamtheautomator.com
+adamtheautomator.com##.mctb-medium.mctb-position-top.mctb-sticky.mctb
+
+! 2023-02-14 https://www.windowscentral.com
+www.windowscentral.com##.featured_block_horizontal.featured_product_block
+
+! 2023-02-14 https://www.tenforums.com
+www.tenforums.com##.garbod > div
+
+
+! 2023-02-16 https://ux.microsoft.com
+||uxmscontents.blob.core.windows.net/banner-images/35934a7e154546c99d208555c641b90f220323181857478.jpg$image
+
+! 2023-02-16 https://bws.com.au
+||edgmedia.bws.com.au/bws/media/artwork/banners/large/BWS34429_BWYASSS-main-d.png?impolicy=Assets-MedHigh$image
+
+! 2023-02-19 https://www.laptopmag.com
+www.laptopmag.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
+www.laptopmag.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent.newsletter-inbodyContent-slice.slice-container
+www.laptopmag.com##aside.hawk-processed.hawk-nest:nth-of-type(2)
+
+! 2023-02-19 https://www.digitaltrends.com
+www.digitaltrends.com##.h-newsletter-signup.b-newsletter-signup
+
+! 2023-02-19 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.show-consent.hide-consent.cookie-consent
+
+! 2023-02-19 https://www.tomsguide.com
+www.tomsguide.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent.newsletter-inbodyContent-slice.slice-container
+www.tomsguide.com##.exit-intent__wrapper
+www.tomsguide.com##.exit-intent__background.exit-intent
+www.tomsguide.com##aside.hawk-processed.hawk-nest:nth-of-type(2)
+
+! 2023-02-20 https://login.microsoftonline.com
+||aadcdn.msauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration$image
+
+! 2023-02-28 https://www.mrexcel.com
+www.mrexcel.com###bc-adngin-top-wrapper
+www.mrexcel.com##div.block-outer:nth-of-type(1)
+
+
+! 2023-03-06 https://www.bbc.com
+www.bbc.com###zephr-message
+
+! 2023-03-09 https://superuser.com
+||qa.sockets.stackexchange.com^$websocket,domain=superuser.com
+
+! 2023-03-09 https://www.thewindowsclub.com
+||www.thewindowsclub.com/wp-content/plugins/socialsnap-pro/assets/css/socialsnap.css$xhr,domain=www.thewindowsclub.com
+||www.thewindowsclub.com/wp-content/plugins/socialsnap-pro/assets/js/socialsnap.js$script
+||www.thewindowsclub.com/wp-content/plugins/socialsnap-pro/assets/css/socialsnap.css
+www.thewindowsclub.com##.ss-circle-icons.ss-hide-on-mobile.ss-small-icons.ss-left-sidebar.ss-hover-animation-2.ss-hover-animation-1.ss-animate-entrance.ss-entrance-animation-slide
+
+
+https://qualysguard.qg1.apps.qualys.com.au/portal-front/frame/react/assets/img/newspinner.svg
+
+! 2023-03-16 https://www.radio-australia.org
+www.radio-australia.org###cookiebanner
+www.radio-australia.org###body_centered_ad
+
+! 2023-03-21 https://www.wired.com
+www.wired.com##.persistent-bottom
+www.wired.com##.paywall-bar
+www.wired.com##.cne-video-embed
+
+! 2023-03-22 https://map.blitzortung.org
+map.blitzortung.org##.cookie_div
+map.blitzortung.org##.topdiv
+
+! 2023-03-22 https://tunein.com
+||cdn-web.tunein.com/assets/img/premium/background-circles.jpg$image
+||cdn-web.tunein.com/assets/img/premium/background-circles.jpg$image
+tunein.com##.right-side-module__container___QoVHu
+
+https://pvwa.ffma.local/PasswordVault/v10/assets/loading.svg
+
+! 2023-04-03 https://maclookup.app
+maclookup.app###cc--main
+
+! 2023-04-05 https://www.techradar.com
+www.techradar.com##.ad-unit.static-lightbox2
+www.techradar.com##.ad-unit.static-lightbox3
+www.techradar.com##.slice-container-affiliateDisclaimer.affiliateDisclaimerBar.affiliate-disclaimer-bar-slice.slice-container
+
+! 2023-04-20 https://tunein.com
+
+! 2023-04-27 https://www.google.com.au
+||ogs.google.com.au/u/0/widget/callout/sid$subdocument
+
+! 2023-05-02 https://tunein.com
+tunein.com##div:nth-of-type(42) > div > div:nth-of-type(2)
+tunein.com##div:nth-of-type(42) > div
+tunein.com##div:nth-of-type(43) > div
+tunein.com##div:nth-of-type(45) > div
+tunein.com##div:nth-of-type(15) > div > div:nth-of-type(2)
+tunein.com##body > div:nth-of-type(15) > div
+
+! 2023-05-04 https://tunein.com
+tunein.com##div:nth-of-type(28) > div
+
+! 2023-05-10 https://answers.microsoft.com
+answers.microsoft.com##.ucsRailContainer
+
+! 2023-05-14 https://stackoverflow.com
+||qa.sockets.stackexchange.com^$websocket,domain=stackoverflow.com
+
+
+||github.com/assets-cdn/worker/*$script,1p
+
+
+www.cisecurity.org##.c-banner
+
+||4sysops.com/abc.php$image
+
+https://login.microsoftonline.com/common/handlers/watson
+
+live.paloaltonetworks.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+live.paloaltonetworks.com##.ui-widget-overlay
+
+adamtheautomator.com##.m-auto.max-w-screen-2xl.gap-2.lg\:grid-flow-col.lg\:auto-col-auto.grid-cols-1.grid
+adamtheautomator.com##.adthrive
+adamtheautomator.com##.lg\:mb-0.mb-4.justify-self-center.items-center.flex-col.flex.max-w-\[350px\].lg\:pl-0.\32 xl\:pr-0.pr-2.pl-2.dark\:bg-slate-800.dark\:prose-invert.prose-slate.prose.lg\:mt-12.mt-0.w-full
+
+$removeparam=sysparm_category,domain=service-now.com
+$removeparam=catalog_id,domain=service-now.com
+$removeparam=referrer,domain=service-now.com
+
+https://app.sli.do/eu1/api/v0.5/telemetry:bulk-create
+
+$removeparam=clusterId,domain=app.sli.do
+
+||aadcdn.msauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration?ts=637279459485959800$image
+||aadcdn.msauthimages.net/$image
+
+4sysops.com##div:nth-of-type(12)
+
+helpx.adobe.com##.is-Open.mobile-height-auto.tablet-width-640.mobile-width-100.dexter-Modal
+helpx.adobe.com##.is-Open.mobile-place-middle.mobile-place-center.dexter-Modal_overlay
+
+! 2022-11-15 https://adamtheautomator.com
+adamtheautomator.com##.items-center.leading-relaxed
+adamtheautomator.com##.mctb-medium.mctb-position-top.mctb-sticky.mctb
+
+||smsagent.files.wordpress.com/2021/08/cropped-img_3929.jpg$image
+smsagent.blog##.custom-header-image
+
+www.prajwaldesai.com##.wp-block-kadence-infobox
+
+https://resourcesssl.newscdn.com.au/indies/campaigns
+
+! 2023-06-15 https://webcache.googleusercontent.com
+webcache.googleusercontent.com##.ui-widget-overlay
+
+! 2023-06-18 https://login.microsoftonline.com
+||aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
+||aadcdn.msauthimages.net/$image
+
+https://browser.events.data.microsoft.com/OneCollector/
+https://js.monitor.azure.com/scripts/c/ms.analytics-web-3
+
+
+techcommunity.microsoft.com##.custom-auth-latest-threads-component-wrapper.related-content-wrapper
+
+||www.youtube.com/generate_204$xhr
+
+https://c.amazon-adsystem.com/aax2/apstag.js
+https://tags.tiqcdn.com/utag/newsltd/news/
