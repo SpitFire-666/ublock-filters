@@ -526,7 +526,6 @@ www.begindot.com##.elementor-sticky--effects.elementor-section--handles-inside.e
 
 helpx.adobe.com##div.static.modalContainer:nth-of-type(6)
 
-
 thenextweb.com##.tnw-ad--has-placeholder.tnw-ad--billboard.tnw-ad
 
 answers.microsoft.com##.ucsUhfContainer
@@ -684,7 +683,6 @@ community.spiceworks.com##.how-to-sidebar_secondary-wrapper
 www.smartsheet.com###CybotCookiebotDialog
 www.minitool.com##.page-bottom-fixed
 
-
 www.tenforums.com##.body_wrapper > .chill
 www.tenforums.com##.feed1.chill.postcontainer.postbitim.postbitlegacy
 www.tenforums.com###yui-gen1
@@ -706,7 +704,6 @@ helpx.adobe.com###onetrust-banner-sdk > .ot-sdk-container
 
 www.tapatalk.com##.bar-top.action-bar > .action-bar
 
-
 www.experts-exchange.com##.newDark.smallCta.insertCta.eaoTRi.smallCta__SmallWrapper-sc-62lh5y-1
 www.experts-exchange.com##.newPearl.testimonialBlock
 
@@ -722,7 +719,6 @@ cpuboss.com##.column-right.column > div:nth-of-type(4)
 
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-wrapper
-
 
 ||webcamtests.com/MyShowroom/view.php$subdocument
 webcamtests.com##.box-right.box
@@ -742,3 +738,52 @@ www.sevenforums.com###yui-gen1
 www.sevenforums.com###yui-gen0
 
 answers.microsoft.com###Footer > .uhf
+
+
+||aadcdn.msauth.net/ests/2.1/content/cdnbundles/watsonsupportwithjquery
+https://account.activedirectory.windowsazure.com/3.0.0.4402/Chrome/en-US/JS/InactivityTimer.js
+https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/watson
+https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watsonsupportwithjquery
+https://auc-word-edit.officeapps.live.com/we/RemoteTelemetry.ashx
+https://auc-word-edit.officeapps.live.com/we/OneNote.ashx
+https://auc-excel.officeapps.live.com/x/_layouts/RemoteTelemetry.ashx
+https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watsonsupportwithjquery
+https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watson
+https://s2.security.ext.azure.com/api/Telemetry/
+https://mobile.events.data.microsoft.com/OneCollector/
+https://browser.events.data.msn.com/OneCollector/
+https://browser.events.data.microsoft.com/OneCollector/
+https://myaccount.microsoft.com/locales/en-US/InProductFeedbackMyAccount.json
+https://myaccount.microsoft.com/locales/en-US/InProductFeedback.json
+https://browser.pipe.aria.microsoft.com/Collector/
+https://eu-mobile.events.data.microsoft.com/OneCollector/
+myprofile.microsoft.com##.root-248.ms-Dialog.is-open.ms-Modal
+admin.teams.microsoft.com##.main-367.premium-fre__premiumFeatureIntro___27ZZo.ms-Dialog-main
+https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watsonsupportwithjquery
+https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watson
+https://s2.security.ext.azure.com/api/Telemetry/
+https://myprofile.microsoft.com/locales/en/InProductFeedbackMyAccount.json
+https://portal.azure.com/Content/11.210.9.111.210.0.14860842.230627-2342/Scripts/@microsoft/1ds-analytics-web-js
+devblogs.microsoft.com##.social-icon-bar
+
+||cyberark.cloud/assets/images/idle-timeout.svg$image
+cyberark.cloud/clouds
+cyberark.cloud/airbaloon
+cyberark.cloud##.airbaloon-animation.airbaloon
+cyberark.cloud##.splash-screen
+
+www.thewindowsclub.com##.entry-content .ezlazyloaded
+
+
+
+||service-now.com/images/polarisberg/login-stars-tier3.svg$image
+service-now.com##.pe4.parallax-element
+||service-now.com/images/polarisberg/login-stars-tier2.svg$image
+||service-now.com/images/polarisberg/login-stars-tier2.svg$image
+service-now.com##.pe3.parallax-element
+||service-now.com/images/polarisberg/login-stars-tier*.svg$image
+||service-now.com/images/polarisberg/login-stars-tier1.svg$image
+service-now.com##path:nth-of-type(1)
+service-now.com##svg.planet:nth-of-type(1)
+service-now.com##.pe1.parallax-element > svg
+service-now.com##seismic-hoist
