@@ -1897,7 +1897,6 @@ $removeparam=clusterId,domain=app.sli.do
 helpx.adobe.com##.is-Open.mobile-height-auto.tablet-width-640.mobile-width-100.dexter-Modal
 helpx.adobe.com##.is-Open.mobile-place-middle.mobile-place-center.dexter-Modal_overlay
 
-! 2022-11-15 https://adamtheautomator.com
 adamtheautomator.com##.items-center.leading-relaxed
 adamtheautomator.com##.mctb-medium.mctb-position-top.mctb-sticky.mctb
 
@@ -1908,16 +1907,13 @@ www.prajwaldesai.com##.wp-block-kadence-infobox
 
 https://resourcesssl.newscdn.com.au/indies/campaigns
 
-! 2023-06-15 https://webcache.googleusercontent.com
 webcache.googleusercontent.com##.ui-widget-overlay
 
-! 2023-06-18 https://login.microsoftonline.com
 ||aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
 ||aadcdn.msauthimages.net/$image
 
 https://browser.events.data.microsoft.com/OneCollector/
 https://js.monitor.azure.com/scripts/c/ms.analytics-web-3
-
 
 techcommunity.microsoft.com##.custom-auth-latest-threads-component-wrapper.related-content-wrapper
 
@@ -1926,19 +1922,14 @@ techcommunity.microsoft.com##.custom-auth-latest-threads-component-wrapper.relat
 https://c.amazon-adsystem.com/aax2/apstag.js
 https://tags.tiqcdn.com/utag/newsltd/news/
 
-! 2023-02-21 https://portal.azure.com
 ||sandbox-34-2.reactblade.portal.azure.net/React/Index$subdocument
 
-! 2023-03-19 https://aad.portal.azure.com
 aad.portal.azure.com##.fxs-topbar-toast
 
-! 2023-03-26 https://login.microsoftonline.com
 ||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/$image
 
-! 2023-05-02 https://login.microsoftonline.com
 ||aadcdn.msauthimages.net/$image
 
-! 2023-05-03 https://endpoint.microsoft.com
 endpoint.microsoft.com##.fxs-toast-content
 
 https://login.microsoftonline.com/common/handlers/watson
@@ -1956,26 +1947,77 @@ https://b-ring.msedge.net/apc/100k.gif
 ! 2023-05-25 https://security.microsoft.com
 security.microsoft.com##.feedbackContainer
 
-! 2023-06-06 https://portal.azure.com
 portal.azure.com##.msportalfx-shadow-level4.fxs-portal-bg-txt-br.fxs-popup.fxs-toast-item
 
-! 2023-06-07 https://docs.servicenow.com
 docs.servicenow.com##.loginPrompt_popup__o7J9w.popup-intro.popup
 
-! 2023-06-12 https://myaccount.microsoft.com
 myaccount.microsoft.com##.main-253.ms-Dialog-main
 myaccount.microsoft.com##.root-260.ms-Overlay--dark.ms-Overlay
 myaccount.microsoft.com##.root-252.ms-Dialog.is-open.ms-Modal
 
 browser.events.data.microsoft.com
 
-! 2023-06-14 https://portal.azure.com
 ||portal.azure.com/api/Telemetry
 
 https://portal.azure.com/Content/11.210.6.111.210.0.188204310.230614-0057/Scripts/@microsoft/1ds-analytics-web-js.js
 https://portal.azure.com/AzureHubs/api/Telemetry
 https://portal.azure.com/api/extensiontelemetry
 
-! 2023-06-18 https://login.microsoftonline.com
 ||aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
 ||aadcdn.msauth.net/shared/1.0/content/images/backgrounds/$image
+
+randomnerdtutorials.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+
+www.javascripttutorial.net##.whitelist > .ad-336.ad
+
+www.pcmag.com##.container-xs.mt-8.p-4.md\:py-8.md\:px-32.text-center.bg-gray-lightest.rounded
+
+theunlockcode.net##.text-left.final-section.white-popup-block
+theunlockcode.net##.mfp-inline-holder.mfp-container
+theunlockcode.net##.mfp-ready.mfp-auto-cursor.mfp-wrap
+
+www.youtube.com##tp-yt-iron-dropdown.ytd-popup-container.style-scope > .tp-yt-iron-dropdown.style-scope
+
+www.lego.com##.fAvzRD.CookieModalstyles__ModalContent-sc-19wlthm-0
+www.lego.com##.iATvAv.Modalstyles__Container-l3z049-0
+
+www.ehow.com###lg-jwplayer
+www.ehow.com##.component-article-section-jwplayer-wrapper
+
+loaids.com##.formkit-overlay.seva-overlay
+
+www.ebay.ca###placement_html_101197
+www.ebay.ca###placement_html_101198
+
+dev.xenforo.relay.cool##.p-guest--message
+
+||www.eevblog.com/images/comm/728x90EEVBlog.png$image
+
+ledlightsfact.com##.heateor_sss_bottom_sharing.heateor_sss_vertical_sharing.heateor_sss_sharing_container
+
+ledlightguides.com##.tve-leads-conversion-object
+
+www.lampshoponline.com##.show.block.transition-all
+
+imgur.com##.embed-header
+
+schematron.org##.show.fade.modal
+schematron.org##.show.fade.modal-backdrop
+
+allapk.ru##.message-alert
+
+swarmik.tumblr.com##.center.open.tmblr-iframe--follow-teaser.tmblr-iframe
+
+www.tenforums.com##.garbod > div
+
+www.brightlife.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+www.brightlife.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-bg
+
+www.verywellhealth.com##.dialog--visible.dialog.mntl-dialog.mntl-dialog--campaign.campaign-dialog.comp
+
+getgreenshot.org##.ga-skscrpr
+
+||danielchronlundcloudtechblog.files.wordpress.com/2019/01/cropped-coffeehouse.jpg$image
+danielchronlund.com##.site-hero-section
+
+forum.arduino.cc##.iubenda-cs-visible.iubenda-cs-slidein.iubenda-cs-left.iubenda-cs-bottom.iubenda-cs-default-floating
