@@ -2021,3 +2021,6 @@ getgreenshot.org##.ga-skscrpr
 danielchronlund.com##.site-hero-section
 
 forum.arduino.cc##.iubenda-cs-visible.iubenda-cs-slidein.iubenda-cs-left.iubenda-cs-bottom.iubenda-cs-default-floating
+
+||translate.google.com^$domain=www.cyber.gov.au
+www.cyber.gov.au###block-footer-aoc
