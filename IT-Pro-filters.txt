@@ -774,8 +774,6 @@ cyberark.cloud##.splash-screen
 
 www.thewindowsclub.com##.entry-content .ezlazyloaded
 
-
-
 ||service-now.com/images/polarisberg/login-stars-tier3.svg$image
 service-now.com##.pe4.parallax-element
 ||service-now.com/images/polarisberg/login-stars-tier2.svg$image
@@ -787,3 +785,36 @@ service-now.com##path:nth-of-type(1)
 service-now.com##svg.planet:nth-of-type(1)
 service-now.com##.pe1.parallax-element > svg
 service-now.com##seismic-hoist
+
+https://eu-mobile.events.data.microsoft.com/OneCollector/
+techdirectarchive.com##[href^="https://i0.wp.com/techdirectarchive.com/wp-content/uploads/2021/09/hero_activedirectory.jpg"]
+learn.microsoft.com##.theme-light.has-overflow-hidden.has-default-focus
+danielchronlund.com##.site-hero-section
+duckduckgo.com###popover-undefined
+events.data.microsoft.com/
+myapps.microsoft.com##.root-351.ms-Dialog.is-open.ms-Modal
+https://techcommunity.microsoft.com/t5/scripts/06C711A4BFEE964D702C0EA61528D902/SurveyPromptDialog.js
+||logincdn.msauth.net/shared/1.0/content/images/backgrounds/$image
+https://res-1.cdn.office.net/files/odsp-web-prod_2023-07-28.009/listsenterprise/plt.telemetry.js
+https://acdc-direct.office.com/apc/trans.gif
+https://k-ring.msedge.net/apc/trans.gif
+https://ow1.res.office365.com/apc/trans.gif
+https://a-ring.msedge.net/apc/trans.gif
+https://outlook.live.com/apc/trans.gif
+https://substrate.office.com/apc/trans.gif
+
+adamtheautomator.com##.jw-reset.jw-wrapper
+adamtheautomator.com##.adthrive
+adamtheautomator.com##.slick-inline-search-panel
+https://adamtheautomator.com/wp-content/plugins/novashare/js/novashare.min.js?ver=1.4.3
+https://ads.adthrive.com/api/v2/host/floors/adamtheautomator.com
+https://adamtheautomator.com/wp-content/uploads/omgf/google-fonts/poppins-normal-500.woff2
+https://cdn.jwplayer.com/manifests/DGFero1Y.m3u8
+https://videos-cloudfront-usp.jwpsrv.com/64d3883a_2ad19f4ff118906b5e233f1bb225a53001c1864d/site/z9kQyJgK/media/DGFero1Y/
+https://videos-cloudfront-usp.jwpsrv.com/64d3883a_2ad19f4ff118906b5e233f1bb225a53001c1864d/
+||videos-cloudfront-usp.jwpsrv.com^$xhr,domain=adamtheautomator.com,important
+||adamtheautomator.com/wp-content/uploads/2020/12/img-ip.png$1p
+||cdn.jwplayer.com^$domain=adamtheautomator.com,important
+||slickstream.com^
+||adamtheautomator.com/wp-content/plugins/progressive-wp/assets/scripts/ui-installprompt.js$1p
+
