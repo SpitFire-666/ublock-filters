@@ -818,3 +818,5 @@ https://videos-cloudfront-usp.jwpsrv.com/64d3883a_2ad19f4ff118906b5e233f1bb225a5
 ||slickstream.com^
 ||adamtheautomator.com/wp-content/plugins/progressive-wp/assets/scripts/ui-installprompt.js$1p
 
+
+https://entra.microsoft.com/Content/12.43.2.112.42.0.16402399.230803-0127/Scripts/@microsoft/1ds-analytics-web-js.js
