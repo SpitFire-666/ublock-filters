@@ -846,15 +846,14 @@ coinmarketcap.com##.hgMLDB.sc-16r8icm-0
 
 ||embed.spotify.com/$subdocument
 
-$removeparam=eq,domain=pinterest.com.au
-$removeparam=etslf,domain=pinterest.com.au
-$removeparam=term_meta[],domain=pinterest.com.au
-$removeparam=rs,domain=pinterest.com.au
+$removeparam=eq,domain=pinterest.com.*
+$removeparam=etslf,domain=pinterest.com.*
+$removeparam=term_meta[],domain=pinterest.com.*
+$removeparam=rs,domain=pinterest.com.*
 
 $removeparam=utm_medium,domain=sli.do
-$removeparam=utm_source,domain=drive.com.au
 
-$removeparam=ref,domain=amazon.com.au
+$removeparam=ref,domain=amazon.com.*
 
 $removeparam=sh,domain=forbes.com
 
@@ -909,7 +908,6 @@ support.zoom.us##.article-body-community
 $removeparam=utm_medium,domain=simplywall.st
 $removeparam=utm_campaign,domain=simplywall.st
 $removeparam=utm_source,domain=simplywall.st
-
 simplywall.st###modal-container
 https://simplywall.st/static/js/components-GuestRegistrationModal.modern.9283a7a6.js
 
@@ -996,11 +994,9 @@ www.digitaltrends.com###onetrust-button-group-parent
 
 m.facebook.com##._56bf._55wo > div
 
-! 2022-05-20 https://www.productreview.com.au
 www.productreview.com.au##div.filters-ad_lv4.d-flex_RNf.justify-content-center_zro.flex-column__BR.align-items-center_amm:nth-of-type(1)
 www.productreview.com.au##.neg-mx-1_em6
 
-! 2022-05-28 https://www.thesun.co.uk
 www.thesun.co.uk##.article__content > .advert-wrapper--header.advert-wrapper
 www.thesun.co.uk##.advert-wrapper--outstream.advert-wrapper
 www.thesun.co.uk##.advert-wrapper--articlempu.advert-wrapper
@@ -1044,9 +1040,6 @@ huckleberrycare.com##.mx-lg-5.mx-md-1.cookie-banner
 
 jakebeldercars.wordpress.com##.widget_eu_cookie_law_widget.widget
 
-www.carsales.com.au##csn-gdpr-toaster
-www.ramint.gov.au##.div_text
-
 www.subaruforester.org##.vtf.login-buttongroup
 
 www.tiktok.com##.e3jljnd0.tiktok-1jeqist-DivContentWrap
@@ -1054,10 +1047,7 @@ www.tiktok.com##.e3jljnd0.tiktok-1jeqist-DivContentWrap
 www.facebook.com##.fh5enmmv.l9j0dhe7
 
 outlook.live.com##._1TpU2KF6f_EeQiytBaYj8I > ._3_hHr3kfEhbNYRFM5YJxH9
-! 2020-10-03 https://twitter.com
-twitter.com###layers > .r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n > div.r-12vffkv.css-1dbjc4n > .r-12vffkv.css-1dbjc4n
 
-! 2021-01-02 https://outlook.live.com
 ||outlook-1.cdn.office.net/owamail/20200928003.09/resources/img/outlook-mobile-apps-dark.png$image
 
 www.google.com##.Txmime-wPzPJb-k77Iif
@@ -1069,29 +1059,17 @@ www.instagram.com##.i3VrA.fPMEg.pbNvD
 www.instagram.com##._Yhr4.RnEpo
 www.instagram.com##.o64aR.SCxLW
 
-www.commbank.com.au##.load-stack.hide-stack.hide-on-print.row
-
 ||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q75/spS444/p640x640/202824226_23848021564240656_1388294037816565016_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=86c3dc&efg=eyJxZV9ncm91cHMiOlsibm9fc2FmZV9pbWFnZV9mb3JfYWRzX2ltYWdlIl19&_nc_ohc=KSnwuPBoTIEAX83MdKu&_nc_ht=scontent.fmel5-1.fna&oh=00_AT9nsu5PlMxcmZ2bAKuep2JUwBmwA91DLUVj9ezLHFl5UQ&oe=61DEA211$image
 ||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q75/spS444/p960x960/173458109_23847177560520473_8888048435943896637_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=67cdda&_nc_ohc=2HqRIulOhBkAX9ErghH&tn=BH_k2tKTY60Ov95u&_nc_ht=scontent.fmel5-1.fna&oh=00_AT9yTfXYG_H6bfgeSAeUCS_uVRl7qSq5-VZpDxax7e8qjQ&oe=61DCE6C4$image
 www.facebook.com##[src^="https://scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/240562002_6232377910998_8962167059659309286_n.png.jpg?_nc_cat=104&ccb=1-5&_nc_sid=67cdda&_nc_ohc=bnOqf6krtlcAX8jlVd1&_nc_ht=scontent.fmel5-1.fna&oh=00_AT-fUVKSxmUD-mlQH1ANKFmcvMRmj"]
 www.facebook.com##[src^="https://scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/268400239_6274341733188_2497548554783930911_n.png.jpg?_nc_cat=104&ccb=1-5&_nc_sid=67cdda&_nc_ohc=HNAo1j_3y2IAX8VyoE1&tn=BH_k2tKTY60Ov95u&_nc_ht=scontent.fmel5-1.fna&oh=00_AT-9K_ZDR"]
 www.facebook.com##[src^="https://scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/254832354_23848838744220640_2715882996360780593_n.png.jpg?_nc_cat=108&ccb=1-5&_nc_sid=67cdda&_nc_ohc=JrZEHmMuFkAAX_5zg4m&_nc_ht=scontent.fmel5-1.fna&oh=00_AT-yp2uFXLhz4m0ABweLc_BNN"]
 
-! 2022-01-08 https://www.facebook.com
 ||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q75/spS444/p960x960/263856070_23848722129050589_8691291888513271380_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=67cdda&_nc_ohc=wM6lb97UqAUAX_I8K0j&_nc_ht=scontent.fmel5-1.fna&oh=00_AT9AKJn0LXd25clb_KdP3aVnDbjRyp8Ivu93bgh4qqps9w&oe=61DEA9AD$image
 ||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p960x960/118317058_23845342072610525_3892070097195665926_n.png.jpg?_nc_cat=1&ccb=1-5&_nc_sid=c53a18&_nc_ohc=m8fCLIo_AnIAX9FvDmS&_nc_ht=scontent.fmel5-1.fna&oh=00_AT_YJ3wlPNfUx_mMeDoc4vNY-VVOD9vvTel1ZUjdFJufnA&oe=61DE45A6$image
 ||scontent.fmel5-1.fna.fbcdn.net/v/t45.1600-4/fr/cp0/q75/spS444/222134441_6254963955663_7472977932223383726_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=67cdda&_nc_ohc=CxpcEswZg5EAX97PDKS&_nc_ht=scontent.fmel5-1.fna&oh=00_AT_nGIxUm7Ee-YCnpvXc8-7PG4Ae4vztaCL1mJe2DD0aNQ&oe=61DF3490$image
 
 www.facebook.com##.du4w35lb.l9j0dhe7.rq0escxv .n7fi1qx3.i09qtzwb.poy2od1o
-
-www.gumtree.com.au##.view-item-page__leaderboard-wrapper-sticky
-
-! 2022-03-10 https://au.nextdoor.com
-au.nextdoor.com##.static-promo-content
-
-
-! 2022-03-19 https://www.gumtree.com.au
-www.gumtree.com.au##.sticky.sticky-desktop.header__banner-container
 
 www.reddit.com##.RESUserTag
 @@||www.redditstatic.com/onetrust.6tPW2jUogoc.js$script,domain=www.reddit.com
@@ -1104,29 +1082,16 @@ www.reddit.com##.RESUserTag
 
 ||antonjewellery.com/cart.js$xhr,1p
 
-! 2022-07-15 https://www.microsoft.com
 www.microsoft.com###dynamicmarketredirect-dialog
 
 https://odc.officeapps.live.com/odc/stat/images/hrd/Background-blurryGradient.svg
 
-! 2022-07-17 https://chat-messaging.public.openaiplatform.telstra.com
-@@||js-agent.newrelic.com^$domain=telstra.com
-
-! 2022-07-17 https://www.bleepingcomputer.com
 www.bleepingcomputer.com##.cz-boa-wrapp
 
-! 2022-07-21 https://www.reddit.com
 www.reddit.com##.give-gold-button
 
-! 2022-07-21 https://myaccount.chandlermacleod.com
-
-
-http://192.168.1.2/admin/img/boxed-bg-dark.png
-
-! 2022-07-22 https://magnetmagazine.com
 magnetmagazine.com##.postsAd
 
-! 2022-07-22 https://forum.xda-developers.com
 ||forum.xda-developers.com/proxy.php?image=https%3A%2F%2Fi.gyazo.com%2Fe780ca581373f8619e1ac57814fff855.gif&hash=f8169b0640a9999923926bf0a7f33605$image
 
 ! 2022-07-24 https://www.anoopcnair.com
@@ -1136,13 +1101,9 @@ www.anoopcnair.com###ai_widget-2
 www.anoopcnair.com###ai_widget-46
 www.anoopcnair.com###ai_widget-50
 
-! 2022-07-29 https://www.sevenforums.com
 www.sevenforums.com###yui-gen0
 www.sevenforums.com###yui-gen1
 
-! 2022-07-29 https://dziurologia.blogspot.com
-
-! 2022-08-11 https://www.ebay.ca
 www.ebay.ca###placement_html_101197
 www.ebay.ca###placement_html_101198
 
@@ -1163,36 +1124,23 @@ danmurphys.com.au$removeparam=pageName
 
 asos.*^$removeparam=clr
 
-! 2022-08-16 https://easy2boot.xyz
 easy2boot.xyz##.boxzilla-center-container.boxzilla-container
 easy2boot.xyz##.boxzilla-3156-overlay.boxzilla-overlay
 
-! 2022-08-18 https://www.healthline.com
 www.healthline.com##.css-6l6gc > .email.button-wrapper
 
-! 2022-08-18 https://www.worthpoint.com
 www.worthpoint.com##.ads-banner-container
 
-! 2022-08-21 https://www.facebook.com
 www.facebook.com##.sl5dfbbs.gldv74r8.alzwoclg
 
-! 2022-08-28 https://www.javascripttutorial.net
 www.javascripttutorial.net##.whitelist
 
-! 2022-08-29 https://login.live.com
 ||lgincdnvzeuno.azureedge.net/shared/1.0/content/images/backgrounds/$image
 
-! 2022-08-30 https://login.live.com
 ||lgincdnmsftuswe2.azureedge.net/shared/1.0/content/images/backgrounds/$image
 
-! 2022-08-31 https://www.jbhifi.com.au
-www.jbhifi.com.au###webinventory-leaderboard-1
-
-! 2022-09-06 https://web.archive.org
 web.archive.org###dms-txt
 
-
-! 2022-09-09 https://www.espn.com
 www.espn.com##.active.video.feed-item-figure > .img-wrap
 www.espn.com##.editorial.sub-module
 
@@ -1215,27 +1163,14 @@ mommyhood101.com##[href="/gift-guides"] > .jch-lazyloaded.ls-is-cached
 mommyhood101.com##.eb-container
 mommyhood101.com##.eb-acc.eb-acm.eb-dialog
 
-! 2022-10-03 https://www.carsguide.com.au
-www.carsguide.com.au##.gncAd.id-1.leaderboard
-www.carsguide.com.au##.id-2.leaderboard
-
-! 2022-10-05 https://www.facebook.com
-www.facebook.com##.xds687c.x1ey2m1c.xixxii4
-
-! 2022-10-07 https://www.ebay.com.au
-www.ebay.com.au##.widgets-placeholder
-
-! 2022-10-21 https://www.kayak.com
 www.kayak.com##div.Dp1L:nth-of-type(6)
 www.kayak.com##div.Dp1L:nth-of-type(12)
 www.kayak.com##div.Dp1L:nth-of-type(2)
 
-! 2022-10-22 https://archive.org
 archive.org##.chevron-color-default.chevron-image-white.background-default.template-chevron.js-donate-banner.row
 
 aliexpress.com*^$removeparam=curPageLogUid
 
-! 2022-10-26 https://gizmodo.com
 gizmodo.com##.video-html5-wrapper.kXvAvi.ynugv2-0 > .lepUzz.sc-1h0epat-0 > .video-html5-playlist.hxLRyg.sc-1wkneyl-0 > .video-html5-loaded
 
 tiktok.com^$removeparam=is_from_webapp
@@ -1261,16 +1196,12 @@ download.cnet.com##.c-globalModal_backdrop
 download.cnet.com##.c-globalModal_isOpen.c-adShoppingExit_modal.c-globalModal
 download.cnet.com##.c-pageProductDetail-playlist
 
-! 2022-11-07 https://www.guidingtech.com
 www.guidingtech.com##.content > div
 
-! 2022-11-09 https://account.live.com
 ||acctcdn.msauth.net/images/$image
 
-! 2022-11-09 https://www.fresha.com
 www.fresha.com##.CookieBanner_desktop__76b234cb
 
-! 2022-11-10 https://www.facebook.com
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(4)
 
 ! 2022-11-11 https://www.health.harvard.edu
@@ -1295,34 +1226,27 @@ forum.toolsinaction.com##p:nth-of-type(13)
 bvdub.bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bvdub.bandcamp.com##.ui-widget-overlay
 
-! 2022-11-23 https://www.pcreview.co.uk
 www.pcreview.co.uk##div.message--post.message:nth-of-type(1)
 www.pcreview.co.uk##div.message--post.message:nth-of-type(2)
 www.pcreview.co.uk##div.message--post.message:nth-of-type(3)
 
-! 2022-11-23 https://www.techspot.com
 www.techspot.com##div.betweenPosts:nth-of-type(1)
 www.techspot.com##div.betweenPosts:nth-of-type(2)
 www.techspot.com##div.betweenPosts:nth-of-type(3)
 
-! 2022-11-30 https://www.lego.com
 www.lego.com##.dgtGMB.AgeGatestyles__Wrapper-sc-xudtvj-0
 www.lego.com##.hgSMAB.Modalstyles__Container-sc-l3z049-0
 
-! 2022-12-01 https://deploymentbunny.com
 ||anothermike2.files.wordpress.com/2018/11/dr-newslettersignup-w250.pn*$image
 
 ! 2022-12-08 https://bobcares.com
 bobcares.com##.custom-h2-p1-blocks
 
-! 2022-12-08 https://www.techradar.com
 www.techradar.com###expanding-articles
 www.techradar.com##.related-articles-wrap
 
-! 2022-12-14 https://www.undocumented-features.com
 www.undocumented-features.com##.footer-widget-1.widget-column > .widget_custom_html.widget.widget_text
 
-! 2022-12-15 https://devblogs.microsoft.com
 ||devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/06/ms-background-1.jpg$image
 
 ! 2022-12-16 https://n5md.bandcamp.com
@@ -1340,36 +1264,24 @@ www.vogue.com##.persistent-aside--align-left.persistent-aside.dmuvVb.PersistentA
 www.vogue.com##div.wide-adrail.narrow.grid-layout--adrail.cFPA-DQ.ArticlePageChunksGrid-kRoKdN.grid-items-2.grid-margins.grid.dgApK.GridWrapper-uKcjB:nth-of-type(1)
 www.vogue.com##.cne-video-embed.hwzklX.CneVideoEmbedFigure-bJBeHO > div
 
-! 2022-12-19 https://www.livestrong.com
 www.livestrong.com###lg-jwplayer
 www.livestrong.com##.component-article-section-jwplayer-container
 www.livestrong.com##.component-article-section-jwplayer-wrapper
 
-! 2022-12-21 https://forums.mydigitallife.net
 forums.mydigitallife.net##.ugc.messageText.signature.baseHtml
 
-! 2022-12-22 https://www.danmurphys.com.au
-
-! 2022-12-27 https://www.myabandonware.com
 www.myabandonware.com###fb8beaf423
 www.myabandonware.com###e469655030
 
-! 2022-12-27 https://www.weatherzone.com.au
-www.weatherzone.com.au##.eLQmNC
-
-! 2022-12-29 https://www.hotdeals.com
 www.hotdeals.com##.pc-dialog
 www.hotdeals.com##.ads-list-ad
 
-! 2022-12-29 https://www.thesun.co.uk
 www.thesun.co.uk##.lazyloaded.brightcove__holder
 
-! 2022-12-30 https://magnetmagazine.com
 ||magnetmagazine.com/wp-content/uploads/2022/12/Magnet-BO2022.jpg$image
 ||magnetmagazine.com/wp-content/uploads/2021/07/Magnet-SIYB-1.jpg$image
 magnetmagazine.com##[href="https://magnetmagazine.com/say-its-your-birthday/"]
 
-! 2023-01-01 https://hackaday.io
 hackaday.io##.guest-message-signup-static.guest-message-signup.page-basic-info-static-dark.page-basic-info-static
 
 ! 2023-01-01 https://www.news.com.au
@@ -1418,9 +1330,7 @@ www.parents.com##.dialog--visible.dialog.mntl-dialog.mntl-dialog--campaign.campa
 ! 2023-01-24 https://www.mdpub.com
 www.mdpub.com##[href^="https://e.chase.com/"]
 
-! 2023-01-24 https://www.aliexpress.com
 ||ae01.alicdn.com/kf/H431e6fd379524a75b153aebd9b3bea01M.gif$image
-
 
 https://app.smartsheet.com/b/images/login-v4-background-desktop.png
 
@@ -1494,7 +1404,6 @@ au.nextdoor.com##.css-15g5td4
 www.bbc.co.uk##.CookieBanner-module__wrap--1QK9t
 
 forums.stardock.com##.stardockad
-
 
 ||pipedream.wistia.com/mput?topic=metrics$xhr
 ||fg8vvsvnieiv3ej16jby.litix.io^
@@ -1591,13 +1500,10 @@ www.gettyimages.co.uk###customer_notifications_application
 
 ||lgincdnvzeuno.azureedge.net/shared/1.0/content/images/backgrounds/$image
 
-
 www.hp.com###onetrust-consent-sdk
 
-! 2022-09-28 https://www.technipages.com
 www.technipages.com##.entry-content > div
 
-! 2022-10-05 https://support.hp.com
 support.hp.com###onetrust-consent-sdk
 
 learn.microsoft.com##.ignite-banner.padding-bottom-md.padding-top-md.position-relative.tier1-event-banner
@@ -1606,19 +1512,15 @@ www.news.com.au##.vms-playlist-loaded.vms-playing.vms-news.vms-ready.vms-player.
 
 ||lgincdnmsftuswe2.azureedge.net/shared/1.0/content/images/backgrounds/$image
 
-! 2022-10-16 https://forums.anandtech.com
 forums.anandtech.com##.js-bottomFixTarget.u-bottomFixer
 
-! 2022-10-24 https://www.reddit.com
 ||www.reddit.com/account/sso/one_tap/$subdocument
 
-! 2022-10-24 https://app.smartsheet.com
 ||app.smartsheet.com/b/images/login-v4-background-desktop.png$domain=app.smartsheet.com
 app.smartsheet.com##div.clsJspButtonWide:nth-of-type(2)
 
 winaero.com###cookie-law-info-bar
 
-! 2022-11-03 https://www.ipswitch.com
 www.ipswitch.com###onetrust-consent-sdk
 
 ! 2022-11-03 https://www.lcdcomps.com
@@ -1646,18 +1548,14 @@ www.febooti.com###cc
 ! 2022-11-29 https://helpcenter.trendmicro.com
 helpcenter.trendmicro.com##.cookie_verif
 
-! 2022-11-29 https://blog.f-secure.com
+
 blog.f-secure.com##.js-pop-notification.c-pop-notification
 
-! 2022-12-05 https://bvdub.bandcamp.com
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bandcamp.com##.ui-widget-overlay
 
-
-! 2022-12-11 https://collectingcars.com
 collectingcars.com###reactCookieBanner
 
-! 2022-12-11 https://4sysops.com
 4sysops.com##.member-navigation.pagination-sticky
 4sysops.com##[src="/img/NewsletterEnd.html"]
 4sysops.com##.sidebar-3lr.col-sm-pull-8.col-sm-2.sidebar-main.sidebar
@@ -1665,14 +1563,11 @@ collectingcars.com###reactCookieBanner
 4sysops.com##.sidebar-3lr.col-sm-2.sidebar-extra.sidebar > .inner-content
 4sysops.com##.sidebar-3lr.col-sm-2.sidebar-extra.sidebar
 
-! 2022-12-12 https://devblogs.microsoft.com
 ||devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/06/$image
 
-! 2022-12-14 https://en.wikipedia.org
 en.wikipedia.org###siteNotice
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
 
-! 2022-12-19 https://lazyadmin.nl
 lazyadmin.nl##.swp_float_left.slide.swp_other_full_color.swp_individual_full_color.swp_default_full_color.swp_.swp_social_panel.swp_floating_panel.swp_social_panelSide
 
 ! 2022-12-19 https://hostingultraso.com
@@ -2010,9 +1905,6 @@ swarmik.tumblr.com##.center.open.tmblr-iframe--follow-teaser.tmblr-iframe
 
 www.tenforums.com##.garbod > div
 
-www.brightlife.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
-www.brightlife.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-bg
-
 www.verywellhealth.com##.dialog--visible.dialog.mntl-dialog.mntl-dialog--campaign.campaign-dialog.comp
 
 getgreenshot.org##.ga-skscrpr
@@ -2023,4 +1915,72 @@ danielchronlund.com##.site-hero-section
 forum.arduino.cc##.iubenda-cs-visible.iubenda-cs-slidein.iubenda-cs-left.iubenda-cs-bottom.iubenda-cs-default-floating
 
 ||translate.google.com^$domain=www.cyber.gov.au
-www.cyber.gov.au###block-footer-aoc
+
+
+tunein.com##.leftSide-module__upsellButtonContainer___fOE5Z
+https://cdn-cms.tunein.com/images/searchbackground.png
+https://event.platform.tunein.com/events/client-reports
+
+www.google.com###google-hats-survey
+
+www.watzatsong.com###bottom-banner > .fancybox
+www.watzatsong.com##body > .adsense-links
+||stripe.com^$domain=www.watzatsong.com
+www.watzatsong.com###main-column > .text-right > .fancybox.right-column-why-ads
+www.watzatsong.com###right-column > .text-right > .fancybox.text-right.right-column-why-ads
+www.watzatsong.com###announcement
+www.watzatsong.com##.sample-box-actions-share
+
+thehustle.co##.c-content-form
+
+www.wellnessverge.com##.active.elm-newsletter-popup
+www.wellnessverge.com##div.s300x250.banner
+
+www.aliexpress.com##.es--product-fix-wrap--2t2rDch > div
+www.aliexpress.com##.es--product-fix-sns--3dZQv4l
+
+www.prajwaldesai.com###kadence-conversion-320745
+https://www.prajwaldesai.com/wp-content/plugins/kadence-conversions/
+
+https://petri.com/wp-json/petri/v1/impression/track
+https://petri.com/wp-content/themes/petri/assets/advertising/
+https://petri.com/wp-content/plugins/enlighter/resources/enlighterjs/
+https://petri.com/wp-content/uploads/2023/08/ObjectFirstcover.png
+https://petri.com/wp-content/uploads/2023/08/Object-First-1.mp4
+https://petri.com/wp-content/uploads/2023/08/Object-First-1.mp4
+petri.com###enlivy-kit-popup-overlay
+petri.com###petri-advertising-sponsor-shoutout
+petri.com##.header > div > div > div
+petri.com##.header > div
+
+https://gae2-spclient.spotify.com/gabo-receiver-service/public/v3/events
+https://gae2-spclient.spotify.com/gabo-receiver-service/v3/events
+
+nypost.com##.ad__placeholder--banner
+nypost.com##.d-block-lg.d-none.billboard-overlay
+
+www.aliexpress.com##._3KrBP
+www.aliexpress.com##[href^="https://www.aliexpress.com/gcp/"]
+www.aliexpress.com##.top-banner-container
+
+mans.io##.install-pwa
+||www.moon-soft.com/program/FORMAT/jpg/2di.JPG$image
+
+www.epicurious.com##.daQPpr.VideoFigure-eayQIa
+
+www.goodreads.com##.modal--centered.modal--overlay.modal
+
+https://assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css
+https://assets.squarespace.com/universal/scripts-compressed/popup-overlay-606151abe6ab065f5709c-min.en-US.js
+
+concreteplayground.com##li.board-ad.board:nth-of-type(13)
+concreteplayground.com##li.board-ad.board:nth-of-type(26)
+concreteplayground.com##li.board-ad.board:nth-of-type(39)
+
+||manchestervacs.co.uk/dysonimages/dysonbanner.gif$image
+manchestervacs.co.uk##[href="https://shop.manchestervacs.co.uk/"]
+
+https://www.glassdoor.com.au/garnish/static/js/gd-i18nRedirectModal.bundle.js
+https://www.glassdoor.com.au/garnish/static/js/gd-hardsell-content-wall-12mgtg.bundle.js
+
+www.vice.com##.docked-slot-renderer
