@@ -820,3 +820,15 @@ https://videos-cloudfront-usp.jwpsrv.com/64d3883a_2ad19f4ff118906b5e233f1bb225a5
 
 
 https://entra.microsoft.com/Content/12.43.2.112.42.0.16402399.230803-0127/Scripts/@microsoft/1ds-analytics-web-js.js
+
+www.cnet.com##.o-ratio_content
+www.cnet.com##.t-alignCol8.c-avStickyVideo
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-incontent-ad-plus.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(2)
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-incontent-ad-plus.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(4)
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-mpu.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(6)
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-mpu.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(8)
+www.cnet.com##.blank.spaced.c-adDisplay_container_mobile-incontent-all-bottom.g-inner-spacing-bottom-medium.g-inner-spacing-top-xlarge.c-pageArticle_bottomLeader.c-pageArticle_ad-flex.c-pageArticle_ad.c-adDisplay_container
+
+www.techtimes.com##.adunit_adhesion
+www.techtimes.com##.bts_social
+
