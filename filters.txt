@@ -1984,3 +1984,87 @@ https://www.glassdoor.com.au/garnish/static/js/gd-i18nRedirectModal.bundle.js
 https://www.glassdoor.com.au/garnish/static/js/gd-hardsell-content-wall-12mgtg.bundle.js
 
 www.vice.com##.docked-slot-renderer
+
+www.directtoolsoutlet.com##.optanon-alert-box-wrapper
+
+www.tiktok.com##.flex-auto.tt-sheet__body
+
+! .nytimes.com##.Welcome-module_contentWelcomeContainer__UO4Ei
+! ##.Welcome-module_contentWelcome__TL17B
+! ##.MomentSystem-module_moment__G9hyw
+
+
+connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
+
+vonbaronmusic.com###cookie-notice
+
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-adsninja-ad-unit-characterCountRepeatable1-5f343f19c50cac > .ad-current
+www.makeuseof.com##.ad-zone-content-character-count-repeatable-2.ad-zone
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT3 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr3 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT5 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr4 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT7 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr5 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT9 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT10 > .ad-current
+
+||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/premium/mountain-background-large.svg$image
+||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/*.svg$image
+onedrive.live.com##.planCardWrapper_1d191c09
+onedrive.live.com##.root-220.is-open.ms-Modal
+
+www.the-sun.com##.article__content > .advert-wrapper--header.advert-wrapper
+www.the-sun.com##.advert-wrapper--placeholder.advert-wrapper--billboard.advert-wrapper
+
+www.worldatlas.com###content_body > .ad_push.mod_ad_container
+www.worldatlas.com##.ad_hfix_600.mod_ad
+www.worldatlas.com##.ad_wfix_mb_std.ad_wfix_tb_728.ad_wfix_dt_728.ad_hfix_320.mod_ad
+www.worldatlas.com##.ad_cls_fix.ad_content_below.ad_push.mod_ad_container
+
+www.health.harvard.edu##.flex.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.mobile-popup
+
+luxuryescapes.com##.lg.ilPewA.GDPRWarningBanner__Alert-sc-1mwq5ah-1.gswtFw.LayoutContainer__Container-sc-rvo2nj-0
+luxuryescapes.com###credential_picker_iframe
+
+www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
+
+www.tiktok.com##.enx791q0.tiktok-rkt89o-DivCtaGuideContainer
+www.tiktok.com##.e1pecv671.tiktok-1bs1f5y-DivFlex1 > .matrix-smart-wrapper
+
+! 2023-04-21 https://www.reddit.com
+www.reddit.com##shreddit-experience-tree.theme-beta
+
+! 2023-04-24 https://www.lifewire.com
+www.lifewire.com###tech-billboard1-sticky_1-0
+
+! 2023-04-24 https://www.midomi.com
+www.midomi.com###onetrust-consent-sdk
+www.midomi.com##.Banner_snackBar__2zo3A
+
+apkdone.com###cookie-law-info-bar
+
+liliputing.com##.adthrive-content-1.adthrive-content.adthrive-ad
+
+theconversation.com##.jss130.MuiDialogContent-root
+theconversation.com##.MuiDialogActions-spacing.jss5.jss141.MuiDialogActions-root
+
+www.wired.com###lgepdblba
+www.wired.com##.journey-unit__container
+www.wired.com##div.row-mid-content-ad.full-bleed-ad.HEhan.RowWrapper-UmqTg:nth-of-type(8)
+www.wired.com##div.row-mid-content-ad.full-bleed-ad.HEhan.RowWrapper-UmqTg
+
+www.recipetineats.com##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
+www.recipetineats.com##.adthrive-content-4.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-3.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-2.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
+www.recipetineats.com##.subscribe
+
+bumble.com##.js-cookie-notification.cookie-notification
+
+abcnews.go.com##div.zhVl.eXZc.oJhu.gfNz.oMlS.kRoB.roDb.gbbf.OnRT.vrZx.ONJd.iSha.jaoD.GQmd.SVqK.eQqc.OjMN.hbvn.aHUB.lzDC.zzsc.NIuq.iulO.VvTx.xegr.SmBj.mEee.MCnQ.nFwa.BZyg.acPP.eRft.sKyC.ISNQ.daRV.AkFW.OsTs.zNYg.vPlO.EhJP.pvsT.QBoF.QrHM.oLzS:nth-of-type(1)
+
+www.lifewire.com###adslot_3-0-1
+bakeplaysmile.com##.cky-box-bottom-left.cky-consent-container
