@@ -2068,3 +2068,17 @@ abcnews.go.com##div.zhVl.eXZc.oJhu.gfNz.oMlS.kRoB.roDb.gbbf.OnRT.vrZx.ONJd.iSha.
 
 www.lifewire.com###adslot_3-0-1
 bakeplaysmile.com##.cky-box-bottom-left.cky-consent-container
+
+ebay.com.au##html:style(overflow: auto !important;)
+ebay.com##html:style(overflow: auto !important;)
+
+weelicious.com##.ns-rounded.ns-pinterest-image-button
+
+www.goodhousekeeping.com##journey-inline-newsletter
+
+www.independent.co.uk###taboola-mid-article-thumbnails-iii
+
+www.theatlantic.com##div.LostInventoryMessage_root__YllYq
+
+www.masterclass.com##.mc-modal--medium.mc-modal
+www.masterclass.com##.mc-bg-gray-700.no-gutters.row
