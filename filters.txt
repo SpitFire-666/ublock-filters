@@ -2119,3 +2119,7 @@ www.youtube-nocookie.com##.ytp-videowall-still-info
 www.youtube-nocookie.com##.ytp-pause-overlay
 
 https://torrindex.net/images/epv/
+
+www.hunker.com##.component-article-section-votd-wrapper
+
+www.doomworld.com##.cGuestTeaser.ipsPad.ipsType_center
