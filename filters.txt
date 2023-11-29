@@ -2123,3 +2123,27 @@ https://torrindex.net/images/epv/
 www.hunker.com##.component-article-section-votd-wrapper
 
 www.doomworld.com##.cGuestTeaser.ipsPad.ipsType_center
+
+www.recipetineats.com###genesis-content > .subscribe
+
+watch.cricstream.me##.m-1.fw-bold.btn-danger.btn
+
+https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/watson
+https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/watsonsupportwithjquery
+
+www.audiotag.info###dclaim
+www.audiotag.info##.dialog-fog
+
+
+theblokecave.co.uk###grow-me-inline-subscribe-cta-root-0
+
+||www.songsterr.com/static/media/plus-showroom-footer.9c7f533e.svg$image
+||www.songsterr.com/static/media/plus-showroom-footer.9c7f533e.svg$image
+||www.songsterr.com/static/media/plus-showroom-sidebar.ebf9061f.svg$image
+www.songsterr.com###showroom
+
+www.dailyrecord.co.uk##.notification-tray-enabled.floating-bell.viafoura
+
+gearjunkie.com##.is-visible.center-flyout.flyout_newsletter_center
+
+www.lg.com##.show.fade.toast-coupon.toast
