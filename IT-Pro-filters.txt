@@ -832,3 +832,4 @@ www.cnet.com##.blank.spaced.c-adDisplay_container_mobile-incontent-all-bottom.g-
 www.techtimes.com##.adunit_adhesion
 www.techtimes.com##.bts_social
 
+||word-edit.officeapps.live.com/we/RemoteTelemetry.ashx
