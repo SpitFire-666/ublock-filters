@@ -1417,9 +1417,6 @@ soundcloud.com##.ot-fade-in.onetrust-pc-dark-filter
 
 ||api.us-west-2.aiv-delivery.net/Events/AV20180601$xhr,domain=www.primevideo.com
 
-||word-telemetry.officeapps.live.com^
-||word-edit.officeapps.live.com/we/RemoteTelemetry.ashx
-
 books.google.com.au##.gb_Wd
 
 www.canva.com##._5aUrJg.R4vkCQ.MxhaIQ
