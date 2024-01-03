@@ -833,3 +833,18 @@ www.techtimes.com##.adunit_adhesion
 www.techtimes.com##.bts_social
 
 ||word-edit.officeapps.live.com/we/RemoteTelemetry.ashx
+
+
+www.examtopics.com##.footer-contact-desc.row
+www.examtopics.com##.d-print-none.footer-top
+www.examtopics.com##.d-print-none.footer-bottom
+www.examtopics.com###engagement-modal
+www.examtopics.com##.show.modal-backdrop
+
+techcommunity.microsoft.com##.request-survey
+
+https://js.monitor.azure.com/scripts/c/ms.shared.analytics
+
+retrocomputing.stackexchange.com##.js-dismissable-hero
+
+customervoice.microsoft.com###content-root
