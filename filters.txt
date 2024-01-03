@@ -185,19 +185,6 @@ www.buzzfeed.com##.ad-inline.js-ad-placement.clearfix
 www.musicradar.com##.jw-carousel
 www.musicradar.com##.future__jwplayer--carousel
 
-www.examtopics.com##.footer-contact-desc.row
-www.examtopics.com##.d-print-none.footer-top
-www.examtopics.com##.d-print-none.footer-bottom
-www.examtopics.com###engagement-modal
-www.examtopics.com##.show.modal-backdrop
-
-! 2021-02-07 https://techcommunity.microsoft.com
-techcommunity.microsoft.com##.request-survey
-
-! 2021-02-28 https://outlook.live.com
-outlook.live.com##._2PxBL_S6KFCMTya8zm3aLF.ZXaaK9lo4E9sH50KY3o0C
-
-! 2021-03-01 https://www.masterclass.com
 www.masterclass.com##.trailer-gem__full-vw-container.uncontainer > .mc-background--fit-content.mc-background--color-dark.mc-background > .mc-background__content-container
 www.masterclass.com##.mc-py-8.bulk-banner-container.uncontainer
 www.masterclass.com##.mc-background--fit-content.mc-background--color-dark.mc-background.d-none.mc-mb-8.mc-pt-9.d-lg-block.mc-theme-dark.uncontainer
@@ -2144,3 +2131,61 @@ www.dailyrecord.co.uk##.notification-tray-enabled.floating-bell.viafoura
 gearjunkie.com##.is-visible.center-flyout.flyout_newsletter_center
 
 www.lg.com##.show.fade.toast-coupon.toast
+
+onlineradiobox.com###alert_mahjong
+onlineradiobox.com##.saveUA
+onlineradiobox.com##.playmarket
+onlineradiobox.com###alert_puzzlegarage
+
+theslenderwrist.com##.formkit-overlay.seva-overlay
+
+microbrandwatchworld.com###elementor-popup-modal-9319
+https://microbrandwatchworld.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
+
+www.drugs.com##.ddc-modal-visible.ddc-modal
+https://www.drugs.com/bundle/82ef3cb9/js/module/modal.js
+
+||www.iheart.com/static/assets/blank.mp4$media
+www.iheart.com##.e1c9k1px0.css-1oxm4ns > div
+
+www.airliners.net##.postlist > .hidden-sm.hidden-xs > div
+www.airliners.net##section.text-center.layout-section.desktop-tablet-placeholder_728x90_btf:nth-of-type(1)
+www.airliners.net###primisContainer
+www.airliners.net##section.text-center.layout-section.desktop-tablet-placeholder_728x90_btf:nth-of-type(7)
+www.airliners.net##.postlist > .hidden-sm.hidden-xs > div > .forum-permissions.hoverbox
+www.airliners.net##section.text-center.layout-section.desktop-tablet-placeholder_728x90_btf:nth-of-type(3)
+www.airliners.net##section.text-center.layout-section.desktop-tablet-placeholder_728x90_btf:nth-of-type(5)
+www.airliners.net##section.text-center.layout-section.desktop-tablet-placeholder_728x90_btf:nth-of-type(9)
+www.airliners.net##section.text-center.layout-section.desktop-tablet-placeholder_728x90_btf
+
+www.nytimes.com###gateway-content
+
+wornandwound.com##.ad-grid-col.ad-grid-col-has-ad
+
+www.banggood.com##.aside-survey-wrap
+
+automatic-catfeeder.com##.sfsi_floater_position_center-left.sfsi_wDiv
+
+www.timeout.com##.newsletter_inline_banner
+
+www.simplethread.com##.long-enough.st-blogpost--subscribe
+
+www.gq-magazine.co.uk##.cne-video-embed
+
+||www.luckymodapk.com/202003/appx_proxy.php$subdocument
+www.luckymodapk.com###appx
+
+playold.games###cookies
+
+www.dosgamesarchive.com###banner_container_leaderboard
+www.dosgamesarchive.com###banner_container_halfpage
+www.dosgamesarchive.com##.column_1 > .banner_container
+www.dosgamesarchive.com###banner_container_rectangle
+
+www.limetorrents.lol##.table3
+https://www.limetorrents.lol/js/jquery.min.js
+
+onlinetools.com###discountNotification
+onlinetools.com##.show.fade.modal-backdrop
+https://onlinetools.com/CACHE/js/discount.js
+
