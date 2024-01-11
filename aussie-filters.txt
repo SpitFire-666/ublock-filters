@@ -433,4 +433,12 @@ www.betootaadvocate.com##.hustle-main-wrapper
 sitchu.com.au##.display-subscribe.modal-dialog-centered.modal-dialog > .modal-content > .modal-body
 
 www.ebay.com.au##.yolo-show.g-signin-mweb
+ebay.com.au##html:style(overflow: auto !important;)
 
+www.radio-australia.org###cookiebanner
+www.radio-australia.org###body_centered_ad
+
+https://www.glassdoor.com.au/garnish/static/js/gd-i18nRedirectModal.bundle.js
+https://www.glassdoor.com.au/garnish/static/js/gd-hardsell-content-wall-12mgtg.bundle.js
+
+||edgmedia.bws.com.au/bws/media/artwork/banners/large/BWS34429_BWYASSS-main-d.png?impolicy=Assets-MedHigh$image
