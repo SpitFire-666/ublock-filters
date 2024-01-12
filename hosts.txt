@@ -1,0 +1,9 @@
+fff.dailymail.co.uk
+hulkprod.anm.co.uk
+ovp.iris.tv
+config.edge.skype.com
+cdn.optimizely.com
+cdn.cookielaw.org
+chimpstatic.com
+reddit-image.s3.amazonaws.com
+target.microsoft.com
