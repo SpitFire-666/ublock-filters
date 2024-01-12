@@ -104,3 +104,4 @@ d2j042cj1421wi.cloudfront.net
 plausible.io
 analytics.archive.org
 bazaarvoice-prod-01.dn.apigee.net
+media.richrelevance.com
