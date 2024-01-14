@@ -113,3 +113,5 @@ ssl-ccstatic.highwebmedia.com
 track.wattpad.com
 tse3.mm.bing.net
 tse4.mm.bing.net
+aa.online-metrix.net
+cdn.onesignal.com
