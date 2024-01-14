@@ -1,3 +1,5 @@
+! Domains blocked in pi-hole that aren't being blocked by uBlock
+
 fff.dailymail.co.uk
 hulkprod.anm.co.uk
 ovp.iris.tv
