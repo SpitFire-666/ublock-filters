@@ -104,3 +104,12 @@ plausible.io
 analytics.archive.org
 bazaarvoice-prod-01.dn.apigee.net
 media.richrelevance.com
+btloader.com
+cdn23381261.ahacdn.me
+ingresshid.unixfox.eu
+pixel.wp.com
+pushbizapi.com
+ssl-ccstatic.highwebmedia.com
+track.wattpad.com
+tse3.mm.bing.net
+tse4.mm.bing.net
