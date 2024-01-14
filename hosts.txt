@@ -145,3 +145,4 @@ ssl-ccstatic.highwebmedia.com
 sync.intentiq.com
 track.wattpad.com
 t.trafmag.com
+cdn.tinypass.com
