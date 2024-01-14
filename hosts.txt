@@ -115,3 +115,11 @@ tse3.mm.bing.net
 tse4.mm.bing.net
 aa.online-metrix.net
 cdn.onesignal.com
+api.livechatinc.com
+appboy-images.com
+assets-jpcust.jwpsrv.com
+ocsp.sectigo.com
+sb.scorecardresearch.com
+share.9cdn.net
+tags.tiqcdn.com
+zerossl.ocsp.sectigo.com
