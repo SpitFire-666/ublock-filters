@@ -1008,3 +1008,66 @@ stackoverflow.com##.js-dismissable-hero
 myapplications.microsoft.com##.root-348.ms-Dialog.is-open.ms-Modal
 
 osxdaily.com##.ml-form-align-center
+
+community.spiceworks.com###join-login_alt-modal
+community.spiceworks.com###community_message
+community.spiceworks.com##.join-promotion.sui-alert--info.sui-alert
+community.spiceworks.com##.community-content-banner
+community.spiceworks.com##.gekko_post
+
+www.howtogeek.com##.adslot970.adslot
+www.howtogeek.com##.jw-reset.jw-wrapper
+www.howtogeek.com##.jw-flag-user-inactive.jw-floating-dismissible.jw-breakpoint-4.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-playing.jw-reset.jwplayer
+
+www.techradar.com##.dfp-leaderboard-container
+www.techradar.com###desktop-in-article
+www.techradar.com##.carousel--background
+www.techradar.com##.jw-carousel
+www.techradar.com##.future__jwplayer--carousel
+www.techradar.com##.vid-present.van_vid_carousel
+www.techradar.com###sidebar-popular-top
+
+www.maketecheasier.com##.md\:block.hidden.header-widget
+www.maketecheasier.com###custom_html-7 > .custom-html-widget.textwidget > .mb-4.ad-slot.clear.text-center.sidebar-widget
+www.maketecheasier.com###incontent-ad1
+www.maketecheasier.com##.ml-8.widget-area.sidebar-right.sidebar
+www.maketecheasier.com###MTE_in_content_ad2
+
+moddroid.com###ad_block_reminder_dialog
+moddroid.com##.text-center.fixed-icons
+
+www.theregister.com###condor_2
+www.theregister.com###falcon_5
+
+www.wired.com##.journey-unit__container
+www.wired.com##div.row-mid-content-ad.full-bleed-ad.HEhan.RowWrapper-UmqTg:nth-of-type(8)
+www.wired.com##div.row-mid-content-ad.full-bleed-ad.HEhan.RowWrapper-UmqTg
+www.wired.com###lgepdblba
+
+liliputing.com##.adthrive-content-1.adthrive-content.adthrive-ad
+
+apkdone.com###cookie-law-info-bar
+
+www.lifewire.com###tech-billboard1-sticky_1-0
+
+www.cnet.com##.o-ratio_content
+www.cnet.com##.t-alignCol8.c-avStickyVideo
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-incontent-ad-plus.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(2)
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-incontent-ad-plus.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(4)
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-mpu.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(6)
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-mpu.g-outer-spacing-bottom-medium.c-pageArticle_ad-250.c-pageArticle_ad.c-adDisplay_container:nth-of-type(8)
+www.cnet.com##.blank.spaced.c-adDisplay_container_mobile-incontent-all-bottom.g-inner-spacing-bottom-medium.g-inner-spacing-top-xlarge.c-pageArticle_bottomLeader.c-pageArticle_ad-flex.c-pageArticle_ad.c-adDisplay_container
+
+www.techtimes.com##.adunit_adhesion
+www.techtimes.com##.bts_social
+
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-adsninja-ad-unit-characterCountRepeatable1-5f343f19c50cac > .ad-current
+www.makeuseof.com##.ad-zone-content-character-count-repeatable-2.ad-zone
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT3 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr3 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT5 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr4 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT7 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr5 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT9 > .ad-current
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr-REPEAT10 > .ad-current
