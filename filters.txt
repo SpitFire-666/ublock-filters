@@ -12,7 +12,7 @@ hulkprod.anm.co.uk
 ovp.iris.tv
 config.edge.skype.com
 cdn.optimizely.com
-cdn.cookielaw.org
+cdn.biscuitlaw.org
 chimpstatic.com
 reddit-image.s3.amazonaws.com
 target.microsoft.com
@@ -20,7 +20,7 @@ ad.resourcefulman.net
 assets.emarsys.net
 bazaarvoice-prod-01.dn.apigee.net
 browser.events.data.microsoft.com
-cdn.cookielaw.org
+cdn.biscuitlaw.org
 cdn.optimizely.com
 chimpstatic.com
 config.edge.skype.com
@@ -2350,3 +2350,15 @@ www.reddit.com##shreddit-experience-tree.theme-beta
 
 www.midomi.com###onetrust-consent-sdk
 www.midomi.com##.Banner_snackBar__2zo3A
+
+www.health.harvard.edu##.flex.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.mobile-popup
+
+theconversation.com##.jss130.MuiDialogContent-root
+theconversation.com##.MuiDialogActions-spacing.jss5.jss141.MuiDialogActions-root
+
+www.lifewire.com###adslot_3-0-1
+
+en.m.wikipedia.org###centralNotice > .frb-rml-enabled.frb
+en.m.wikipedia.org##.frb-inline-border
+
+www.nytimes.com##.LargeCTABanner-module_relative__vctEf.LargeCTABanner-module_banner__Wrm0P
