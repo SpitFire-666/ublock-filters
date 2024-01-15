@@ -1,4 +1,4 @@
-! Domains blocked in pi-hole that aren't being blocked by uBlock
+! Domains that snuck through uBlock and caught by pi-hole
 
 fff.dailymail.co.uk
 hulkprod.anm.co.uk
@@ -165,3 +165,4 @@ rumcdn.geoedge.be
 sync.intentiq.com
 t.trafmag.com
 www.snapengage.com
+collector-pxdz588q90.px-client.net
