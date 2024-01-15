@@ -229,6 +229,12 @@ u.openx.net
 wpad.lan
 www.googletagmanager.com
 zerossl.ocsp.sectigo.com
+go.ezodn.com
+js.hscollectedforms.net
+js.hubspot.com
+ocsp.sectigo.com
+sb.scorecardresearch.com
+static.addtoany.com
 
 www.dailymotion.com##.sd_metaheader
 www.dailymotion.com###content > .container > .row > .col-4.side-column > .no-border
@@ -249,8 +255,6 @@ www.nme.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 www.nme.com##.jw-reset.jw-wrapper
 www.nme.com###botr_mmlgkHZx_TADMMIT9_div > .jw-reset.jw-aspect
 
-devblogs.microsoft.com##.smcx-opaque.smcx-hide-branding.smcx-widget-dark.smcx-show.smcx-modal-invitation.smcx-modal.smcx-widget
-
 coinmarketcap.com##.routeSwitcher___3u2Qr.container
 coinmarketcap.com##.tabRow___3QcNP.hKZfDX.sc-16r8icm-0
 coinmarketcap.com##.statsContainer___2uXZW.hide___2JmAL
@@ -266,22 +270,13 @@ www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_targetedTiles6 > .market
 www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
-forums.androidcentral.com##.jw-reset.jw-video
-
-||aadcdn.msauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
 
 www.flickr.com###yui_3_16_0_1_1581312878209_7336
 www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
 
-||aadcdn.msftauth.net/ests/2.1/content/images/backgrounds/0*.jpg$image
-
-||logincdn.msauth.net/16.000.28497.4/content/images/backgrounds/0*.jpg$image
-
-||aadcdn.msftauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
 
 open.spotify.com##.a88f0b25501df313b75b70d458d9fe87-scss._56a12d0978529b654affa11ca9390bd7-scss._2221af4e93029bedeab751d04fab4b8b-scss
 
-||aadcdn.msauth.net/ests/2.1/content/images/appbackgrounds/33*.jpg$image
 
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 ! YT Search - just videos (disabled as it blocks playlists)
@@ -315,14 +310,7 @@ outlook.live.com###skype_container
 ||go.trouter.skype.com^
 
 outlook.live.com##.conversation-active.swc-focus-outline-area.skype-conversation.conversation
-
 outlook.live.com##._3zQI3WiOC__cGoCqhRmdWG
-
-www.tomsguide.com##.jw-reset.jw-video
-www.tomsguide.com##.jw-carousel
-
-
-www.msp360.com###slidebox
 
 
 ||browser.pipe.aria.microsoft.com.us2.cas.ms^
@@ -361,27 +349,6 @@ old.reddit.com##.RESSubscriptionButton
 old.reddit.com###form-t5_2qh4p7o0 > .md-container.may-blank-within.usertext-body > .md
 old.reddit.com##.footer-parent
 old.reddit.com###sr-header-area
-
-forum.xda-developers.com###stickyNav
-forum.xda-developers.com##.postbit-social
-forum.xda-developers.com###sidepanel
-forum.xda-developers.com##.postbutton-row
-forum.xda-developers.com###prev-next
-forum.xda-developers.com###qrform
-forum.xda-developers.com##.spot_container_content_above.spot_container.spot
-forum.xda-developers.com##.uix_sidebarNav
-forum.xda-developers.com##.xda_appsWidget.block
-
-www.experts-exchange.com##.popWrapper
-www.experts-exchange.com##.featherlight-content
-www.experts-exchange.com##.exitOverlay.featherlight
-www.experts-exchange.com##.limitedUsagesWrapper
-www.experts-exchange.com##.askQuestionSidebar.textComponent.component
-
-community.windows.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert > div
-community.windows.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
-
-answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 
 www.buzzfeed.com##.ad-inline.js-ad-placement.clearfix
 
@@ -431,12 +398,6 @@ allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
 allthatsinteresting.com##div.pbh_inline:nth-of-type(2)
 allthatsinteresting.com##div.pbh_inline:nth-of-type(3)
 
-www.experts-exchange.com##.popWrapper
-www.experts-exchange.com##.featherlight-content
-www.experts-exchange.com##.exitOverlay.featherlight
-www.experts-exchange.com##.limitedUsagesWrapper
-www.experts-exchange.com##.askQuestionSidebar.textComponent.component
-
 www.mytoll.com###shipementDetailForm > div.clearfix
 www.mytoll.com##.footer
 
@@ -449,16 +410,6 @@ www.musicradar.com##.jw-carousel
 www.musicradar.com##.future__jwplayer--carousel
 
 www.kingarthurbaking.com##li.field__item > aside
-
-www.msp360.com###slidebox
-
-community.spiceworks.com###join-login_alt-modal
-
-www.neowin.net##.deals > .wrap > .row
-
-forums.androidcentral.com##.jw-reset.jw-video
-
-www.wikihow.com##.stuck.sticky.tips.section > .wh_ad_spacing
 
 www.mountaindesigns.com##.show.fade.modal-backdrop
 
@@ -482,10 +433,6 @@ buildfire.com###ebook-popup
 buildfire.com###ebook-popup-overlay
 
 imgur.com##.FastGrid
-
-developer.android.com##.devsite-banner-message
-
-forum.xda-developers.com##.notice-content
 
 www.collective-evolution.com##.clearfix.et_bloom_form_container_wrapper
 www.collective-evolution.com##.et_bloom_animated.et_bloom_visible.et_bloom_auto_close.et_bloom_trigger_bottom.et_bloom_auto_popup.et_bloom_optin_23.et_bloom_resize.et_bloom_optin.et_bloom_popup
@@ -601,12 +548,6 @@ www.diynot.com##.cc-color-override-1519961192.cc-right.cc-top.cc-theme-edgeless.
 
 www.bing.com##.bw-unSerp.bw-unAcctRt
 
-www.theverge.com##.c-newsletter_signup_box__main
-
-softwarerecs.stackexchange.com##.js-consent-banner
-
-stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
-
 www.gardendesign.com###subscribe_popup
 www.gardendesign.com##.fancybox-overlay-fixed.fancybox-overlay
 
@@ -627,11 +568,6 @@ www.ikea.com##section.v18by0fb.v19w64p3.gd8xc1c:nth-of-type(11)
 stylebyemilyhenderson.com##.my-5.row
 
 www.familyhandyman.com##.project-top-advertisment
-
-||www.eevblog.com/images/comm/jlc_jan_2021.gif.pagespeed.ce.jdGg5hHdyS.gif$image
-www.eevblog.com##[href^="https://saving.em.keysight.com/en/used/oscilloscopes/infiniivision-2-4-channel-digital-msox-3000t-x-series"]
-||www.eevblog.com/images/comm/jlc_jan_2021.gif.pagespeed.ce.jdGg5hHdyS.gif$image
-
 
 ||v2.cimg.co/other/155/25954/*loans-300x*600.jpg$image
 cryptonews.com##.cookieConsentWrapper
@@ -675,10 +611,6 @@ www.slate.com##div.rr-ad-container:nth-of-type(2)
 jonhilton.net##.iubenda-cs-content
 jonhilton.net##.pt-4.post-content > .my-12.bg-purple-100.border-gray-300.border.pt-2.px-12.cta-form
 jonhilton.net##.shadow-md
-
-sourceforge.net###newsletter-floating
-sourceforge.net##a.default.button:nth-of-type(2)
-sourceforge.net###share-project-button
 
 www.collective-evolution.com##.et_bloom_animation_fadein.et_bloom_form_text_dark.et_bloom_rounded.et_bloom_form_bottom.et_bloom_popup_container.et_bloom_form_container
 
@@ -744,8 +676,6 @@ www.bbcearth.com##.modal__overlay--after-open.modal__overlay
 www.lucieslist.com##body > .d-flex.open.flex-align-center.flex-column.llpopup
 
 www.layerform.com##.sgpb-popup-dialog-main-div-wrapper
-
-androidtvnews.com##.wp-block-affiliate-plugin-lasso
 
 allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
 
@@ -816,7 +746,6 @@ facebook.com##div[role=button] > span:not(>*):has-text(/related/i):upward(4)
 ! Removes FB's "Related discussions" panel [OPTION 4]:
 ! facebook.com##div[role=feed] > div > div > div > div > div > div > div > div > div > div > div > div:nth-child(2) > div > span > div > div:nth-child(2) > div > div > div > span:not(>*):has-text(/^Related discussions$/):upward(span)
 
-
 appuals.com##.wp-timed-p
 
 www.sunwestgenetics.com##.elementor-location-popup.elementor-5008116.elementor
@@ -864,8 +793,6 @@ www.propertychat.com.au###nativeads_ad_below_messages
 www.bhg.com##.jumpstart-video
 resistorcolorcodecalc.com##.show.consent.text-center.alert-dismissible.alert
 www.diynot.com##.cc-color-override-1519961192.cc-right.cc-top.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
-www.editpad.org###consent
-www.editpad.org##.inlinADs
 
 thehouseofportable.com###preload
 thehouseofportable.com###modalDisclaimer
@@ -1105,8 +1032,6 @@ www.cheapsslshop.com##.cookies
 businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(2)
 businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(1)
 
-www.bleepingcomputer.com##.bc_news_letter_sidebar
-
 www.nakivo.com##.sgpb-popup-dialog-main-div-wrapper
 www.nakivo.com##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
 
@@ -1122,22 +1047,10 @@ www.healthline.com##.css-6l6gc
 
 patient.info##.aftercontentads
 
-www.satellites.co.uk##.js-bottomFixTarget.u-bottomFixer
-
-www.tomshardware.com##.exitIntent.exit-intent-slice.slice-container
-
-www.partitionwizard.com##.swiper-slide-active.swiper-slide
-www.partitionwizard.com##.swiper-slide-duplicate-prev.swiper-slide-next.swiper-slide > [src="https://www.minitool.com/promotions/images/win-upgrade/win-upgrade-ad-banner.png"]
-www.partitionwizard.com##.swiper-slide-duplicate-prev.swiper-slide-next.swiper-slide
-www.partitionwizard.com##.promotions-banner-wrap
-
 www.chicagotribune.com##.met-toaster-zepcomponent.met-footer-toast
 www.chicagotribune.com##.right-article-section.layout-section.ie-flex-100-percent-sm.left-article-section.col-lg-xl-8.col-sm-md-12 > div
 
 www.johnsonsbaby.com##.sfmc-careclub-modal
-
-www.sevenforums.com###yui-gen2
-$removeparam=ltr,domain=sevenforums.com
 
 www.seriouseats.com##.stuck.d-sticky.d-scrolled.header-global__content
 
@@ -1169,12 +1082,6 @@ kmandla.wordpress.com##.ads-active.hide-on-button
 www.apartmenttherapy.com##.Ad--empty.Ad--6782-GenAptTherapy-Post-Post_004.Ad
 www.apartmenttherapy.com##.SitePostLayout > .jsx-853266564
 
-forums.theregister.com##.even.level-3.indent > li > .thread_breaker > .gtag_display.adun
-www.theregister.com###hawk_7
-
-www.digitaltrends.com##.ot-sdk-row > .ot-sdk-columns.ot-sdk-eight
-www.digitaltrends.com###onetrust-button-group-parent
-
 m.facebook.com##._56bf._55wo > div
 
 www.productreview.com.au##div.filters-ad_lv4.d-flex_RNf.justify-content-center_zro.flex-column__BR.align-items-center_amm:nth-of-type(1)
@@ -1197,16 +1104,7 @@ www.tiktok.com##.enx791q2.tiktok-1ba5y2x-DivInfoContainer
 
 datenightmovies.com##.callout > g > path
 
-www.techweekmag.com##.popup-overlay
-
 www.tiktok.com##.epicki90.tiktok-rooe1m-DivTopBannerAB
-
-www.laptopmag.com##.future__jwplayer--carousel
-
-forum.xda-developers.com###xdadevelopers_leaderboard_atf
-
-www.omgubuntu.co.uk##.is-active.CookieWarning
-www.omgubuntu.co.uk##.above-comments > .widget_text.widget
 
 www.urbandictionary.com###Define_300x250_1
 www.urbandictionary.com##.rounded-md.md\:p-8.p-5.shadow-light.mb-4.dark\:text-white.dark\:bg-yankees.bg-white
@@ -1269,23 +1167,9 @@ www.microsoft.com###dynamicmarketredirect-dialog
 
 https://odc.officeapps.live.com/odc/stat/images/hrd/Background-blurryGradient.svg
 
-www.bleepingcomputer.com##.cz-boa-wrapp
-
 www.reddit.com##.give-gold-button
 
 magnetmagazine.com##.postsAd
-
-||forum.xda-developers.com/proxy.php?image=https%3A%2F%2Fi.gyazo.com%2Fe780ca581373f8619e1ac57814fff855.gif&hash=f8169b0640a9999923926bf0a7f33605$image
-
-! 2022-07-24 https://www.anoopcnair.com
-www.anoopcnair.com###ai_widget-49
-www.anoopcnair.com###ai_widget-32
-www.anoopcnair.com###ai_widget-2
-www.anoopcnair.com###ai_widget-46
-www.anoopcnair.com###ai_widget-50
-
-www.sevenforums.com###yui-gen0
-www.sevenforums.com###yui-gen1
 
 www.ebay.ca###placement_html_101197
 www.ebay.ca###placement_html_101198
@@ -1306,9 +1190,6 @@ danmurphys.com.au$removeparam=isSponsored
 danmurphys.com.au$removeparam=pageName
 
 asos.*^$removeparam=clr
-
-easy2boot.xyz##.boxzilla-center-container.boxzilla-container
-easy2boot.xyz##.boxzilla-3156-overlay.boxzilla-overlay
 
 www.healthline.com##.css-6l6gc > .email.button-wrapper
 
@@ -1354,8 +1235,6 @@ archive.org##.chevron-color-default.chevron-image-white.background-default.templ
 
 aliexpress.com*^$removeparam=curPageLogUid
 
-gizmodo.com##.video-html5-wrapper.kXvAvi.ynugv2-0 > .lepUzz.sc-1h0epat-0 > .video-html5-playlist.hxLRyg.sc-1wkneyl-0 > .video-html5-loaded
-
 tiktok.com^$removeparam=is_from_webapp
 tiktok.com^$removeparam=item_id
 tiktok.com^$removeparam=embed_source
@@ -1364,13 +1243,10 @@ tiktok.com^$removeparam=embed_source
 ! 2022-10-31 https://community.tp-link.com
 community.tp-link.com##.tp-cookie-script
 
-! 2022-11-02 https://www.ramint.gov.au
 www.ramint.gov.au##.div_splash
 
-! 2022-11-02 https://cyberark-customers.force.com
 ||cyberark-customers.force.com/file-asset/TechCommSiteRebrand_LoginBackground$image
 
-! 2022-11-06 https://www.paypal-community.com
 www.paypal-community.com##.lia-in.lia-dialog-titleless.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 www.paypal-community.com##.ui-widget-overlay
 
@@ -1387,35 +1263,20 @@ www.fresha.com##.CookieBanner_desktop__76b234cb
 
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(4)
 
-! 2022-11-11 https://www.health.harvard.edu
 www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.welcome-popup
 
-! 2022-11-14 https://www.ebay.com.au
 www.ebay.com.au###placement_html_101112 > .merch-module
 www.ebay.com.au##.merch-module--grid.merch-module > .aspects-1.container_wrapper
 
-! 2022-11-15 https://www.facebook.com
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(2)
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(1)
 
-! 2022-11-18 https://forum.toolsinaction.com
 forum.toolsinaction.com##p:nth-of-type(13)
 
-! 2022-11-22 https://4sysops.com
-||4sysops.com/img/NewsletterSidebar.html$subdocument
 
-! 2022-11-22 https://bvdub.bandcamp.com
 ||s4.bcbits.com/css/jquery-ui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png$image
-bvdub.bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
-bvdub.bandcamp.com##.ui-widget-overlay
-
-www.pcreview.co.uk##div.message--post.message:nth-of-type(1)
-www.pcreview.co.uk##div.message--post.message:nth-of-type(2)
-www.pcreview.co.uk##div.message--post.message:nth-of-type(3)
-
-www.techspot.com##div.betweenPosts:nth-of-type(1)
-www.techspot.com##div.betweenPosts:nth-of-type(2)
-www.techspot.com##div.betweenPosts:nth-of-type(3)
+bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+bandcamp.com##.ui-widget-overlay
 
 www.lego.com##.dgtGMB.AgeGatestyles__Wrapper-sc-xudtvj-0
 www.lego.com##.hgSMAB.Modalstyles__Container-sc-l3z049-0
@@ -1425,24 +1286,13 @@ www.lego.com##.hgSMAB.Modalstyles__Container-sc-l3z049-0
 ! 2022-12-08 https://bobcares.com
 bobcares.com##.custom-h2-p1-blocks
 
-www.techradar.com###expanding-articles
-www.techradar.com##.related-articles-wrap
+bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+bandcamp.com##.ui-widget-overlay
 
-www.undocumented-features.com##.footer-widget-1.widget-column > .widget_custom_html.widget.widget_text
-
-||devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/06/ms-background-1.jpg$image
-
-! 2022-12-16 https://n5md.bandcamp.com
-n5md.bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
-n5md.bandcamp.com##.ui-widget-overlay
-
-! 2022-12-17 https://open.spotify.com
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 
-! 2022-12-17 https://www.moderndrummer.com
 www.moderndrummer.com##div > .kl-private-reset-css-Xuajs1.needsclick
 
-! 2022-12-19 https://www.vogue.com
 www.vogue.com##.persistent-aside--align-left.persistent-aside.dmuvVb.PersistentAsideWrapper-PqjsW
 www.vogue.com##div.wide-adrail.narrow.grid-layout--adrail.cFPA-DQ.ArticlePageChunksGrid-kRoKdN.grid-items-2.grid-margins.grid.dgApK.GridWrapper-uKcjB:nth-of-type(1)
 www.vogue.com##.cne-video-embed.hwzklX.CneVideoEmbedFigure-bJBeHO > div
@@ -1467,13 +1317,11 @@ magnetmagazine.com##[href="https://magnetmagazine.com/say-its-your-birthday/"]
 
 hackaday.io##.guest-message-signup-static.guest-message-signup.page-basic-info-static-dark.page-basic-info-static
 
-! 2023-01-01 https://www.news.com.au
 www.news.com.au##.vms-sticky-player
 www.news.com.au##.rp-muted-autoplay
 www.news.com.au##.vms-playlist-loaded.vms-playing.mobileui-mini
 www.news.com.au##.media-container
 
-! 2023-01-02 https://www.liquorland.co.nz
 www.liquorland.co.nz###newsletterExitPopUpPlaceHolder
 www.liquorland.co.nz##.show.fade.modal-backdrop
 
@@ -1490,20 +1338,14 @@ www.nytimes.com##.efw9frv0.css-1q0ihc0.expanded-dock.expanded.shown.MAG_web_all_
 ! 2023-01-07 https://www.mazda3revolution.com
 www.mazda3revolution.com##.tooltip-content
 
-! 2023-01-08 https://forum.allaboutcircuits.com
-forum.allaboutcircuits.com##.mathjax-proceed.message-signature
-
 ||geo.yahoo.com^
 
 ! 2023-01-14 https://www.thingiverse.com
 www.thingiverse.com##.ThingPage__topAd--cUNKg.AdCard__leaderboard--2Yt9x
 
-! 2023-01-18 https://bugmenot.com
 ||bugmenot.com/assets/bmn.js$script,1p
 
-! 2023-01-22 https://login.microsoftonline.com
 ||aadcdn.msauthimages.net/$image
-
 
 ||www.facebook.com/ajax/bnzai$ping,domain=www.facebook.com
 
@@ -1520,27 +1362,23 @@ https://app.smartsheet.com/b/images/login-v4-background-desktop.png
 ! 2023-01-31 https://www.hgtv.com
 www.hgtv.com##.o-Header__m-Area--Bottom.o-Header__m-Area
 
-! 2023-01-31 https://www.almanac.com
 www.almanac.com##div.layout--twocol-section--67-33.layout--twocol-section.layout:nth-of-type(5)
 www.almanac.com##.layout--onecol.layout.print-no.newsletters-signup-wrapper
 
-! 2023-01-31 https://www.bigw.com.au
 www.bigw.com.au##.ModalOverlay.ReactModal__Overlay--after-open.ReactModal__Overlay
 
-! 2023-02-02 https://www.lightroompresets.com
 www.lightroompresets.com##.boomMainDemo-0-0-1.mm-slideout.drawer__header-container.is-moved-by-drawer
 
 facebook.com^$removeparam=referralSurface
 
-! 2023-02-09 https://teams.microsoft.com.mcas.ms
-teams.microsoft.com.mcas.ms##.popover-content
+
 
 ! 2023-02-12 https://www.dpreview.com
 www.dpreview.com##.signature
 www.dpreview.com##.gearList.section
 
 ! 2023-02-13 https://forum.allaboutcircuits.com
-forum.allaboutcircuits.com##.mathjax-proceed.tooltip-content
+
 
 ! 2023-02-14 https://lifehacker.com
 lifehacker.com##.cDxdXM.sc-1yqkh4a-0 > .video-html5-playlist.hxLRyg.sc-1wkneyl-0 > .video-html5-loaded
@@ -1551,17 +1389,10 @@ www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_ctl01_targetedTiles1 > .
 ! 2023-02-22 https://www.thespruce.com
 www.thespruce.com##.mntl-block.div.ad-group.ad-group--sc.js-scads-inline-content.comp
 
-! 2023-02-23 https://www.newegg.com
 www.newegg.com##.bg-lightgrayblue.page-section
 
-! 2023-02-23 https://docs.microinventions.net
 docs.microinventions.net###portals-root
 
-! 2023-02-23 https://windowsreport.com
-windowsreport.com##.refmedprd-b-69.refmedprd-b
-windowsreport.com##.size-full-ctr.main-content > .wr-layout-newsletter-container.wr-layout-section
-
-! 2023-02-23 https://www.mobilesum.com
 www.mobilesum.com###placeholder_sticky_bottom
 
 www.bestslogans.com##div.left_content:nth-of-type(14)
@@ -1569,16 +1400,12 @@ www.bestslogans.com##div.left_content:nth-of-type(14)
 www.babycenter.com.au###appDownloadModule
 www.babycenter.com.au##.hide-for-small.regModule.module
 
-www.droidwin.com###custom_html-2
-
 www.nickscali.com.au##.header-global-promo
 
 www.dontwasteyourmoney.com##.boxzilla-center-container.boxzilla-container
 www.dontwasteyourmoney.com##.boxzilla-193919-overlay.boxzilla-overlay
 
 theawesomer.com##.gcwp-carousel
-
-support.microsoft.com###rail-banner
 
 au.nextdoor.com##.css-1p4ao6t
 https://d19rpgkrjeba2z.cloudfront.net/static/nextdoorv2/js/ads/ads.js
@@ -1612,12 +1439,6 @@ www.essentialhome.eu##.wppopups-whole
 www.essentialhome.eu##.banefixedfull.col-xs-12
 
 https://static.olelive.com/template/conch/asset/js/hlhtml.js
-
-onlinepngtools.com##.show.fade.modal.discount
-onlinepngtools.com##.show.fade.modal-backdrop
-
-https://onlinepngtools.com/CACHE/js/discount.js
-onlinepngtools.com###downloadModal2928e038e240479fa4c34e1087825467 > .modal-lg.modal-dialog > .modal-content > .modal-footer > .btn-upgrade.btn-sm.btn-primary.btn
 
 vaughn.live##.vs_v9_modal_notice
 vaughn.live##div:nth-of-type(18)
@@ -1675,37 +1496,15 @@ www.mumsnet.com##.lg\:block.hidden.bg-gray-200.min-h-\[546px\].pb-14.pt-1.my-10
 
 www.gettyimages.co.uk###customer_notifications_application
 
-||lgincdnvzeuno.azureedge.net/shared/1.0/content/images/backgrounds/$image
-
-www.hp.com###onetrust-consent-sdk
-
-www.technipages.com##.entry-content > div
-
-support.hp.com###onetrust-consent-sdk
-
-learn.microsoft.com##.ignite-banner.padding-bottom-md.padding-top-md.position-relative.tier1-event-banner
-
-www.news.com.au##.vms-playlist-loaded.vms-playing.vms-news.vms-ready.vms-player.mobileui-mini.vms-sticky.vms-queued.module.vms
-
-||lgincdnmsftuswe2.azureedge.net/shared/1.0/content/images/backgrounds/$image
-
-forums.anandtech.com##.js-bottomFixTarget.u-bottomFixer
+news.com.au##.vms-playlist-loaded.vms-playing.vms-news.vms-ready.vms-player.mobileui-mini.vms-sticky.vms-queued.module.vms
 
 ||www.reddit.com/account/sso/one_tap/$subdocument
 
 ||app.smartsheet.com/b/images/login-v4-background-desktop.png$domain=app.smartsheet.com
 app.smartsheet.com##div.clsJspButtonWide:nth-of-type(2)
 
-winaero.com###cookie-law-info-bar
-
-www.ipswitch.com###onetrust-consent-sdk
-
 ! 2022-11-03 https://www.lcdcomps.com
 www.lcdcomps.com##.ot-sdk-container
-
-! 2022-11-06 https://www.windows-noob.com
-www.windows-noob.com###ipsLayout_mainArea > div > center
-www.windows-noob.com##div.ipsClearfix > div > center
 
 ! 2022-11-09 https://useinsider.com
 useinsider.com##.wt-cli-cookie-bar-container
@@ -1719,33 +1518,16 @@ forums.prajwaldesai.com##.js-bottomFixTarget.u-bottomFixer
 ! 2022-11-13 https://www.digitalnationaus.com.au
 www.digitalnationaus.com.au###gdpr-alert
 
-! 2022-11-28 https://www.febooti.com
 www.febooti.com###cc
-
-! 2022-11-29 https://helpcenter.trendmicro.com
-helpcenter.trendmicro.com##.cookie_verif
-
-
-blog.f-secure.com##.js-pop-notification.c-pop-notification
 
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bandcamp.com##.ui-widget-overlay
 
 collectingcars.com###reactCookieBanner
 
-4sysops.com##.member-navigation.pagination-sticky
-4sysops.com##[src="/img/NewsletterEnd.html"]
-4sysops.com##.sidebar-3lr.col-sm-pull-8.col-sm-2.sidebar-main.sidebar
-4sysops.com###custom_html-3
-4sysops.com##.sidebar-3lr.col-sm-2.sidebar-extra.sidebar > .inner-content
-4sysops.com##.sidebar-3lr.col-sm-2.sidebar-extra.sidebar
-
-||devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/06/$image
-
 en.wikipedia.org###siteNotice
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
 
-lazyadmin.nl##.swp_float_left.slide.swp_other_full_color.swp_individual_full_color.swp_default_full_color.swp_.swp_social_panel.swp_floating_panel.swp_social_panelSide
 
 ! 2022-12-19 https://hostingultraso.com
 hostingultraso.com###jg1r18011m081671497216171
@@ -1756,10 +1538,8 @@ www.msn.com###eplantEntranceBubble
 open.spotify.com###onetrust-consent-sdk
 open.spotify.com##.jtRqaoDIpIR6fEATUTyY > div > [href="https://app.adjust.com/l5xznak"]
 
-! 2023-01-03 https://deviceadvice.io
 deviceadvice.io###cookie-law-info-bar
 
-! 2023-01-08 https://open.spotify.com
 open.spotify.com##.main-view-container__mh-footer-container
 ||www.spotify.com/api/masthead/*$xhr,domain=open.spotify.com
 
@@ -1768,9 +1548,6 @@ open.spotify.com##.main-view-container__mh-footer-container
 
 ! 2023-01-15 https://app.smartsheet.com
 app.smartsheet.com##.clsPostFormInfo
-
-! 2023-01-16 https://community.spiceworks.com
-||community.spiceworksstatic.com/assets/community/join/fullpage-background$image
 
 ! 2023-01-17 https://www.tutorialspoint.com
 www.tutorialspoint.com###privacy-banner
@@ -1792,14 +1569,6 @@ www.slido.com##.privacy-manager__banner--visible.privacy-manager__banner
 tunein.com##.loginDialogOverlay
 
 
-
-||uxmscontents.blob.core.windows.net/banner-images/35934a7e154546c99d208555c641b90f220323181857478.jpg$image
-
-! 2023-02-20 https://login.microsoftonline.com
-||aadcdn.msauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/logintenantbranding/0/illustration$image
-
-
-! 2023-03-06 https://www.bbc.com
 www.bbc.com###zephr-message
 
 ! 2023-03-22 https://map.blitzortung.org
