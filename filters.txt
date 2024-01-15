@@ -2251,3 +2251,98 @@ https://flightaware.com/include/7cfd40b8ccad-AdBlockDetection/
 medium.com##.aef.aee.acn.m
 
 www.moviemeter.com###main > div > .mobileHide.leaderboard-bar.mainpanel-bar
+
+www.directtoolsoutlet.com##.optanon-alert-box-wrapper
+
+www.tiktok.com##.flex-auto.tt-sheet__body
+
+! .nytimes.com##.Welcome-module_contentWelcomeContainer__UO4Ei
+! ##.Welcome-module_contentWelcome__TL17B
+! ##.MomentSystem-module_moment__G9hyw
+
+vonbaronmusic.com###cookie-notice
+vonbaronmusic.com##.mc-layout__bannerContent > [src]
+
+connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
+
+||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/premium/mountain-background-large.svg$image
+||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/*.svg$image
+onedrive.live.com##.planCardWrapper_1d191c09
+onedrive.live.com##.root-220.is-open.ms-Modal
+
+www.the-sun.com##.article__content > .advert-wrapper--header.advert-wrapper
+www.the-sun.com##.advert-wrapper--placeholder.advert-wrapper--billboard.advert-wrapper
+
+www.worldatlas.com###content_body > .ad_push.mod_ad_container
+www.worldatlas.com##.ad_hfix_600.mod_ad
+www.worldatlas.com##.ad_wfix_mb_std.ad_wfix_tb_728.ad_wfix_dt_728.ad_hfix_320.mod_ad
+www.worldatlas.com##.ad_cls_fix.ad_content_below.ad_push.mod_ad_container
+
+www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
+
+luxuryescapes.com###credential_picker_iframe
+
+damndelicious.net##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
+damndelicious.net##.adthrive-content-1.adthrive-content.adthrive-ad
+damndelicious.net###cls-video-container-kjyLZRqg
+damndelicious.net##.adthrive-content-2.adthrive-content.adthrive-ad
+damndelicious.net##.adthrive-content-3.adthrive-content.adthrive-ad
+damndelicious.net##.adthrive-content-4.adthrive-content.adthrive-ad
+damndelicious.net##.adthrive-recipe-5.adthrive-recipe.adthrive-ad
+damndelicious.net##.adthrive-content-5.adthrive-content.adthrive-ad
+damndelicious.net##.inner-post > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
+damndelicious.net###comments > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
+
+onlineradiobox.com##.alert--playmarket
+onlineradiobox.com###alert_cookies
+||cdn.onlineradiobox.com/img/player__promo.jpg$image
+onlineradiobox.com##.player__promo
+onlineradiobox.com##._promo.player
+
+nypost.com##.jw-float-to-top.jw-reset.jw-wrapper
+nypost.com##div.d-none-lg.d-block.ad--inline.ad--container.ad > .ad__wrapper
+nypost.com##.ad__slot
+nypost.com##.sticky.d-block-lg.ad--container.ad > .ad__wrapper
+
+www.independent.co.uk##.vf-tray-trigger-widget
+
+www.allrecipes.com###mntl-mob-square-flex-1_1-0
+www.allrecipes.com##.is-requested.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-lazy-ad.mntl-lazy-billboard.mntl-square-fixed-lazy.mntl-mob-square-fixed-lazy.mntl-billboard.js-billboard-lazy.js-lazy-ad.comp
+www.allrecipes.com##.is-visible.adhesive.gpt.mntl-gpt-adunit.mntl-adhesive-ad.mntl-mob-adhesive-banner-fixed-ad.comp
+www.allrecipes.com###mntl-mobSquareFlex1-sticky_1-0 > .billboard.gpt.mntl-gpt-adunit.mntl-billboard.mntl-sc-sticky-billboard-ad.comp
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_2-0 > .is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_1-0 > .is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_3-0 > .is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_4-0 > .is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_5-0 > .is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_6-0 > .is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_7-0 > .is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+www.allrecipes.com##.is-requested.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-lazy-ad.mntl-lazy-billboard.mntl-square-fixed-lazy.mntl-mob-squarefooter-fixed-1-lazy.billboard-footer.mntl-billboard.js-billboard-lazy.js-lazy-ad.comp
+www.allrecipes.com##.is-requested.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-lazy-ad.mntl-lazy-billboard.mntl-square-fixed-lazy.mntl-mob-squarefooter-fixed-2-lazy.billboard2-footer.mntl-billboard.js-billboard-lazy.js-lazy-ad.comp
+www.allrecipes.com###mntl-mobSquareFlex1-sticky_2-0 > .billboard.gpt.mntl-gpt-adunit.mntl-billboard.mntl-sc-sticky-billboard-ad.comp
+www.allrecipes.com##.is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-dynamic-billboard.mntl-sc-sticky-billboard-ad.mntl-billboard.comp
+
+www.domain.com.au###adb-srp-insearch-1
+www.domain.com.au###adb-srp-insearch-2
+www.domain.com.au###adb-srp-insearch-3
+
+bakeplaysmile.com##.cky-box-bottom-left.cky-consent-container
+bakeplaysmile.com##.feast-film-strip.slick-film-strip
+bakeplaysmile.com##.slick-inline-search-panel
+
+www.recipetineats.com##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
+www.recipetineats.com##.adthrive-content-4.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-3.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-2.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
+www.recipetineats.com##.subscribe
+
+bumble.com##.js-cookie-notification.cookie-notification
+
+twitter.com###credential_picker_iframe
+
+www.reddit.com##shreddit-experience-tree.theme-beta
+
+www.midomi.com###onetrust-consent-sdk
+www.midomi.com##.Banner_snackBar__2zo3A
