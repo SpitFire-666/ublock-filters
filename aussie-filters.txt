@@ -442,3 +442,89 @@ https://www.glassdoor.com.au/garnish/static/js/gd-i18nRedirectModal.bundle.js
 https://www.glassdoor.com.au/garnish/static/js/gd-hardsell-content-wall-12mgtg.bundle.js
 
 ||edgmedia.bws.com.au/bws/media/artwork/banners/large/BWS34429_BWYASSS-main-d.png?impolicy=Assets-MedHigh$image
+
+www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
+
+missamara.com.au##.text-center.sale_popup
+missamara.com.au###gorgias-chat-container
+missamara.com.au##.exitintent_561_856d7f41_0317.exitintent_561_856d7f41_039 > div
+
+www.ebay.com.au##.yolo-show.g-signin-mweb
+
+www.news.com.au###fixed-ad
+
+www.perthnow.com.au##.e1ar06v00.css-115hphd-StyledToastContainer.ToastNotification.cookie-consent--normal
+www.perthnow.com.au##.ezkyf1c1.css-mbwzd9-StyledStickyFooterAdUnit > .ezkyf1c0.css-qyun7f-StyledAdUnitWrapper.ad-no-notice.hide-print
+
+www.who.com.au##.Video-Wrapper--JWPlayer.Video-Wrapper
+
+www.carsales.com.au###credential_picker_iframe
+www.carsales.com.au##.js_smartbanner.smartbanner--android.smartbanner
+
+||www.comedyfestival.com.au/theme/season/style/img/shared/ad-empty.png$image
+||www.comedyfestival.com.au/theme/season/style/img/shared/ad-empty.png$image
+www.comedyfestival.com.au##.ads--show.ads.show-brief--two.show-brief
+
+sitchu.com.au##.display-subscribe.modal-dialog-centered.modal-dialog > .modal-content > .modal-body
+
+www.betootaadvocate.com##.hustle-main-wrapper
+
+
+ray-white-carnegie.business.site###cookieDialog
+
+emergency.vic.gov.au##.js_smartbanner.smartbanner--android.smartbanner
+
+www.booktopia.com.au###credential_picker_iframe
+
+www.realestate.com.au###advert-strip1
+
+www.flophouse.com.au##.yui-popup-container-node
+
+www.realestate.com.au##.lead-gen__action-link
+
+www.hotdoc.com.au##.js_smartbanner.smartbanner--ios.smartbanner
+www.hotdoc.com.au###native-apps
+
+www.drive.com.au##.openChat_drive__open-chat__tab-container__vdQvB
+www.drive.com.au##.gam_textfixed_pos1.gam-textfixed-pos1.gam-ad
+
+www.foxsports.com.au###i-amp-1
+
+www.racenet.com.au##.upcoming-race__meeting-list > .ad-m-mrec-container.ad-block__container
+www.racenet.com.au##.ad-m-mrec-container.ad-block__container
+www.racenet.com.au##.header-ad--mobile
+
+! 2023-11-06 https://www.foxsports.com.au
+www.foxsports.com.au###i-amp-8 > .i-amphtml-fx-flying-carpet-clip
+||web.foxsports.com.au/amp-article/newsletter/newsletter.html$subdocument
+www.foxsports.com.au##i-amphtml-scroll-container
+
+
+
+! 2023-11-29 https://www.betootaadvocate.com
+www.betootaadvocate.com###sndx-110792-snack_mex2
+www.betootaadvocate.com###sndx-110792-snack_mex3
+www.betootaadvocate.com###sndx-110792-snack_mex4
+www.betootaadvocate.com###sndx-110792-snack_mex5
+
+! 2023-12-08 https://www.family-getaways-melbourne.com
+www.family-getaways-melbourne.com##.messenger.socialIcon
+www.family-getaways-melbourne.com##.SocialShareStickyBottom.SocialShareSticky.SocialShare
+
+secretmelbourne.com##.visible.floating-share-buttons
+secretmelbourne.com##.gpt-margin-bottom.smn-home-section__aside
+secretmelbourne.com###content > aside
+
+www.templeandwebster.com.au##.promo-banner
+
+www.mamamia.com.au##.mm-popup-overlay
+www.mamamia.com.au##.post-content-parent-1
+
+! 2023-12-29 https://www.9news.com.au
+www.9news.com.au##div.widget-ad.widget:nth-of-type(8)
+www.9news.com.au##.layout__inner > div.widget-ad.widget
+
+! 2023-12-31 https://www.ebay.com.au
+www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
+
+watchpad.com.au###app-embed-container-45517
