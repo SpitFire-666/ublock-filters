@@ -353,18 +353,16 @@ syd-col.eum-appdynamics.com
 syd-col.eum-appdynamics.com
 tags.tiqcdn.com
 telemetry.api.swiftkey.com
-telemetry.api.swiftkey.com
 tlx.3lift.com
 trace.popin.cc
-trace.popin.cc
-u.openx.net
 u.openx.net
 wpad.lan
 www.googletagmanager.com
-www.googletagmanager.com
-www.googletagmanager.com
 zerossl.ocsp.sectigo.com
-zerossl.ocsp.sectigo.com
+buy.tinypass.com
+config.edge.skype.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+tags.tiqcdn.com
 
 www.dailymotion.com##.sd_metaheader
 www.dailymotion.com###content > .container > .row > .col-4.side-column > .no-border
