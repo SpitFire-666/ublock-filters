@@ -349,6 +349,18 @@ settings.crashlytics.com.lan
 tls.telemetry.swe.quicinc.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+assets.hearstapps.com
+buy.tinypass.com
+config.edge.skype.com
+fls-fe.amazon.com.au
+fls-na.amazon.com
+go.ezodn.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+leechers-paradise.org
+ocsp.sectigo.com
+secureir.ebaystatic.com
+tags.tiqcdn.com
+widgets.pinterest.com
 
 
 www.dailymotion.com##.sd_metaheader
