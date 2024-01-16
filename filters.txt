@@ -235,6 +235,10 @@ js.hubspot.com
 ocsp.sectigo.com
 sb.scorecardresearch.com
 static.addtoany.com
+mcs-va.tiktokv.com
+mon.tiktokv.com
+ssl-ccstatic.highwebmedia.com
+stats.tik.fail
 
 www.dailymotion.com##.sd_metaheader
 www.dailymotion.com###content > .container > .row > .col-4.side-column > .no-border
@@ -270,13 +274,10 @@ www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_targetedTiles6 > .market
 www.justanswer.com##.dqt-chat.gqa-chat-modal.right.bottom.modal
 www.justanswer.com##.right-rail.th-chat-google-reengagement-window.th-chat-window > .background
 
-
 www.flickr.com###yui_3_16_0_1_1581312878209_7336
 www.flickr.com##.requiredToShowOnServer.search-slender-advanced-panel-view.view
 
-
 open.spotify.com##.a88f0b25501df313b75b70d458d9fe87-scss._56a12d0978529b654affa11ca9390bd7-scss._2221af4e93029bedeab751d04fab4b8b-scss
-
 
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 ! YT Search - just videos (disabled as it blocks playlists)
@@ -1101,10 +1102,9 @@ www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(4)
 www.thesun.co.uk##div.story-variant-2-placeholder:nth-of-type(5)
 
 www.tiktok.com##.enx791q2.tiktok-1ba5y2x-DivInfoContainer
+www.tiktok.com##.epicki90.tiktok-rooe1m-DivTopBannerAB
 
 datenightmovies.com##.callout > g > path
-
-www.tiktok.com##.epicki90.tiktok-rooe1m-DivTopBannerAB
 
 www.urbandictionary.com###Define_300x250_1
 www.urbandictionary.com##.rounded-md.md\:p-8.p-5.shadow-light.mb-4.dark\:text-white.dark\:bg-yankees.bg-white
