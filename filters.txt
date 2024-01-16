@@ -239,6 +239,132 @@ mcs-va.tiktokv.com
 mon.tiktokv.com
 ssl-ccstatic.highwebmedia.com
 stats.tik.fail
+aa.online-metrix.net
+acdn.adnxs.com
+acdn.adnxs.com
+als-svc.nytimes.com
+analytics-frame.sendsafely.com
+analytics-xpress.jabra.com
+analytics.ff.avast.com
+analytics.ff.avast.com
+analytics.sendsafely.com
+api.myendpoint.io
+api.myendpoint.io
+api.smartechmetrics.com
+api.smartechmetrics.com
+apkrep.ff.avast.com
+apkrep.ff.avast.com
+app-analytics-v2.snapchat.com
+app-analytics-v2.snapchat.com
+app-measurement.com
+app-measurement.com
+app.adjust.com
+app.adjust.com
+app.adjust.net.in
+app.adjust.net.in
+app.adjust.world
+app.adjust.world
+browser.events.data.microsoft.com
+browser.events.data.msn.com
+browser.pipe.aria.microsoft.com
+c.amazon-adsystem.com
+cdn.taboola.com
+cdn.taboola.com
+code.yengo.com
+code.yengo.com
+config.edge.skype.com
+config.edge.skype.com
+config.edge.skype.com
+config.edge.skype.com
+connectivitycheck.platform.hicloud.com
+connectivitycheck.platform.hicloud.com
+connectivitycheck.platform.hicloud.com.lan
+connectivitycheck.platform.hicloud.com.lan
+dpm.demdex.net
+dpm.demdex.net
+dsum.carsalesmedia.com
+dsum.casalemedia.com
+eb2.3lift.com
+events.landmarksid.com
+events.landmarksid.com
+fastlane.rubiconproject.com
+gllto.glpals.com
+gllto.glpals.com
+gllto1.glpals.com
+gllto1.glpals.com
+go.ezodn.com
+go.trouter.teams.microsoft.com
+googleads.g.doubleclick.net
+googleads.g.doubleclick.net
+googleads.g.doubleclick.net
+grs.dbankcloud.asia
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.cn
+grs.dbankcloud.com
+grs.dbankcloud.com
+grs.dbankcloud.eu
+grs.dbankcloud.eu
+hbopenbid.pubmatic.com
+htlb.casalemedia.com
+https://secretmelbourne.com/wp-content/themes/secretmedianetwork-pre3/dist/js/ads.js?ver=4.6.45
+ib.adnxs.com
+image8.pubmatic.com
+in.cuebiq.com
+in.cuebiq.com
+js.hscollectedforms.net
+js.hubspot.com
+mobile.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com.lan
+mobile.pipe.aria.microsoft.com.lan
+o167200.ingest.sentry.io
+o82024.ingest.sentry.io
+ocsp.sectigo.com
+ocsp.sectigo.com
+pixel.mathtag.com
+pixel.mathtag.com
+pr-bh.ybp.yahoo.com
+pr-bh.ybp.yahoo.com
+prebid.media.net
+publish.twitter.com
+query.hicloud.com
+query.hicloud.com
+rtb.openx.net
+rumcdn.geoedge.be
+sb.scorecardresearch.com
+secure-ds.serving-sys.com
+secure-ds.serving-sys.com
+secure-gl.imrworldwide.com
+secure.aadcdn.microsoftonline-p.com
+secureir.ebaystatic.com
+securepubads.g.doubleclick.net
+settings.crashlytics.com.lan
+settings.crashlytics.com.lan
+share.9cdn.net
+shepherd.sb.avast.com
+shepherd.sb.avast.com
+snippetdata.api.swiftkey.com
+snippetdata.api.swiftkey.com
+srtb.msn.com
+static.addtoany.com
+syd-col.eum-appdynamics.com
+syd-col.eum-appdynamics.com
+tags.tiqcdn.com
+telemetry.api.swiftkey.com
+telemetry.api.swiftkey.com
+tlx.3lift.com
+trace.popin.cc
+trace.popin.cc
+u.openx.net
+u.openx.net
+wpad.lan
+www.googletagmanager.com
+www.googletagmanager.com
+www.googletagmanager.com
+zerossl.ocsp.sectigo.com
+zerossl.ocsp.sectigo.com
 
 www.dailymotion.com##.sd_metaheader
 www.dailymotion.com###content > .container > .row > .col-4.side-column > .no-border
@@ -448,9 +574,9 @@ www.booking.com##.b_leaving_users_light_box_mask.modal-mask
 
 www.wikihow.com###article_courses_banner
 
-www.nico-maas.de##.cookie-notice-container
+www.nico-maas.de##.biscuit-notice-container
 
-www.jimenezphoto.com##.is-show.rb-cookie
+www.jimenezphoto.com##.is-show.rb-biscuit
 
 www.wikihow.com###rightrail0_ad_1 > .adsbygoogle
 www.wikihow.com###article_courses_banner
@@ -518,7 +644,7 @@ uploaded.net###placement_209659_0_iframe
 
 uploaded.net###premium-button-area > .tfree-standard.tfree > tbody > .aT > td > form > .prem
 
-www.digikey.com##.cookie-notice
+www.digikey.com##.biscuit-notice
 
 www.semicon.sanken-ele.co.jp##.gdpr
 
@@ -559,7 +685,7 @@ www.urbandictionary.com##.slogan-panel > .panel-margin
 
 www.goldisaneutral.co.uk##.pie-wrapper
 
-easyodds.com##.cookiefirst-root
+easyodds.com##.biscuitfirst-root
 
 scalibq.wordpress.com##.ads-active.hide-on-button
 
@@ -571,7 +697,7 @@ stylebyemilyhenderson.com##.my-5.row
 www.familyhandyman.com##.project-top-advertisment
 
 ||v2.cimg.co/other/155/25954/*loans-300x*600.jpg$image
-cryptonews.com##.cookieConsentWrapper
+cryptonews.com##.biscuitConsentWrapper
 ||v2.cimg.co/other/159/25972/*970x250-copy-2*.jpg$image
 cryptonews.com##[href="https://rapi.cryptonews.com/outgoing/159"]
 
@@ -1024,11 +1150,11 @@ https://simplywall.st/static/js/components-GuestRegistrationModal.modern.9283a7a
 
 ||ogs.google.com/widget/callout$subdocument
 
-www.ribbonsoft.com###redim-cookiehint-bottom
+www.ribbonsoft.com###redim-biscuithint-bottom
 
 success.trendmicro.com##.c-container
 
-www.cheapsslshop.com##.cookies
+www.cheapsslshop.com##.biscuits
 
 businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(2)
 businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(1)
@@ -1077,7 +1203,7 @@ onedrive.live.com##.main-45.od-mobileWebToAppUpsell-dialog--BannerStyle.ms-Dialo
 
 www.rollingstone.com###adm-in-list-x > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
 
-kmandla.wordpress.com###eu-cookie-law > form
+kmandla.wordpress.com###eu-biscuit-law > form
 kmandla.wordpress.com##.ads-active.hide-on-button
 
 www.apartmenttherapy.com##.Ad--empty.Ad--6782-GenAptTherapy-Post-Post_004.Ad
@@ -1117,9 +1243,9 @@ www.urbandictionary.com##.justify-end.items-center.flex > li
 
 bellalunafamily.com##.fl-node-content.fl-module-content > .gform_legacy_markup_wrapper.gform_wrapper.gf_browser_chrome
 
-huckleberrycare.com##.mx-lg-5.mx-md-1.cookie-banner
+huckleberrycare.com##.mx-lg-5.mx-md-1.biscuit-banner
 
-jakebeldercars.wordpress.com##.widget_eu_cookie_law_widget.widget
+jakebeldercars.wordpress.com##.widget_eu_biscuit_law_widget.widget
 
 www.subaruforester.org##.vtf.login-buttongroup
 
@@ -1223,9 +1349,9 @@ www.fleamarketinsiders.com##.slidein-bottom-right.cp-slidein
 
 www.momjunction.com##.fx-flying-carpet-container
 
-mommyhood101.com##[href="/gift-guides"] > .jch-lazyloaded.ls-is-cached
-mommyhood101.com##.eb-container
-mommyhood101.com##.eb-acc.eb-acm.eb-dialog
+Mummyhood101.com##[href="/gift-guides"] > .jch-lazyloaded.ls-is-cached
+Mummyhood101.com##.eb-container
+Mummyhood101.com##.eb-acc.eb-acm.eb-dialog
 
 www.kayak.com##div.Dp1L:nth-of-type(6)
 www.kayak.com##div.Dp1L:nth-of-type(12)
@@ -1241,7 +1367,7 @@ tiktok.com^$removeparam=embed_source
 
 ||linkedin.com^$removeparam=updateEntityUrn
 ! 2022-10-31 https://community.tp-link.com
-community.tp-link.com##.tp-cookie-script
+community.tp-link.com##.tp-biscuit-script
 
 www.ramint.gov.au##.div_splash
 
@@ -1259,7 +1385,7 @@ www.guidingtech.com##.content > div
 
 ||acctcdn.msauth.net/images/$image
 
-www.fresha.com##.CookieBanner_desktop__76b234cb
+www.fresha.com##.biscuitBanner_desktop__76b234cb
 
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(4)
 
@@ -1411,7 +1537,7 @@ au.nextdoor.com##.css-1p4ao6t
 https://d19rpgkrjeba2z.cloudfront.net/static/nextdoorv2/js/ads/ads.js
 au.nextdoor.com##.css-15g5td4
 
-www.bbc.co.uk##.CookieBanner-module__wrap--1QK9t
+www.bbc.co.uk##.biscuitBanner-module__wrap--1QK9t
 
 forums.stardock.com##.stardockad
 
@@ -1507,10 +1633,10 @@ app.smartsheet.com##div.clsJspButtonWide:nth-of-type(2)
 www.lcdcomps.com##.ot-sdk-container
 
 ! 2022-11-09 https://useinsider.com
-useinsider.com##.wt-cli-cookie-bar-container
+useinsider.com##.wt-cli-biscuit-bar-container
 
 ! 2022-11-09 https://www.syntax.com
-www.syntax.com###BorlabsCookieBox
+www.syntax.com###BorlabsbiscuitBox
 
 ! 2022-11-09 https://forums.prajwaldesai.com
 forums.prajwaldesai.com##.js-bottomFixTarget.u-bottomFixer
@@ -1523,7 +1649,7 @@ www.febooti.com###cc
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bandcamp.com##.ui-widget-overlay
 
-collectingcars.com###reactCookieBanner
+collectingcars.com###reactbiscuitBanner
 
 en.wikipedia.org###siteNotice
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
@@ -1538,7 +1664,7 @@ www.msn.com###eplantEntranceBubble
 open.spotify.com###onetrust-consent-sdk
 open.spotify.com##.jtRqaoDIpIR6fEATUTyY > div > [href="https://app.adjust.com/l5xznak"]
 
-deviceadvice.io###cookie-law-info-bar
+deviceadvice.io###biscuit-law-info-bar
 
 open.spotify.com##.main-view-container__mh-footer-container
 ||www.spotify.com/api/masthead/*$xhr,domain=open.spotify.com
@@ -1554,7 +1680,7 @@ www.tutorialspoint.com###privacy-banner
 www.tutorialspoint.com##.col-xl-3.col-md-3.col-sm-6
 
 ! 2023-01-31 https://liveonlineradio.net
-liveonlineradio.net##.cookieinfo
+liveonlineradio.net##.biscuitinfo
 
 ! 2023-01-31 https://tunein.com
 tunein.com##.common-dialog-module__content___VMF7d > div
@@ -1572,7 +1698,7 @@ tunein.com##.loginDialogOverlay
 www.bbc.com###zephr-message
 
 ! 2023-03-22 https://map.blitzortung.org
-map.blitzortung.org##.cookie_div
+map.blitzortung.org##.biscuit_div
 map.blitzortung.org##.topdiv
 
 ! 2023-04-27 https://www.google.com.au
@@ -1636,7 +1762,7 @@ browser.events.data.microsoft.com
 
 www.youtube.com##tp-yt-iron-dropdown.ytd-popup-container.style-scope > .tp-yt-iron-dropdown.style-scope
 
-www.lego.com##.fAvzRD.CookieModalstyles__ModalContent-sc-19wlthm-0
+www.lego.com##.fAvzRD.biscuitModalstyles__ModalContent-sc-19wlthm-0
 www.lego.com##.iATvAv.Modalstyles__Container-l3z049-0
 
 www.ehow.com###lg-jwplayer
@@ -1731,9 +1857,9 @@ www.tiktok.com##.flex-auto.tt-sheet__body
 ! ##.MomentSystem-module_moment__G9hyw
 
 
-connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
+connect.mozilla.org##.lia-component-gdprbiscuitbanner-widget-biscuit-banner-alert.lia-biscuit-banner-alert
 
-vonbaronmusic.com###cookie-notice
+vonbaronmusic.com###biscuit-notice
 
 www.makeuseof.com###dynamically-injected-refresh-ad-zone-adsninja-ad-unit-characterCountRepeatable1-5f343f19c50cac > .ad-current
 www.makeuseof.com##.ad-zone-content-character-count-repeatable-2.ad-zone
@@ -1764,7 +1890,7 @@ www.health.harvard.edu##.flex.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0
 luxuryescapes.com##.lg.ilPewA.GDPRWarningBanner__Alert-sc-1mwq5ah-1.gswtFw.LayoutContainer__Container-sc-rvo2nj-0
 luxuryescapes.com###credential_picker_iframe
 
-www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
+www.theurbanlist.com##.js-biscuitOverlay.biscuit-overlay
 
 www.tiktok.com##.enx791q0.tiktok-rkt89o-DivCtaGuideContainer
 www.tiktok.com##.e1pecv671.tiktok-1bs1f5y-DivFlex1 > .matrix-smart-wrapper
@@ -1776,7 +1902,7 @@ www.lifewire.com###tech-billboard1-sticky_1-0
 www.midomi.com###onetrust-consent-sdk
 www.midomi.com##.Banner_snackBar__2zo3A
 
-apkdone.com###cookie-law-info-bar
+apkdone.com###biscuit-law-info-bar
 
 liliputing.com##.adthrive-content-1.adthrive-content.adthrive-ad
 
@@ -1791,7 +1917,7 @@ www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
 www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
 www.recipetineats.com##.subscribe
 
-bumble.com##.js-cookie-notification.cookie-notification
+bumble.com##.js-biscuit-notification.biscuit-notification
 
 abcnews.go.com##div.zhVl.eXZc.oJhu.gfNz.oMlS.kRoB.roDb.gbbf.OnRT.vrZx.ONJd.iSha.jaoD.GQmd.SVqK.eQqc.OjMN.hbvn.aHUB.lzDC.zzsc.NIuq.iulO.VvTx.xegr.SmBj.mEee.MCnQ.nFwa.BZyg.acPP.eRft.sKyC.ISNQ.daRV.AkFW.OsTs.zNYg.vPlO.EhJP.pvsT.QBoF.QrHM.oLzS:nth-of-type(1)
 
@@ -1842,8 +1968,8 @@ www.thespruceeats.com##.gpt.mntl-gpt-adunit.mntl-leaderboard-fixed.mntl-leaderbo
 www.thespruceeats.com##.is-requested.dynamic.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-lazy-flexible-ad.leaderboard--lazy.leaderboardfooter.js-lazy-ad.has-right-label.comp
 www.thespruceeats.com##.is-requested.dynamic.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-lazy-flexible-ad.leaderboard--lazy.leaderboardfooter2.js-lazy-ad.has-right-label.comp
 
-www.youtube-nocookie.com##.ytp-videowall-still-info
-www.youtube-nocookie.com##.ytp-pause-overlay
+www.youtube-nobiscuit.com##.ytp-videowall-still-info
+www.youtube-nobiscuit.com##.ytp-pause-overlay
 
 https://torrindex.net/images/epv/
 
@@ -1882,7 +2008,7 @@ onlineradiobox.com###alert_puzzlegarage
 theslenderwrist.com##.formkit-overlay.seva-overlay
 
 microbrandwatchworld.com###elementor-popup-modal-9319
-https://microbrandwatchworld.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
+https://microbrandwatchworld.com/wp-content/plugins/easy-table-of-contents/vendor/js-biscuit/
 
 www.drugs.com##.ddc-modal-visible.ddc-modal
 https://www.drugs.com/bundle/82ef3cb9/js/module/modal.js
@@ -1917,7 +2043,7 @@ www.gq-magazine.co.uk##.cne-video-embed
 ||www.luckymodapk.com/202003/appx_proxy.php$subdocument
 www.luckymodapk.com###appx
 
-playold.games###cookies
+playold.games###biscuits
 
 www.dosgamesarchive.com###banner_container_leaderboard
 www.dosgamesarchive.com###banner_container_halfpage
@@ -1962,7 +2088,7 @@ $removeparam=prm-v1,domain=yumly.com
 $removeparam=enc,domain=ebay.com
 $removeparam=checksum,domain=ebay.com
 
-www.cognisaas.com##.cookie-wrapper-new
+www.cognisaas.com##.biscuit-wrapper-new
 www.cognisaas.com##.noshow-onthis.time-modal
 
 www.popularmechanics.com##journey-inline-newsletter
@@ -2033,10 +2159,10 @@ www.tiktok.com##.flex-auto.tt-sheet__body
 ! ##.Welcome-module_contentWelcome__TL17B
 ! ##.MomentSystem-module_moment__G9hyw
 
-vonbaronmusic.com###cookie-notice
+vonbaronmusic.com###biscuit-notice
 vonbaronmusic.com##.mc-layout__bannerContent > [src]
 
-connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
+connect.mozilla.org##.lia-component-gdprbiscuitbanner-widget-biscuit-banner-alert.lia-biscuit-banner-alert
 
 ||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/premium/mountain-background-large.svg$image
 ||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/*.svg$image
@@ -2051,7 +2177,7 @@ www.worldatlas.com##.ad_hfix_600.mod_ad
 www.worldatlas.com##.ad_wfix_mb_std.ad_wfix_tb_728.ad_wfix_dt_728.ad_hfix_320.mod_ad
 www.worldatlas.com##.ad_cls_fix.ad_content_below.ad_push.mod_ad_container
 
-www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
+www.theurbanlist.com##.js-biscuitOverlay.biscuit-overlay
 
 luxuryescapes.com###credential_picker_iframe
 
@@ -2067,7 +2193,7 @@ damndelicious.net##.inner-post > .adthrive-below-post-1.adthrive-below-post.adth
 damndelicious.net###comments > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
 
 onlineradiobox.com##.alert--playmarket
-onlineradiobox.com###alert_cookies
+onlineradiobox.com###alert_biscuits
 ||cdn.onlineradiobox.com/img/player__promo.jpg$image
 onlineradiobox.com##.player__promo
 onlineradiobox.com##._promo.player
@@ -2111,7 +2237,7 @@ www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
 www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
 www.recipetineats.com##.subscribe
 
-bumble.com##.js-cookie-notification.cookie-notification
+bumble.com##.js-biscuit-notification.biscuit-notification
 
 twitter.com###credential_picker_iframe
 
