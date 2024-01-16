@@ -12,7 +12,7 @@ hulkprod.anm.co.uk
 ovp.iris.tv
 config.edge.skype.com
 cdn.optimizely.com
-cdn.biscuitlaw.org
+cdn.cookielaw.org
 chimpstatic.com
 reddit-image.s3.amazonaws.com
 target.microsoft.com
@@ -20,7 +20,6 @@ ad.resourcefulman.net
 assets.emarsys.net
 bazaarvoice-prod-01.dn.apigee.net
 browser.events.data.microsoft.com
-cdn.biscuitlaw.org
 cdn.optimizely.com
 chimpstatic.com
 config.edge.skype.com
@@ -175,7 +174,6 @@ www.snapengage.com
 collector-pxdz588q90.px-client.net
 analytics-frame.sendsafely.com
 analytics.sendsafely.com
-browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
 config.edge.skype.com
@@ -259,10 +257,7 @@ app-analytics-v2.snapchat.com
 app-measurement.com
 app-measurement.com
 app.adjust.com
-app.adjust.com
 app.adjust.net.in
-app.adjust.net.in
-app.adjust.world
 app.adjust.world
 browser.events.data.microsoft.com
 browser.events.data.msn.com
@@ -271,14 +266,8 @@ c.amazon-adsystem.com
 cdn.taboola.com
 cdn.taboola.com
 code.yengo.com
-code.yengo.com
-config.edge.skype.com
-config.edge.skype.com
-config.edge.skype.com
 config.edge.skype.com
 connectivitycheck.platform.hicloud.com
-connectivitycheck.platform.hicloud.com
-connectivitycheck.platform.hicloud.com.lan
 connectivitycheck.platform.hicloud.com.lan
 dpm.demdex.net
 dpm.demdex.net
@@ -358,6 +347,9 @@ app-measurement.com
 open.oneplus.net
 settings.crashlytics.com.lan
 tls.telemetry.swe.quicinc.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+
 
 www.dailymotion.com##.sd_metaheader
 www.dailymotion.com###content > .container > .row > .col-4.side-column > .no-border
