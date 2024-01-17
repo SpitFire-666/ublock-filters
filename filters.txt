@@ -238,6 +238,18 @@ www.premiumvertising.com
 www.skassets.com
 www.snapengage.com
 zerossl.ocsp.sectigo.com
+cdn.attn.tv
+config.edge.skype.com
+ejie.me
+engine.realself.com
+flimg.flickr.com
+ingresshid.unixfox.eu
+o933651.ingest.sentry.io
+pixel.driveniq.com
+pro.ip-api.com
+p.yotpo.com
+sc-static.net
+www.snapengage.com
 
 
 
