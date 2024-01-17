@@ -7,9 +7,12 @@
 ! HOSTS
 ! Domains that snuck through uBlock and caught by pi-hole
 
+31752.api.swrve.com
+31752.content.swrve.com
 a3ion.com
 a4p.adpartner.pro
 aa.online-metrix.net
+aax.amazon-adsystem.com
 acdn.adnxs.com
 ad.resourcefulman.net
 addevent.com
@@ -63,6 +66,7 @@ cm.mgid.com
 code.yengo.com
 collector-pxdz588q90.px-client.net
 config.edge.skype.com
+config.inmobi.com
 connectivitycheck.platform.hicloud.com
 connectivitycheck.platform.hicloud.com.lan
 consent.cookiebot.com
@@ -82,11 +86,13 @@ ejie.me
 ekr.zdassets.com
 entitlements.jwplayer.com
 events.landmarksid.com
+experience.tinypass.com
 fastlane.rubiconproject.com
 fff.dailymail.co.uk
 fls-fe.amazon.com.au
 fls-na.amazon.com
 fresnel-events.vimeocdn.com
+fundingchoicesmessages.google.com
 gllto.glpals.com
 gllto1.glpals.com
 go.ezodn.com
@@ -114,14 +120,17 @@ js-agent.newrelic.com
 js.hscollectedforms.net
 js.hubspot.com
 leechers-paradise.org
+mads.amazon-adsystem.com
 magsrv.com
 mcs-sg.tiktok.com
 mcs-va.tiktokv.com
 media.richrelevance.com
 mobile.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com.lan
+mobilesdk-au.kampyle.com
 mon-va.byteoversea.com
 mon.tiktokv.com
+notifications.viafoura.co
 o167200.ingest.sentry.io
 o82024.ingest.sentry.io
 ocsp.sectigo.com
@@ -131,6 +140,7 @@ omnidesk.ru
 open.oneplus.net
 optimized-by.4wnetwork.com
 ovp.iris.tv
+ow.pubmatic.com
 pemsrv.com
 pixel-sync.sitescout.com
 pixel.mathtag.com
@@ -140,14 +150,18 @@ player.adtelligent.com
 pr-bh.ybp.yahoo.com
 prd.jwpltx.com
 prebid.media.net
+pub.pixels.ai
+pubads.g.doubleclick.net
 publish.twitter.com
 pushbizapi.com
 px.ads.linkedin.com
 qcontentdelivery.info
 query.hicloud.com
 reddit-image.s3.amazonaws.com
+registry.api.cnn.io
 rtb.openx.net
 rumcdn.geoedge.be
+s.amazon-adsystem.com
 s.pemsrv.com
 sb.scorecardresearch.com
 secure-ds.serving-sys.com
@@ -176,6 +190,7 @@ t.trafmag.com
 tags.tiqcdn.com
 target.microsoft.com
 telemetry.api.swiftkey.com
+telemetry.sdk.inmobi.com
 tls.telemetry.swe.quicinc.com
 tlx.3lift.com
 tpc.googlesyndication.com
@@ -197,10 +212,12 @@ wpad.lan
 www.clarity.ms
 www.googletagmanager.com
 www.huppy.it
+www.npttech.com
 www.premiumvertising.com
 www.skassets.com
 www.snapengage.com
 zerossl.ocsp.sectigo.com
+
 
 
 www.dailymotion.com##.sd_metaheader
