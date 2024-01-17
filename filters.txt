@@ -14,9 +14,12 @@ a4p.adpartner.pro
 aa.online-metrix.net
 aax.amazon-adsystem.com
 acdn.adnxs.com
+ad.doubleclick.net
 ad.resourcefulman.net
 addevent.com
+ads.pubmatic.com
 adsmediabox.com
+ak.sail-horizon.com
 als-svc.nytimes.com
 analytics-frame.sendsafely.com
 analytics-us.searchstax.com
@@ -25,6 +28,7 @@ analytics.archive.org
 analytics.ff.avast.com
 analytics.sendsafely.com
 anccloud3.xyz
+ap.lijit.com
 api.intentiq.com
 api.livechatinc.com
 api.myendpoint.io
@@ -36,6 +40,7 @@ app.adjust.com
 app.adjust.net.in
 app.adjust.world
 appboy-images.com
+apps.rokt.com
 assets-jpcust.jwpsrv.com
 assets.emarsys.net
 assets.hearstapps.com
@@ -44,6 +49,7 @@ bat.bing.com
 bazaarvoice-prod-01.dn.apigee.net
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+bidder.criteo.com
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
@@ -52,6 +58,7 @@ buy.tinypass.com
 c.amazon-adsystem.com
 c.bing.com
 c2shb.pubgw.yahoo.com
+cdn-channels-pixel.ex.co
 cdn.cookielaw.org
 cdn.onesignal.com
 cdn.optimizely.com
@@ -59,8 +66,10 @@ cdn.polyfill.io
 cdn.snigelweb.com
 cdn.taboola.com
 cdn.tinypass.com
+cdn.vidible.tv
 cdn.watchingthat.net
 cdn23381261.ahacdn.me
+cdnssl.clicktale.net
 chimpstatic.com
 cm.mgid.com
 code.yengo.com
@@ -72,9 +81,12 @@ connectivitycheck.platform.hicloud.com.lan
 consent.cookiebot.com
 creative.xlivrdr.com
 ct.pinterest.com
+d.impactradius-event.com
+d15kdpgjg3unno.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d2j042cj1421wi.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
+dashboard.tinypass.com
 dpm.demdex.net
 dsum.carsalesmedia.com
 dsum.casalemedia.com
@@ -93,6 +105,7 @@ fls-fe.amazon.com.au
 fls-na.amazon.com
 fresnel-events.vimeocdn.com
 fundingchoicesmessages.google.com
+geoip.businessinsider.com
 gllto.glpals.com
 gllto1.glpals.com
 go.ezodn.com
@@ -116,6 +129,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img.strpst.com
 in.cuebiq.com
 ingresshid.unixfox.eu
+jac.yahoosandbox.com
 js-agent.newrelic.com
 js.hscollectedforms.net
 js.hubspot.com
@@ -130,6 +144,7 @@ mobile.pipe.aria.microsoft.com.lan
 mobilesdk-au.kampyle.com
 mon-va.byteoversea.com
 mon.tiktokv.com
+mscom.demdex.net
 notifications.viafoura.co
 o167200.ingest.sentry.io
 o82024.ingest.sentry.io
@@ -149,6 +164,7 @@ plausible.io
 player.adtelligent.com
 pr-bh.ybp.yahoo.com
 prd.jwpltx.com
+prebid-server.rubiconproject.com
 prebid.media.net
 pub.pixels.ai
 pubads.g.doubleclick.net
@@ -162,8 +178,10 @@ registry.api.cnn.io
 rtb.openx.net
 rumcdn.geoedge.be
 s.amazon-adsystem.com
+s.ntv.io
 s.pemsrv.com
 sb.scorecardresearch.com
+scripts.webcontentassessor.com
 secure-ds.serving-sys.com
 secure-gl.imrworldwide.com
 secure.aadcdn.microsoftonline-p.com
@@ -176,10 +194,13 @@ siteimproveanalytics.com
 snap.licdn.com
 snippetdata.api.swiftkey.com
 srtb.msn.com
+ssbsync-global.smartadserver.com
 ssl-ccstatic.highwebmedia.com
 static-cdn.strpst.com
 static.addtoany.com
+static.chartbeat.com
 static.hotjar.com
+static.narrativ.com
 stats.tik.fail
 support.iam.ad.azure.com
 syd-col.eum-appdynamics.com
@@ -217,6 +238,8 @@ www.premiumvertising.com
 www.skassets.com
 www.snapengage.com
 zerossl.ocsp.sectigo.com
+
+
 
 
 
