@@ -3,9 +3,9 @@
 ! Description: Remove all the 💩
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
-
 ! HOSTS
 ! Domains that snuck through uBlock and caught by pi-hole
+! PowerShell de-dupe: $domains = Get-Clipboard | ? {$_} ; $domains.Split("`n") | select -unique | sort | clip
 
 31752.api.swrve.com
 31752.content.swrve.com
@@ -20,6 +20,7 @@ ad-delivery.net
 ad.doubleclick.net
 ad.resourcefulman.net
 addevent.com
+adrunnr.com
 ads.pubmatic.com
 adservice.google.com
 adsmediabox.com
@@ -54,6 +55,7 @@ assets-jpcust.jwpsrv.com
 assets.emarsys.net
 assets.hearstapps.com
 banners.adultfriendfinder.com
+banners.askmecca.com
 bat.bing.com
 bazaarvoice-prod-01.dn.apigee.net
 beacon-v2.helpscout.net
@@ -83,6 +85,8 @@ cdn.vidible.tv
 cdn.watchingthat.net
 cdn23381261.ahacdn.me
 cdnssl.clicktale.net
+cetrk.com
+chat.reddit.com
 chimpstatic.com
 cm.mgid.com
 code.yengo.com
@@ -126,9 +130,11 @@ fls-fe.amazon.com.au
 fls-na.amazon.com
 fresnel-events.vimeocdn.com
 fundingchoicesmessages.google.com
+g.ezoic.net
 geoip.businessinsider.com
 gllto.glpals.com
 gllto1.glpals.com
+global.stun.twilio.com
 go.ezodn.com
 go.goaserv.com
 go.redirectingat.com
@@ -232,6 +238,7 @@ snippetdata.api.swiftkey.com
 srtb.msn.com
 ssbsync-global.smartadserver.com
 ssl-ccstatic.highwebmedia.com
+ssl.google-analytics.com
 static-cdn.strpst.com
 static.addtoany.com
 static.chartbeat.com
@@ -267,11 +274,14 @@ u.openx.net
 ui.adv-settings.privilegecloud.cyberark.cloud
 valentine.xhamster.com
 vc.ads.dailymail.co.uk
+videosvc.ezoic.com
 visitor.omnitagjs.com
 webed.dm-event.net
 widgets.pinterest.com
 wpad.lan
 www.clarity.ms
+www.daftporn.com
+www.google-analytics.com
 www.googleoptimize.com
 www.googletagmanager.com
 www.huppy.it
@@ -282,6 +292,33 @@ www.snapengage.com
 www.zupimages.net
 zerossl.ocsp.sectigo.com
 
+
+$removeparam=hl,domain=google.com
+$removeparam=source,domain=google.com
+!$removeparam=tbm,domain=google.com
+$removeparam=sa,domain=google.com
+$removeparam=ved,domain=google.com
+$removeparam=biw,domain=google.com
+$removeparam=bih,domain=google.com
+$removeparam=dpr,domain=google.com
+
+$removeparam=app,domain=youtube.com
+
+$removeparam=s,domain=twitter.com
+||www.googletagservices.com^
+www.tomshardware.com###inpost-related-links
+
+www.imdb.com##div.aux-content-widget-2:nth-of-type(3)
+www.healthline.com##.css-viyeqc
+
+forum.xda-developers.com###twig-top
+forum.xda-developers.com##.tagbar
+forum.xda-developers.com###adhesive_container
+
+duckduckgo.com##.js-sidebar-ads
+
+www.wired.com##.ad--mid-content.ad.dIvDeZ.AdWrapper-fFweuL
+www.wired.com##.flRvpa.Sidebar-exCUaP
 
 www.dailymotion.com##.sd_metaheader
 www.dailymotion.com###content > .container > .row > .col-4.side-column > .no-border
@@ -555,9 +592,6 @@ www.trendhunter.com###_th_lb
 
 uploaded.net###placement_209660_0_iframe
 uploaded.net###placement_209659_0_iframe
-
-||adrunnr.com/
-
 uploaded.net###premium-button-area > .tfree-standard.tfree > tbody > .aT > td > form > .prem
 
 www.digikey.com##.biscuit-notice
