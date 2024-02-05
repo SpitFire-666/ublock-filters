@@ -2309,3 +2309,39 @@ intosanctuary.com##.message-signature
 
 www.capjournal.com##div.subscriber-only:nth-of-type(11) > p > span > [href^="https://secure2.thestreet.com/cap/prm.do"]
 www.capjournal.com##[href="https://www.thestreet.com/quote/TM"]
+
+www.reddit.com###credential_picker_container
+
+https://www.recordingbase.com/wp-content/plugins/convertplug/modules/modal/assets/js/modal.min.js
+www.recordingbase.com##.cp-first-order-container.cp_id_3a473.cp-modal-popup-container.cp-module
+
+||static.olelive.com/upload/site/$image
+www.olevod.com##.B1L > .wbalist_thumb
+www.olevod.com##.B1R
+
+www.lyricsmode.com##.js-annotation-button.lm-explanation-button-list
+
+www.avaide.com##.usernotice_pop
+
+www.olevod.com##.bg_wtop_banner
+||static.olelive.com/upload/site/20230607-1/ee3cd7e911eac279010a335356ba9d27.gif$image
+||static.olelive.com/upload/site/20230720-1/3626fbb549a1a8f0f51aaa543ad9b6c4.gif$image
+
+www.olevod.com##.play_box_right
+
+watchsomuch.to##.btn-warning.btn
+
+
+player.resonancefm.com##.CookieBanner-module__wrap--1QK9t
+
+! 2023-12-08 http://archive.energyfm.net
+archive.energyfm.net##.CookieBanner-module__wrap--1QK9t
+
+https://static.files.bbci.co.uk/cookies/
+
+! 2023-12-08 https://www.fixradio.co.uk
+www.fixradio.co.uk##.CookieBanner-module__inner--ZAwNc
+
+
+web.archive.org##[href*=".facebook.com"]
+web.archive.org##[href*=".fbcdn.net"]
