@@ -137,10 +137,8 @@ www.huffingtonpost.com.au###wrapper.wrapper.bpage.entry.australia.regular > .con
 forums.whirlpool.net.au###replylist > .reply-archived.reply:nth-of-type(8)
 www.betterhealth.vic.gov.au###top-floating-bar
 
-! 2022-01-28 https://www.gumtree.com.au
 www.gumtree.com.au##.liberty-container-1001--dweb-others.liberty-container-1001
 
-! 2022-01-30 https://www.carsales.com.au
 ||carsales.vxcrush.net/au/general/content/45i80bsd2euna8auc44mt4t5u.mp4?vxc_format=jpg&vxc_size=hd$image
 www.carsales.com.au##.slide.carousel
 
@@ -254,7 +252,6 @@ www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
 
 bws.com.au##.bg--white.merch-card--container
 
-
 www.news.com.au##.g_wrapper > .header_date-bar_links
 
 www.weatherzone.com.au##div.eHMuzp.sc-ggVKop:nth-of-type(1)
@@ -317,7 +314,6 @@ www.radio-australia.org###body_centered_ad
 www.danmurphys.com.au##.ng-star-inserted.parallax
 ||media.danmurphys.com.au/dmo/e-commerce/whisky-business-fy23/campaigns/my-dans-offer/phase-2/over-300-offers/lp/background.jpg$image
 www.danmurphys.com.au##.mydans-ph2-joinNow.container-fluid
-
 
 https://assets.nickscali.com/static/version1678194437/frontend/Nickscali/default/en_US/Magento_Cookie/js/require-cookie.min.js
 https://assets.nickscali.com/static/version1678194437/frontend/Nickscali/default/en_US/Magento_Theme/js/cookie-status.min.js
@@ -469,7 +465,6 @@ sitchu.com.au##.display-subscribe.modal-dialog-centered.modal-dialog > .modal-co
 
 www.betootaadvocate.com##.hustle-main-wrapper
 
-
 ray-white-carnegie.business.site###cookieDialog
 
 emergency.vic.gov.au##.js_smartbanner.smartbanner--android.smartbanner
@@ -494,20 +489,15 @@ www.racenet.com.au##.upcoming-race__meeting-list > .ad-m-mrec-container.ad-block
 www.racenet.com.au##.ad-m-mrec-container.ad-block__container
 www.racenet.com.au##.header-ad--mobile
 
-! 2023-11-06 https://www.foxsports.com.au
 www.foxsports.com.au###i-amp-8 > .i-amphtml-fx-flying-carpet-clip
 ||web.foxsports.com.au/amp-article/newsletter/newsletter.html$subdocument
 www.foxsports.com.au##i-amphtml-scroll-container
 
-
-
-! 2023-11-29 https://www.betootaadvocate.com
 www.betootaadvocate.com###sndx-110792-snack_mex2
 www.betootaadvocate.com###sndx-110792-snack_mex3
 www.betootaadvocate.com###sndx-110792-snack_mex4
 www.betootaadvocate.com###sndx-110792-snack_mex5
 
-! 2023-12-08 https://www.family-getaways-melbourne.com
 www.family-getaways-melbourne.com##.messenger.socialIcon
 www.family-getaways-melbourne.com##.SocialShareStickyBottom.SocialShareSticky.SocialShare
 
@@ -520,11 +510,14 @@ www.templeandwebster.com.au##.promo-banner
 www.mamamia.com.au##.mm-popup-overlay
 www.mamamia.com.au##.post-content-parent-1
 
-! 2023-12-29 https://www.9news.com.au
 www.9news.com.au##div.widget-ad.widget:nth-of-type(8)
 www.9news.com.au##.layout__inner > div.widget-ad.widget
 
-! 2023-12-31 https://www.ebay.com.au
 www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
 
 watchpad.com.au###app-embed-container-45517
+
+www.domain.com.au###adb-srp-insearch-1
+www.domain.com.au###adb-srp-insearch-2
+www.domain.com.au###adb-srp-insearch-3
+
