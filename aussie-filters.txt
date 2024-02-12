@@ -521,3 +521,271 @@ www.domain.com.au###adb-srp-insearch-1
 www.domain.com.au###adb-srp-insearch-2
 www.domain.com.au###adb-srp-insearch-3
 
+www.productreview.com.au##div.uAJ4l7:nth-of-type(8)
+www.sbs.com.au##.css-j052ve
+
+www.betootaadvocate.com##.td-header-header.td-header-row.td-container-header
+www.betootaadvocate.com##.hustle-show.hustle-slidein-position--south.hustle-size--custom.module_id_1.hustle_module_id_1.hustle-palette--603f1ba3c7e829_30347573.hustle-slidein.hustle-ui
+www.betootaadvocate.com##.td_block_template_5.tdi_2.td-a-rec-id-content_inline.td-a-rec
+
+https://www.deedsbrewing.com.au/gift-voucher-pop-up-page
+https://www.deedsbrewing.com.au/api/census/overlay
+
+! 2023-07-09 https://www.recipetineats.com
+
+
+! 2023-07-10 https://www.readings.com.au
+www.readings.com.au##.active.popup-overlay
+
+! 2023-07-10 https://www.harryhartog.com.au
+www.harryhartog.com.au###shopify-section-template--16450701721843__16624350139cefe13e
+
+! 2023-07-10 https://www.readings.com.au
+www.readings.com.au##.newsletter-footer
+
+www.mitre10.com.au##.left.am-notification-wrapper
+
+https://endotaspa.com.au/static/version*/frontend/Endota2022/base/en_AU/Amasty_GdprFrontendUi/
+https://endotaspa.com.au/static/version*/frontend/Endota2022/base/en_AU/js-cookie/
+https://endotaspa.com.au/static/version*/frontend/Endota2022/base/en_AU/Magento_Theme/js/cookie-status.min.js
+https://endotaspa.com.au/static/version*/frontend/Endota2022/base/en_AU/mage/cookies.min.js
+
+localserves.com.au###modal-app-download
+
+https://s3-ap-southeast-2.amazonaws.com/localserves.assets/js/js.cookie
+localserves.com.au##.in.fade.modal-backdrop
+
+$removeparam=type,domain=seek.com.au
+$removeparam=CD27,domain=hays.com.au
+https://www.flophouse.com.au/api/census/overlay
+www.drive.com.au##.subscribe_drive-subscribe-content__wrapper__eL0k9
+
+www.ozbargain.com.au##.adssticky.ads
+www.ozbargain.com.au##.m-expand.feature.newsletter.node-teaser.node
+
+! 2023-09-08 https://www.timeout.com
+www.timeout.com##._overlay_kzzn5_1
+https://www.timeout.com/static/js/popup-newsletter-*.js
+https://www.timeout.com/static/js/taboola-*.js
+https://www.timeout.com/static/js/adwords-*.js
+https://www.timeout.com/static/js/ajax-advert-*.js
+
+
+https://www.glassdoor.com.au/garnish/static/js/gd-user-hardsell-overlay.bundle.js
+
+! 2023-09-11 http://syn.org.au
+syn.org.au##.col-sm-12 > p
+
+www.ebay.com.au##.gf-mrecad.gh-clearfix
+
+https://au.nextdoor.com/context/nux/spouse_add
+https://au.nextdoor.com/api/gql/getNextOnboardingScreenQuery
+
+identikid.com.au##.fancybox-outer
+identikid.com.au##.fancybox-overlay-fixed.fancybox-overlay
+https://identikid.com.au/cdn/shop/t/12/assets/jquery.fancybox.min.js
+
+$removeparam=doing_wp_cron,domain=pickr.com.au
+
+! 2023-09-24 https://www.visitmelbourne.com
+www.visitmelbourne.com###cb
+
+! 2023-09-24 https://concreteplayground.com
+concreteplayground.com##.footer-feedback-bar
+
+www.ebay.com.au##.s-item__watchheart--watch.on-image.s-item__watchheart
+
+! 2023-10-04 https://www.foodanddrinkbusiness.com.au
+www.foodanddrinkbusiness.com.au##.landing-ad
+
+theshot.net.au###fixed_footer
+
+www.harveynorman.com.au##.advert_gam360.advert_hero
+www.harveynorman.com.au##.advert_gam360.advert_promo1
+www.harveynorman.com.au##.advert_gam360
+
+! 2023-10-12 https://www.productreview.com.au
+www.productreview.com.au##._HYlpI.c4coio.D4HEUI.M75vAx._FAptM._F436L.TyJiPJ.qk27Ii.J7xIZx._oMqQv.foBX_R
+www.productreview.com.au##div.e4Y0Gt.jFDVwd:nth-of-type(4)
+www.productreview.com.au##.Mq8_JQ.en8iN_.D4HEUI.M75vAx.Fjwdwz
+www.productreview.com.au##div.e4Y0Gt.jFDVwd:nth-of-type(8)
+www.productreview.com.au##.e4Y0Gt
+
+
+https://cdn.productreview.com.au/assets/public/gnisitrevda_4de38944.js
+https://cdn.productreview.com.au/assets/public/diberp_69a10f29.js
+
+au.hotdeals.com##.term_site.all-dialog-fix
+au.hotdeals.com##.ads-list-one.afc-wrapper
+au.hotdeals.com##.ads-list-two.afc-wrapper
+
+www.urchinbar.com.au##.c7bzh_.L27qsU.WIX_ADS
+
+themodern.com.au##.index-section--hidden.shopify-section
+
+www.westelm.com.au##.in.modal-email-capture-flyover.fade.modal
+www.westelm.com.au##.in.fade.modal-backdrop
+
+www.livingstyles.com.au###global-recomd
+
+www.pamono.com.au##div > .kl-private-reset-css-Xuajs1.needsclick
+
+www.livingstyles.com.au##.subscribe.footer-section
+www.adairs.com.au##.col-12.Subscription
+
+www.bigw.com.au##.footer-actions.footer-section
+
+www.legislation.vic.gov.au##.rpl-site-footer__acknowledgement.rpl-acknowledgement
+
+www.weatherzone.com.au##.jdqHNm.sc-d61aa197-19
+
+$removeparam=ref,domain=amazon.com.au
+$removeparam=keywords,domain=amazon.com.au
+$removeparam=qid,domain=amazon.com.au
+$removeparam=psc,domain=amazon.com.au
+
+https://tags.babybunting.com.au/
+
+ebay.com.au##html:style(overflow: auto !important;)
+ebay.com##html:style(overflow: auto !important;)
+bws.com.au##feature-promo.ng-isolate-scope
+
+paycalculator.com.au##.jss32
+paycalculator.com.au##.jss33
+paycalculator.com.au##.jss30
+
+www.thedistrictdocklands.com.au###overlay_subscribe
+
+whatson.melbourne.vic.gov.au##.footer__acknowledgement
+
+www.carsguide.com.au##.default-newsletter
+www.bigfooty.com##.topbanner.chaching
+www.bigfooty.com##.js-bottomFixTarget.u-bottomFixer
+www.bigfooty.com##.noticeScrollContainer.lSSlideOuter
+www.bigfooty.com##p
+
+www.shannons.com.au##.active.popup__container
+
+https://dip.suncorp.com.au/data-insights-api/ac/said/cookie
+
+www.justcars.com.au##.notify-user-experience
+
+https://endotaspa.com.au/static/version*/frontend/Endota2022/base/en_AU/Magento_GoogleTagManager/js/google-analytics-universal.min.js
+wwos.nine.com.au##.kUzrxD.woidg2-0
+
+themusic.com.au##.leading-5
+themusic.com.au##.mb-4
+themusic.com.au##.overflow-hidden > .max-w-full.items-center.justify-center.mb-5.flex
+themusic.com.au##.lg\:gap-x-5.lg\:justify-center.lg\:grid-cols-site.grid > div > .max-w-full.items-center
+
+! 2023-12-14 https://purplesneakers.com.au
+purplesneakers.com.au##.leading-5.font-bold.text-center.bg-white.cursor-pointer.w-full.z-10.left-0.bottom-0.fixed.lg\:block.hidden
+purplesneakers.com.au##.overflow-hidden > .mb-4
+purplesneakers.com.au##.overflow-hidden > .max-w-full.items-center.justify-center.mb-5.flex
+purplesneakers.com.au##.max-w-full.items-center.justify-center.mb-5.flex
+
+secretmelbourne.com##.smn-contrast-color.smn-bg-waves.smn-banner-newsletter
+secretmelbourne.com##.smn-sidebar.sidebar-container
+secretmelbourne.com##.visible.floating-share-buttons
+secretmelbourne.com##.new-home.layout-sidebar__sticky > div.sidebar-container > .mc4wp-form-8.mc4wp-form
+
+www.ebay.com.au##.srp-main-below-river
+
+www.mamamia.com.au##.mm-popup-overlay
+
+mumcentral.com.au##.fd-is-open.fd-modal
+
+www.popphones.com.au###exitpopup-modal
+www.popphones.com.au###footer_subscription_area
+
+watsonsjewellers.com.au###omnisend-dynamic-container
+
+starbuy.com.au##.kl-private-reset-css-Xuajs1.needsclick
+
+https://tasmania.com/wp-content/plugins/cookie-law-info/
+
+tasmaniaexplorer.com.au##.cb-box__wrapper-center_modal
+
+lapoftasmania.com.au###elementor-popup-modal-3444
+lapoftasmania.com.au##.elementor-widget-call-to-action
+
+radiotoday.com.au##.show-all > .mrwp_ads_center.mrwp_ads
+
+www.theiconic.com.au##div.columns.xlarge-pull-4.large-pull-5.medium-pull-6.medium-2.small-6:nth-of-type(2) > ul > li:nth-of-type(2) > .ga-track-link-click
+
+www.visitgippsland.com.au##.wisepops-root
+
+www.visitvictoria.com###cb
+www.visitvictoria.com##.subscriptions
+www.visitvictoria.com##.acknowledgement
+
+www.visitgippsland.com.au##.bg--blue-charcoal.SubscribeForm
+
+login.my.gov.au##.footer-acknowledgement
+
+theurbanlist.com##.PressPatron
+theurbanlist.com/cookie-consent
+
+$removeparam=viralityEntryPoint,domain=airbnb.com.au
+$removeparam=s,domain=airbnb.com.au
+$removeparam=unique_share_id,domain=airbnb.com.au
+$removeparam=source_impression_id,domain=airbnb.com.au
+
+
+$removeparam=x_pwa,domain=stayz.com.au
+$removeparam=rfrr,domain=stayz.com.au
+$removeparam=pwa_ts,domain=stayz.com.au
+$removeparam=referrerUrl,domain=stayz.com.au
+$removeparam=useRewards,domain=stayz.com.au
+$removeparam=adults,domain=stayz.com.au
+$removeparam=regionId,domain=stayz.com.au
+$removeparam=destination,domain=stayz.com.au
+$removeparam=destType,domain=stayz.com.au
+$removeparam=neighborhoodId,domain=stayz.com.au
+$removeparam=latLong,domain=stayz.com.au
+$removeparam=privacyTrackingState,domain=stayz.com.au
+$removeparam=searchId,domain=stayz.com.au
+$removeparam=top_dp,domain=stayz.com.au
+$removeparam=userIntent,domain=stayz.com.au
+$removeparam=selectedRoomType,domain=stayz.com.au
+$removeparam=selectedRatePlan,domain=stayz.com.au
+$removeparam=expediaPropertyId,domain=stayz.com.au
+
+mobile.everyday.com.au##.mb-4.pb-4.gap-4.mb-3.w-100.align-items-sm-center.align-items-start.justify-content-center.flex-sm-row.flex-column.d-flex.footer_acknowledge
+
+@@||accounts.woolworthsrewards.com.au^$script,domain=accounts.woolworthsrewards.com.au
+@@||s.go-mpulse.net^$script,domain=accounts.woolworthsrewards.com.au
+
+opengardensvictoria.org.au##.inner.col-sm-6.col-md-6
+
+www.drive.com.au##.liveChat_drive-container__q74vl
+www.drive.com.au##.roofrack-wrapper
+
+www.skynews.com.au##.nca-et-rendered.nca-et-embed
+
+ia.acs.org.au###subscribeModal
+
+www.gleneira.vic.gov.au##[href="/acknowledgement-of-country"]
+
+www.abc.net.au##.Typography_colourInherit__dfnUx.Typography_regular__WeIG6.Typography_lineHeightMobile24__crkfh.Typography_sizeDesktop12__iauRA.Typography_sizeMobile12__w_FPC.Typography_base__sj2RP
+www.abc.net.au##div.SiteFooterColumn_siteFooterColumn___RtYL > p
+
+iview.abc.net.au##.iv-_PRtJ.iv-_w59V.iv-PGO8E.iv-DtJ67.iv-_GhvI
+
+www.homeloanexperts.com.au##.sgpb-popup-dialog-main-div-wrapper
+www.homeloanexperts.com.au##.sgpb-popup-overlay
+https://www.homeloanexperts.com.au/wp-content/cache/min/1/wp-content/themes/homeloanexperts/js/cookie-handler.js
+
+www.savings.com.au###google-ad-side
+
+www.comedyfestival.com.au##.tooltip-wrapper--group-small-screen.tooltip-wrapper--filter.tooltip-wrapper
+
+www.melbourne.vic.gov.au##.AckCapped-width
+
+www.bigw.com.au##.footer-country.footer-section
+
+www.syn.org.au##p:nth-of-type(6) > em
+
+www.visitmelbourne.com##.acknowledgement > p
+
+www.theurbanlist.com##.footer-aoc
