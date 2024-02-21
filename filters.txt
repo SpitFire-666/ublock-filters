@@ -388,7 +388,7 @@ www.youtube-nocookie.com##.ytp-pause-overlay
 www.youtube.com##tp-yt-iron-dropdown.ytd-popup-container.style-scope > .tp-yt-iron-dropdown.style-scope
 www.youtube-nocookie.com##.ytp-pause-overlay-container
 www.youtube.com##.ytp-share-button-visible.ytp-show-share-title.ytp-share-button.ytp-button
-www.youtube.com##.ytp-info-panel-preview
+
 www.youtube.com##.ytp-show-watch-later-title
 
 tabs.ultimate-guitar.com##._3o2b6
