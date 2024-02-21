@@ -373,6 +373,23 @@ www.youtube.com##.ytp-gradient-bottom
 www.youtube.com##.ytp-gradient-top
 www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element-shadow
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(2)
+||music.youtube.com^$csp=worker-src 'none'
+||www.youtube.com^$csp=worker-src 'none'
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
+
+www.youtube-nocookie.com##.ytp-videowall-still-info
+www.youtube-nocookie.com##.ytp-pause-overlay
+www.youtube.com##tp-yt-iron-dropdown.ytd-popup-container.style-scope > .tp-yt-iron-dropdown.style-scope
+www.youtube-nocookie.com##.ytp-pause-overlay-container
+www.youtube.com##.ytp-share-button-visible.ytp-show-share-title.ytp-share-button.ytp-button
+www.youtube.com##.ytp-info-panel-preview
+www.youtube.com##.ytp-show-watch-later-title
 
 tabs.ultimate-guitar.com##._3o2b6
 tabs.ultimate-guitar.com##.js-fp-video
@@ -702,10 +719,6 @@ www.mytoll.com##.footer
 
 calendar.google.com##div.FrSOzf:nth-of-type(1)
 
-www.youtube.com###voice-search-button
-
-www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(2)
-
 www.theurbanlist.com##.linkby-widget
 
 community.spiceworks.com##.card-columns--old.card-columns
@@ -875,13 +888,6 @@ thehouseofportable.com###preload
 thehouseofportable.com###modalDisclaimer
 thehouseofportable.com##.mlock
 
-||music.youtube.com^$csp=worker-src 'none'
-||www.youtube.com^$csp=worker-src 'none'
-youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
-youtube.com##+js(json-prune, playerResponse.adPlacements)
-youtube.com##+js(json-prune, playerResponse.playerAds)
-youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
 
 ||fourhundredandtwenty.biz/wp-content/themes/fourhundredandtwenty_new/assets/420-bg.jpg$image
 fourhundredandtwenty.biz##.popup_ukraine__overlay
@@ -916,8 +922,6 @@ haydenjames.io###chkmk_mp4_1-main-video
 
 www.vari.com##.underlay
 www.vari.com##.body-overlay.veil
-
-www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 
 ||www.brisray.com/common/back1.jpg$image
 
@@ -1683,8 +1687,6 @@ webcache.googleusercontent.com##.ui-widget-overlay
 
 https://browser.events.data.microsoft.com/OneCollector/
 
-||www.youtube.com/generate_204$xhr
-
 https://c.amazon-adsystem.com/aax2/apstag.js
 https://tags.tiqcdn.com/utag/newsltd/news/
 
@@ -1709,8 +1711,6 @@ browser.events.data.microsoft.com
 
 ||aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
 ||aadcdn.msauth.net/shared/1.0/content/images/backgrounds/$image
-
-www.youtube.com##tp-yt-iron-dropdown.ytd-popup-container.style-scope > .tp-yt-iron-dropdown.style-scope
 
 www.lego.com##.fAvzRD.biscuitModalstyles__ModalContent-sc-19wlthm-0
 www.lego.com##.iATvAv.Modalstyles__Container-l3z049-0
@@ -1917,9 +1917,6 @@ www.thespruceeats.com##.mntl-block.mntl-jwplayer-broad
 www.thespruceeats.com##.gpt.mntl-gpt-adunit.mntl-leaderboard-fixed.mntl-leaderboard-fixed-0.mntl-leaderboard-header.leaderboard--header.leaderboard.has-right-label.comp
 www.thespruceeats.com##.is-requested.dynamic.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-lazy-flexible-ad.leaderboard--lazy.leaderboardfooter.js-lazy-ad.has-right-label.comp
 www.thespruceeats.com##.is-requested.dynamic.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-lazy-flexible-ad.leaderboard--lazy.leaderboardfooter2.js-lazy-ad.has-right-label.comp
-
-www.youtube-nobiscuit.com##.ytp-videowall-still-info
-www.youtube-nobiscuit.com##.ytp-pause-overlay
 
 https://torrindex.net/images/epv/
 
@@ -2206,8 +2203,6 @@ www.nytimes.com##.LargeCTABanner-module_relative__vctEf.LargeCTABanner-module_ba
 
 deadline.com##.a-wrapper.pmc-u-padding-a-1.u-box-shadow-medium
 
-www.youtube-nocookie.com##.ytp-pause-overlay-container
-
 tribecacitizen.com###banner
 
 eachnight.com##.inline-newslettersignup
@@ -2239,12 +2234,8 @@ map.blitzortung.org##.mapboxgl-ctrl-attrib-inner
 
 old.reddit.com##.seo-comments-recommendations.spacer
 
-www.youtube.com##.ytp-share-button-visible.ytp-show-share-title.ytp-share-button.ytp-button
-
 vi.aliexpress.com##.search--active--20ny0_q
 vi.aliexpress.com##.multi--shopCartImage--2DX88PV
-
-www.youtube.com##.ytp-info-panel-preview
 
 winfuture.de##.cmpwrapper
 winfuture.de##.cmpwrapper
@@ -2267,8 +2258,6 @@ https://assets.pinterest.com/js/pinit.js
 https://assets.pinterest.com/js/pinit_main.js
 
 www.afana.com##.roundearth-text.block-content--advertisers
-
-www.youtube.com##.ytp-show-watch-later-title
 
 www.ar15.com##.notify
 
@@ -2331,23 +2320,18 @@ www.olevod.com##.play_box_right
 
 watchsomuch.to##.btn-warning.btn
 
-
 player.resonancefm.com##.CookieBanner-module__wrap--1QK9t
 
-! 2023-12-08 http://archive.energyfm.net
 archive.energyfm.net##.CookieBanner-module__wrap--1QK9t
 
 https://static.files.bbci.co.uk/cookies/
 
-! 2023-12-08 https://www.fixradio.co.uk
 www.fixradio.co.uk##.CookieBanner-module__inner--ZAwNc
-
 
 web.archive.org##[href*=".facebook.com"]
 web.archive.org##[href*=".fbcdn.net"]
 
 www.verywellmind.com###article__broad-video-jw_1-0
-
 
 $removeparam=ei,domain=msn.com
 $removeparam=sc,domain=msn.com
@@ -2387,15 +2371,12 @@ songmeanings.com##div.ad-music:nth-of-type(4)
 www.techradar.com##.slice-container-newsletterForm
 www.techradar.com##.less-space.box.socialite-widget
 
-
 thestar.com.au##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-3dec5e0f.elementor-element.elementor-top-section.elementor-section
 
 www.topgear.com##.eRSlTv.TopContainer-sc-cy9ye3-1
 
-
 www.newgrounds.com##div.blackout-hover:nth-of-type(11)
 www.newgrounds.com##div.blackout:nth-of-type(12)
-
 
 www.dropbox.com###ccpa_consent_banner
 https://static01.nyt.com/packages/other/crossword/puzzle-media/shared/San_Jose_Strut.mp3
