@@ -292,7 +292,6 @@ www.snapengage.com
 www.zupimages.net
 zerossl.ocsp.sectigo.com
 
-
 $removeparam=hl,domain=google.com
 $removeparam=source,domain=google.com
 !$removeparam=tbm,domain=google.com
@@ -382,7 +381,7 @@ youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
 youtube.com##+js(json-prune, playerResponse.adPlacements)
 youtube.com##+js(json-prune, playerResponse.playerAds)
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
-
+www.youtube-nocookie.com##.ytp-pause-overlay-container
 www.youtube-nocookie.com##.ytp-videowall-still-info
 www.youtube-nocookie.com##.ytp-pause-overlay
 www.youtube.com##.ytp-show-watch-later-title
