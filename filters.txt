@@ -883,7 +883,6 @@ thehouseofportable.com###preload
 thehouseofportable.com###modalDisclaimer
 thehouseofportable.com##.mlock
 
-
 ||fourhundredandtwenty.biz/wp-content/themes/fourhundredandtwenty_new/assets/420-bg.jpg$image
 fourhundredandtwenty.biz##.popup_ukraine__overlay
 fourhundredandtwenty.biz##.hiring__banner-active.hiring__banner
@@ -1578,19 +1577,14 @@ news.com.au##.vms-playlist-loaded.vms-playing.vms-news.vms-ready.vms-player.mobi
 ||app.smartsheet.com/b/images/login-v4-background-desktop.png$domain=app.smartsheet.com
 app.smartsheet.com##div.clsJspButtonWide:nth-of-type(2)
 
-! 2022-11-03 https://www.lcdcomps.com
 www.lcdcomps.com##.ot-sdk-container
 
-! 2022-11-09 https://useinsider.com
 useinsider.com##.wt-cli-biscuit-bar-container
 
-! 2022-11-09 https://www.syntax.com
 www.syntax.com###BorlabsbiscuitBox
 
-! 2022-11-09 https://forums.prajwaldesai.com
 forums.prajwaldesai.com##.js-bottomFixTarget.u-bottomFixer
 
-! 2022-11-13 https://www.digitalnationaus.com.au
 www.digitalnationaus.com.au###gdpr-alert
 
 www.febooti.com###cc
@@ -1603,8 +1597,6 @@ collectingcars.com###reactbiscuitBanner
 en.wikipedia.org###siteNotice
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
 
-
-! 2022-12-19 https://hostingultraso.com
 hostingultraso.com###jg1r18011m081671497216171
 
 www.msn.com###eplantEntranceBubble
@@ -1618,20 +1610,15 @@ deviceadvice.io###biscuit-law-info-bar
 open.spotify.com##.main-view-container__mh-footer-container
 ||www.spotify.com/api/masthead/*$xhr,domain=open.spotify.com
 
-! 2023-01-08 https://login.live.com
 ||logincdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
 
-! 2023-01-15 https://app.smartsheet.com
 app.smartsheet.com##.clsPostFormInfo
 
-! 2023-01-17 https://www.tutorialspoint.com
 www.tutorialspoint.com###privacy-banner
 www.tutorialspoint.com##.col-xl-3.col-md-3.col-sm-6
 
-! 2023-01-31 https://liveonlineradio.net
 liveonlineradio.net##.biscuitinfo
 
-! 2023-01-31 https://tunein.com
 tunein.com##.common-dialog-module__content___VMF7d > div
 
 ||statics.teams.cdn.office.net/teams-modular-packages/*$xhr
@@ -1640,17 +1627,13 @@ tunein.com##.upsellDialogOverlay
 
 www.slido.com##.privacy-manager__banner--visible.privacy-manager__banner
 
-! 2023-02-12 https://tunein.com
 tunein.com##.loginDialogOverlay
-
 
 www.bbc.com###zephr-message
 
-! 2023-03-22 https://map.blitzortung.org
 map.blitzortung.org##.biscuit_div
 map.blitzortung.org##.topdiv
 
-! 2023-04-27 https://www.google.com.au
 ||ogs.google.com.au/u/0/widget/callout/sid$subdocument
 
 ||cdn-web.tunein.com/assets/img/premium/background-circles.jpg$image
@@ -1684,7 +1667,6 @@ https://browser.events.data.microsoft.com/OneCollector/
 
 https://c.amazon-adsystem.com/aax2/apstag.js
 https://tags.tiqcdn.com/utag/newsltd/news/
-
 
 ||aadcdn.msftauthimages.net/81d6b03a-nttxwt7vnswaeqiyexmpjexq27-cuh8hkiqz4cvfgua/$image
 
@@ -1800,7 +1782,6 @@ www.tiktok.com##.flex-auto.tt-sheet__body
 ! .nytimes.com##.Welcome-module_contentWelcomeContainer__UO4Ei
 ! ##.Welcome-module_contentWelcome__TL17B
 ! ##.MomentSystem-module_moment__G9hyw
-
 
 connect.mozilla.org##.lia-component-gdprbiscuitbanner-widget-biscuit-banner-alert.lia-biscuit-banner-alert
 
@@ -2005,6 +1986,7 @@ www.dailymail.co.uk##.shareComment
 www.dailymail.co.uk###floating-share-bar-container
 www.dailymail.co.uk##div.gamma:nth-of-type(6)
 www.dailymail.co.uk###dms-txt
+https://www.dailymail.co.uk/api/player/3133813/related-videos.json
 
 nypost.com##.opaque.detached.single__floating-share.floating-share-wrap
 
