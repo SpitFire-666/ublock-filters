@@ -67,11 +67,9 @@ www.gumtree.com.au##.nudge-login
 www.gumtree.com.au##.paypal-linking-message
 www.gumtree.com.au##.simplified.footer
 www.gumtree.com.au##.social-links
-
 www.gumtree.com.au##.top-ad-upsell
 www.gumtree.com.au##.top-ad-upsell__details
 www.gumtree.com.au##.zero-search-results__panel-content
-
 www.hardtofind.com.au##.is-hidden-mobile.otp-overlay
 www.heraldsun.com.au###persistent-marketing-banner
 www.itnews.com.au###gdpr-alert
@@ -291,7 +289,6 @@ www.babycenter.com.au##.bc-show-for-small.bcAd
 
 au.movember.com##.row.mospace-fb-and-apps
 au.movember.com##.mospace-key-statistics--title
-
 
 www.ebay.com.au##.no-subtitle.gh-fixed-banner-v3__hasLogo.gh-fixed-banner-v3__container
 www.ebay.com.au##.active.null.gh-fixed-banner-v3__wrapper.gh-coupon-banner
@@ -559,17 +556,14 @@ www.drive.com.au##.subscribe_drive-subscribe-content__wrapper__eL0k9
 www.ozbargain.com.au##.adssticky.ads
 www.ozbargain.com.au##.m-expand.feature.newsletter.node-teaser.node
 
-! 2023-09-08 https://www.timeout.com
 www.timeout.com##._overlay_kzzn5_1
 https://www.timeout.com/static/js/popup-newsletter-*.js
 https://www.timeout.com/static/js/taboola-*.js
 https://www.timeout.com/static/js/adwords-*.js
 https://www.timeout.com/static/js/ajax-advert-*.js
 
-
 https://www.glassdoor.com.au/garnish/static/js/gd-user-hardsell-overlay.bundle.js
 
-! 2023-09-11 http://syn.org.au
 syn.org.au##.col-sm-12 > p
 
 www.ebay.com.au##.gf-mrecad.gh-clearfix
@@ -583,15 +577,12 @@ https://identikid.com.au/cdn/shop/t/12/assets/jquery.fancybox.min.js
 
 $removeparam=doing_wp_cron,domain=pickr.com.au
 
-! 2023-09-24 https://www.visitmelbourne.com
 www.visitmelbourne.com###cb
 
-! 2023-09-24 https://concreteplayground.com
 concreteplayground.com##.footer-feedback-bar
 
 www.ebay.com.au##.s-item__watchheart--watch.on-image.s-item__watchheart
 
-! 2023-10-04 https://www.foodanddrinkbusiness.com.au
 www.foodanddrinkbusiness.com.au##.landing-ad
 
 theshot.net.au###fixed_footer
@@ -606,7 +597,6 @@ www.productreview.com.au##div.e4Y0Gt.jFDVwd:nth-of-type(4)
 www.productreview.com.au##.Mq8_JQ.en8iN_.D4HEUI.M75vAx.Fjwdwz
 www.productreview.com.au##div.e4Y0Gt.jFDVwd:nth-of-type(8)
 www.productreview.com.au##.e4Y0Gt
-
 
 https://cdn.productreview.com.au/assets/public/gnisitrevda_4de38944.js
 https://cdn.productreview.com.au/assets/public/diberp_69a10f29.js
@@ -674,7 +664,6 @@ themusic.com.au##.mb-4
 themusic.com.au##.overflow-hidden > .max-w-full.items-center.justify-center.mb-5.flex
 themusic.com.au##.lg\:gap-x-5.lg\:justify-center.lg\:grid-cols-site.grid > div > .max-w-full.items-center
 
-! 2023-12-14 https://purplesneakers.com.au
 purplesneakers.com.au##.leading-5.font-bold.text-center.bg-white.cursor-pointer.w-full.z-10.left-0.bottom-0.fixed.lg\:block.hidden
 purplesneakers.com.au##.overflow-hidden > .mb-4
 purplesneakers.com.au##.overflow-hidden > .max-w-full.items-center.justify-center.mb-5.flex
@@ -726,7 +715,6 @@ $removeparam=viralityEntryPoint,domain=airbnb.com.au
 $removeparam=s,domain=airbnb.com.au
 $removeparam=unique_share_id,domain=airbnb.com.au
 $removeparam=source_impression_id,domain=airbnb.com.au
-
 
 $removeparam=x_pwa,domain=stayz.com.au
 $removeparam=rfrr,domain=stayz.com.au
