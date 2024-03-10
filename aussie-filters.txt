@@ -773,3 +773,65 @@ www.syn.org.au##p:nth-of-type(6) > em
 www.visitmelbourne.com##.acknowledgement > p
 
 www.theurbanlist.com##.footer-aoc
+
+www.abc.net.au##aside
+
+$removeparam=amp_js_v,domain=news.com.au
+$removeparam=amp_tf,domain=news.com.au
+$removeparam=referrer,domain=news.com.au
+$removeparam=ampshare,domain=news.com.au
+$removeparam=amp_tf,domain=news.com.au
+$removeparam=aoh,domain=news.com.au
+$removeparam=referrer,domain=news.com.au
+
+$removeparam=itmprp,domain=ebay.com.au
+$removeparam=itmmeta,domain=ebay.com.au
+$removeparam=itmprp,domain=ebay.com.au
+
+
+amp.abc.net.au##.ofqUa > p
+
+www.caloriecounter.com.au###double_mrecs
+forummelbourne.com.au##.acknowledgement
+
+www.pakronics.com.au##.modal--exit-popup.modal
+
+www.metrotrains.com.au###footer-home__bottom > p
+
+www.qantas.com##.aem-GridColumn--offset--default--0.aem-GridColumn--offset--phone--0.aem-GridColumn--default--12.aem-GridColumn.aem-GridColumn--phone--12.aem-GridColumn--phone--none.aem-GridColumn--default--none.padding--medium.width--standard.layout-styles--charcoal.responsivegrid.container.layout-container
+
+blueprint.asd.gov.au###aoc > p
+blueprint.asd.gov.au###aoc
+
+
+eukybear.com.au###footer-copyright > div
+eukybear.com.au###shopify-section-footer-top
+
+www.monash.edu##.graphite-intro
+
+www.sbs.com.au##.css-tm3fgx.MuiList-root > .css-3lr7zh.MuiListItem-padding.MuiListItem-gutters.MuiListItem-root
+www.sbs.com.au##.jss401
+
+
+themusic.com.au##.lg\:gap-x-5.lg\:justify-center.lg\:grid-cols-site.grid > div > .max-w-full.items-center.justify-center.mb-5.flex
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(10)
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(1)
+themusic.com.au##div.lg\:gap-x-5.lg\:grid-cols-page.lg\:grid > div > div > div.max-w-full.items-center.justify-center.mb-5.flex
+themusic.com.au##div.lg\:gap-x-5.lg\:grid-cols-page.lg\:grid > div > div.max-w-full.items-center.justify-center.mb-5.flex
+
+https://www.nickscali.com.au/static/version*/frontend/Nickscali/default/en_US/WeltPixel_Newsletter/js/widget/newsletterpopup.min.js
+
+www.castlery.com##.is-shown.rf1p8B
+
+earlysettler.com.au##.p-4.mx-auto.items-center.flex-col.flex.container
+
+uniden.com.au##.cp-modal-every-design-container.cp_id_218ad.cp-modal-popup-container.cp-module
+
+www.realestate.com.au##.xOqJr.PageBodyAd__AdWrapper-sc-nlvdpn-1
+
+www.glassdoor.com.au##.e1yw8gyz2.css-kymynp-StyledUserAlertBanner
+
+www.ebay.com.au##.x-ads-placements--101506.vim.adp-vim.x-ads-placements
+
+www.carsguide.com.au##.col-sm-12.col-md-12.col-lg-12.ad-board
+www.carsguide.com.au##.top-16.sticky.rhc-desktop-only
