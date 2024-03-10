@@ -786,8 +786,6 @@ $removeparam=referrer,domain=news.com.au
 
 $removeparam=itmprp,domain=ebay.com.au
 $removeparam=itmmeta,domain=ebay.com.au
-$removeparam=itmprp,domain=ebay.com.au
-
 
 amp.abc.net.au##.ofqUa > p
 
@@ -803,7 +801,6 @@ www.qantas.com##.aem-GridColumn--offset--default--0.aem-GridColumn--offset--phon
 blueprint.asd.gov.au###aoc > p
 blueprint.asd.gov.au###aoc
 
-
 eukybear.com.au###footer-copyright > div
 eukybear.com.au###shopify-section-footer-top
 
@@ -811,7 +808,6 @@ www.monash.edu##.graphite-intro
 
 www.sbs.com.au##.css-tm3fgx.MuiList-root > .css-3lr7zh.MuiListItem-padding.MuiListItem-gutters.MuiListItem-root
 www.sbs.com.au##.jss401
-
 
 themusic.com.au##.lg\:gap-x-5.lg\:justify-center.lg\:grid-cols-site.grid > div > .max-w-full.items-center.justify-center.mb-5.flex
 themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(10)
