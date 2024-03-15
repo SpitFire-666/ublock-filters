@@ -2374,3 +2374,61 @@ www.ebay.com##.x-ads-placements--101195.vim.adp-vim.x-ads-placements
 www.ebay.com##.x-ads-placements--101196.vim.adp-vim.x-ads-placements
 
 ||www.varmintal.com/huntbgd.gif$image
+
+cottonon.com###compliance-links > div > span
+cottonon.com###compliance-links > div:nth-of-type(1)
+
+www.fhinds.co.uk##.footer-newsletter
+chronospride.com.au###omnisend-dynamic-container
+
+www.lifewire.com##.jw-keep-thumbnail.jw-floating-dismissible.jw-flag-small-player.jw-breakpoint-1.jw-skin-mantle.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-playing.jw-reset.jwplayer
+
+gearspace.com###search-bnb-afterfirstresult
+gearspace.com###thread__sidebar
+
+www.logohistories.com##._subscribeDialog_1mspu_1.pc-reset.pc-alignItems-center.pc-flexDirection-column.pc-display-flex.pencraft
+www.logohistories.com##.show-subscribe.subscription-widget
+www.logohistories.com##._background_1mspu_85
+www.logohistories.com##.subscribe-footer
+
+www.theguardian.com##.dcr-z2ky1d > gu-island
+
+
+health.clevelandclinic.org##.bp1400\:mt-\[-19rem\].bp1400\:h-\[calc\(100\%\+19rem\)\].mt-rem48px.min-w-\[300px\].bg-white.bp1100\:block.hidden
+health.clevelandclinic.org##.mx-auto.mb-rem96px.my-rem24px.justify-center.\[\@media\(min-width\:1200px\)\]\:flex.hidden
+
+! 2024-02-15 https://www.medicalnewstoday.com
+www.medicalnewstoday.com##.active.banner-sticky__bg-light-mnt.banner-sticky
+
+www.forbes.com##.newsletter-inline-flex
+
+! 2024-02-20 https://www.sitepoint.com
+www.sitepoint.com##div.custom-content
+
+blog.udemy.com###courses-block-block_e0569140e341efbdcea60c4edac798be > .container > div
+blog.udemy.com###courses-block-block_e0569140e341efbdcea60c4edac798be
+
+! 2024-02-25 https://www.chilipeppermadness.com
+www.chilipeppermadness.com##.kt-layout-id_c8ac33-f4.kt-row-has-bg.kt-row-layout-inner
+
+www.skyscrapercity.com##.notice-plus
+
+word-edit.officeapps.live.com##.root-525.ms-Button > .flexContainer-108.ms-Button-flexContainer
+
+outlook.live.com##._2PxBL_S6KFCMTya8zm3aLF.ZXaaK9lo4E9sH50KY3o0C
+
+www.vietjetair.com##.jss54.MuiDialogContent-root
+www.vietjetair.com##.MuiDialog-root
+
+pcdn.co/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js
+spot.im/production/conversation/tags/v3.82.23/ad-container-bundle.js
+
+https://statics.teams.cdn.office.net.mcas.ms/teams-modular-packages/hashed-assets/survey-locale-en-gb-6e441296e623f57b.js
+https://statics.teams.cdn.office.net.mcas.ms/teams-modular-packages/hashed-assets/meeting-analytics-locale-en-gb-9a225e4fc88dfa96.js
+
+https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js
+
+https://common.online.office.com/suite/RemoteTelemetry
+$removeparam=search_p4p_id,domain=aliexpress.com
+
+logos.fandom.com##.marketing-notifications
