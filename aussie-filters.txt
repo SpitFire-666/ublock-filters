@@ -831,3 +831,29 @@ www.ebay.com.au##.x-ads-placements--101506.vim.adp-vim.x-ads-placements
 
 www.carsguide.com.au##.col-sm-12.col-md-12.col-lg-12.ad-board
 www.carsguide.com.au##.top-16.sticky.rhc-desktop-only
+
+safetystoreaustralia.com.au##.avada-footer-scripts
+
+auspost.com.au##app-acknowledgement-footer
+
+www.wilsonstorage.com.au##.footer__small
+
+qota.com.au##.acknowledgement
+qota.com.au##.footer-top.bw-section
+www.gtm.net.au##.inner-wrapper > p:nth-of-type(2)
+memberonline.unisuper.com.au##.detail
+
+www.ebay.com.au > .clearfix.s-item__wrapper > .s-item__image-section > .s-item__watchheart--watch.on-image.s-item__watchheart
+
+ultimatebackyard.com.au##.tl-anim-zoom_in.tl-states-root
+ultimatebackyard.com.au###tve_tcb2_blank > .tve-leads-conversion-object
+https://ultimatebackyard.com.au/wp-content/plugins/thrive-leads/tcb/editor/js/dist/modules/lead-generation.min.js?
+
+www.ebay.com.au###placement101195
+www.ebay.com.au##.x-ads-placements--101196
+
+
+iview.abc.net.au###loginPrompt
+||cdn.iview.abc.net.au/thumbs/*/le/LE2227H_628b1c0ccd736_3600.jpg$image
+
+https://jbh-au-services-api-v2-prod.azurefd.net/ServicesApi/v2/services/suggestions
