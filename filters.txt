@@ -57,7 +57,6 @@ assets.hearstapps.com
 banners.adultfriendfinder.com
 banners.askmecca.com
 bat.bing.com
-bazaarvoice-prod-01.dn.apigee.net
 beacon-v2.helpscout.net
 beacons.gcp.gvt2.com
 beacons.gvt2.com
@@ -1111,11 +1110,7 @@ www.nakivo.com##.sgpb-popup-dialog-main-div-wrapper
 www.nakivo.com##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
 
 www.dymo.com##.show.fade.modal-backdrop
-||bazaarvoice-prod-01.dn.apigee.net^$domain=dymo.com
-||api.bazaarvoice.com^$script,domain=www.dymo.com
 ||content.syndigo.com^$domain=www.dymo.com
-||display.ugc.bazaarvoice.com^$script,domain=www.dymo.com
-
 dymo.com##body,html:style(overflow:auto!important)
 
 www.healthline.com##.css-6l6gc
