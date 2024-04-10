@@ -2427,3 +2427,35 @@ https://common.online.office.com/suite/RemoteTelemetry
 $removeparam=search_p4p_id,domain=aliexpress.com
 
 logos.fandom.com##.marketing-notifications
+
+www.creativebloq.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
+www.creativebloq.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent-K4B2n7qEhEJ8JD4YKyWKPd.newsletter-inbodyContent-slice.slice-container
+
+collectingcars.com##.modal-overlay
+collectingcars.com##.signUp
+
+www.watchcollecting.com###modal-root
+
+https://embed.tawk.to/
+
+pitchfork.com##.sticky-box
+
+https://account-frontends.adidas.com/account_account-portal/
+
+darko.audio##.g1-row-inner > ul
+darko.audio###ubm-banners-11 > .ubm_banner
+
+www.tnt.com##.\31 \/1.layout__item > p
+
+petapixel.com##div.fluid-iframe:nth-of-type(7)
+
+makersaid.com##.humix-universal-js-insert
+
+themusicnetwork.com###floating-player-wrap
+themusicnetwork.com###skin-ad-container
+themusicnetwork.com##.subscribe-footer
+
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+www.youtube.com##.opened
+
+www.youtube.com##.ytp-share-button-visible.ytp-show-share-title.ytp-share-button.ytp-button
