@@ -1273,3 +1273,167 @@ lazyadmin.nl##.swp_float_left.slide.swp_other_full_color.swp_individual_full_col
 
 teams.microsoft.com.mcas.ms##.popover-content
 www.theverge.com##.c-newsletter_signup_box__main
+
+ap-southeast-2.token.awswaf.com/*/*/telemetry
+
+docs.oracle.com###footer-banner
+
+www.hypedc.com##.\32 xl\:px-16.lg\:px-8.py-8.px-4.bg-grey-lightest.overflow-auto.justify-center.items-center.flex-col.w-full.flex.mb-4.z-0
+
+stackoverflow.com###top-hero-div
+lazyadmin.nl###lazy_note
+www.pcmag.com##.md\:py-8.md\:px-32.contain-intrinsic-size-\[auto_none\].content-visibility-auto.text-center.p-4.bg-gray-100.rounded.mt-8.container-xs
+
+www.winfuture-forum.de##.wf_gcsi
+cosmomattia75vista.altervista.org##av-adv-slot.av-adsense-responsive:nth-of-type(2)
+cosmomattia75vista.altervista.org##av-adv-slot.av-adsense-responsive:nth-of-type(1)
+
+theitbros.com###__wrapper-sticky > div
+
+
+hypercd.software.informer.com##.jqibox
+
+www.winfuture-forum.de##.adsbygoogle
+www.winfuture-forum.de##.header > td
+
+itsallinthecode.com##.md\:px-5.pb-10.items-center.flex-col.w-full.flex.mt-20.my-10
+https://itsallinthecode.com/api/collect
+https://itsallinthecode.com/api/track
+
+||assets.file.org/images/bfo-770x200.jpg$image
+file.org##.fix_cumulative_layout_shift
+
+winaero.com##div.windiv:nth-of-type(1)
+winaero.com##.entry-content > div.windiv > p
+winaero.com##div.windiv:nth-of-type(4)
+
+
+https://portal.azure.com/Content/12.331.2.112.331.0.145678756.240103-0124/Scripts/@microsoft/1ds-analytics-web-js.js
+
+https://res.cdn.office.net/scc-resources/resources/ww/scc/static/angular/1.8.3/angular-cookies.js
+
+www.cpu-world.com##.top_adh
+
+devblogs.microsoft.com##.open.alert-banner
+
+https://res-1.cdn.office.net/todo/1364879_2.107.1/telemetry.dll.js
+
+devblogs.microsoft.com##.site-footer
+
+https://cdn.jsdelivr.net/ghost/announcement-bar@~1.1/umd/announcement-bar.min.js
+
+
+powershelladministrator.com##.site-header
+
+www.androidauthority.com##div.--___Mh:nth-of-type(12)
+
+www.tenforums.com###thread_info > div:nth-of-type(1)
+
+
+! 2023-09-03 https://www.thewindowsclub.com
+www.thewindowsclub.com##.entry.tag-tips.tag-backup.category-windows.has-post-thumbnail.format-standard.status-publish.type-post.post.post-7678 > .widget
+
+! 2023-09-03 https://www.minitool.com
+www.minitool.com##.flex.footer-join-wrapper
+
+! 2023-09-03 https://www.ubackup.com
+www.ubackup.com###__aomei-sidebar
+
+
+https://mcasproxy.azureedge.net/proxyweb/1.42.20/js/templates/monitored-access.hbs
+
+
+
+https://aad.portal.azure.com/AzureHubs/api/Telemetry
+https://aad.portal.azure.com/api/extensiontelemetry
+https://pac.support.ext.azure.com/api/v1/clientTelemetry
+https://aad.portal.azure.com/Content/*/Scripts/@microsoft/1ds-analytics-web-js.js
+
+! 2023-09-16 https://cpu-comparison.com
+cpu-comparison.com##div.row:nth-of-type(4)
+cpu-comparison.com##.mt-3.row > .col-12
+
+||stephan.win31.de/verl4.gif$image
+
+https://breeze.aimon.applicationinsights.io/v2/track
+
+https://statics.teams.cdn.office.net.mcas.ms/hashed/audio/
+https://login.microsoftonline.com/common/instrumentation/reportstaticmecontroltelemetry
+https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js
+https://techcommunity.microsoft.com/t5/scripts/06C711A4BFEE964D702C0EA61528D902/SurveyPromptDialog.js
+https://cdn.techcommunity.microsoft.com/lithium/msLogo-survey.png
+https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js
+
+raspberrypi.stackexchange.com##.wmx12
+
+
+https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js
+
+
+https://mcasproxy.azureedge.net/proxyweb/1.40.20/js/templates/monitored-access.hbs
+https://mcasproxy.azureedge.net/proxyweb/1.40.20/js/MonitoredAccess.js
+https://browser.events.data.microsoft.com.mcas.ms/OneCollector/
+https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js
+
+adamtheautomator.com##.slick-inline-search-panel
+
+||www.moon-soft.com/program/FORMAT/jpg/di1.JPG$image
+
+
+! 2023-07-18 https://askubuntu.com
+askubuntu.com##.wmx12.mx-auto
+
+! 2023-07-19 https://www.betaarchive.com
+
+||www.betaarchive.com/imageupload/2013-08/1376294707.or.33957.jpg$image
+www.betaarchive.com##.signature
+
+
+! 2023-07-20 https://www.wired.com
+www.wired.com##.ddagmel.bIieWF.PersistentBottomWrapper-eddooY
+www.wired.com##.newsletter-subscribe-form
+www.wired.com##.verso-in-page-marketing-newsletter-row
+www.wired.com##.journey-unit__container
+
+www.neowin.net###guestnag
+www.neowin.net##.ipsColumns_collapsePhone.ipsColumns_noSpacing.ipsColumns.ipsClear.ipsClearfix.ipsComment_parent.ipsComment.ipsBox.cPost.classes
+www.neowin.net##.ipsSpacer_top.cTopicPostArea_noSize.ipsPadding.ipsResponsive_pull.ipsBox.cTopicPostArea
+
+https://js.monitor.azure.com/scripts/c/ms.analytics-web-3
+
+
+https://statics.teams.cdn.office.net.mcas.ms/apc/trans.gif
+https://tr-tmc-geo.office.com.mcas.ms/apc/trans.gif
+https://teams.events.data.microsoft.com.mcas.ms/OneCollector/
+https://statics.teams.cdn.office.net.mcas.ms/evergreen-assets/personal-expressions/v2/assets/emoticons/
+
+! 2023-06-26 https://www.windowscentral.com
+www.windowscentral.com###slice-container-newsletterForm-articleInbodyContent
+
+! 2023-06-29 https://discussions.apple.com
+discussions.apple.com##.shown.site-wide.notification
+
+
+! 2023-06-30 https://www.ebay.com
+
+https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watson
+https://to-do-cdn.microsoft.com/webapp/ba12c19c3d5a0b0dc97b4959ff6a024d34b3bc5d1c333ae733c79c2eeeeea793/telemetry.dll.js
+
+
+! 2023-07-04 https://www.pctechguide.com
+||www.pctechguide.com/wp-content/themes/focus-pro/images/lines.png$image
+
+! 2023-07-05 https://forum.vcfed.org
+forum.vcfed.org##.tooltip-content
+https://res-1.cdn.office.net/todo/1108307_2.99.2/telemetry.dll.js
+
+www.pcgamer.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
+www.pcgamer.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent.newsletter-inbodyContent-slice.slice-container
+
+
+www.extremetech.com##.pb-10.pt-4.bg-gray-100.border-gray-200.border-t.mt-12
+
+forum.vcfed.org##.p-header-content > ul
+
+www.thomasmaurer.ch##.entry > .mc4wp-ajax.mc4wp-form-11140.mc4wp-form
+www.thomasmaurer.ch##.scale-full_width.scale-100.swp_individual_full_color.swp_other_color_outlines.swp_default_full_color.swp_modern.swp_horizontal_panel.swp_social_panel
