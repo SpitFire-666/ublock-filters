@@ -857,3 +857,25 @@ iview.abc.net.au###loginPrompt
 ||cdn.iview.abc.net.au/thumbs/*/le/LE2227H_628b1c0ccd736_3600.jpg$image
 
 https://jbh-au-services-api-v2-prod.azurefd.net/ServicesApi/v2/services/suggestions
+
+auspost.com.au##app-acknowledgement-footer
+www.kathmandu.com.au###mailing-list-form
+www.kathmandu.com.au##.newsletterInfo-1hO
+www.interstateremovals.com.au##.newsletter_area
+www.carsales.com.au##.row.footer-text
+www.priceme.com.au##.heroAds
+auspost.com.au##.atsi-footer
+startrack.com.au##.atsi-footer
+josefchromy.com.au##.col-xl-6.col-sm-12.footer-card-1
+ducanebrewing.com.au##.country.row
+memberonline.unisuper.com.au##.section__detail
+memberonline.unisuper.com.au##div.section:nth-of-type(4)
+www.crikey.com.au##div.grid__col-3:nth-of-type(3)
+www.tourismtasmania.com.au##.footer-aoc__wrapper.row
+www.discovertasmania.com.au##.welcome-to-country
+hobartandbeyond.com.au##.elementor-section-height-default.elementor-section-boxed.elementor-element-0e4f6c2.elementor-element.elementor-top-section.elementor-section
+www.broadsheet.com.au##.subscription-modal
+
+www.groupon.com.au###subsUI
+
+||web.aips-sol.com.cdn.cloudflare.net^
