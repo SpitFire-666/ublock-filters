@@ -1,4 +1,5 @@
 ! Title: SpitFire-666: 🇦🇺 Aussie uBlock Filters
+! -- Sites made by/for australians --
 
 auspost.com.au##.header
 paycalculator.com.au##.jss1341.MuiBox-root
@@ -852,7 +853,6 @@ https://ultimatebackyard.com.au/wp-content/plugins/thrive-leads/tcb/editor/js/di
 www.ebay.com.au###placement101195
 www.ebay.com.au##.x-ads-placements--101196
 
-
 iview.abc.net.au###loginPrompt
 ||cdn.iview.abc.net.au/thumbs/*/le/LE2227H_628b1c0ccd736_3600.jpg$image
 
@@ -879,3 +879,172 @@ www.broadsheet.com.au##.subscription-modal
 www.groupon.com.au###subsUI
 
 ||web.aips-sol.com.cdn.cloudflare.net^
+
+www.genv.org.au##.c-footer__inclusion
+www.genv.org.au##.c-footer-flags
+
+www.thelumemelbourne.com##.footer-ackno-wrapper > .footer-text
+
+ducanebrewing.com.au###mc_embed_signup
+ducanebrewing.com.au##.country.row
+
+josefchromy.com.au##.col-xl-6.col-sm-12.footer-card-1 > .card-body > p
+
+wwos.nine.com.au##.cZoHhE.sc-jeGSXX
+
+tinybear.com.au##.dev > p
+
+www.davidjones.com##.m-pad-lr-15.pad-lr-20.pad-tb-50
+
+www.nowtolove.com.au##.ad-billboard__wrapper.container
+www.nowtolove.com.au##.widget-area.article-masthead-sidebar > .sticky-ad-wrapper
+www.nowtolove.com.au###TeadsContainer1
+www.nowtolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(2)
+www.nowtolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(3)
+www.nowtolove.com.au##.article-related-stories__main > .native-ad-wrapper
+www.nowtolove.com.au##.half-page.ad
+www.nowtolove.com.au###page > .hide-on-desktop.mrec.ad
+www.nowtolove.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
+
+qv1.com.au##.wrapper.welcome-to-country
+
+australianbartender.com.au##.thb-cookie-bar
+
+www.examiner.com.au##div.lg\:max-w-\[752px\].md\:max-w-\[324px\].mb-6.mx-auto:nth-of-type(32)
+www.examiner.com.au##.flex-col.flex.z-30.bottom-0.sticky
+www.examiner.com.au##.bg-gray-600.md\:hidden.block
+www.examiner.com.au##div.lg\:max-w-\[752px\].md\:max-w-\[324px\].mb-6.mx-auto:nth-of-type(7)
+www.examiner.com.au##div.lg\:max-w-\[752px\].md\:max-w-\[324px\].mb-6.mx-auto:nth-of-type(40)
+www.examiner.com.au##div.lg\:max-w-\[752px\].md\:max-w-\[324px\].mb-6.mx-auto:nth-of-type(53)
+www.examiner.com.au##div.lg\:max-w-\[752px\].md\:max-w-\[324px\].mb-6.mx-auto:nth-of-type(64)
+www.examiner.com.au##div.lg\:max-w-\[752px\].md\:max-w-\[324px\].mb-6.mx-auto:nth-of-type(67)
+
+classicfireplaces.com.au###section-350-41
+
+www.bcf.com.au##.pb-3.pt-3.m-auto.centered.container
+
+www.woolworths.com.au##.footer-acknowledgment.footer-section
+
+www.officeworks.com.au##.op-tile-wrapper
+www.officeworks.com.au##.ow-social
+
+bkklaboratory.business.site###cookieDialog
+
+www.sbs.com.au##.css-tm3fgx.MuiList-root
+
+www.huggies.com.au##p.copy-info:nth-of-type(1)
+
+mcdonalds.com.au##.max-width-container.acknowledgement
+
+www.foodanddrinkbusiness.com.au##.footer-ack
+
+www.gleneira.vic.gov.au##[href="/acknowledgement-of-country"]
+
+www.monash.vic.gov.au##div.col-lg-3.col-m-6.col-s-6.col-xs-12 > p
+
+www.carsguide.com.au##.default-newsletter
+
+www.bigw.com.au##.CategoryRecommendationCarousels_container__bwcfJ.LazyLoad_LazyLoad__CyrNB
+www.bigw.com.au##.footer-country.footer-section
+
+auspost.com.au##.atsifooter
+
+www.news.com.au##.share-tools
+
+watchpad.com.au###app-embed-container-45517
+
+www.9news.com.au##div.widget-ad.widget:nth-of-type(8)
+www.9news.com.au##.layout__inner > div.widget-ad.widget
+
+www.mamamia.com.au##.mm-popup-overlay
+www.mamamia.com.au##.post-content-parent-1
+
+www.templeandwebster.com.au##.promo-banner
+
+secretmelbourne.com##.gpt-margin-bottom.smn-home-section__aside
+secretmelbourne.com###content > aside
+
+secretmelbourne.com##.visible.floating-share-buttons
+
+www.family-getaways-melbourne.com##.messenger.socialIcon
+www.family-getaways-melbourne.com##.SocialShareStickyBottom.SocialShareSticky.SocialShare
+
+www.betootaadvocate.com###sndx-110792-snack_mex2
+www.betootaadvocate.com###sndx-110792-snack_mex3
+www.betootaadvocate.com###sndx-110792-snack_mex4
+www.betootaadvocate.com###sndx-110792-snack_mex5
+
+www.foxsports.com.au###i-amp-8 > .i-amphtml-fx-flying-carpet-clip
+||web.foxsports.com.au/amp-article/newsletter/newsletter.html$subdocument
+www.foxsports.com.au##i-amphtml-scroll-container
+
+www.racenet.com.au##.upcoming-race__meeting-list > .ad-m-mrec-container.ad-block__container
+www.racenet.com.au##.ad-m-mrec-container.ad-block__container
+www.racenet.com.au##.header-ad--mobile
+
+
+www.foxsports.com.au###i-amp-1
+
+www.drive.com.au##.openChat_drive__open-chat__tab-container__vdQvB
+
+www.drive.com.au##.gam_textfixed_pos1.gam-textfixed-pos1.gam-ad
+
+www.realestate.com.au##.lead-gen__action-link
+
+www.hotdoc.com.au##.js_smartbanner.smartbanner--ios.smartbanner
+www.hotdoc.com.au###native-apps
+
+www.domain.com.au###adb-srp-insearch-1
+www.domain.com.au###adb-srp-insearch-2
+www.domain.com.au###adb-srp-insearch-3
+
+www.flophouse.com.au##.yui-popup-container-node
+
+www.realestate.com.au###advert-strip1
+
+emergency.vic.gov.au##.js_smartbanner.smartbanner--android.smartbanner
+
+www.drinkstrade.com.au##.show.fade.modal
+www.drinkstrade.com.au##.show.fade.modal-backdrop
+www.drinkstrade.com.au##.modal-body
+www.drinkstrade.com.au##.modal-header
+||sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://www.drinkstrade.com.au/wp-content/themes/tdadrinks/dist/images/bg_popup.png$image
+
+||www.comedyfestival.com.au/theme/season/style/img/shared/ad-empty.png$image
+||www.comedyfestival.com.au/theme/season/style/img/shared/ad-empty.png$image
+www.comedyfestival.com.au##.ads--show.ads.show-brief--two.show-brief
+
+www.sauls.com.au##.OPT_IN.ICON.BOTTOM_LEFT.DARK.POPUP.sqs-cookie-banner-v2
+
+www.who.com.au##.Video-Wrapper--JWPlayer.Video-Wrapper
+
+www.news.com.au###fixed-ad
+
+www.ebay.com.au##.yolo-show.g-signin-mweb
+
+missamara.com.au##.text-center.sale_popup
+missamara.com.au###gorgias-chat-container
+missamara.com.au##.exitintent_561_856d7f41_0317.exitintent_561_856d7f41_039 > div
+
+www.betootaadvocate.com##.hustle-main-wrapper
+
+sitchu.com.au##.display-subscribe.modal-dialog-centered.modal-dialog > .modal-content > .modal-body
+
+www.domain.com.au##.css-vep9h8
+www.domain.com.au##.css-94txvb
+
+www.perthnow.com.au##.e1ar06v00.css-115hphd-StyledToastContainer.ToastNotification.cookie-consent--normal
+www.perthnow.com.au##.ezkyf1c1.css-mbwzd9-StyledStickyFooterAdUnit > .ezkyf1c0.css-qyun7f-StyledAdUnitWrapper.ad-no-notice.hide-print
+
+www.carsales.com.au###credential_picker_iframe
+
+ray-white-carnegie.business.site###cookieDialog
+
+www.booktopia.com.au###credential_picker_iframe
+
+www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
+
+www.carsales.com.au##.js_smartbanner.smartbanner--android.smartbanner
+
+www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
+www.retail.org.au##.wp-widget-group__inner-blocks
