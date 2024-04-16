@@ -1048,3 +1048,5 @@ www.carsales.com.au##.js_smartbanner.smartbanner--android.smartbanner
 
 www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
 www.retail.org.au##.wp-widget-group__inner-blocks
+
+agaaustralia.com.au##.et_pb_row_1_tb_footer.et_pb_row
