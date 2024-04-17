@@ -1050,3 +1050,23 @@ www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
 www.retail.org.au##.wp-widget-group__inner-blocks
 
 agaaustralia.com.au##.et_pb_row_1_tb_footer.et_pb_row
+
+www.cassandthecanvas.com##.rte.footer-block__details-content
+www.cassandthecanvas.com##.inline-richtext.footer-block__heading
+
+agaaustralia.com.au##.et_pb_row_1_tb_footer.et_pb_row
+
+www.powerlink.com.au##.field--item.field--label-hidden.field--type-text-with-summary.field--name-body.field
+
+www.optus.com.au##.styles__AcknowledgementCountryWrapper-static__sc-z72gbs-12
+
+
+www.telstra.com.au##.telstra-footer-react-acknowledgements--section
+
+au.nextdoor.com###id-10 > div
+au.nextdoor.com##.blocks-2rwum1
+
+www.ebay.com.au##.ux-navigator__container
+
+www.drive.com.au##.blocks_drive-block__ad__wrapper__qwfLJ
+
