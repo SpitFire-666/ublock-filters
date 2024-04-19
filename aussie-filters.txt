@@ -982,7 +982,6 @@ www.racenet.com.au##.upcoming-race__meeting-list > .ad-m-mrec-container.ad-block
 www.racenet.com.au##.ad-m-mrec-container.ad-block__container
 www.racenet.com.au##.header-ad--mobile
 
-
 www.foxsports.com.au###i-amp-1
 
 www.drive.com.au##.openChat_drive__open-chat__tab-container__vdQvB
@@ -1060,7 +1059,6 @@ www.powerlink.com.au##.field--item.field--label-hidden.field--type-text-with-sum
 
 www.optus.com.au##.styles__AcknowledgementCountryWrapper-static__sc-z72gbs-12
 
-
 www.telstra.com.au##.telstra-footer-react-acknowledgements--section
 
 au.nextdoor.com###id-10 > div
@@ -1070,3 +1068,6 @@ www.ebay.com.au##.ux-navigator__container
 
 www.drive.com.au##.blocks_drive-block__ad__wrapper__qwfLJ
 
+gardenstatehotel.com.au##.c-footer-acknowledgement
+www.vic.gov.au##.rpl-footer__custom-content
+www.wa.gov.au##.footer__acknowledgement
