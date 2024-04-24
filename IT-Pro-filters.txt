@@ -1437,3 +1437,21 @@ forum.vcfed.org##.p-header-content > ul
 
 www.thomasmaurer.ch##.entry > .mc4wp-ajax.mc4wp-form-11140.mc4wp-form
 www.thomasmaurer.ch##.scale-full_width.scale-100.swp_individual_full_color.swp_other_color_outlines.swp_default_full_color.swp_modern.swp_horizontal_panel.swp_social_panel
+
+www.win3x.org##table.main:nth-of-type(4)
+www.win3x.org##table.main:nth-of-type(3) > tbody > .bg1 > td
+
+www.wilderssecurity.com##.noticeCookiesContent
+
+www.warez-v3.org###user-unlogged
+www.warez-v3.org###phpbb_announcement_3
+
+msfn.org##.cc_banner-wrapper
+msfn.org##.ipsSpacer_top.cTopicPostArea_noSize.ipsPadding.ipsResponsive_pull.ipsBox.cTopicPostArea
+
+||logincdn.msauth.net/shared/5/images/$image
+
+windowsforum.com###adsense-wrapper
+
+pureinfotech.com##.cc-color-override--724964106.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+pureinfotech.com###newswrapper
