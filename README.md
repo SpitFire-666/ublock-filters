@@ -1,5 +1,4 @@
-# SpitFire-666's ublock-filters page
-
+# SpitFire-666's uBlock Origin Filters
 
 | Name | Desc | Click to subscribe | Manual URL |
 |--|--|--|--|
@@ -19,8 +18,6 @@
 https://crawlingrobotfortress.blogspot.com/2020/09/wildcard-selectors-in-ublock-origin.html
 
 https://www.reddit.com/r/uBlockOrigin/comments/gee5w1/how_to_permanently_block_elements/
-
-
 
 https://geek.digit.in/community/threads/share-your-ublock-filter-rules-here.210238/
 
