@@ -2649,3 +2649,86 @@ www.independent.co.uk##.vf-tray-trigger-widget
 
 en.m.wikipedia.org###centralNotice > .frb-rml-enabled.frb
 en.m.wikipedia.org##.frb-inline-border
+
+https://static.chrono24.com/lib/generated/js/google-tag-manager
+https://static.chrono24.com/lib/generated/js/modal-layer-modal-invoker
+
+
+watchranker.com##.section-subscription.section
+
+www.thebulwark.com##._popover_1dtnr_18.pc-borderRadius-md.pc-reset.pc-boxShadow-md.pc-justifyContent-center.pc-flexDirection-column.pc-display-flex.pencraft
+www.thebulwark.com##._subscribeDialog_1h9fv_1.pc-reset.pc-alignItems-center.pc-flexDirection-column.pc-display-flex.pencraft
+
+https://events.tryamped.com/
+
+www.epicgardening.com##.needsclick.amped-wrapper
+
+! 2024-04-21 https://livelovefruit.com
+livelovefruit.com##.slick-film-strip
+
+www.photoshopbuzz.com###popForm-397606333
+www.photoshopbuzz.com##div:nth-of-type(4)
+www.photoshopbuzz.com##div:nth-of-type(5)
+||forms.aweber.com/images/closebox.png$image
+
+||cloudfront.net/img/error/illustration.jpg$image
+
+wetransfer.com##.welcome--consent-wall.welcome
+
+https://www.etsy.com/api/v3/ajax/public/shop-analytics/impression-log
+
+www.howtogeek.com##.w-newsletter-in_article
+
+www.albumoftheyear.org##div:nth-of-type(33)
+
+www.isabeleats.com##.cpro-overlay
+
+
+
+www.google.com##.rcVM6e > svg
+
+botwiki.org##.pb-3.mb-5.container
+
+www.ecosia.org##.cookie-wrapper
+
+gearspace.com###showthread-category-vendors-firstpost-bnb
+
+www.skyscrapercenter.com##.cookie-consent__message
+www.skyscrapercenter.com##.pb-2.inset-x-0.bottom-0.fixed.cookie-consent.js-cookie-consent
+
+fujifilm-x.com###onetrust-consent-sdk
+
+www.reddit.com##embed-snippet-share-button
+
+www.xtreme-skate.com##.elementor-section-content-middle.elementor-section-height-default.elementor-section-boxed.elementor-section-stretched.elementor-top-section.elementor-element-pvmrhkg.elementor-element.elementor-section
+
+livestatsnet.services
+
+
+! 2024-04-16 https://www.tasteofhome.com
+www.tasteofhome.com##.recipe-toh.social-menu-desktop.social-share
+www.tasteofhome.com##.newsletter
+
+! 2024-04-17 https://collectingcars.com
+collectingcars.com###modal-root
+
+! 2024-04-17 https://www.watchcollecting.com
+www.watchcollecting.com##.modal-overlay
+
+! 2024-04-18 https://www.igoroseledko.com
+www.igoroseledko.com##.td-front-end-display-block.td-more-articles-box
+
+www.healthline.com##.css-1u22pos > .css-20w1gi
+
+www.timeout.com##.row > .panel_form
+www.timeout.com##._full-width-ui_1elek_111.newsletter_footer._container_1xvir_1
+www.timeout.com##._footer_ad_wrap_1n2qg_43
+
+www.whosampled.com##div.crates-banner:nth-of-type(5)
+||www.whosampled.com/static/images/banners/$image
+
+markus-guentner.bandcamp.com##.tos-update.corpbanner
+
+! 2023-10-28 https://www.instructables.com
+www.instructables.com##.promo-side
+
