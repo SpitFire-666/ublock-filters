@@ -1455,3 +1455,23 @@ windowsforum.com###adsense-wrapper
 
 pureinfotech.com##.cc-color-override--724964106.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 pureinfotech.com###newswrapper
+
+
+www.theregister.com###condor_2
+www.theregister.com###falcon_5
+
+www.electro-tech-online.com##.xb-welcome-notice
+
+https://portal.office.com/feedback/SurveySettings/
+
+msfn.org##.cGuestTeaser.ipsPad.ipsType_center
+
+fordauthority.com##.mc4wp-form-fields > .row
+
+www.pcmag.com##.\!mb-0.video-parent
+
+www.insecam.org##.ya-share2_inited.ya-share2
+
+||whatismyip.org/theme/defaultext/img/seobanner.png$image
+
+http://tplinkwifi.net/webpages/themes/default/img/splash.jpg
