@@ -1071,3 +1071,19 @@ www.drive.com.au##.blocks_drive-block__ad__wrapper__qwfLJ
 gardenstatehotel.com.au##.c-footer-acknowledgement
 www.vic.gov.au##.rpl-footer__custom-content
 www.wa.gov.au##.footer__acknowledgement
+
+cornerhotel.com##.subscribe-modal-wrapper--show.subscribe-modal-wrapper
+
+www.homestolove.com.au##.teads.ad
+www.homestolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(3)
+www.homestolove.com.au###page > .hide-on-desktop.mrec.ad
+www.homestolove.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
+
+www.ergopouch.com.au##.content-text-footer > p
+
+www.drive.com.au##.liveChat_drive-container__6_tlA
+www.drive.com.au##.footer-wrapper.layout_drive-layout__footer-wrapper__JV_Z4 > div
+
+taxcuts.gov.au##div.col-md-6:nth-of-type(1)
+
+4zzz.org.au###acknowledgement
