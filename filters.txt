@@ -2388,22 +2388,18 @@ www.logohistories.com##.subscribe-footer
 
 www.theguardian.com##.dcr-z2ky1d > gu-island
 
-
 health.clevelandclinic.org##.bp1400\:mt-\[-19rem\].bp1400\:h-\[calc\(100\%\+19rem\)\].mt-rem48px.min-w-\[300px\].bg-white.bp1100\:block.hidden
 health.clevelandclinic.org##.mx-auto.mb-rem96px.my-rem24px.justify-center.\[\@media\(min-width\:1200px\)\]\:flex.hidden
 
-! 2024-02-15 https://www.medicalnewstoday.com
 www.medicalnewstoday.com##.active.banner-sticky__bg-light-mnt.banner-sticky
 
 www.forbes.com##.newsletter-inline-flex
 
-! 2024-02-20 https://www.sitepoint.com
 www.sitepoint.com##div.custom-content
 
 blog.udemy.com###courses-block-block_e0569140e341efbdcea60c4edac798be > .container > div
 blog.udemy.com###courses-block-block_e0569140e341efbdcea60c4edac798be
 
-! 2024-02-25 https://www.chilipeppermadness.com
 www.chilipeppermadness.com##.kt-layout-id_c8ac33-f4.kt-row-has-bg.kt-row-layout-inner
 
 www.skyscrapercity.com##.notice-plus
@@ -2546,72 +2542,46 @@ www.nytimes.com##.LargeCTABanner-module_relative__vctEf.LargeCTABanner-module_ba
 moddroid.com###ad_block_reminder_dialog
 moddroid.com##.text-center.fixed-icons
 
-! 2024-01-12 https://vonbaronmusic.com
 vonbaronmusic.com##.mc-layout__bannerContent > [src]
 
-! 2024-01-16 https://www.future-feed.com
 www.future-feed.com##.yui-popup-container-node
 
-! 2024-01-16 https://www.independent.co.uk
 www.independent.co.uk##.jXjFKb.sc-1qz44j0-14.iEdPqp.sc-1qz44j0-13
 
-! 2024-01-16 https://www.usatoday.com
 www.usatoday.com###gnt_atomsnc > .hydrated
 www.usatoday.com##.gnt_em_anc.gnt_em
 www.usatoday.com##.tealplayer-ad-container
 www.usatoday.com##.gnt_em_vp_c
 
-! 2024-01-16 https://www.edinburghlive.co.uk
 ||www.inyourarea.co.uk/widgets/$subdocument
 www.edinburghlive.co.uk##.has-image.factbox
 www.edinburghlive.co.uk##.sharebar > ul
 
-! 2024-01-16 https://www.nytimes.com
 www.nytimes.com###dock-container
 
-! 2024-01-21 https://www.skyscrapercity.com
 www.skyscrapercity.com###google-one-tap-iframe
 www.skyscrapercity.com##.primis-wrapper.message-cell--main.message-info-block.message-cell
 www.skyscrapercity.com##.california-thread-ad.california-ad-mobile.california-ad.california-banner-ad-container
 
-! 2024-01-26 https://www.thebump.com
 www.thebump.com##div.in-article-ad
 ||static.thebump.com/v2/shared/share-icons/pinterest-v1.png$image
 
-! 2024-01-28 https://humornama.com
 humornama.com##center
 humornama.com##.entry-content > span
 humornama.com###comments > span
 humornama.com##.gb-headline-text.gb-headline-cd083838.gb-headline > span
 
-! 2024-01-29 https://m.economictimes.com
 m.economictimes.com###downloadApp
 
-! 2024-01-29 https://www.nzherald.co.nz
 www.nzherald.co.nz##.toaster-text-wrap
 ||accounts.google.com/gsi/iframe/select$subdocument
 www.nzherald.co.nz###credential_picker_iframe
 www.nzherald.co.nz##.header-wrap
 www.nzherald.co.nz##.down.premium-toaster
 
-! 2024-01-29 https://www.forbes.com
 www.forbes.com##.no-close.zephr-generic-modal.zephr-article-modal-modal
 www.forbes.com##.zephr-backdrop.zephr-article-modal-backdrop
 
-! 2024-01-29 https://www.semafor.com
-
-
-! 2024-02-02 https://www.reddit.com
-
-
-! 2024-02-04 https://www.bmwgroup.com
-
-
-! 2024-02-05 https://www.allrecipes.com
-
-! 2024-02-06 https://deadline.com
-
-! 2024-02-06 https://www.pcmag.com
 www.pcmag.com##.\!mb-0.video-parent
 www.pcmag.com##.container-xs.mt-8.p-4.md\:py-8.md\:px-32.text-center.bg-gray-100.rounded
 www.pcmag.com##.leading-tight.text-gray-400.text-sm.border-gray-600.border-b.py-8
@@ -2653,7 +2623,6 @@ en.m.wikipedia.org##.frb-inline-border
 https://static.chrono24.com/lib/generated/js/google-tag-manager
 https://static.chrono24.com/lib/generated/js/modal-layer-modal-invoker
 
-
 watchranker.com##.section-subscription.section
 
 www.thebulwark.com##._popover_1dtnr_18.pc-borderRadius-md.pc-reset.pc-boxShadow-md.pc-justifyContent-center.pc-flexDirection-column.pc-display-flex.pencraft
@@ -2683,8 +2652,6 @@ www.albumoftheyear.org##div:nth-of-type(33)
 
 www.isabeleats.com##.cpro-overlay
 
-
-
 www.google.com##.rcVM6e > svg
 
 botwiki.org##.pb-3.mb-5.container
@@ -2704,18 +2671,13 @@ www.xtreme-skate.com##.elementor-section-content-middle.elementor-section-height
 
 livestatsnet.services
 
-
-! 2024-04-16 https://www.tasteofhome.com
 www.tasteofhome.com##.recipe-toh.social-menu-desktop.social-share
 www.tasteofhome.com##.newsletter
 
-! 2024-04-17 https://collectingcars.com
 collectingcars.com###modal-root
 
-! 2024-04-17 https://www.watchcollecting.com
 www.watchcollecting.com##.modal-overlay
 
-! 2024-04-18 https://www.igoroseledko.com
 www.igoroseledko.com##.td-front-end-display-block.td-more-articles-box
 
 www.healthline.com##.css-1u22pos > .css-20w1gi
@@ -2729,6 +2691,23 @@ www.whosampled.com##div.crates-banner:nth-of-type(5)
 
 markus-guentner.bandcamp.com##.tos-update.corpbanner
 
-! 2023-10-28 https://www.instructables.com
 www.instructables.com##.promo-side
 
+troypoint.com##.code-block-15.code-block > .formkit-form.seva-form
+troypoint.com##.code-block-4.code-block
+troypoint.com##.formkit-slide-in
+troypoint.com##.entry-effect.mysticky-welcomebar-animation
+
+histats.com
+kwanmmmdgr.com
+kwanmmmdgr.com
+naubatodo.com
+inbound.clkcore.com
+cpacrack.com
+techbric.com
+pjfpjtlbmhuds.com
+phkucgq.com
+onemobclk.com
+csgobettings.com
+sg.protoolapp.online
+marshakhula.top
