@@ -1087,3 +1087,30 @@ www.drive.com.au##.footer-wrapper.layout_drive-layout__footer-wrapper__JV_Z4 > d
 taxcuts.gov.au##div.col-md-6:nth-of-type(1)
 
 4zzz.org.au###acknowledgement
+
+pigandwhistlehotel.com.au##.elementor-widget-text-editor.elementor-widget.elementor-element-6ddd4ca.elementor-element > .elementor-widget-container > p
+
+www.aap.com.au##.u-mobile-margin-top-10.parents.col-12.col-sm-12.col-lg-7
+
+www.sleepattheg.com.au##p:nth-of-type(2)
+||d1gaqhckjiv8du.cloudfront.net/89e1a7cecc34bbbfd2dde8797f182d93.png$image
+||d1gaqhckjiv8du.cloudfront.net/18107d875330ba6ff3ff3348d3546fad.jpg$image
+||d1gaqhckjiv8du.cloudfront.net/7496809910bc7f082e3048d21c8a961d.jpg$image
+www.sleepattheg.com.au##[src="https://d1gaqhckjiv8du.cloudfront.net/89e1a7cecc34bbbfd2dde8797f182d93.png"]
+www.sleepattheg.com.au##[src="https://d1gaqhckjiv8du.cloudfront.net/18107d875330ba6ff3ff3348d3546fad.jpg"]
+||d1gaqhckjiv8du.cloudfront.net/7496809910bc7f082e3048d21c8a961d.jpg$image
+www.sleepattheg.com.au##[src="https://d1gaqhckjiv8du.cloudfront.net/7496809910bc7f082e3048d21c8a961d.jpg"]
+
+www.decjuba.com.au##.tracking-sm.leading-md.text-xs.lg\:max-w-\[477px\].text-grey-inactive.w-full.md\:block.hidden.lg\:pt-0.pt-10
+
+gormanshop.com.au###shopify-section-165992436463be42ac > .banner-section
+
+www.georges.com.au###shopify-section-newsletter
+
+www.digidirect.com.au##.pr-newsletter-popup__wrp
+
+taxcuts.gov.au##div.col-md-6:nth-of-type(1)
+
+www.pbsfm.org.au##.small.acknowledgement
+
+4zzz.org.au###acknowledgement
