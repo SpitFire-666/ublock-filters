@@ -1,5 +1,5 @@
 ! Title: SpitFire-666: uBlock Filters
-! Expires: 3 days
+! Expires: 1 days
 ! Description: Remove all the 💩
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
