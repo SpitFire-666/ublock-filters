@@ -2758,3 +2758,5 @@ www.watchcollecting.com##.modal-overlay
 
 www.igoroseledko.com##.td-front-end-display-block.td-more-articles-box
 watchranker.com##.section-subscription.section
+
+internetguardiansec.com
