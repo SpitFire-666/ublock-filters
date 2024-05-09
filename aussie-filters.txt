@@ -1122,3 +1122,17 @@ www.babykingdom.com.au##.w-100.widget-block.widget
 kidsafeqld.com.au##.et_pb_row_1_tb_footer.et_pb_row
 
 www.betta.com.au###_lpSurveyPopover
+
+www.servicesaustralia.gov.au##.md\:w-1\/2.md\:text-right.md\:align-right.md\:mb-0.mb-9
+www.centrelink.gov.au##p.ng-star-inserted.font-weight-bold.text-center
+my.gov.au##gui-footer-logo.hydrated
+www.centrelink.gov.au##cos-toast
+
+www.unisuper.com.au##.footer-section__atsi-recognition
+
+www.mocka.com.au##.md-max\:mt-4.md\:ml-6.wysiwyg-footer-bottom > p
+www.mocka.com.au##newsletter-form
+
+koalaliving.com.au##.col-12.col-md-5 > p
+
+kidsafeqld.com.au##.et_pb_bg_layout_light.et_pb_text_align_center.et_pb_text_7_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner > p
