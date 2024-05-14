@@ -2760,3 +2760,6 @@ www.igoroseledko.com##.td-front-end-display-block.td-more-articles-box
 watchranker.com##.section-subscription.section
 
 internetguardiansec.com
+
+web.aips-sol.com.cdn.cloudflare.net
+web.aips-sol.com
