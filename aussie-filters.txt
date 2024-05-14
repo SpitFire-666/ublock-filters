@@ -1151,11 +1151,10 @@ www.stonnington.vic.gov.au##div.col-m-4.col-s-6.col-xs-12:nth-of-type(3) > p:nth
 
 engage.vic.gov.au##.rpl-site-footer__acknowledgement.rpl-acknowledgement
 
-
 www.carsales.com.au##._1lalutr3o6._1lalutroc._1lalutrhc._1lalutrfo.iompba3.iompba0 > .a6hzxt0.a6hzxtg._1tlv1fe8f._1lalutrg0.iompba0
+www.carsales.com.au##.cookieConsentRoot
 https://resource.csnstatic.com/retail/tracking-api/
 https://dl92pxcsol84m.cloudfront.net/javascript/a360.consent.default.js
 https://resource.csnstatic.com/retail/vendors/js-cookie/
-
 $removeparam=xp-rcm-id,domain=carsales.com.au
 $removeparam=source,domain=carsales.com.au
