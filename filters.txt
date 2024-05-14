@@ -54,7 +54,6 @@ apps.rokt.com
 assets-jpcust.jwpsrv.com
 assets.emarsys.net
 assets.hearstapps.com
-banners.adultfriendfinder.com
 banners.askmecca.com
 bat.bing.com
 beacon-v2.helpscout.net
@@ -105,11 +104,8 @@ d1z2jf7jlzjs58.cloudfront.net
 d2j042cj1421wi.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 dashboard.tinypass.com
-deliver.oztam.com.au
 deliver.ptgncdn.com
 dpm.demdex.net
-dsum.carsalesmedia.com
-dsum.casalemedia.com
 e0.drtst.com
 e2.drtst.com
 e4.drtst.com
@@ -118,14 +114,11 @@ ejie.me
 ekr.zdassets.com
 engine.realself.com
 entitlements.jwplayer.com
-Error: near "GROUP": syntax error
 events.landmarksid.com
 experience.tinypass.com
-fapello-leaks.com
 fastlane.rubiconproject.com
 fff.dailymail.co.uk
 flimg.flickr.com
-fls-fe.amazon.com.au
 fls-na.amazon.com
 fresnel-events.vimeocdn.com
 fundingchoicesmessages.google.com
@@ -145,9 +138,7 @@ grs.dbankcloud.com
 grs.dbankcloud.eu
 hbopenbid.pubmatic.com
 hbx.media.net
-htlb.casalemedia.com
 htlbid.com
-hubt.pornhub.com
 hulkprod.anm.co.uk
 i1.ytimg.com
 ib.adnxs.com
@@ -271,7 +262,6 @@ tse4.mm.bing.net
 twinrdsrv.com
 u.openx.net
 ui.adv-settings.privilegecloud.cyberark.cloud
-valentine.xhamster.com
 vc.ads.dailymail.co.uk
 videosvc.ezoic.com
 visitor.omnitagjs.com
@@ -279,10 +269,9 @@ webed.dm-event.net
 widgets.pinterest.com
 wpad.lan
 www.clarity.ms
-www.daftporn.com
-www.google-analytics.com
-www.googleoptimize.com
-www.googletagmanager.com
+google-analytics.com
+googleoptimize.com
+googletagmanager.com
 www.huppy.it
 www.npttech.com
 www.premiumvertising.com
@@ -538,9 +527,9 @@ www.booking.com##.b_leaving_users_light_box_mask.modal-mask
 
 www.wikihow.com###article_courses_banner
 
-www.nico-maas.de##.biscuit-notice-container
+www.nico-maas.de##.cookie-notice-container
 
-www.jimenezphoto.com##.is-show.rb-biscuit
+www.jimenezphoto.com##.is-show.rb-cookie
 
 www.wikihow.com###rightrail0_ad_1 > .adsbygoogle
 www.wikihow.com###article_courses_banner
@@ -605,7 +594,7 @@ uploaded.net###placement_209660_0_iframe
 uploaded.net###placement_209659_0_iframe
 uploaded.net###premium-button-area > .tfree-standard.tfree > tbody > .aT > td > form > .prem
 
-www.digikey.com##.biscuit-notice
+www.digikey.com##.cookie-notice
 
 www.semicon.sanken-ele.co.jp##.gdpr
 
@@ -646,7 +635,7 @@ www.urbandictionary.com##.slogan-panel > .panel-margin
 
 www.goldisaneutral.co.uk##.pie-wrapper
 
-easyodds.com##.biscuitfirst-root
+easyodds.com##.cookiefirst-root
 
 scalibq.wordpress.com##.ads-active.hide-on-button
 
@@ -658,7 +647,7 @@ stylebyemilyhenderson.com##.my-5.row
 www.familyhandyman.com##.project-top-advertisment
 
 ||v2.cimg.co/other/155/25954/*loans-300x*600.jpg$image
-cryptonews.com##.biscuitConsentWrapper
+cryptonews.com##.cookieConsentWrapper
 ||v2.cimg.co/other/159/25972/*970x250-copy-2*.jpg$image
 cryptonews.com##[href="https://rapi.cryptonews.com/outgoing/159"]
 
@@ -871,8 +860,6 @@ twitter.com##div#layers div[data-testid=”sheetDialog”]:upward(div[role=”gr
 twitter.com##+js(overlay-buster.js)
 twitter.com##html:style(overflow: unset !important)
 
-www.propertychat.com.au###nativeads_ad_below_messages
-
 ||imagesvc.meredithcorp.io/v3/jumpstartpure/image$image
 www.bhg.com##.jumpstart-video
 resistorcolorcodecalc.com##.show.consent.text-center.alert-dismissible.alert
@@ -966,8 +953,6 @@ cdn122.com###btn-unmute
 
 ||www.washingtonpost.com/wp-apps/imrs.php$image
 
-www.ebay.com.au##.clearfix.srp-merch__items
-
 $removeparam=pdp_npi,domain=aliexpress.com
 newbedev.com##.ads-718-460
 dziurologia.blogspot.com##.skiptranslate.goog-te-banner-frame
@@ -990,11 +975,6 @@ www.typing.com###tooltip_zmlm69pv7y > .is-visible.tooltip
 www.typing.com##.is-active.tooltip--blur.tooltip-wrapper
 
 www.washingtonpost.com##.ease-in.duration-400.transition-all.paywall-overlay.overflow-auto.bottom-0.right-0.left-0.fixed
-
-www.productreview.com.au##div.d-flex_RNf.flex-column__BR.align-items-center_amm:nth-of-type(5)
-www.productreview.com.au##div.d-flex_RNf.flex-column__BR.align-items-center_amm:nth-of-type(10)
-
-au.nextdoor.com###id-5 > .css-yh6px8
 
 www.goodreads.com##.Overlay__window
 www.goodreads.com##.Overlay--floating.Overlay
@@ -1097,11 +1077,11 @@ https://simplywall.st/static/js/components-GuestRegistrationModal.modern.9283a7a
 
 ||ogs.google.com/widget/callout$subdocument
 
-www.ribbonsoft.com###redim-biscuithint-bottom
+www.ribbonsoft.com###redim-cookiehint-bottom
 
 success.trendmicro.com##.c-container
 
-www.cheapsslshop.com##.biscuits
+www.cheapsslshop.com##.cookies
 
 businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(2)
 businesstechplanet.com##figure.is-style-stripes.wp-block-table:nth-of-type(1)
@@ -1146,7 +1126,7 @@ onedrive.live.com##.main-45.od-mobileWebToAppUpsell-dialog--BannerStyle.ms-Dialo
 
 www.rollingstone.com###adm-in-list-x > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
 
-kmandla.wordpress.com###eu-biscuit-law > form
+kmandla.wordpress.com###eu-cookie-law > form
 kmandla.wordpress.com##.ads-active.hide-on-button
 
 www.apartmenttherapy.com##.Ad--empty.Ad--6782-GenAptTherapy-Post-Post_004.Ad
@@ -1154,8 +1134,6 @@ www.apartmenttherapy.com##.SitePostLayout > .jsx-853266564
 
 m.facebook.com##._56bf._55wo > div
 
-www.productreview.com.au##div.filters-ad_lv4.d-flex_RNf.justify-content-center_zro.flex-column__BR.align-items-center_amm:nth-of-type(1)
-www.productreview.com.au##.neg-mx-1_em6
 
 www.thesun.co.uk##.article__content > .advert-wrapper--header.advert-wrapper
 www.thesun.co.uk##.advert-wrapper--outstream.advert-wrapper
@@ -1186,9 +1164,9 @@ www.urbandictionary.com##.justify-end.items-center.flex > li
 
 bellalunafamily.com##.fl-node-content.fl-module-content > .gform_legacy_markup_wrapper.gform_wrapper.gf_browser_chrome
 
-huckleberrycare.com##.mx-lg-5.mx-md-1.biscuit-banner
+huckleberrycare.com##.mx-lg-5.mx-md-1.cookie-banner
 
-jakebeldercars.wordpress.com##.widget_eu_biscuit_law_widget.widget
+jakebeldercars.wordpress.com##.widget_eu_cookie_law_widget.widget
 
 www.subaruforester.org##.vtf.login-buttongroup
 
@@ -1252,14 +1230,6 @@ facebook.*^$removeparam=ref
 facebook.*^$removeparam=referral_code
 facebook.*^$removeparam=referral_story_type
 
-danmurphys.com.au$removeparam=isFromSearch
-danmurphys.com.au$removeparam=test
-danmurphys.com.au$removeparam=isPersonalised
-danmurphys.com.au$removeparam=isSponsored
-danmurphys.com.au$removeparam=pageName
-
-asos.*^$removeparam=clr
-
 www.healthline.com##.css-6l6gc > .email.button-wrapper
 
 www.worthpoint.com##.ads-banner-container
@@ -1278,8 +1248,6 @@ www.espn.com##.active.video.feed-item-figure > .img-wrap
 www.espn.com##.editorial.sub-module
 
 linustechtips.com##.longSignature.ipsPadding_vertical.ipsBorder_top
-
-www.harrisscarfe.com.au##.show.fade.modal-backdrop
 
 outlook.office.com##.root-267.ms-Dialog.is-open.ms-Modal
 
@@ -1309,17 +1277,14 @@ tiktok.com^$removeparam=item_id
 tiktok.com^$removeparam=embed_source
 
 ||linkedin.com^$removeparam=updateEntityUrn
-! 2022-10-31 https://community.tp-link.com
-community.tp-link.com##.tp-biscuit-script
 
-www.ramint.gov.au##.div_splash
+community.tp-link.com##.tp-cookie-script
 
 ||cyberark-customers.force.com/file-asset/TechCommSiteRebrand_LoginBackground$image
 
 www.paypal-community.com##.lia-in.lia-dialog-titleless.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 www.paypal-community.com##.ui-widget-overlay
 
-! 2022-11-07 https://download.cnet.com
 download.cnet.com##.c-globalModal_backdrop
 download.cnet.com##.c-globalModal_isOpen.c-adShoppingExit_modal.c-globalModal
 download.cnet.com##.c-pageProductDetail-playlist
@@ -1328,14 +1293,11 @@ www.guidingtech.com##.content > div
 
 ||acctcdn.msauth.net/images/$image
 
-www.fresha.com##.biscuitBanner_desktop__76b234cb
+www.fresha.com##.cookieBanner_desktop__76b234cb
 
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(4)
 
 www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.welcome-popup
-
-www.ebay.com.au###placement_html_101112 > .merch-module
-www.ebay.com.au##.merch-module--grid.merch-module > .aspects-1.container_wrapper
 
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(2)
 www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.xat24cr.xdj266r.x13mpval.x1w4qvff.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl:nth-of-type(1)
@@ -1386,30 +1348,19 @@ magnetmagazine.com##[href="https://magnetmagazine.com/say-its-your-birthday/"]
 
 hackaday.io##.guest-message-signup-static.guest-message-signup.page-basic-info-static-dark.page-basic-info-static
 
-www.news.com.au##.vms-sticky-player
-www.news.com.au##.rp-muted-autoplay
-www.news.com.au##.vms-playlist-loaded.vms-playing.mobileui-mini
-www.news.com.au##.media-container
-
 www.liquorland.co.nz###newsletterExitPopUpPlaceHolder
 www.liquorland.co.nz##.show.fade.modal-backdrop
 
-
-! 2023-01-06 https://www.ndtv.com
 www.ndtv.com##.fvotd.externalVideo.ins_instory_dv_cont
 
-! 2023-01-06 https://finance.yahoo.com
 finance.yahoo.com###Overlay-0-Lightbox
 
-! 2023-01-06 https://www.nytimes.com
 www.nytimes.com##.efw9frv0.css-1q0ihc0.expanded-dock.expanded.shown.MAG_web_all_Monthly-Sale-dock_1
 
-! 2023-01-07 https://www.mazda3revolution.com
 www.mazda3revolution.com##.tooltip-content
 
 ||geo.yahoo.com^
 
-! 2023-01-14 https://www.thingiverse.com
 www.thingiverse.com##.ThingPage__topAd--cUNKg.AdCard__leaderboard--2Yt9x
 
 ||bugmenot.com/assets/bmn.js$script,1p
@@ -1434,8 +1385,6 @@ www.hgtv.com##.o-Header__m-Area--Bottom.o-Header__m-Area
 www.almanac.com##div.layout--twocol-section--67-33.layout--twocol-section.layout:nth-of-type(5)
 www.almanac.com##.layout--onecol.layout.print-no.newsletters-signup-wrapper
 
-www.bigw.com.au##.ModalOverlay.ReactModal__Overlay--after-open.ReactModal__Overlay
-
 www.lightroompresets.com##.boomMainDemo-0-0-1.mm-slideout.drawer__header-container.is-moved-by-drawer
 
 facebook.com^$removeparam=referralSurface
@@ -1449,13 +1398,10 @@ www.dpreview.com##.gearList.section
 ! 2023-02-13 https://forum.allaboutcircuits.com
 
 
-! 2023-02-14 https://lifehacker.com
 lifehacker.com##.cDxdXM.sc-1yqkh4a-0 > .video-html5-playlist.hxLRyg.sc-1wkneyl-0 > .video-html5-loaded
 
-! 2023-02-19 https://www.grays.com
 www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_ctl01_targetedTiles1 > .marketing
 
-! 2023-02-22 https://www.thespruce.com
 www.thespruce.com##.mntl-block.div.ad-group.ad-group--sc.js-scads-inline-content.comp
 
 www.newegg.com##.bg-lightgrayblue.page-section
@@ -1466,21 +1412,12 @@ www.mobilesum.com###placeholder_sticky_bottom
 
 www.bestslogans.com##div.left_content:nth-of-type(14)
 
-www.babycenter.com.au###appDownloadModule
-www.babycenter.com.au##.hide-for-small.regModule.module
-
-www.nickscali.com.au##.header-global-promo
-
 www.dontwasteyourmoney.com##.boxzilla-center-container.boxzilla-container
 www.dontwasteyourmoney.com##.boxzilla-193919-overlay.boxzilla-overlay
 
 theawesomer.com##.gcwp-carousel
 
-au.nextdoor.com##.css-1p4ao6t
-https://d19rpgkrjeba2z.cloudfront.net/static/nextdoorv2/js/ads/ads.js
-au.nextdoor.com##.css-15g5td4
-
-www.bbc.co.uk##.biscuitBanner-module__wrap--1QK9t
+www.bbc.co.uk##.cookieBanner-module__wrap--1QK9t
 
 forums.stardock.com##.stardockad
 
@@ -1489,14 +1426,11 @@ forums.stardock.com##.stardockad
 ||distillery.wistia.com/x$xhr
 ||prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com^$xhr
 
-
 soundcloud.com##.ot-fade-in.onetrust-pc-dark-filter
 
 ||cdn1.link/img/bgs.png$image
 
 ||api.us-west-2.aiv-delivery.net/Events/AV20180601$xhr,domain=www.primevideo.com
-
-books.google.com.au##.gb_Wd
 
 www.canva.com##._5aUrJg.R4vkCQ.MxhaIQ
 
@@ -1565,8 +1499,6 @@ www.mumsnet.com##.lg\:block.hidden.bg-gray-200.min-h-\[546px\].pb-14.pt-1.my-10
 
 www.gettyimages.co.uk###customer_notifications_application
 
-news.com.au##.vms-playlist-loaded.vms-playing.vms-news.vms-ready.vms-player.mobileui-mini.vms-sticky.vms-queued.module.vms
-
 ||www.reddit.com/account/sso/one_tap/$subdocument
 
 ||app.smartsheet.com/b/images/login-v4-background-desktop.png$domain=app.smartsheet.com
@@ -1574,20 +1506,18 @@ app.smartsheet.com##div.clsJspButtonWide:nth-of-type(2)
 
 www.lcdcomps.com##.ot-sdk-container
 
-useinsider.com##.wt-cli-biscuit-bar-container
+useinsider.com##.wt-cli-cookie-bar-container
 
-www.syntax.com###BorlabsbiscuitBox
+www.syntax.com###BorlabscookieBox
 
 forums.prajwaldesai.com##.js-bottomFixTarget.u-bottomFixer
-
-www.digitalnationaus.com.au###gdpr-alert
 
 www.febooti.com###cc
 
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bandcamp.com##.ui-widget-overlay
 
-collectingcars.com###reactbiscuitBanner
+collectingcars.com###reactcookieBanner
 
 en.wikipedia.org###siteNotice
 en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
@@ -1600,7 +1530,7 @@ www.msn.com###eplantEntranceBubble
 open.spotify.com###onetrust-consent-sdk
 open.spotify.com##.jtRqaoDIpIR6fEATUTyY > div > [href="https://app.adjust.com/l5xznak"]
 
-deviceadvice.io###biscuit-law-info-bar
+deviceadvice.io###cookie-law-info-bar
 
 open.spotify.com##.main-view-container__mh-footer-container
 ||www.spotify.com/api/masthead/*$xhr,domain=open.spotify.com
@@ -1612,7 +1542,7 @@ app.smartsheet.com##.clsPostFormInfo
 www.tutorialspoint.com###privacy-banner
 www.tutorialspoint.com##.col-xl-3.col-md-3.col-sm-6
 
-liveonlineradio.net##.biscuitinfo
+liveonlineradio.net##.cookieinfo
 
 tunein.com##.common-dialog-module__content___VMF7d > div
 
@@ -1626,10 +1556,9 @@ tunein.com##.loginDialogOverlay
 
 www.bbc.com###zephr-message
 
-map.blitzortung.org##.biscuit_div
+map.blitzortung.org##.cookie_div
 map.blitzortung.org##.topdiv
 
-||ogs.google.com.au/u/0/widget/callout/sid$subdocument
 
 ||cdn-web.tunein.com/assets/img/premium/background-circles.jpg$image
 ||cdn-web.tunein.com/assets/img/premium/background-circles.jpg$image
@@ -1650,8 +1579,6 @@ $removeparam=clusterId,domain=app.sli.do
 ||aadcdn.msauthimages.net/$image
 
 www.prajwaldesai.com##.wp-block-kadence-infobox
-
-https://resourcesssl.newscdn.com.au/indies/campaigns
 
 webcache.googleusercontent.com##.ui-widget-overlay
 
@@ -1684,7 +1611,7 @@ browser.events.data.microsoft.com
 ||aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/$image
 ||aadcdn.msauth.net/shared/1.0/content/images/backgrounds/$image
 
-www.lego.com##.fAvzRD.biscuitModalstyles__ModalContent-sc-19wlthm-0
+www.lego.com##.fAvzRD.cookieModalstyles__ModalContent-sc-19wlthm-0
 www.lego.com##.iATvAv.Modalstyles__Container-l3z049-0
 
 www.ehow.com###lg-jwplayer
@@ -1713,8 +1640,6 @@ allapk.ru##.message-alert
 swarmik.tumblr.com##.center.open.tmblr-iframe--follow-teaser.tmblr-iframe
 
 www.verywellhealth.com##.dialog--visible.dialog.mntl-dialog.mntl-dialog--campaign.campaign-dialog.comp
-
-||translate.google.com^$domain=www.cyber.gov.au
 
 tunein.com##.leftSide-module__upsellButtonContainer___fOE5Z
 https://cdn-cms.tunein.com/images/searchbackground.png
@@ -1778,9 +1703,9 @@ www.tiktok.com##.flex-auto.tt-sheet__body
 ! ##.Welcome-module_contentWelcome__TL17B
 ! ##.MomentSystem-module_moment__G9hyw
 
-connect.mozilla.org##.lia-component-gdprbiscuitbanner-widget-biscuit-banner-alert.lia-biscuit-banner-alert
+connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
 
-vonbaronmusic.com###biscuit-notice
+vonbaronmusic.com###cookie-notice
 
 www.makeuseof.com###dynamically-injected-refresh-ad-zone-adsninja-ad-unit-characterCountRepeatable1-5f343f19c50cac > .ad-current
 www.makeuseof.com##.ad-zone-content-character-count-repeatable-2.ad-zone
@@ -1811,7 +1736,7 @@ www.health.harvard.edu##.flex.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0
 luxuryescapes.com##.lg.ilPewA.GDPRWarningBanner__Alert-sc-1mwq5ah-1.gswtFw.LayoutContainer__Container-sc-rvo2nj-0
 luxuryescapes.com###credential_picker_iframe
 
-www.theurbanlist.com##.js-biscuitOverlay.biscuit-overlay
+www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
 
 www.tiktok.com##.enx791q0.tiktok-rkt89o-DivCtaGuideContainer
 www.tiktok.com##.e1pecv671.tiktok-1bs1f5y-DivFlex1 > .matrix-smart-wrapper
@@ -1823,7 +1748,7 @@ www.lifewire.com###tech-billboard1-sticky_1-0
 www.midomi.com###onetrust-consent-sdk
 www.midomi.com##.Banner_snackBar__2zo3A
 
-apkdone.com###biscuit-law-info-bar
+apkdone.com###cookie-law-info-bar
 
 liliputing.com##.adthrive-content-1.adthrive-content.adthrive-ad
 
@@ -1838,7 +1763,7 @@ www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
 www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
 www.recipetineats.com##.subscribe
 
-bumble.com##.js-biscuit-notification.biscuit-notification
+bumble.com##.js-cookie-notification.cookie-notification
 
 abcnews.go.com##div.zhVl.eXZc.oJhu.gfNz.oMlS.kRoB.roDb.gbbf.OnRT.vrZx.ONJd.iSha.jaoD.GQmd.SVqK.eQqc.OjMN.hbvn.aHUB.lzDC.zzsc.NIuq.iulO.VvTx.xegr.SmBj.mEee.MCnQ.nFwa.BZyg.acPP.eRft.sKyC.ISNQ.daRV.AkFW.OsTs.zNYg.vPlO.EhJP.pvsT.QBoF.QrHM.oLzS:nth-of-type(1)
 
@@ -1926,7 +1851,7 @@ onlineradiobox.com###alert_puzzlegarage
 theslenderwrist.com##.formkit-overlay.seva-overlay
 
 microbrandwatchworld.com###elementor-popup-modal-9319
-https://microbrandwatchworld.com/wp-content/plugins/easy-table-of-contents/vendor/js-biscuit/
+https://microbrandwatchworld.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
 
 www.drugs.com##.ddc-modal-visible.ddc-modal
 https://www.drugs.com/bundle/82ef3cb9/js/module/modal.js
@@ -1961,7 +1886,7 @@ www.gq-magazine.co.uk##.cne-video-embed
 ||www.luckymodapk.com/202003/appx_proxy.php$subdocument
 www.luckymodapk.com###appx
 
-playold.games###biscuits
+playold.games###cookies
 
 www.dosgamesarchive.com###banner_container_leaderboard
 www.dosgamesarchive.com###banner_container_halfpage
@@ -2007,7 +1932,7 @@ $removeparam=prm-v1,domain=yumly.com
 $removeparam=enc,domain=ebay.com
 $removeparam=checksum,domain=ebay.com
 
-www.cognisaas.com##.biscuit-wrapper-new
+www.cognisaas.com##.cookie-wrapper-new
 www.cognisaas.com##.noshow-onthis.time-modal
 
 www.popularmechanics.com##journey-inline-newsletter
@@ -2078,10 +2003,10 @@ www.tiktok.com##.flex-auto.tt-sheet__body
 ! ##.Welcome-module_contentWelcome__TL17B
 ! ##.MomentSystem-module_moment__G9hyw
 
-vonbaronmusic.com###biscuit-notice
+vonbaronmusic.com###cookie-notice
 vonbaronmusic.com##.mc-layout__bannerContent > [src]
 
-connect.mozilla.org##.lia-component-gdprbiscuitbanner-widget-biscuit-banner-alert.lia-biscuit-banner-alert
+connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
 
 ||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/premium/mountain-background-large.svg$image
 ||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/*.svg$image
@@ -2096,7 +2021,7 @@ www.worldatlas.com##.ad_hfix_600.mod_ad
 www.worldatlas.com##.ad_wfix_mb_std.ad_wfix_tb_728.ad_wfix_dt_728.ad_hfix_320.mod_ad
 www.worldatlas.com##.ad_cls_fix.ad_content_below.ad_push.mod_ad_container
 
-www.theurbanlist.com##.js-biscuitOverlay.biscuit-overlay
+www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
 
 luxuryescapes.com###credential_picker_iframe
 
@@ -2112,7 +2037,7 @@ damndelicious.net##.inner-post > .adthrive-below-post-1.adthrive-below-post.adth
 damndelicious.net###comments > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
 
 onlineradiobox.com##.alert--playmarket
-onlineradiobox.com###alert_biscuits
+onlineradiobox.com###alert_cookies
 ||cdn.onlineradiobox.com/img/player__promo.jpg$image
 onlineradiobox.com##.player__promo
 onlineradiobox.com##._promo.player
@@ -2152,7 +2077,7 @@ www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
 www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
 www.recipetineats.com##.subscribe
 
-bumble.com##.js-biscuit-notification.biscuit-notification
+bumble.com##.js-cookie-notification.cookie-notification
 
 twitter.com###credential_picker_iframe
 
@@ -2307,7 +2232,6 @@ www.verywellmind.com###article__broad-video-jw_1-0
 
 $removeparam=ei,domain=msn.com
 $removeparam=sc,domain=msn.com
-$removeparam=tag,domain=amazon.com.au
 
 ||videos-cloudfront-usp.jwpsrv.com^$domain=www.allrecipes.com
 ||videos-cloudfront-usp.jwpsrv.com^$domain=www.allrecipes.com,important
@@ -2343,7 +2267,7 @@ songmeanings.com##div.ad-music:nth-of-type(4)
 www.techradar.com##.slice-container-newsletterForm
 www.techradar.com##.less-space.box.socialite-widget
 
-thestar.com.au##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-3dec5e0f.elementor-element.elementor-top-section.elementor-section
+element.elementor-top-section.elementor-section
 
 www.topgear.com##.eRSlTv.TopContainer-sc-cy9ye3-1
 
@@ -2374,7 +2298,6 @@ cottonon.com###compliance-links > div > span
 cottonon.com###compliance-links > div:nth-of-type(1)
 
 www.fhinds.co.uk##.footer-newsletter
-chronospride.com.au###omnisend-dynamic-container
 
 www.lifewire.com##.jw-keep-thumbnail.jw-floating-dismissible.jw-flag-small-player.jw-breakpoint-1.jw-skin-mantle.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-playing.jw-reset.jwplayer
 
