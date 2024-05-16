@@ -1304,7 +1304,6 @@ www.facebook.com##div.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8
 
 forum.toolsinaction.com##p:nth-of-type(13)
 
-
 ||s4.bcbits.com/css/jquery-ui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png$image
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bandcamp.com##.ui-widget-overlay
@@ -1314,7 +1313,6 @@ www.lego.com##.hgSMAB.Modalstyles__Container-sc-l3z049-0
 
 ||anothermike2.files.wordpress.com/2018/11/dr-newslettersignup-w250.pn*$image
 
-! 2022-12-08 https://bobcares.com
 bobcares.com##.custom-h2-p1-blocks
 
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
@@ -1369,17 +1367,14 @@ www.thingiverse.com##.ThingPage__topAd--cUNKg.AdCard__leaderboard--2Yt9x
 
 ||www.facebook.com/ajax/bnzai$ping,domain=www.facebook.com
 
-! 2023-01-23 https://www.parents.com
 www.parents.com##.dialog--visible.dialog.mntl-dialog.mntl-dialog--campaign.campaign-dialog.comp
 
-! 2023-01-24 https://www.mdpub.com
 www.mdpub.com##[href^="https://e.chase.com/"]
 
 ||ae01.alicdn.com/kf/H431e6fd379524a75b153aebd9b3bea01M.gif$image
 
 https://app.smartsheet.com/b/images/login-v4-background-desktop.png
 
-! 2023-01-31 https://www.hgtv.com
 www.hgtv.com##.o-Header__m-Area--Bottom.o-Header__m-Area
 
 www.almanac.com##div.layout--twocol-section--67-33.layout--twocol-section.layout:nth-of-type(5)
@@ -1389,9 +1384,6 @@ www.lightroompresets.com##.boomMainDemo-0-0-1.mm-slideout.drawer__header-contain
 
 facebook.com^$removeparam=referralSurface
 
-
-
-! 2023-02-12 https://www.dpreview.com
 www.dpreview.com##.signature
 www.dpreview.com##.gearList.section
 
@@ -1619,8 +1611,8 @@ www.ehow.com##.component-article-section-jwplayer-wrapper
 
 loaids.com##.formkit-overlay.seva-overlay
 
-www.ebay.ca###placement_html_101197
-www.ebay.ca###placement_html_101198
+ebay.ca###placement_html_101197
+ebay.ca###placement_html_101198
 
 dev.xenforo.relay.cool##.p-guest--message
 
@@ -1679,12 +1671,13 @@ www.aliexpress.com##.top-banner-container
 mans.io##.install-pwa
 ||www.moon-soft.com/program/FORMAT/jpg/2di.JPG$image
 
-www.epicurious.com##.daQPpr.VideoFigure-eayQIa
+epicurious.com##.daQPpr.VideoFigure-eayQIa
 
-www.goodreads.com##.modal--centered.modal--overlay.modal
+goodreads.com##.modal--centered.modal--overlay.modal
 
-https://assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css
-https://assets.squarespace.com/universal/scripts-compressed/popup-overlay-606151abe6ab065f5709c-min.en-US.js
+assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css
+assets.squarespace.com/universal/scripts-compressed/popup-overlay-606151abe6ab065f5709c-min.en-US.js
+assets.squarespace.com/universal/scripts-compressed/popup-overlay-*
 
 concreteplayground.com##li.board-ad.board:nth-of-type(13)
 concreteplayground.com##li.board-ad.board:nth-of-type(26)
@@ -2340,7 +2333,7 @@ spot.im/production/conversation/tags/v3.82.23/ad-container-bundle.js
 https://statics.teams.cdn.office.net.mcas.ms/teams-modular-packages/hashed-assets/survey-locale-en-gb-6e441296e623f57b.js
 https://statics.teams.cdn.office.net.mcas.ms/teams-modular-packages/hashed-assets/meeting-analytics-locale-en-gb-9a225e4fc88dfa96.js
 
-https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js
+js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js
 
 https://common.online.office.com/suite/RemoteTelemetry
 $removeparam=search_p4p_id,domain=aliexpress.com
@@ -2461,7 +2454,6 @@ damndelicious.net###comments > .adthrive-below-post-1.adthrive-below-post.adthri
 
 www.nytimes.com##.LargeCTABanner-module_relative__vctEf.LargeCTABanner-module_banner__Wrm0P
 
-
 moddroid.com###ad_block_reminder_dialog
 moddroid.com##.text-center.fixed-icons
 
@@ -2551,11 +2543,10 @@ watchranker.com##.section-subscription.section
 www.thebulwark.com##._popover_1dtnr_18.pc-borderRadius-md.pc-reset.pc-boxShadow-md.pc-justifyContent-center.pc-flexDirection-column.pc-display-flex.pencraft
 www.thebulwark.com##._subscribeDialog_1h9fv_1.pc-reset.pc-alignItems-center.pc-flexDirection-column.pc-display-flex.pencraft
 
-https://events.tryamped.com/
+events.tryamped.com
 
 www.epicgardening.com##.needsclick.amped-wrapper
 
-! 2024-04-21 https://livelovefruit.com
 livelovefruit.com##.slick-film-strip
 
 www.photoshopbuzz.com###popForm-397606333
@@ -2686,3 +2677,8 @@ internetguardiansec.com
 
 web.aips-sol.com.cdn.cloudflare.net
 web.aips-sol.com
+
+newyorker.com##.journey-unit__container
+growthbook-proxy-platform-intel.gp-prod-na-0.conde.digital
+martech.condenastdigital.com
+newyorker.com/verso/static/presenter-articles
