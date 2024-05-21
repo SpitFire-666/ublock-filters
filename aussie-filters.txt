@@ -1233,3 +1233,22 @@ www.babycenter.com.au##.mui-style-ekeie0.MuiDialog-scrollPaper
 www.babycenter.com.au##.mui-style-919eu4.MuiModal-backdrop.MuiBackdrop-root
 https://assets.babycenter.com/ims/2024/02/img_signup_rejuv.svg
 babycenter.com.au##html:style(overflow: auto !important;)
+
+www.metalflex.com.au##rg-footer-acknowledgement
+
+radiotoday.com.au##.footer-subscribe
+
+www.vline.com.au##.legend.hidden-xs
+
+www.reece.com.au##rg-footer-acknowledgement
+
+www.plumheatcool.com.au##.elementor-section-items-middle.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-section-height-min-height.elementor-element-6f354ed.elementor-element.elementor-top-section.elementor-section
+
+
+www.finance.gov.au##.site-footer-top
+
+pay.ebay.com.au###placement101585
+
+www.amartfurniture.com.au##.email-subscribe.container
+
+tinyhearts.com##div.space-y-5.lg\:col-span-4:nth-of-type(1) > .rte > p:nth-of-type(4)
