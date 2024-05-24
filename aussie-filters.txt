@@ -1,5 +1,6 @@
 ! Title: SpitFire-666: 🇦🇺 Aussie uBlock Filters
 ! -- Sites made by/for australians --
+! Expires: 48 hours
 
 auspost.com.au##.header
 paycalculator.com.au##.jss1341.MuiBox-root
