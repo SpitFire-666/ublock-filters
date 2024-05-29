@@ -1318,7 +1318,7 @@ bobcares.com##.custom-h2-p1-blocks
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bandcamp.com##.ui-widget-overlay
 
-open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+! open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 
 www.moderndrummer.com##div > .kl-private-reset-css-Xuajs1.needsclick
 
