@@ -1253,3 +1253,20 @@ pay.ebay.com.au###placement101585
 www.amartfurniture.com.au##.email-subscribe.container
 
 tinyhearts.com##div.space-y-5.lg\:col-span-4:nth-of-type(1) > .rte > p:nth-of-type(4)
+
+www.iga.com.au##.standard_section.vc_row.vc_row-fluid.wpb_row
+
+fightmnd.org.au##.fs-12.text-center.col-xl-8.col-lg-9.col-12
+
+www.healthdirect.gov.au##.css-12gllw4.chakra-text
+
+cultureconnect.com.au###sow-editor-2 > .so-widget-sow-editor-base.so-widget-sow-editor > .textwidget.siteorigin-widget-tinymce > p:nth-of-type(1)
+
+experience.welcometocountry.com##.footer__text-content > p
+
+www.bdm.vic.gov.au###block-atsi-acknowledgement > .field--item.field--label-hidden.field--type-text-long.field--name-field-body.field > p
+
+www.babyhood.com.au###page_wrapper > .columns.large-centered.large-12
+
+www.bluntmag.com.au##.bg-darkgray.pb-3.a-d-article.a-d > .container > .row > div.text-center.col-12
+www.bluntmag.com.au##.right.col-lg-5.col-12
