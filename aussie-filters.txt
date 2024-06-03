@@ -1270,3 +1270,13 @@ www.babyhood.com.au###page_wrapper > .columns.large-centered.large-12
 
 www.bluntmag.com.au##.bg-darkgray.pb-3.a-d-article.a-d > .container > .row > div.text-center.col-12
 www.bluntmag.com.au##.right.col-lg-5.col-12
+
+www.bluntmag.com.au##.right.col-lg-5.col-12
+
+www.newidea.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
+
+museum.wa.gov.au##.globalwidth.acknowledgement-country
+
+pay.ebay.com.au###placement101585
+
+www.amartfurniture.com.au##.email-subscribe.container
