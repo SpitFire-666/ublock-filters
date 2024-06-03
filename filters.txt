@@ -279,6 +279,10 @@ www.skassets.com
 www.snapengage.com
 www.zupimages.net
 zerossl.ocsp.sectigo.com
+jggldfvx.com
+mlrfltuc.com
+
+
 
 $removeparam=hl,domain=google.com
 $removeparam=source,domain=google.com
