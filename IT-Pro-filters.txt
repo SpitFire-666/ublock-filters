@@ -1474,4 +1474,33 @@ www.insecam.org##.ya-share2_inited.ya-share2
 
 ||whatismyip.org/theme/defaultext/img/seobanner.png$image
 
-http://tplinkwifi.net/webpages/themes/default/img/splash.jpg
+https://boingboing.net/wp-content/plugins/advanced-ads-pro/
+
+https://hawk.techradar.com/hl/es6/hawklinks.js
+
+https://static.nintendolife.com/javascript/gn/prebid-8.24.0-nl.js
+
+https://techcrunch.com/wp-json/tc/v1/privacy/
+https://x.kinja-static.com/assets/new-client/ad-units-default
+https://x.kinja-static.com/assets/new-client/renderExitIntentModal
+https://x.kinja-static.com/assets/new-client/ad-manager-bulbs
+https://x.kinja-static.com/assets/new-client/prebid-js-prod
+
+https://www.vg247.com/static/vendor/prebid/
+https://cmpsp.vg247.com/unified/wrapperMessagingWithoutDetection.js
+www.vg247.com##.poll_ad_container
+www.vg247.com##.leaderboard_container.advert_container
+
+arstechnica.com##.ad_crown.ad
+arstechnica.com##.ad_instream.ad
+arstechnica.com##.fullwidth.ad_fullwidth.ad
+
+https://www.engadget.com/caas/content/article/
+
+alb.reddit.com
+
+https://cdn.arstechnica.net/wp-content/plugins/article-forum-connect/public/css/paywall.css
+
+arstechnica.com/com.condenast/yv8
+
+
