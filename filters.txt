@@ -2914,7 +2914,7 @@ interestingengineering.com##.Ad_ad__hm0Ut
 https://static-cdn.spot.im/production/ads/
 https://publisher-assets.spot.im/ad/
 forbes.com/track
-https://api-2-0.spot.im/v1.0.0/conversation/realtime/read
+
 https://www.cbc.ca/g/stats/js/ads.js
 https://cdp.cbc.ca/DG/DEFAULT/rest/rpc/
 
@@ -2953,3 +2953,5 @@ https://variety.com/wp-content/plugins/pmc-plugins/pmc-google-universal-analytic
 ping-meta-prd.jwpltx.com
 
 ew.com##.jw-reset.jw-related-shelf-container
+
+! https://api-2-0.spot.im/v1.0.0/conversation/realtime/read
