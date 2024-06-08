@@ -198,6 +198,32 @@ www.ebay.com.au###placement_html_101197 > .merch-module > .aspects-1.container_w
 www.ebay.com.au###placement_html_101198 > .merch-module > .aspects-1.container_wrapper
 www.ebay.com.au##.vi-lb-placeholder
 www.ebay.com.au###merch_html_100752
+www.ebay.com.au##.no-subtitle.gh-fixed-banner-v3__hasLogo.gh-fixed-banner-v3__container
+www.ebay.com.au##.active.null.gh-fixed-banner-v3__wrapper.gh-coupon-banner
+www.ebay.com.au###nume_html_101103_293199-w0-0 > .last.first.mfe-card-container
+$removeparam=norover,domain=ebay.com.au
+$removeparam=mkscid,domain=ebay.com.au
+$removeparam=itemid,domain=ebay.com.au
+$removeparam=merchantid,domain=ebay.com.au
+www.ebay.com.au##.widgets-placeholder
+www.ebay.com.au##.yolo-show.g-signin-mweb
+ebay.com.au##html:style(overflow: auto !important;)
+www.ebay.com.au##.yolo-show.g-signin-mweb
+www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
+ebay.com.au##html:style(overflow: auto !important;)
+www.ebay.com.au##.gf-mrecad.gh-clearfix
+www.ebay.com.au##.s-item__watchheart--watch.on-image.s-item__watchheart
+ebay.com##html:style(overflow: auto !important;)
+www.ebay.com.au##.srp-main-below-river
+$removeparam=itmprp,domain=ebay.com.au
+$removeparam=itmmeta,domain=ebay.com.au
+www.ebay.com.au > .clearfix.s-item__wrapper > .s-item__image-section > .s-item__watchheart--watch.on-image.s-item__watchheart
+www.ebay.com.au##.x-ads-placements--101506.vim.adp-vim.x-ads-placements
+www.ebay.com.au###placement101195
+www.ebay.com.au##.x-ads-placements--101196
+www.ebay.com.au##.yolo-show.g-signin-mweb
+www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
+www.ebay.com.au##.ux-navigator__container
 
 www.ptv.vic.gov.au##.favourites-layout__modal--non-blocking.favourites-layout__modal.modal--simple.myki-modal.show.fade.modal
 
@@ -292,13 +318,6 @@ www.babycenter.com.au##.bc-show-for-small.bcAd
 au.movember.com##.row.mospace-fb-and-apps
 au.movember.com##.mospace-key-statistics--title
 
-www.ebay.com.au##.no-subtitle.gh-fixed-banner-v3__hasLogo.gh-fixed-banner-v3__container
-www.ebay.com.au##.active.null.gh-fixed-banner-v3__wrapper.gh-coupon-banner
-www.ebay.com.au###nume_html_101103_293199-w0-0 > .last.first.mfe-card-container
-$removeparam=norover,domain=ebay.com.au
-$removeparam=mkscid,domain=ebay.com.au
-$removeparam=itemid,domain=ebay.com.au
-$removeparam=merchantid,domain=ebay.com.au
 
 www.australiangeographic.com.au##.code-block-9.code-block
 
@@ -361,8 +380,6 @@ www.carsguide.com.au##.id-2.leaderboard
 
 www.facebook.com##.xds687c.x1ey2m1c.xixxii4
 
-www.ebay.com.au##.widgets-placeholder
-
 www.weatherzone.com.au##.eLQmNC
 www.cyber.gov.au###block-footer-aoc
 
@@ -423,8 +440,6 @@ www.betootaadvocate.com##.hustle-main-wrapper
 
 sitchu.com.au##.display-subscribe.modal-dialog-centered.modal-dialog > .modal-content > .modal-body
 
-www.ebay.com.au##.yolo-show.g-signin-mweb
-ebay.com.au##html:style(overflow: auto !important;)
 
 www.radio-australia.org###cookiebanner
 www.radio-australia.org###body_centered_ad
@@ -439,8 +454,6 @@ www.carsguide.com.au##.mobileAppBanner-active.mobileAppBanner
 missamara.com.au##.text-center.sale_popup
 missamara.com.au###gorgias-chat-container
 missamara.com.au##.exitintent_561_856d7f41_0317.exitintent_561_856d7f41_039 > div
-
-www.ebay.com.au##.yolo-show.g-signin-mweb
 
 www.news.com.au###fixed-ad
 
@@ -508,8 +521,6 @@ www.mamamia.com.au##.post-content-parent-1
 www.9news.com.au##div.widget-ad.widget:nth-of-type(8)
 www.9news.com.au##.layout__inner > div.widget-ad.widget
 
-www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
-
 watchpad.com.au###app-embed-container-45517
 
 www.domain.com.au###adb-srp-insearch-1
@@ -568,8 +579,6 @@ https://www.glassdoor.com.au/garnish/static/js/gd-user-hardsell-overlay.bundle.j
 
 syn.org.au##.col-sm-12 > p
 
-www.ebay.com.au##.gf-mrecad.gh-clearfix
-
 https://au.nextdoor.com/context/nux/spouse_add
 https://au.nextdoor.com/api/gql/getNextOnboardingScreenQuery
 
@@ -583,8 +592,6 @@ www.visitmelbourne.com###cb
 
 concreteplayground.com##.footer-feedback-bar
 
-www.ebay.com.au##.s-item__watchheart--watch.on-image.s-item__watchheart
-
 www.foodanddrinkbusiness.com.au##.landing-ad
 
 theshot.net.au###fixed_footer
@@ -593,7 +600,6 @@ www.harveynorman.com.au##.advert_gam360.advert_hero
 www.harveynorman.com.au##.advert_gam360.advert_promo1
 www.harveynorman.com.au##.advert_gam360
 
-! 2023-10-12 https://www.productreview.com.au
 www.productreview.com.au##._HYlpI.c4coio.D4HEUI.M75vAx._FAptM._F436L.TyJiPJ.qk27Ii.J7xIZx._oMqQv.foBX_R
 www.productreview.com.au##div.e4Y0Gt.jFDVwd:nth-of-type(4)
 www.productreview.com.au##.Mq8_JQ.en8iN_.D4HEUI.M75vAx.Fjwdwz
@@ -634,8 +640,6 @@ $removeparam=psc,domain=amazon.com.au
 
 https://tags.babybunting.com.au/
 
-ebay.com.au##html:style(overflow: auto !important;)
-ebay.com##html:style(overflow: auto !important;)
 bws.com.au##feature-promo.ng-isolate-scope
 
 paycalculator.com.au##.jss32
@@ -676,7 +680,6 @@ secretmelbourne.com##.smn-sidebar.sidebar-container
 secretmelbourne.com##.visible.floating-share-buttons
 secretmelbourne.com##.new-home.layout-sidebar__sticky > div.sidebar-container > .mc4wp-form-8.mc4wp-form
 
-www.ebay.com.au##.srp-main-below-river
 
 www.mamamia.com.au##.mm-popup-overlay
 
@@ -786,9 +789,6 @@ $removeparam=amp_tf,domain=news.com.au
 $removeparam=aoh,domain=news.com.au
 $removeparam=referrer,domain=news.com.au
 
-$removeparam=itmprp,domain=ebay.com.au
-$removeparam=itmmeta,domain=ebay.com.au
-
 amp.abc.net.au##.ofqUa > p
 
 www.caloriecounter.com.au###double_mrecs
@@ -829,7 +829,6 @@ www.realestate.com.au##.xOqJr.PageBodyAd__AdWrapper-sc-nlvdpn-1
 
 www.glassdoor.com.au##.e1yw8gyz2.css-kymynp-StyledUserAlertBanner
 
-www.ebay.com.au##.x-ads-placements--101506.vim.adp-vim.x-ads-placements
 
 www.carsguide.com.au##.col-sm-12.col-md-12.col-lg-12.ad-board
 www.carsguide.com.au##.top-16.sticky.rhc-desktop-only
@@ -845,14 +844,9 @@ qota.com.au##.footer-top.bw-section
 www.gtm.net.au##.inner-wrapper > p:nth-of-type(2)
 memberonline.unisuper.com.au##.detail
 
-www.ebay.com.au > .clearfix.s-item__wrapper > .s-item__image-section > .s-item__watchheart--watch.on-image.s-item__watchheart
-
 ultimatebackyard.com.au##.tl-anim-zoom_in.tl-states-root
 ultimatebackyard.com.au###tve_tcb2_blank > .tve-leads-conversion-object
 https://ultimatebackyard.com.au/wp-content/plugins/thrive-leads/tcb/editor/js/dist/modules/lead-generation.min.js?
-
-www.ebay.com.au###placement101195
-www.ebay.com.au##.x-ads-placements--101196
 
 iview.abc.net.au###loginPrompt
 ||cdn.iview.abc.net.au/thumbs/*/le/LE2227H_628b1c0ccd736_3600.jpg$image
@@ -1020,8 +1014,6 @@ www.who.com.au##.Video-Wrapper--JWPlayer.Video-Wrapper
 
 www.news.com.au###fixed-ad
 
-www.ebay.com.au##.yolo-show.g-signin-mweb
-
 missamara.com.au##.text-center.sale_popup
 missamara.com.au###gorgias-chat-container
 missamara.com.au##.exitintent_561_856d7f41_0317.exitintent_561_856d7f41_039 > div
@@ -1041,8 +1033,6 @@ www.carsales.com.au###credential_picker_iframe
 ray-white-carnegie.business.site###cookieDialog
 
 www.booktopia.com.au###credential_picker_iframe
-
-www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
 
 www.carsales.com.au##.js_smartbanner.smartbanner--android.smartbanner
 
@@ -1064,8 +1054,6 @@ www.telstra.com.au##.telstra-footer-react-acknowledgements--section
 
 au.nextdoor.com###id-10 > div
 au.nextdoor.com##.blocks-2rwum1
-
-www.ebay.com.au##.ux-navigator__container
 
 www.drive.com.au##.blocks_drive-block__ad__wrapper__qwfLJ
 
