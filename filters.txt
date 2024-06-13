@@ -1040,6 +1040,10 @@ $removeparam=ch,domain=ebay.*
 $removeparam=ut,domain=ebay.*
 $removeparam=osub,domain=ebay.*
 $removeparam=segname,domain=ebay.*
+$removeparam=norover,domain=ebay.*
+$removeparam=mkscid,domain=ebay.*
+$removeparam=merchantid,domain=ebay.*
+
 
 $removeparam=ocid,domain=msn.com
 $removeparam=li,domain=msn.com
