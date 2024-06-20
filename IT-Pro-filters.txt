@@ -1503,3 +1503,5 @@ https://cdn.arstechnica.net/wp-content/plugins/article-forum-connect/public/css/
 arstechnica.com/com.condenast/yv8
 
 ||aadcdn.msftauth.net/shared/1.0/content/images/appbackgrounds/$image
+
+https://entra.microsoft.com/Content/*/Scripts/@microsoft/1ds-analytics-web-js.js
