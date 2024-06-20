@@ -1500,7 +1500,6 @@ https://www.engadget.com/caas/content/article/
 alb.reddit.com
 
 https://cdn.arstechnica.net/wp-content/plugins/article-forum-connect/public/css/paywall.css
-
 arstechnica.com/com.condenast/yv8
 
-
+||aadcdn.msftauth.net/shared/1.0/content/images/appbackgrounds/$image
