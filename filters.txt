@@ -2959,3 +2959,13 @@ ping-meta-prd.jwpltx.com
 ew.com##.jw-reset.jw-related-shelf-container
 
 ! https://api-2-0.spot.im/v1.0.0/conversation/realtime/read
+
+sallysbakingaddiction.com##.adthrive-content-1
+sallysbakingaddiction.com##.adthrive-content-3
+sallysbakingaddiction.com##.adthrive-content-4
+sallysbakingaddiction.com##.adthrive-content-7
+sallysbakingaddiction.com###comments > .adthrive-below-post-1
+sallysbakingaddiction.com##.comment-list > .adthrive-below-post-1
+sallysbakingaddiction.com###cls-video-container-wcXriPII
+sallysbakingaddiction.com##.adthrive-content-2
+sallysbakingaddiction.com##.adthrive-content-5
