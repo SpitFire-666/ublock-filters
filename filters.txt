@@ -2969,3 +2969,33 @@ sallysbakingaddiction.com##.comment-list > .adthrive-below-post-1
 sallysbakingaddiction.com###cls-video-container-wcXriPII
 sallysbakingaddiction.com##.adthrive-content-2
 sallysbakingaddiction.com##.adthrive-content-5
+
+www.tasteofhome.com##.ad-type-prearticle.ad-container-wrapper > .ad
+www.tasteofhome.com##.ad-type-prearticle.ad-container-wrapper
+www.tasteofhome.com###content-1
+www.tasteofhome.com##.entry-content > div.ad-type-content.ad-container-wrapper
+www.tasteofhome.com##.pure-u-lg-17-24.pure-u-1 > .ad-type-content.ad-container-wrapper
+www.tasteofhome.com##.recipe-directions__list > .ad-type-content.ad-container-wrapper
+www.tasteofhome.com##div.ad-type-content.ad-container-wrapper:nth-of-type(7)
+
+
+www.foodiecrush.com##.cls-inserted.slick-film-strip
+www.foodiecrush.com##.adthrive-content-1
+www.foodiecrush.com##.adthrive-content-2
+www.foodiecrush.com##.adthrive-content-3
+www.foodiecrush.com##.adthrive-content-4
+www.foodiecrush.com##.adthrive-content-5
+www.foodiecrush.com###AdThrive_Content_6_desktop
+www.foodiecrush.com###AdThrive_Content_7_desktop
+www.foodiecrush.com###AdThrive_Content_8_desktop
+www.foodiecrush.com###AdThrive_Content_9_desktop
+www.foodiecrush.com###AdThrive_Content_10_desktop
+www.foodiecrush.com###AdThrive_Content_11_desktop
+www.foodiecrush.com##.formkit-form.seva-form
+www.foodiecrush.com###AdThrive_Content_12_desktop
+www.foodiecrush.com###savetherecipe
+www.foodiecrush.com##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
+www.foodiecrush.com###AdThrive_Content_13_desktop
+www.foodiecrush.com###AdThrive_Content_14_desktop
+www.foodiecrush.com##.adthrive-below-post-1.adthrive-below-post.adthrive-ad
+
