@@ -3196,3 +3196,26 @@ https://x.com/i/flow/login?redirect_after_login
 https://abs.twimg.com/responsive-web/client-web/shared~bundle.Ocf~bundle.LoggedOutHome~loader.TimelineRenderer~loader.SignupModule
 
 ||gstatic.com/local/placeinfo/women_led_updated_ic_24dp.png$image
+
+consent.unilad.com
+
+www.marieclaire.com##.slice-container-newsletterForm
+
+variety.com##.lrv-u-text-align-center.u-margin-b-3.u-margin-t-150.lrv-u-width-100p.\/\/.newsletter
+
+www.businessinsider.com##.has-video-ad.l-rightrail-default-image
+
+https://www.searchenginejournal.com/wp-content/themes/sej/css/components/share-buttons.css
+https://www.searchenginejournal.com/wp-content/uploads/2024/06/popup-750x500-703.jpg
+www.searchenginejournal.com##.dnone-max-767.sej-hello-bar.bg-ind
+||www.searchenginejournal.com/wp-json/sscats/v2/stext/seo$subdocument
+www.searchenginejournal.com###sharebtn-520219
+www.searchenginejournal.com##.bg-cultured.web-dwn
+
+www.cnbc.com###RegularArticle-ArticleBody-5 > div > .WildcardEmbed-wrapper
+
+slate.com##.recirc-line
+
+theconversation.com##.MuiDialog-root
+
+outlook.live.com##.obf-Visible.obf-Toast
