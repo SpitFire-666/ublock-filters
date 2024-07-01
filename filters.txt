@@ -3219,3 +3219,34 @@ slate.com##.recirc-line
 theconversation.com##.MuiDialog-root
 
 outlook.live.com##.obf-Visible.obf-Toast
+
+https://*/wp-content/plugins/wordpress-popup/assets/hustle-ui/
+
+instagram.com##div > div > article header > div > div > span> div > span:upward(article > div)
+
+instagram.com##div > div > article > div > div > div > div > span:upward(article > div)
+
+raduzaharia.medium.com##.gp.cn.q.ab.abv.abu.abt.abs.abr.abq.v.abp.t.abo
+
+casadesante.com###pop-convert-app
+https://hulkprod.anm.co.uk/api/web-push-notification/v1/organisation/mol/pull-campaign/
+
+medium.com##.adp.ado.abx.m
+
+www.eviemagazine.com##main > .lg\:space-y-12.space-y-8 > .bg-rose-1
+
+www.gq.com##.sticky-box.kNleGZ.StickyBoxWrapper-jfYBuk
+
+https://drive.google.com/drive/logImpressions
+https://ssl.gstatic.com/docs/common/cleardot.gif
+
+https://static.files.bbci.co.uk/
+
+fedia.io###entry-45506
+||fedia.io/media/cache/resolve/avatar_thumb/70/99/70997c2a4e9f93feeeefece1a476c8346c0c1c03234b5debb7d6919e84de3087.jpg$image
+
+||media.disquscdn.com/errors/img/$image
+
+https://eu.docusign.net/Signing/telemetry
+
+https://webc2s.pubgw.yahoo.com/pubgw/v1/hb/web/prebid
