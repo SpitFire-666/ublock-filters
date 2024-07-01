@@ -1268,3 +1268,51 @@ museum.wa.gov.au##.globalwidth.acknowledgement-country
 pay.ebay.com.au###placement101585
 
 www.amartfurniture.com.au##.email-subscribe.container
+
+https://www.awm.gov.au/themes/awm/images/disclaimerFooter.jpg
+
+www.awm.gov.au##.cultural-modal-content
+www.awm.gov.au##.modaal-inner-wrapper
+www.awm.gov.au##.modaal-outer-wrapper
+www.awm.gov.au##.modaal-inline.modaal-wrapper
+www.awm.gov.au##.modaal-overlay
+
+www.novafm.com.au##.index_nova_disclaimer__lVWAY > p
+
+www.choice.com.au##.footer__acknowledge-copy
+www.choice.com.au##.footer__acknowledge
+
+www.mitre10.com.au##.ui-asknowlage > div > p
+
+www.choice.com.au##.is-bottom-0.sticky-banner--timed.sticky-banner
+
+online.aami.com.au##.sg-Type--muted.sg-u-marginTop--x2.sg-Type--size14 > span > p:nth-of-type(2)
+
+raisingchildren.net.au##.footer-container--acknowledgement.footer-container
+
+mainfm.net###welcome-to-country
+
+catalogue.nla.gov.au##.mx-auto.col-md-8.text-center.acknowledgement-of-country
+
+musictrust.com.au###hustle-popup-id-1
+
+www.musicvictoria.com.au###section-110-10 > .ct-section-inner-wrap > .ct-text-block
+
+www.hairhouse.com.au##.Kyu-r
+
+www.mysalon.com.au##.halo-background
+
+www.megamusiconline.com.au##.popup.global
+
+www.pregnancybirthbaby.org.au##.hda-foot_acknowledge > p:nth-of-type(1)
+
+onefinebaby.com.au##.mb-0.border-0.footer-copyright
+
+mjolner.com.au##em
+
+www.australiantraveller.com##.acknowledgement-text
+www.australiantraveller.com##.col-lg-3.col-xs-12.col-md-3
+
+www.abc.net.au##div.CXbPx > p
+
+www.gumtree.com.au##.search-results-page__dfp.fuse-ads__min-height-dweb
