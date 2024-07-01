@@ -1316,3 +1316,5 @@ www.australiantraveller.com##.col-lg-3.col-xs-12.col-md-3
 www.abc.net.au##div.CXbPx > p
 
 www.gumtree.com.au##.search-results-page__dfp.fuse-ads__min-height-dweb
+
+https://au.api.iheart.com/api/v3/privacy/
