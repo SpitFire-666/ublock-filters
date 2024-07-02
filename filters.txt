@@ -3250,3 +3250,45 @@ fedia.io###entry-45506
 https://eu.docusign.net/Signing/telemetry
 
 https://webc2s.pubgw.yahoo.com/pubgw/v1/hb/web/prebid
+
+www.parts-people.com###cookie-policy-info-bar
+
+https://trello.com/assets/free-trial-banner
+https://trello.com/assets/premium-trial-payment-modal
+https://trello.com/assets/premium-trial-modal
+https://trello.com/assets/downgrade-period-banner
+https://trello.com/assets/discovery-ad-board-canvas-container
+https://trello.com/assets/trello-upgrade-prompt-button-container
+
+||s1.wp.com/wp-content/themes/h4/i/pic-crowd-2x.jpg$image
+
+www.meandu.com##.footer6_newsletter-text-wrapper > .text-size-small
+
+https://theconversation.com/promos
+
+www.healthline.com##.css-1u22pos > .css-20w1gi
+
+www.instructables.com##.promo-side
+
+www.whosampled.com##div.crates-banner:nth-of-type(5)
+||www.whosampled.com/static/images/banners/$image
+
+bandcamp.com##.tos-update.corpbanner
+https://www.linkedin.com/realtime/realtimeFrontendClientConnectivityTracking
+
+https://e0.flightcdn.com/include/7cfd40b8ccad-AdBlockDetection/
+
+www.avclub.com##.placement-default.collapsed-ad.ad-top-banner
+
+www.menshealth.com##journey-modal-newsletter
+
+https://assets.tumblr.com/languages/errors.js
+https://66.media.tumblr.com/
+
+https://cdn.jsdelivr.net/gh/vyantagc/vyantagc/popme-double-ads4.js
+
+https://apps.bazaarvoice.com/analytics/bv-analytics.js
+
+https://outlook.live.com/ows/v1.0/OutlookOptions/AdsAggregate
+
+www.youtube.com##.ytp-pause-overlay
