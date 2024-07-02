@@ -1322,3 +1322,8 @@ au.api.iheart.com/api/v3/privacy/
 10play.com.au##.acknowledgement-text.global-footer__boilerplate-text
 
 ||facebook.net^$domain=10play.com.au
+
+www.ato.gov.au##.AtoFooter_copyright__acknowledgement__HdkfK
+||www.ato.gov.au/api/public/content/9ffc9caf15b849bf85c60cca1d40547d$image
+
+www.finder.com.au##.footer__acknowledgement
