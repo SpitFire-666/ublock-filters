@@ -284,7 +284,8 @@ zerossl.ocsp.sectigo.com
 jggldfvx.com
 mlrfltuc.com
 
-
+$removeparam=ref,domain=americastestkitchen.com
+$removeparam=extcode,domain=americastestkitchen.com
 
 $removeparam=hl,domain=google.com
 $removeparam=source,domain=google.com
@@ -3292,3 +3293,13 @@ https://apps.bazaarvoice.com/analytics/bv-analytics.js
 https://outlook.live.com/ows/v1.0/OutlookOptions/AdsAggregate
 
 www.youtube.com##.ytp-pause-overlay
+
+assets.msn.com/periconfigs/feature-configs/displayadswc
+assets.msn.com/periconfigs/feature-configs/supernavcoachmark
+assets.msn.com/periconfigs/feature-configs/nurturingcoachmark
+assets.msn.com/periconfigs/loc-configs/supernavcoachmark
+assets.msn.com/bundles/v1/homePage/latest/nativeadstemplates
+assets.msn.com/bundles/v1/homePage/latest/libs_telemetry-data-connector_dist_index_js
+
+vendorlist.dmcdn.net/v2/archives/vendor-list-v204.json
+vendorlist.dmcdn.net/v3/archives/vendor-list-v25.json
