@@ -11,7 +11,7 @@
 | Filter | Desc | Click to subscribe | View filters |
 |--|--|--|--|
 | Easylist Cookie | | |
-| DandelionSprout's Legitimate URL Shortener | https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener | | |
+| DandelionSprout's Legitimate URL Shortener | https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener | ```https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt``` | |
 
 # How Tos
 
