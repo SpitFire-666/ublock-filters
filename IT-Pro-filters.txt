@@ -1537,3 +1537,7 @@ msfn.org##.cGuestTeaser.ipsPad.ipsType_center
 www.doomworld.com##.ipsSpacer_top.cTopicPostArea_noSize.ipsPad.ipsAreaBackground.cTopicPostArea
 
 www.electro-tech-online.com##.xb-welcome-notice
+
+oddvar.moe##.custom-header
+
+discourse.pi-hole.net##.ember-view.animated.visible.quote-button
