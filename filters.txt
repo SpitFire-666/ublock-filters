@@ -3404,3 +3404,7 @@ onlineradiobox.com##.saveUA
 en.wikipedia.org##.cn-fundraising
 
 ||ssl.gstatic.com/docs/doclist/images/copy_paste_v2.gif$image
+
+consent-pref.trustarc.com
+prefmgr-cookie.truste-svc.net
+consent.trustarc.com
