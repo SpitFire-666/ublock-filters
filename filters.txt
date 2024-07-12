@@ -72,7 +72,7 @@ buy.tinypass.com
 c.amazon-adsystem.com
 c.bing.com
 c2shb.pubgw.yahoo.com
-cdn-channels-pixel.ex.co
+cdn-channels-pixel.ex.com
 cdn.attn.tv
 cdn.cloudimagesb.com
 cdn.cookielaw.org
@@ -285,6 +285,34 @@ www.zupimages.net
 zerossl.ocsp.sectigo.com
 jggldfvx.com
 mlrfltuc.com
+consent-pref.trustarc.com
+prefmgr-cookie.truste-svc.net
+consent.trustarc.com
+histats.com
+kwanmmmdgr.com
+kwanmmmdgr.com
+naubatodo.com
+inbound.clkcore.com
+cpacrack.com
+techbric.com
+pjfpjtlbmhuds.com
+phkucgq.com
+onemobclk.com
+csgobettings.com
+sg.protoolapp.online
+marshakhula.top
+wishpond.com
+wishpond.net
+ocsp.buypass.com
+citadelpathstatue.com
+publish.twitter.com
+nyihcpzdloe.com
+go.rmhfrtnd.com
+video.rmhfrtnd.com
+ptwmstcnt.com
+vcmdiawe.com
+bihussufoob.net
+
 
 $removeparam=ref,domain=americastestkitchen.com
 $removeparam=extcode,domain=americastestkitchen.com
@@ -1564,7 +1592,6 @@ www.bbc.com###zephr-message
 map.blitzortung.org##.cookie_div
 map.blitzortung.org##.topdiv
 
-
 ||cdn-web.tunein.com/assets/img/premium/background-circles.jpg$image
 ||cdn-web.tunein.com/assets/img/premium/background-circles.jpg$image
 tunein.com##.right-side-module__container___QoVHu
@@ -2625,27 +2652,11 @@ troypoint.com##.code-block-4.code-block
 troypoint.com##.formkit-slide-in
 troypoint.com##.entry-effect.mysticky-welcomebar-animation
 
-histats.com
-kwanmmmdgr.com
-kwanmmmdgr.com
-naubatodo.com
-inbound.clkcore.com
-cpacrack.com
-techbric.com
-pjfpjtlbmhuds.com
-phkucgq.com
-onemobclk.com
-csgobettings.com
-sg.protoolapp.online
-marshakhula.top
-
 www.newscaststudio.com##.g-22.g
 www.newscaststudio.com##.hustle-show
 www.newscaststudio.com##.g-19.g
 
 locatedinfain.com/blast.js
-
-bihussufoob.net
 
 troypoint.com##.is-layout-constrained.has-background.wp-block-group.inherit-container-width
 troypoint.com###text-2
@@ -2706,9 +2717,6 @@ www.theguardian.com##.dcr-ott46f
 
 $removeparam=lc,domain=youtube.com
 
-wishpond.com
-wishpond.net
-
 www.musicbusinessworldwide.com##.is-uber
 
 www.thebulwark.com##._popover_1dtnr_18.pc-borderRadius-md.pc-reset.pc-boxShadow-md.pc-justifyContent-center.pc-flexDirection-column.pc-display-flex.pencraft
@@ -2744,15 +2752,9 @@ indie88.com##.pum-active.click_open.auto_open.popmake-overlay.pum-theme-lightbox
 
 https://imusic-static.b-cdn.net/build/assets/cc-b88ba40c.js
 
-nyihcpzdloe.com
-go.rmhfrtnd.com
-video.rmhfrtnd.com
 https://impactserving.com/preroll.engine
 https://cdn.impactserving.com/Scripts/infinity.js.aspx
 
-
-ptwmstcnt.com/
-vcmdiawe.com/
 
 slate.com##.top-ad
 
@@ -2808,7 +2810,6 @@ https://static.stands4.com/app_definitions/
 https://static.stands4.com/app_common/js/libs/wselect.min.js
 https://static.stands4.com/app_lyrics/js/onradio/inline.min.js
 
-
 https://s.yimg.com/nn/lib/metro/g/myy/advertisement_0.0.19.js
 https://s.yimg.com/uc/finance/nimbus/_app/immutable/chunks/Ads
 https://s.yimg.com/aaq/prebid/
@@ -2831,9 +2832,7 @@ i.viafoura.co
 cws.conviva.com
 log.go.com
 sw88.go.com
-
 udc.yahoo.com
-
 data.queryly.com
 capture.condenastdigital.com
 cdn.permutive.app
@@ -2962,8 +2961,6 @@ https://variety.com/wp-content/plugins/pmc-plugins/pmc-google-universal-analytic
 ping-meta-prd.jwpltx.com
 
 ew.com##.jw-reset.jw-related-shelf-container
-
-! https://api-2-0.spot.im/v1.0.0/conversation/realtime/read
 
 sallysbakingaddiction.com##.adthrive-content-1
 sallysbakingaddiction.com##.adthrive-content-3
@@ -3349,7 +3346,6 @@ gulfnews.com##div.adv:nth-of-type(34)
 gulfnews.com##div.adv:nth-of-type(38)
 gulfnews.com##div.adv:nth-of-type(42)
 
-
 news.sky.com##.sdc-site-au__leaderboard
 news.sky.com##.sdc-article-body--lead.sdc-article-body--story.sdc-article-body > .sdc-site-layout-sticky-region
 
@@ -3379,10 +3375,6 @@ onlineradiobox.com##.footer__playmarket > h3
 
 classicreload.com##.ccpa-msg-added.choice-footer-msg
 
-ocsp.buypass.com
-citadelpathstatue.com
-publish.twitter.com
-
 chat.openai.com##.shadow-lg.popover
 ||archive.org/about/busy.gif$image
 
@@ -3405,6 +3397,3 @@ en.wikipedia.org##.cn-fundraising
 
 ||ssl.gstatic.com/docs/doclist/images/copy_paste_v2.gif$image
 
-consent-pref.trustarc.com
-prefmgr-cookie.truste-svc.net
-consent.trustarc.com
