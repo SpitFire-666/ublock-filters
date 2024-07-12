@@ -714,7 +714,6 @@ www.bloomberg.com##.inline-newsletter-top
 www.bloomberg.com###fortress-preblocked-container-root
 ||www.bloomberg.com/subscription-offer$subdocument
 
-
 www.rollingstone.com##.l-article-header__block--share.l-article-header__block
 www.rollingstone.com##.jw-reset.jw-wrapper
 
@@ -927,7 +926,6 @@ clickamericana.com##.IRPP_ruby
 
 ||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*$xhr
 ||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*
-
 ||www.homeimproverx.com/?wmcAction=wmcTrack
 
 www.hunker.com##.component-article-section-jwplayer
@@ -1880,6 +1878,11 @@ onlineradiobox.com###alert_mahjong
 onlineradiobox.com##.saveUA
 onlineradiobox.com##.playmarket
 onlineradiobox.com###alert_puzzlegarage
+onlineradiobox.com##.alert--playmarket
+onlineradiobox.com###alert_cookies
+||cdn.onlineradiobox.com/img/player__promo.jpg$image
+onlineradiobox.com##.player__promo
+onlineradiobox.com##._promo.player
 
 theslenderwrist.com##.formkit-overlay.seva-overlay
 
@@ -2068,12 +2071,6 @@ damndelicious.net##.adthrive-recipe-5.adthrive-recipe.adthrive-ad
 damndelicious.net##.adthrive-content-5.adthrive-content.adthrive-ad
 damndelicious.net##.inner-post > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
 damndelicious.net###comments > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
-
-onlineradiobox.com##.alert--playmarket
-onlineradiobox.com###alert_cookies
-||cdn.onlineradiobox.com/img/player__promo.jpg$image
-onlineradiobox.com##.player__promo
-onlineradiobox.com##._promo.player
 
 nypost.com##.jw-float-to-top.jw-reset.jw-wrapper
 nypost.com##div.d-none-lg.d-block.ad--inline.ad--container.ad > .ad__wrapper
@@ -3186,13 +3183,12 @@ www.newsweek.com##.v_text.article-body > div > .newsletter-signup-horizontal
 community.spotify.com##.ui-widget-overlay
 community.spotify.com##.lia-in.lia-dialog-titleless.lia-panel-dialog-modal-valuesurvey.lia-panel-dialog-modal-simple.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 
-
 openai.com##.object-center.object-cover
 
 www.nytimes.com##.css-mcm29f.vi-gateway-container
 
-https://api.x.com/1.1/onboarding/
-https://x.com/i/flow/login?redirect_after_login
+api.x.com/1.1/onboarding/
+x.com/i/flow/login?redirect_after_login
 https://abs.twimg.com/responsive-web/client-web/shared~bundle.Ocf~bundle.LoggedOutHome~loader.TimelineRenderer~loader.SignupModule
 
 ||gstatic.com/local/placeinfo/women_led_updated_ic_24dp.png$image
@@ -3397,3 +3393,12 @@ en.wikipedia.org##.cn-fundraising
 
 ||ssl.gstatic.com/docs/doclist/images/copy_paste_v2.gif$image
 
+www.bol.com##.modal--no-animation.no-js--is-hidden.modal
+
+https://jggldfvx.com
+
+@@||bos.hubty.network^$domain=strikeout.ws
+@@||hubty.network^$domain=strikeout.ws
+@@||nol.hubty.network^$domain=www.nolive.me
+
+www.netflix.com##.two-section-uma.uma-modal.nf-modal
