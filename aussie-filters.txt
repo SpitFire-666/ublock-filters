@@ -1334,6 +1334,19 @@ www.spiritoftasmania.com.au##.gdpr-notice-message
 
 www.healthdirect.gov.au##.hda-foot_acknowledge > p:nth-of-type(1)
 
-
 www.epworth.org.au##.p-content-container.text-sm > p:nth-of-type(2)
 www.epworth.org.au##.flags-container.col-12
+
+
+themusic.com.au##.leading-5.font-bold.text-center.bg-white.cursor-pointer.w-full.z-10.left-0.bottom-0.fixed.lg\:block.hidden
+themusic.com.au##.lg\:gap-x-5.lg\:justify-center.lg\:grid-cols-site.grid > div > .max-w-full.items-center.justify-center.mb-5.flex
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(11)
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(19)
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(27)
+themusic.com.au##.overflow-hidden > .max-w-full.items-center.justify-center.mb-5.flex
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(2)
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(1)
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(3)
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(4)
+
+https://www.homeloanexperts.com.au/wp-content/themes/homeloanexperts/js/cookie-handler.js
