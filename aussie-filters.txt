@@ -1350,3 +1350,7 @@ themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-typ
 themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex:nth-of-type(4)
 
 https://www.homeloanexperts.com.au/wp-content/themes/homeloanexperts/js/cookie-handler.js
+
+https://b68ff6dad61d.332166bb.ap-southeast-2.token.awswaf.com/b68ff6dad61d/d680c7f8d13b/9195bfee25b1/challenge.js
+https://b68ff6dad61d.332166bb.ap-southeast-2.token.awswaf.com/b68ff6dad61d/d680c7f8d13b/9195bfee25b1/telemetry
+https://www.spotlightstores.com/wro/js/
