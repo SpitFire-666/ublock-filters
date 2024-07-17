@@ -12,8 +12,6 @@
 ||click^
 ||to^
 
-
-
 ! HOSTS
 ! Domains that snuck through uBlock and caught by pi-hole
 ! PowerShell de-dupe: $domains = Get-Clipboard | ? {$_} ; $domains.Split("`n") | select -unique | sort | clip
@@ -3418,3 +3416,13 @@ www.netflix.com##.two-section-uma.uma-modal.nf-modal
 rudd-o.com##.newsImageContainer
 
 https://static-cdn.spot.im/production/conversation/tags/v3.102.0/ad-container-bundle.js
+
+tasty.co##.ad-flexible
+tasty.co##.video-1-1
+
+https://www.linkedin.com/authwall
+||www.linkedin.com/authwall
+
+www.buzzfeednews.com##.Ad--loading
+
+www.menshealth.com###gpt-leaderboard-ad
