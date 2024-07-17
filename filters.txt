@@ -3,10 +3,22 @@
 ! Description: Remove all the 💩
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
+
+! TLDs
+||zip^
+||mov^
+||top^
+||xyz^
+||click^
+||to^
+
+
+
 ! HOSTS
 ! Domains that snuck through uBlock and caught by pi-hole
 ! PowerShell de-dupe: $domains = Get-Clipboard | ? {$_} ; $domains.Split("`n") | select -unique | sort | clip
 
+orbsrv.com
 aibsgc.com
 isopik.com
 musicmundaygmail.direct.quickconnect.to
@@ -3402,3 +3414,7 @@ https://jggldfvx.com
 @@||nol.hubty.network^$domain=www.nolive.me
 
 www.netflix.com##.two-section-uma.uma-modal.nf-modal
+
+rudd-o.com##.newsImageContainer
+
+https://static-cdn.spot.im/production/conversation/tags/v3.102.0/ad-container-bundle.js
