@@ -3426,3 +3426,7 @@ https://www.linkedin.com/authwall
 www.buzzfeednews.com##.Ad--loading
 
 www.menshealth.com###gpt-leaderboard-ad
+
+https://forum.release-apk.com/ext/phpbb/ads/
+
+https://accounts.everyday.com.au/er-login/polyfills
