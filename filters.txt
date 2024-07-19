@@ -3453,3 +3453,11 @@ worriedsafe.com
 pshtop.com
 green-resultsbid.org
 ohimunpracticalw.info
+
+https://assets.guim.co.uk/assets/SetAdTargeting-importable
+https://assets.guim.co.uk/assets/AdBlockAsk-importable
+https://assets.guim.co.uk/assets/SupportTheG-importable
+https://assets.guim.co.uk/assets/HeaderTopBar-importable
+https://assets.guim.co.uk/assets/ReaderRevenueDev-importable
+https://contributions.guardianapis.com/banner
+https://sourcepoint.theguardian.com/
