@@ -1,4 +1,4 @@
-! Title: SpitFire-666: uBlock Filters
+! Title: SpitFire-666: 🛩️ uBlock Filters
 ! Expires: 1 days
 ! Description: Remove all the 💩
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
@@ -3485,3 +3485,5 @@ https://teams.microsoft.com/statics/teams-modular-packages/hashed-assets/precomp
 https://teams.events.data.microsoft.com/OneCollector/
 https://ic3.events.data.microsoft.com/OneCollector/
 events.data.microsoft.com/OneCollector/
+
+
