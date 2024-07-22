@@ -268,8 +268,6 @@ tpc.googlesyndication.com
 trace.mediago.io
 trace.popin.cc
 track.wattpad.com
-tracker.leechers-paradise.org
-tracker.tiny-vps.com
 trc.taboola.com
 tse3.mm.bing.net
 tse4.mm.bing.net
