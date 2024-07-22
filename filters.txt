@@ -10,7 +10,7 @@
 ||top^
 ! ||xyz^ ! removing due to some streams requiring it!
 ||click^
-||to^
+! ||to^ ! rolled back as it blocked torrent sites
 
 ! HOSTS
 ! Domains that snuck through uBlock and caught by pi-hole
@@ -3457,3 +3457,31 @@ https://assets.guim.co.uk/assets/HeaderTopBar-importable
 https://assets.guim.co.uk/assets/ReaderRevenueDev-importable
 https://contributions.guardianapis.com/banner
 https://sourcepoint.theguardian.com/
+
+https://www.tasteofhome.com/wp-content/plugins/fusion-auth-helper/
+https://static.cloudflareinsights.com/beacon.min.js
+
+damndelicious.net##.widget_block.widget.widget-1.widget-first.widget-last.widget-odd
+damndelicious.net##.widget_custom_html.footer-widget.subscribe.widget-1.widget-first.widget-odd.widget_text
+
+www.onceuponachef.com##.slick-film-strip
+www.onceuponachef.com##.code-block-9.code-block
+www.onceuponachef.com##.cls-inserted.slick-inline-search-panel
+
+https://www.loveandlemons.com/wp-content/themes/loveandlemons5/widgets/subscribe/
+
+https://spicysouthernkitchen.com/wp-content/cache/min/1/wp-content/plugins/wp-popups-lite/
+
+https://www.momontimeout.com/wp-content/cache/min/1/affiliate.mvp.min.js
+
+https://www.theatlantic.com/packages/hummingbirdjs/
+https://www.theatlantic.com/sponsored/
+
+fordauthority.com##.mc4wp-form-fields > .row
+
+https://portal.office.com/feedback/SurveySettings/
+
+https://teams.microsoft.com/statics/teams-modular-packages/hashed-assets/precompiled-telemetry-web-worker-213cc0063c652bae.js
+https://teams.events.data.microsoft.com/OneCollector/
+https://ic3.events.data.microsoft.com/OneCollector/
+events.data.microsoft.com/OneCollector/
