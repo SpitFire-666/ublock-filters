@@ -1,6 +1,6 @@
 ! Title: SpitFire-666: 🛩️ uBlock Filters
 ! Expires: 1 days
-! Description: Remove all the 💩
+! Description: Remove all the 💩. Newsletter banners, notifications, annoyances, ads, popups, malware, fake download buttons and more rubbish that gets in the way.
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
 
 
@@ -8,9 +8,9 @@
 ||zip^
 ||mov^
 ||top^
-! ||xyz^ ! removing due to some streams requiring it!
+! ||xyz^ ! commented out due to some streams requiring it!
 ||click^
-! ||to^ ! rolled back as it blocked torrent sites
+! ||to^ ! commented out as it blocked torrent sites
 
 ! HOSTS
 ! Domains that snuck through uBlock and caught by pi-hole
@@ -3485,3 +3485,13 @@ https://ic3.events.data.microsoft.com/OneCollector/
 events.data.microsoft.com/OneCollector/
 
 
+www.appbrain.com##.browse-apps-block
+www.appbrain.com##body > div:nth-of-type(2)
+
+happymod.com##.download-bottom.later
+m.happymod.com###appx
+m.happymod.com##.clearfix > a.clearfix.download-btn:nth-of-type(1)
+m.happymod.com##.down-fixd-box
+
+||www.apkmerry.com/202401/appx_proxy.php$subdocument
+www.apkmerry.com###appx
