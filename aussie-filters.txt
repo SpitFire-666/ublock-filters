@@ -1412,3 +1412,9 @@ https://www.weatherzone.com.au/wz-web/common/static/scripts/plugin-configs.js
 https://au.loopearplugs.com/cdn/shopifycloud/media-analytics/v0.1/analytics.js
 
 www.babycenter.com.au##section:nth-of-type(3)
+ads-cdn.reastatic.net
+sasinator.realestate.com.au
+rea-ads.aimatch.com
+
+zn5znfuutmq7imrpr-reagroup.siteintercept.qualtrics.com
+prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
