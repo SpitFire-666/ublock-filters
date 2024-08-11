@@ -3502,3 +3502,39 @@ fff.dailymail.co.uk
 vc.ads.dailymail.co.uk
 hulkprod.anm.co.uk
 go-mpulse.net
+adsninja.ca
+analyticspodium.com
+
+
+https://cdn.sstatic.net/Js/modules/cookie-consent.en.js
+
+wonderground.press##.f9.large-4.medium-6.cell > p
+www.babysleepsite.com##.ns-no-print.ns-has-total-share-count-after.ns-share-count.small.ns-floating.ns-buttons
+www.babysleepsite.com##.gb-container-2156bf3e.gb-container > .gb-inside-container
+
+www.sleephealthfoundation.org.au##.modal-container-2
+
+smarthomestarter.com##.z-40.lg\:top-24.top-14.fixed.justify-center.lg\:flex.w-full.pointer-events-none.fadeIn
+
+www.snopes.com##div.snopesad.outer-ad-unit-wrapper
+
+www.dexerto.com##.LeaderboardAd_min-size-iframe-mobile___E07b.pb-0.p-2.min-h-\[88px\].lg\:min-h-\[256px\].left-0.top-0.justify-center.items-center.flex.w-full
+www.dexerto.com##.aspect-16\/9.w-full.mb-8.my-4
+www.dexerto.com##aside.lg\:hidden.w-full:nth-of-type(1)
+www.dexerto.com##aside.lg\:hidden.w-full:nth-of-type(3)
+www.dexerto.com##.AdhesiveAd_min-size-iframe-mobile__Tr6no.md\:h-\[90px\].md\:flex.md\:overflow-hidden.min-h-\[56px\].bg-neutral-grey-30\/20.w-full.z-10.bottom-0.fixed.items-center.justify-center.flex.Ad_ad__cqmjz
+
+www.file-upload.org##.blocktxt > .content
+www.file-upload.org##div:nth-of-type(8)
+www.file-upload.org##div:nth-of-type(4)
+www.file-upload.org###player_code
+
+thecubexguide.com###div-gpt-ad-1705582107180-0
+thecubexguide.com###div-gpt-ad-1705581923553-0
+thecubexguide.com###div-gpt-ad-1705582042244-0
+thecubexguide.com###div-gpt-ad-1705582173874-0
+
+www.loudersound.com##.infinite-container
+www.prajwaldesai.com###post-327901 > .grid-container > .s-ct > .s-ct-wrap > .s-ct-inner > .e-ct-outer > .entry-newsletter
+
+https://cdn.ampproject.org/v0/amp-story-1.0.js
