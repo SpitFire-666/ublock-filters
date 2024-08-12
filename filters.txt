@@ -320,6 +320,28 @@ video.rmhfrtnd.com
 ptwmstcnt.com
 vcmdiawe.com
 bihussufoob.net
+cookie.active-agent.com
+active-agent.com
+adition.com
+sync-jp.im-apps.net
+id.geistm.com
+ice.360yield.com
+cm.rtbsystem.com
+tracker-shr.ortb.net
+e-volution.ai
+axis-marketplace.com
+open-adsyield.com
+openwebmp.com
+richaudience.com
+vrtcal.com
+webc2s.pubgw.yahoo.com
+ovp.iris.tv
+fff.dailymail.co.uk
+vc.ads.dailymail.co.uk
+hulkprod.anm.co.uk
+go-mpulse.net
+adsninja.ca
+analyticspodium.com
 
 
 $removeparam=ref,domain=americastestkitchen.com
@@ -1951,6 +1973,7 @@ www.dailymail.co.uk###floating-share-bar-container
 www.dailymail.co.uk##div.gamma:nth-of-type(6)
 www.dailymail.co.uk###dms-txt
 https://www.dailymail.co.uk/api/player/3133813/related-videos.json
+dailymail.co.uk/static/mol-adverts/
 
 nypost.com##.opaque.detached.single__floating-share.floating-share-wrap
 
@@ -3496,16 +3519,6 @@ m.happymod.com##.down-fixd-box
 ||www.apkmerry.com/202401/appx_proxy.php$subdocument
 www.apkmerry.com###appx
 
-webc2s.pubgw.yahoo.com
-ovp.iris.tv
-fff.dailymail.co.uk
-vc.ads.dailymail.co.uk
-hulkprod.anm.co.uk
-go-mpulse.net
-adsninja.ca
-analyticspodium.com
-
-
 https://cdn.sstatic.net/Js/modules/cookie-consent.en.js
 
 wonderground.press##.f9.large-4.medium-6.cell > p
@@ -3538,3 +3551,4 @@ www.loudersound.com##.infinite-container
 www.prajwaldesai.com###post-327901 > .grid-container > .s-ct > .s-ct-wrap > .s-ct-inner > .e-ct-outer > .entry-newsletter
 
 https://cdn.ampproject.org/v0/amp-story-1.0.js
+
