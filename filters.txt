@@ -1,15 +1,14 @@
 ! Title: SpitFire-666: 🛩️ uBlock Filters
 ! Expires: 1 days
-! Description: Remove all the 💩. Newsletter banners, notifications, annoyances, ads, popups, malware, fake download buttons and more rubbish that gets in the way.
+! Description: Remove all the 💩. Newsletter banners, spyware, tracking, cookies,social share buttons, notifications, annoyances, ads, popups, malware, fake download buttons and more rubbish that gets in the way.
 ! Homepage: https://github.com/SpitFire-666/ublock-filters/
-
 
 ! TLDs
 ||zip^
 ||mov^
 ||top^
-! ||xyz^ ! commented out due to some streams requiring it!
 ||click^
+! ||xyz^ ! commented out due to some streams requiring it!
 ! ||to^ ! commented out as it blocked torrent sites
 
 ! HOSTS
