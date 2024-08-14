@@ -422,6 +422,14 @@ pshtop.com
 green-resultsbid.org
 ohimunpracticalw.info
 tags.refinery89.com
+inner-active.mobi
+kayzen.io
+iponweb.net
+appmate.ai
+ndaspiratiotyukn.com
+polyfill-fastly.io
+hawk.techradar.com
+sr.studiostack.com
 
 
 $removeparam=ref,domain=americastestkitchen.com
@@ -3584,3 +3592,56 @@ www.tasteofhome.com##.pure-u-lg-17-24.pure-u-1 > .ad-container-wrapper
 www.tasteofhome.com##.recipe-directions__list > .ad-container-wrapper > .ad
 www.tasteofhome.com##.recipe-directions__list > .ad-container-wrapper
 https://golfstreams.me/partytown/partytown.js
+
+https://www.action1.com/wp-content/themes/Divi-child/js.cookie.min.js
+https://www.action1.com/wp-content/cache/min/1/wp-content/themes/Divi-child/js/cookie-for-marketing-team.js
+
+medicalnewstoday.com/content/advertising.js
+www-example.s3.amazonaws.com/example.traffic-media.co
+https://golfstreams.me/partytown/partytown.js
+
+redditstatic.com/ads/
+
+www.template.net##.social-share
+
+www.tasteofhome.com###after-recipe-content > .dfp-ad-widget
+www.tasteofhome.com##div.page-content.pure-g:nth-of-type(3) > .pure-u-xl-17-24.pure-u-lg-17-24.pure-u-1
+
+golfstreams.me##.top-0.text-white.bg-opacity-50.bg-light.w-100.position-absolute.h-100
+
+https://report.iheartmedia.gbqofs.io/
+
+www.realsimple.com##.rightrail-ad-placed.right-rail__item
+
+https://www.realsimple.com/static/*/static/mantle/static/libs/js/partytown-sandbox-sw.html
+https://www.realsimple.com/static/*/static/modules/bundles/js/prebidjs/
+https://www.realsimple.com/static/*/static/mantle/static/libs/js/proxytown
+
+www.realsimple.com###article__broad-video-jw_1-0
+jwpcdn.com/player/v/*/bidding.js
+
+dailymail.co.uk/static/mol-adverts/
+
+https://api.x.com/1.1/jot/client_event.json
+
+momlovesbest.com###cls-video-container-FCfk7AWS
+
+www.turkishexporter.com.tr##.fixed-cookie-policy.container-fluid
+
+https://assets.guim.co.uk/assets/SetAdTargeting-importable
+https://assets.guim.co.uk/assets/AdBlockAsk-importable
+https://assets.guim.co.uk/assets/SupportTheG-importable
+https://assets.guim.co.uk/assets/HeaderTopBar-importable
+https://assets.guim.co.uk/assets/ReaderRevenueDev-importable
+
+https://news.google.com/swg/js/v1/swg.js
+https://news.google.com/swg/js/v1/swg-gaa.js
+
+safewebtalk.com##div:nth-of-type(7)
+safewebtalk.com##div:nth-of-type(3)
+safewebtalk.com##.mt-3.col-12 > div:nth-of-type(1)
+
+trustedrevie.ws##body > .ads-area
+trustedrevie.ws##.reviews-detail-page > .ads-area
+
+||jwpsrv.com^$domain=realsimple.com
