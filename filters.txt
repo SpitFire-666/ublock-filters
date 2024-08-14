@@ -342,6 +342,86 @@ hulkprod.anm.co.uk
 go-mpulse.net
 adsninja.ca
 analyticspodium.com
+pavlov-prod.healthline.com
+browser.sentry-cdn.com
+medtargetsystem.com
+pixel-config.reddit.com
+navi.rvohealth.com
+ingest.make.rvohealth.com
+logs.browser-intake-datadoghq.com
+bea4.v.fwmrm.net
+warnermediagroup-com.videoplayerhub.com
+cadmus.script.ac
+ugdturner.com
+z.cdp-dev.cnn.com
+get.s-onetag.com
+lightning.cnn.com
+aim-tag.hcn.health
+gtm-server.healthline.com
+rvo-cohesion.healthline.com
+living-explore.help
+castanydm.com
+cdn.cloudvideosa.com
+lurkfibberband.com
+hichhereallyw.info
+kbadkxocv.com
+purgeregulation.com
+mindedallergyclaim.com
+dwhitdoedsrag.org
+divinationart.fun
+2483may2024.com
+santtacklingallaso.com
+constantdingy.com
+whitebit.com
+worriedsafe.com
+pshtop.com
+green-resultsbid.org
+ohimunpracticalw.info
+sentry.io
+tag.wknd.ai
+tru.am
+o148878.ingest.sentry.io
+smetrics.cbc.ca
+i.viafoura.co
+cws.conviva.com
+log.go.com
+sw88.go.com
+udc.yahoo.com
+data.queryly.com
+capture.condenastdigital.com
+cdn.permutive.app
+infinityid.condenastdigital.com
+3p-geo.yahoo.com
+i.clean.gg
+bats.video.yahoo.com
+creativecdn.com
+prebid.a-mo.net
+ocsp.buypass.com
+widget.sellwild.com
+a.pub.network
+cdn.confiant-integrations.net
+cdn-magiclinks.trackonomics.net
+geolocation.onetrust.com
+sync.kueezrtb.com
+onetag-sys.com
+meow.spot.im
+cdn.cloudvideosa.com
+lurkfibberband.com
+hichhereallyw.info
+kbadkxocv.com
+purgeregulation.com
+mindedallergyclaim.com
+dwhitdoedsrag.org
+www-example.s3.amazonaws.com/example.traffic-media.co
+divinationart.fun
+2483may2024.com
+santtacklingallaso.com
+whitebit.com
+worriedsafe.com
+pshtop.com
+green-resultsbid.org
+ohimunpracticalw.info
+tags.refinery89.com
 
 
 $removeparam=ref,domain=americastestkitchen.com
@@ -1456,9 +1536,6 @@ facebook.com^$removeparam=referralSurface
 www.dpreview.com##.signature
 www.dpreview.com##.gearList.section
 
-! 2023-02-13 https://forum.allaboutcircuits.com
-
-
 lifehacker.com##.cDxdXM.sc-1yqkh4a-0 > .video-html5-playlist.hxLRyg.sc-1wkneyl-0 > .video-html5-loaded
 
 www.grays.com###ctl00_ctl00_content_noFormContent_ctl00_ctl01_targetedTiles1 > .marketing
@@ -2014,7 +2091,6 @@ static.afterpay.com###afterpay-modal-container
 
 drive.google.com##.PPAvie
 
-
 $removeparam=refer_page_name,domain=temu.com
 $removeparam=refer_page_id,domain=temu.com
 $removeparam=refer_page_sn,domain=temu.com
@@ -2056,7 +2132,7 @@ www.beingwell.co##.et_bloom_animated.et_bloom_visible.et_bloom_auto_close.et_blo
 
 flightaware.com##.blue.flightPagePremiumUpsell
 flightaware.com###blockerDisclaimerContainer
-https://flightaware.com/include/7cfd40b8ccad-AdBlockDetection/
+flightaware.com/include/7cfd40b8ccad-AdBlockDetection/
 
 medium.com##.aef.aee.acn.m
 
@@ -2065,10 +2141,6 @@ www.moviemeter.com###main > div > .mobileHide.leaderboard-bar.mainpanel-bar
 www.directtoolsoutlet.com##.optanon-alert-box-wrapper
 
 www.tiktok.com##.flex-auto.tt-sheet__body
-
-! .nytimes.com##.Welcome-module_contentWelcomeContainer__UO4Ei
-! ##.Welcome-module_contentWelcome__TL17B
-! ##.MomentSystem-module_moment__G9hyw
 
 vonbaronmusic.com###cookie-notice
 vonbaronmusic.com##.mc-layout__bannerContent > [src]
@@ -2851,32 +2923,6 @@ onetrust.com/consent/
 https://cdn.pbstck.com/collector-53e3df7.js
 https://content-aapm1.uplynk.com/
 
-sentry.io
-tag.wknd.ai
-tru.am
-o148878.ingest.sentry.io
-smetrics.cbc.ca
-i.viafoura.co
-cws.conviva.com
-log.go.com
-sw88.go.com
-udc.yahoo.com
-data.queryly.com
-capture.condenastdigital.com
-cdn.permutive.app
-infinityid.condenastdigital.com
-3p-geo.yahoo.com
-i.clean.gg
-bats.video.yahoo.com
-creativecdn.com
-prebid.a-mo.net
-ocsp.buypass.com
-widget.sellwild.com
-a.pub.network
-cdn.confiant-integrations.net
-cdn-magiclinks.trackonomics.net
-geolocation.onetrust.com
-
 
 https://s.yimg.com/nn/lib/metro/g/myy/advertisement_0.0.19.js
 https://s.yimg.com/uc/finance/nimbus/_app/immutable/chunks/Ads
@@ -3055,7 +3101,6 @@ www.taste.com.au##.prom-header
 ###AdThrive_Content_13_desktop
 ###AdThrive_Content_14_desktop
 ###AdThrive_Content_15_desktop
-
 ###AdThrive_Below_Post_1_desktop
 ###AdThrive_Below_Post_2_desktop
 ###AdThrive_Below_Post_3_desktop
@@ -3095,9 +3140,6 @@ fastcompany.com/gallery/toolbar_gdpr_components
 https://dn0qt3r0xannq.cloudfront.net/dexerto-Ycgh7qIdSm/dexerto-longform/prebid-load
 https://dn0qt3r0xannq.cloudfront.net/dexerto-Ycgh7qIdSm/dexerto-longform/prebid-wrapper
 
-sync.kueezrtb.com
-onetag-sys.com
-
 apnews.com##.sovrn-story-feed.Advertisement.SovrnAd
 
 https://cdn.ziffstatic.com/pg/mashable.prebid.js
@@ -3125,7 +3167,6 @@ https://foxnewsplayer-a.akamaihd.net/player/9.0.23/akamai/amp/chartbeatanalytics
 
 https://tl.foxnews.com/track
 
-tags.refinery89.com
 
 https://s3.amazonaws.com/static.wbur/scripts/ads/clever_ads.js
 
@@ -3152,8 +3193,6 @@ https://publisher-assets.spot.im/ad/event-tracking/pixel-ads-google-adsense.html
 https://static-cdn.spot.im/production/ads/tags/v22.16.0/ads/ads.js
 https://9to5mac.com/wp-content/themes/ninetofive/assets/js/adsbygoogle.js
 static-cdn.spot.im/production/conversation/tags/v3.99.0/ad-container-bundle.js
-
-meow.spot.im
 
 https://cdn.ziffstatic.com/pg/pcmag.prebid
 
@@ -3452,25 +3491,6 @@ https://forum.release-apk.com/ext/phpbb/ads/
 
 https://accounts.everyday.com.au/er-login/polyfills
 
-cdn.cloudvideosa.com
-lurkfibberband.com
-hichhereallyw.info
-kbadkxocv.com
-purgeregulation.com
-mindedallergyclaim.com
-dwhitdoedsrag.org
-www-example.s3.amazonaws.com/example.traffic-media.co
-divinationart.fun
-2483may2024.com
-santtacklingallaso.com
-
-https://golfstreams.me/partytown/partytown.js
-whitebit.com
-worriedsafe.com
-pshtop.com
-green-resultsbid.org
-ohimunpracticalw.info
-
 https://assets.guim.co.uk/assets/SetAdTargeting-importable
 https://assets.guim.co.uk/assets/AdBlockAsk-importable
 https://assets.guim.co.uk/assets/SupportTheG-importable
@@ -3552,3 +3572,15 @@ www.prajwaldesai.com###post-327901 > .grid-container > .s-ct > .s-ct-wrap > .s-c
 
 https://cdn.ampproject.org/v0/amp-story-1.0.js
 
+www.familyhandyman.com##.newsletter-signup-content-widget
+www.familyhandyman.com###project-cards-between-ad-1
+www.familyhandyman.com###project-cards-between-ad-2
+
+https://www.tasteofhome.com/wp-content/themes/bumblebee/js/newsletter-module.js
+https://www.familyhandyman.com/wp-content/themes/bumblebee/js/newsletter-module.js
+
+www.tasteofhome.com##.pure-u-lg-17-24.pure-u-1 > .ad-container-wrapper > .ad
+www.tasteofhome.com##.pure-u-lg-17-24.pure-u-1 > .ad-container-wrapper
+www.tasteofhome.com##.recipe-directions__list > .ad-container-wrapper > .ad
+www.tasteofhome.com##.recipe-directions__list > .ad-container-wrapper
+https://golfstreams.me/partytown/partytown.js
