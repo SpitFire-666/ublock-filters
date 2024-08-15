@@ -429,6 +429,9 @@ ndaspiratiotyukn.com
 polyfill-fastly.io
 hawk.techradar.com
 sr.studiostack.com
+qvjqbtbt.com
+jaws.pbs.org
+
 
 
 $removeparam=ref,domain=americastestkitchen.com
@@ -3644,3 +3647,13 @@ trustedrevie.ws##body > .ads-area
 trustedrevie.ws##.reviews-detail-page > .ads-area
 
 ||jwpsrv.com^$domain=realsimple.com
+
+https://au.api.iheart.com/api/v2/playback/ads
+https://au.api.iheart.com/api/v3/playback/reporting
+
+www.songsterr.com##.Ei1by
+mexa.sh##td > [href="https://mexa.sh/premium.html"]
+https://www.dailymail.co.uk/static/mol-adverts/
+
+https://www.pbs.org/wgbh/americanexperience/static/images/bg-triangle-newsletter.png
+www.pbs.org##.active.general.newsletter-dialog
