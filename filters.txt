@@ -3781,3 +3781,16 @@ https://cpt-static.gannettdigital.com/universal-web-client/master/latest/gallium
 https://fbstreams.pm/partytown/partytown.js
 
 pitchfork.com##.cne-video-embed
+
+https://substackcdn.com/bundle/assets/tracking-*.js
+https://substackcdn.com/bundle/assets/Modal-*.js
+https://substackcdn.com/bundle/assets/app_install_modal-*.js
+https://substackcdn.com/bundle/assets/UpgradeToDmModal-*.js
+https://substackcdn.com/bundle/assets/newsletter_item_list-*.css
+https://substackcdn.com/bundle/assets/NewsletterIcon-*.js
+https://substackcdn.com/bundle/assets/tracking-*.js
+https://substackcdn.com/bundle/assets/postPingbackTracker-*.js
+https://substackcdn.com/bundle/assets/RewardBox-*.css
+https://substackcdn.com/bundle/assets/RewardBox-*.js
+substack.com##div.subscription-widget-wrap
+substack.com##.subscribe-footer
