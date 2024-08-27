@@ -15,6 +15,17 @@
 ! Domains that snuck through uBlock and caught by pi-hole
 ! PowerShell de-dupe: $domains = Get-Clipboard | ? {$_} ; $domains.Split("`n") | select -unique | sort | clip
 
+
+t.amyfc.link
+dqpnq362acqdi.cloudfront.net
+affilimate.io
+adforcast.com
+tj.orlandowaggons.com
+citadelpathstatue.com
+www.zimpolo.com
+citadelpathstatue.com
+bullionglidingscuttle.com
+dqpnq362acqdi.cloudfront.net
 orbsrv.com
 aibsgc.com
 isopik.com
@@ -2607,11 +2618,6 @@ www.inverse.com##.XUu
 
 www.tnt.com##.\31 \/1.layout__item > p
 
-onlineradiobox.com##.alert--playmarket
-onlineradiobox.com###alert_cookies
-||cdn.onlineradiobox.com/img/player__promo.jpg$image
-onlineradiobox.com##.player__promo
-onlineradiobox.com##._promo.player
 
 damndelicious.net##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
 damndelicious.net##.adthrive-content-1.adthrive-content.adthrive-ad
@@ -3469,8 +3475,6 @@ www.digitalmusicnews.com##.digit-content_2
 
 edition.cnn.com##div.ad-qtm
 
-onlineradiobox.com##.footer__playmarket > h3
-
 classicreload.com##.ccpa-msg-added.choice-footer-msg
 
 chat.openai.com##.shadow-lg.popover
@@ -3490,6 +3494,12 @@ www.timeout.com##div._column_1bge7_26:nth-of-type(1) > ._list_1bge7_32 > li._lis
 onlineradiobox.com##.playmarket
 ||cdn.onlineradiobox.com/img/bgs4.jpg$image
 onlineradiobox.com##.saveUA
+onlineradiobox.com###alert_cookies
+||cdn.onlineradiobox.com/img/player__promo.jpg$image
+onlineradiobox.com##.player__promo
+onlineradiobox.com##._promo.player
+onlineradiobox.com##.alert--playmarket
+onlineradiobox.com##.footer__playmarket > h3
 
 en.wikipedia.org##.cn-fundraising
 
@@ -3794,3 +3804,304 @@ https://substackcdn.com/bundle/assets/RewardBox-*.css
 https://substackcdn.com/bundle/assets/RewardBox-*.js
 substack.com##div.subscription-widget-wrap
 substack.com##.subscribe-footer
+
+www.feastingathome.com##.adthrive-content-2.adthrive-content.adthrive-ad
+www.feastingathome.com##.adthrive-content-1.adthrive-content.adthrive-ad
+www.feastingathome.com###cls-video-container-vXuWO3iE_1
+www.feastingathome.com##.adthrive-content-4.adthrive-content.adthrive-ad
+www.feastingathome.com###AdThrive_Content_5_phone
+www.feastingathome.com##.adthrive-content-6.adthrive-content.adthrive-ad
+www.feastingathome.com##.adthrive-content-7.adthrive-content.adthrive-ad
+www.feastingathome.com##.adthrive-recipe-3.adthrive-recipe.adthrive-ad
+www.feastingathome.com###AdThrive_Recipe_1_phone
+www.feastingathome.com###AdThrive_Recipe_2_phone
+www.feastingathome.com##.adthrive-content-8.adthrive-content.adthrive-ad
+
+www.bonappetit.com##.persistent-bottom
+www.bonappetit.com##.with-searchbar.should-hold-space.ad-stickyhero-enable-mobile.ad-stickyhero--standard.ad-stickyhero.gStsdY.StickyHeroAdWrapper-eNLJUc
+
+! 2024-03-10 https://www.inverse.com
+www.inverse.com##div.UdU.hzA.pCo.zzk.Luz.adWrapper
+
+! 2024-03-11 https://www.niceone-tech.com
+www.niceone-tech.com##.privacy-prompt
+
+! 2024-03-12 https://www.casioindiashop.com
+www.casioindiashop.com###__next > div > .myAcctPopupBg
+
+! 2024-03-13 https://nypost.com
+nypost.com###zephr-component-1
+
+! 2024-03-13 https://www.wrk.com
+www.wrk.com##.border-top.text-center.mobile-login-bottom.bg-white
+
+! 2024-03-24 https://www.livescience.com
+www.livescience.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+
+! 2024-03-24 https://www.seiko-design.com
+www.seiko-design.com###cookie-law-info-bar
+www.seiko-design.com##.sii-share-block
+
+! 2024-03-24 https://www.inverse.com
+www.inverse.com##.XUu
+
+! 2024-03-24 https://www.tnt.com
+www.tnt.com##.\31 \/1.layout__item > p
+
+! 2024-03-31 https://www.fatherly.com
+www.fatherly.com##div.UdU.hzA.pCo.zzk.G8T.adWrapper
+
+! 2024-04-09 https://collectingcars.com
+collectingcars.com##.modal-overlay
+
+! 2024-04-12 https://www.watchcollecting.com
+www.watchcollecting.com###modalOverlay
+
+! 2024-04-12 https://www.ladbible.com
+www.ladbible.com##.soft-notification-modal_headerOffset__p6Mdk.soft-notification-modal_modal__8KcpZ
+
+! 2024-04-13 https://www.ladbible.com
+www.ladbible.com##div.advert-placeholder_mobileAd__jTsos.advert-placeholder_advertPlaceholder____F2W
+
+! 2024-04-20 https://www.cnet.com
+www.cnet.com##.c-pageReviewContent_playerwrap
+
+! 2024-04-20 https://mashable.com
+mashable.com##.md\:space-x-4.md\:space-y-0.md\:items-center.md\:flex-row.space-y-4.mb-8.flex-col.flex
+
+! 2024-04-20 https://www.cbsnews.com
+www.cbsnews.com##.newsletter_signup
+
+! 2024-04-22 https://www.drive.com.au
+www.thechilliking.com##.text_box > p
+
+! 2024-04-24 https://peppergeek.com
+peppergeek.com##.formkit-overlay.seva-overlay
+
+! 2024-04-24 https://www.homestolove.com.au
+www.homestolove.com.au##.teads.ad
+www.homestolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(3)
+www.homestolove.com.au###page > .hide-on-desktop.mrec.ad
+www.homestolove.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
+
+! 2024-04-24 https://www.olivemagazine.com
+www.olivemagazine.com##div.ad-placement:nth-of-type(11)
+www.olivemagazine.com##div.ad-placement:nth-of-type(15)
+www.olivemagazine.com##div.ad-placement:nth-of-type(19)
+www.olivemagazine.com##div.mt-md:nth-of-type(2)
+
+www.allrecipes.com##div.feedback-list__item > .mntl-sc-sticky-billboard.mntl-mobSquareFixed-sticky-dynamic > .is-requested.js-lazy-ad
+www.allrecipes.com##.footer.comp
+
+! 2024-02-06 https://deadline.com
+deadline.com###adm-inline-article-ad-1 > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
+deadline.com###adm-inline-article-ad-2 > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
+deadline.com###adm-inline-article-ad-x-11 > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
+deadline.com###adm-mobile-header > .boomerang.adma > .pmc-adm-boomerang-pub-div
+
+www.delish.com##.e152u5os0.css-350t2w.recipe-mobile-breaker-ad.recipe-breaker-ad.mobile-breaker-ad.breaker-ad.gpt-breaker-container
+
+! 2024-02-08 https://www.jocooks.com
+www.jocooks.com###cls-video-container-2fFZXD83
+www.jocooks.com##.slick-inline-search-panel
+
+! 2024-02-11 https://meatwave.com
+meatwave.com###st-1
+
+www.delish.com##.e152u5os0.css-fg2rtf.breaker-ad.gpt-breaker-container
+
+www.tipsbulletin.com##.code-block-1.code-block
+
+! 2024-02-21 https://www.growertoday.com
+www.growertoday.com##center
+www.growertoday.com##.wp-image-15188.dpsp-pin-it-wrapper > .dpsp-pin-it-button-shape-rectangular.dpsp-pin-it-button-top-left.dpsp-pin-it-button
+
+! 2024-02-21 https://growhotpeppers.com
+growhotpeppers.com##.formkit-overlay.seva-overlay
+
+news.sky.com##.js_smartbanner.smartbanner--android.smartbanner
+news.sky.com##.sdc-article-strapline__link
+news.sky.com##.sdc-article-widget.ui-app-promo
+
+mealtimes.com.au##.fl-row-align-center.fl-row-default-height.fl-node-bvehlfm4p2a9.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap > .fl-node-content.fl-row-fixed-width.fl-row-content
+
+! 2024-05-21 https://www.aliexpress.com
+www.aliexpress.com###header-float-banner
+
+! 25 May 2024 https://www.tandoorizaika.com.au
+www.tandoorizaika.com.au##.px-4.py-2
+
+! 25 May 2024 https://www.washingtonpost.com
+www.washingtonpost.com##.checkout-paywall-overlay.paywall-overlay.bottom-0.right-0.left-0.fixed
+
+lovattspuzzles.com##.game-page__top-ad-column
+lovattspuzzles.com##.puzzle_incontent_3
+lovattspuzzles.com##.puzzle_incontent_4
+lovattspuzzles.com##.puzzle_incontent_2
+
+! 16 July 2024 https://knovhov.com
+knovhov.com##.code-block-45.code-block
+knovhov.com##.code-block-40.code-block > div
+knovhov.com##.code-block-50.code-block > div
+
+bakeplaysmile.com##div.wp-block-spacer:nth-of-type(4)
+
+timesofindia.indiatimes.com##[href^="https://timesofindia.onelink.me/mjFd/"]
+timesofindia.indiatimes.com##.sticky_minitv
+timesofindia.indiatimes.com##.is_ads_visible
+
+www.nzherald.co.nz##.toaster-text-wrap
+||accounts.google.com/gsi/iframe/select$subdocument
+www.nzherald.co.nz###credential_picker_iframe
+www.nzherald.co.nz##.header-wrap
+www.nzherald.co.nz##.down.premium-toaster
+
+! 2024-01-29 https://www.forbes.com
+www.forbes.com##.no-close.zephr-generic-modal.zephr-article-modal-modal
+www.forbes.com##.zephr-backdrop.zephr-article-modal-backdrop
+
+! 2024-01-29 https://www.semafor.com
+www.semafor.com##.css-3dbklf
+
+humornama.com##center
+humornama.com##.entry-content > span
+humornama.com###comments > span
+humornama.com##.gb-headline-text.gb-headline-cd083838.gb-headline > span
+
+! 2024-01-29 https://m.economictimes.com
+m.economictimes.com###downloadApp
+
+vonbaronmusic.com##.mc-layout__bannerContent > [src]
+
+! 2024-01-16 https://www.future-feed.com
+www.future-feed.com##.yui-popup-container-node
+
+! 2024-01-16 https://www.independent.co.uk
+www.independent.co.uk##.jXjFKb.sc-1qz44j0-14.iEdPqp.sc-1qz44j0-13
+
+! 2024-01-16 https://www.usatoday.com
+www.usatoday.com###gnt_atomsnc > .hydrated
+www.usatoday.com##.gnt_em_anc.gnt_em
+www.usatoday.com##.tealplayer-ad-container
+www.usatoday.com##.gnt_em_vp_c
+
+! 2024-01-16 https://www.edinburghlive.co.uk
+||www.inyourarea.co.uk/widgets/$subdocument
+www.edinburghlive.co.uk##.has-image.factbox
+www.edinburghlive.co.uk##.sharebar > ul
+
+! 2024-01-16 https://www.nytimes.com
+www.nytimes.com###dock-container
+
+! 2024-01-21 https://www.skyscrapercity.com
+www.skyscrapercity.com###google-one-tap-iframe
+www.skyscrapercity.com##.primis-wrapper.message-cell--main.message-info-block.message-cell
+www.skyscrapercity.com##.california-thread-ad.california-ad-mobile.california-ad.california-banner-ad-container
+
+www.independent.co.uk##.vf-tray-trigger-widget
+
+! 2023-12-15 https://secretmelbourne.com
+
+! 2023-12-26 https://nypost.com
+nypost.com##.jw-float-to-top.jw-reset.jw-wrapper
+nypost.com##div.d-none-lg.d-block.ad--inline.ad--container.ad > .ad__wrapper
+nypost.com##.ad__slot
+nypost.com##.sticky.d-block-lg.ad--container.ad > .ad__wrapper
+
+! 2024-01-03 https://www.theregister.com
+www.theregister.com###condor_2
+www.theregister.com###falcon_5
+
+damndelicious.net##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
+damndelicious.net##.adthrive-content-1.adthrive-content.adthrive-ad
+damndelicious.net###cls-video-container-kjyLZRqg
+damndelicious.net##.adthrive-content-2.adthrive-content.adthrive-ad
+damndelicious.net##.adthrive-content-3.adthrive-content.adthrive-ad
+damndelicious.net##.adthrive-content-4.adthrive-content.adthrive-ad
+damndelicious.net##.adthrive-recipe-5.adthrive-recipe.adthrive-ad
+damndelicious.net##.adthrive-content-5.adthrive-content.adthrive-ad
+damndelicious.net##.inner-post > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
+damndelicious.net###comments > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
+
+! 2024-01-09 https://www.nytimes.com
+www.nytimes.com##.LargeCTABanner-module_relative__vctEf.LargeCTABanner-module_banner__Wrm0P
+
+bakeplaysmile.com##.cky-box-bottom-left.cky-consent-container
+bakeplaysmile.com##.feast-film-strip.slick-film-strip
+bakeplaysmile.com##.slick-inline-search-panel
+
+
+www.allrecipes.com###mntl-mob-square-flex-1_1-0
+www.allrecipes.com##.is-requested.dynamic.billboard.gpt.mntl-gpt-adunit
+www.allrecipes.com##.is-visible.adhesive.gpt.mntl-gpt-adunit.mntl-adhesive-ad
+www.allrecipes.com###mntl-mobSquareFlex1-sticky_1-0 > .billboard.gpt.mntl-gpt-adunit
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_2-0 > .is-requested.js-lazy-ad
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_1-0 > .is-requested.js-lazy-ad
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_3-0 > .is-requested.js-lazy-ad
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_4-0 > .is-requested.js-lazy-ad
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_5-0 > .is-requested.js-lazy-ad
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_6-0 > .is-requested.js-lazy-ad
+www.allrecipes.com###mntl-mobSquareFixed-sticky-dynamic_7-0 > .is-requested.js-lazy-ad
+www.allrecipes.com##.is-requested.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-lazy-ad
+www.allrecipes.com##.is-requested.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit.mntl-lazy-ad
+www.allrecipes.com###mntl-mobSquareFlex1-sticky_2-0 > .billboard.gpt.mntl-gpt-adunit
+www.allrecipes.com##.is-requested.js-lazy-ad.dynamic.billboard.gpt.mntl-gpt-adunit.mntl-gpt-dynamic-adunit
+
+www.health.harvard.edu##.flex.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.mobile-popup
+www.the-sun.com##.article__content > .advert-wrapper--header.advert-wrapper
+www.the-sun.com##.advert-wrapper--placeholder.advert-wrapper--billboard.advert-wrapper
+
+www.worldatlas.com###content_body > .ad_push.mod_ad_container
+www.worldatlas.com##.ad_hfix_600.mod_ad
+www.worldatlas.com##.ad_wfix_mb_std.ad_wfix_tb_728.ad_wfix_dt_728.ad_hfix_320.mod_ad
+www.worldatlas.com##.ad_cls_fix.ad_content_below.ad_push.mod_ad_container
+
+! 2023-03-22 https://www.cnet.com
+www.cnet.com##.o-ratio_content
+www.cnet.com##.t-alignCol8.c-avStickyVideo
+
+luxuryescapes.com##.lg.ilPewA.GDPRWarningBanner__Alert-sc-1mwq5ah-1.gswtFw.LayoutContainer__Container-sc-rvo2nj-0
+luxuryescapes.com###credential_picker_iframe
+
+
+www.jamieoliver.com##.mt-relative-minus-40.clearfix.desktop-ad-placeholder.desktop-recipe-list-ad
+www.jamieoliver.com##.-is-inline.top-avocado
+www.jamieoliver.com##.home_side_ad_wrapper
+www.lifeblood.com.au##p:nth-of-type(3)
+
+https://css.ml-static.com/static/websat-profile/global/css/components/modal.css
+https://css.ml-static.com/static/websat-profile/global/css/components/secondary-review-modal.css
+https://css.ml-static.com/static/websat-profile/global/css/components/registration-modal.css
+
+financialexpress.com/api/capture/ua
+https://www.financialexpress.com/wp-content/plugins/ie-network-moengage/
+https://www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/js/vendor/taboola.js
+https://media-central.indianexpress.com/static/subscription/js/newsletter.js
+https://www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/js/vendor/gdpr-ad-script.js
+https://www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/js/vendor/min/taboola-header.js
+https://www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/js/vendor/taboola-footer.js
+https://www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/js/vendor/min/ie-network-moengage-data-events.min.js
+www.financialexpress.com##.adcode728x90.alignnone
+www.financialexpress.com##div.adcode300x250
+https://ua.financialexpress.com/api/capture/event
+
+knowyourmeme.com##.header-unit-wrapper
+www.thelantern.com##.ceb61_ad_body_full > center
+https://digital.flytedesk.com/js/head.js
+
+www.golem.de##.staticNlForm.subscribe-newsletter
+
+metro.co.uk##.loaded.metro-email-signup-metroshopping
+
+ebay.com/tag-manager/
+ebaystatic.com/cr/v/c1/ebay-cookies/
+ebayrtm.com/rtm?RtmCmd&a=json
+pages.ebay.com/identity/device/
+ebay.com.au/ifh/
+
+
+interestingengineering.com##.ArticleSubscribeModal_popupOverlay__
+interestingengineering.com##.undefined.t-pb-3.home-news-letter-banner
+
+https://contributions.guardianapis.com/banner
+sourcepoint.theguardian.com
