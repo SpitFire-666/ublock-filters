@@ -14,6 +14,13 @@
 
 # How Tos
 
+- Re-enable scrolling (if it gets blocked)
+  example.com##body:style(height:100%!important)
+  example.com##body:style(overflow:scroll!important)
+  example.com##body,html:style(overflow:auto!important)
+  example.com##html:style(overflow: auto !important;)
+  example.com##html:style(overflow: auto !important;)
+
 https://crawlingrobotfortress.blogspot.com/2020/09/wildcard-selectors-in-ublock-origin.html
 
 https://www.reddit.com/r/uBlockOrigin/comments/gee5w1/how_to_permanently_block_elements/
