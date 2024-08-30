@@ -1378,7 +1378,6 @@ https://thewest.com.au/static/js/Taboola-web_*.js
 https://www.perthnow.com.au/static/js/Taboola-web_*.js
 http://www.bom.gov.au/scripts/marketing-inhouse-v2.js
 
-
 https://www.cheesecake.com.au/static/version1721221042/frontend/Tcs/cheesecake/en_US/Magento_Cookie/
 https://www.cheesecake.com.au/static/version1721221042/frontend/Tcs/cheesecake/en_US/jquery/jquery.cookie.js
 
@@ -1412,9 +1411,8 @@ https://www.weatherzone.com.au/wz-web/common/static/scripts/plugin-configs.js
 https://au.loopearplugs.com/cdn/shopifycloud/media-analytics/v0.1/analytics.js
 
 www.babycenter.com.au##section:nth-of-type(3)
-ads-cdn.reastatic.net
-sasinator.realestate.com.au
-rea-ads.aimatch.com
 
-zn5znfuutmq7imrpr-reagroup.siteintercept.qualtrics.com
-prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
+www.homestolove.com.au##.teads.ad
+www.homestolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(3)
+www.homestolove.com.au###page > .hide-on-desktop.mrec.ad
+www.homestolove.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
