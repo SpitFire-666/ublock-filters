@@ -464,7 +464,41 @@ cdn.izooto.com
 api.viafoura.co
 traxex.gannettdigital.com
 pi.pardot.com
-
+acdn.adnxs.com
+adfstat.yandex.ru
+ads-api.tiktok.com
+ads-api.twitter.com
+ads-sg.tiktok.com
+adservice.google.com
+adtech.yahooinc.com
+advertising-api-eu.amazon.com
+advertising.apple.com
+advertising.yahoo.com
+advertising.yandex.ru
+advice-ads.s3.amazonaws.com
+analytics.query.yahoo.com
+analytics.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+api-adservices.apple.com
+app-analytics-v2.snapchat.com
+appmetrica.yandex.ru
+books-analytics-events.apple.com
+cdn.taboola.com
+config.edge.skype.com
+crashlyticsreports-pa.googleapis.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
+gemini.yahoo.com
+grs.hicloud.com
+iot-eu-logser.realme.com
+iot-logser.realme.com
+log.fc.yahoo.com
+metrika.yandex.ru
+mobile.pipe.aria.microsoft.com
+notes-analytics-events.apple.com
+tracking.rus.miui.com
+weather-analytics-events.apple.com
 
 
 $removeparam=ref,domain=americastestkitchen.com
@@ -1510,8 +1544,6 @@ bobcares.com##.custom-h2-p1-blocks
 bandcamp.com##.no-title.nu-dialog.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
 bandcamp.com##.ui-widget-overlay
 
-! open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
-
 www.moderndrummer.com##div > .kl-private-reset-css-Xuajs1.needsclick
 
 www.vogue.com##.persistent-aside--align-left.persistent-aside.dmuvVb.PersistentAsideWrapper-PqjsW
@@ -1880,11 +1912,7 @@ www.directtoolsoutlet.com##.optanon-alert-box-wrapper
 
 www.tiktok.com##.flex-auto.tt-sheet__body
 
-! .nytimes.com##.Welcome-module_contentWelcomeContainer__UO4Ei
-! ##.Welcome-module_contentWelcome__TL17B
-! ##.MomentSystem-module_moment__G9hyw
-
-connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.lia-cookie-banner-alert
+connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert
 
 vonbaronmusic.com###cookie-notice
 
@@ -3820,71 +3848,45 @@ www.feastingathome.com##.adthrive-content-8.adthrive-content.adthrive-ad
 www.bonappetit.com##.persistent-bottom
 www.bonappetit.com##.with-searchbar.should-hold-space.ad-stickyhero-enable-mobile.ad-stickyhero--standard.ad-stickyhero.gStsdY.StickyHeroAdWrapper-eNLJUc
 
-! 2024-03-10 https://www.inverse.com
 www.inverse.com##div.UdU.hzA.pCo.zzk.Luz.adWrapper
 
-! 2024-03-11 https://www.niceone-tech.com
 www.niceone-tech.com##.privacy-prompt
 
-! 2024-03-12 https://www.casioindiashop.com
 www.casioindiashop.com###__next > div > .myAcctPopupBg
 
-! 2024-03-13 https://nypost.com
 nypost.com###zephr-component-1
 
-! 2024-03-13 https://www.wrk.com
 www.wrk.com##.border-top.text-center.mobile-login-bottom.bg-white
 
-! 2024-03-24 https://www.livescience.com
 www.livescience.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
 
-! 2024-03-24 https://www.seiko-design.com
 www.seiko-design.com###cookie-law-info-bar
 www.seiko-design.com##.sii-share-block
 
-! 2024-03-24 https://www.inverse.com
 www.inverse.com##.XUu
 
-! 2024-03-24 https://www.tnt.com
 www.tnt.com##.\31 \/1.layout__item > p
 
-! 2024-03-31 https://www.fatherly.com
 www.fatherly.com##div.UdU.hzA.pCo.zzk.G8T.adWrapper
 
-! 2024-04-09 https://collectingcars.com
 collectingcars.com##.modal-overlay
 
-! 2024-04-12 https://www.watchcollecting.com
 www.watchcollecting.com###modalOverlay
 
-! 2024-04-12 https://www.ladbible.com
 www.ladbible.com##.soft-notification-modal_headerOffset__p6Mdk.soft-notification-modal_modal__8KcpZ
 
-! 2024-04-13 https://www.ladbible.com
 www.ladbible.com##div.advert-placeholder_mobileAd__jTsos.advert-placeholder_advertPlaceholder____F2W
 
-! 2024-04-20 https://www.cnet.com
 www.cnet.com##.c-pageReviewContent_playerwrap
 
-! 2024-04-20 https://mashable.com
 mashable.com##.md\:space-x-4.md\:space-y-0.md\:items-center.md\:flex-row.space-y-4.mb-8.flex-col.flex
 
-! 2024-04-20 https://www.cbsnews.com
 www.cbsnews.com##.newsletter_signup
 
-! 2024-04-22 https://www.drive.com.au
 www.thechilliking.com##.text_box > p
 
-! 2024-04-24 https://peppergeek.com
 peppergeek.com##.formkit-overlay.seva-overlay
 
-! 2024-04-24 https://www.homestolove.com.au
-www.homestolove.com.au##.teads.ad
-www.homestolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(3)
-www.homestolove.com.au###page > .hide-on-desktop.mrec.ad
-www.homestolove.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
-
-! 2024-04-24 https://www.olivemagazine.com
 www.olivemagazine.com##div.ad-placement:nth-of-type(11)
 www.olivemagazine.com##div.ad-placement:nth-of-type(15)
 www.olivemagazine.com##div.ad-placement:nth-of-type(19)
@@ -3893,7 +3895,6 @@ www.olivemagazine.com##div.mt-md:nth-of-type(2)
 www.allrecipes.com##div.feedback-list__item > .mntl-sc-sticky-billboard.mntl-mobSquareFixed-sticky-dynamic > .is-requested.js-lazy-ad
 www.allrecipes.com##.footer.comp
 
-! 2024-02-06 https://deadline.com
 deadline.com###adm-inline-article-ad-1 > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
 deadline.com###adm-inline-article-ad-2 > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
 deadline.com###adm-inline-article-ad-x-11 > .boomerang.adma > .ad-text.pmc-adm-boomerang-pub-div
@@ -3901,22 +3902,18 @@ deadline.com###adm-mobile-header > .boomerang.adma > .pmc-adm-boomerang-pub-div
 
 www.delish.com##.e152u5os0.css-350t2w.recipe-mobile-breaker-ad.recipe-breaker-ad.mobile-breaker-ad.breaker-ad.gpt-breaker-container
 
-! 2024-02-08 https://www.jocooks.com
 www.jocooks.com###cls-video-container-2fFZXD83
 www.jocooks.com##.slick-inline-search-panel
 
-! 2024-02-11 https://meatwave.com
 meatwave.com###st-1
 
 www.delish.com##.e152u5os0.css-fg2rtf.breaker-ad.gpt-breaker-container
 
 www.tipsbulletin.com##.code-block-1.code-block
 
-! 2024-02-21 https://www.growertoday.com
 www.growertoday.com##center
 www.growertoday.com##.wp-image-15188.dpsp-pin-it-wrapper > .dpsp-pin-it-button-shape-rectangular.dpsp-pin-it-button-top-left.dpsp-pin-it-button
 
-! 2024-02-21 https://growhotpeppers.com
 growhotpeppers.com##.formkit-overlay.seva-overlay
 
 news.sky.com##.js_smartbanner.smartbanner--android.smartbanner
@@ -3925,13 +3922,10 @@ news.sky.com##.sdc-article-widget.ui-app-promo
 
 mealtimes.com.au##.fl-row-align-center.fl-row-default-height.fl-node-bvehlfm4p2a9.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap > .fl-node-content.fl-row-fixed-width.fl-row-content
 
-! 2024-05-21 https://www.aliexpress.com
 www.aliexpress.com###header-float-banner
 
-! 25 May 2024 https://www.tandoorizaika.com.au
 www.tandoorizaika.com.au##.px-4.py-2
 
-! 25 May 2024 https://www.washingtonpost.com
 www.washingtonpost.com##.checkout-paywall-overlay.paywall-overlay.bottom-0.right-0.left-0.fixed
 
 lovattspuzzles.com##.game-page__top-ad-column
@@ -3939,7 +3933,6 @@ lovattspuzzles.com##.puzzle_incontent_3
 lovattspuzzles.com##.puzzle_incontent_4
 lovattspuzzles.com##.puzzle_incontent_2
 
-! 16 July 2024 https://knovhov.com
 knovhov.com##.code-block-45.code-block
 knovhov.com##.code-block-40.code-block > div
 knovhov.com##.code-block-50.code-block > div
@@ -3956,11 +3949,10 @@ www.nzherald.co.nz###credential_picker_iframe
 www.nzherald.co.nz##.header-wrap
 www.nzherald.co.nz##.down.premium-toaster
 
-! 2024-01-29 https://www.forbes.com
 www.forbes.com##.no-close.zephr-generic-modal.zephr-article-modal-modal
 www.forbes.com##.zephr-backdrop.zephr-article-modal-backdrop
 
-! 2024-01-29 https://www.semafor.com
+
 www.semafor.com##.css-3dbklf
 
 humornama.com##center
@@ -3968,47 +3960,36 @@ humornama.com##.entry-content > span
 humornama.com###comments > span
 humornama.com##.gb-headline-text.gb-headline-cd083838.gb-headline > span
 
-! 2024-01-29 https://m.economictimes.com
 m.economictimes.com###downloadApp
 
 vonbaronmusic.com##.mc-layout__bannerContent > [src]
 
-! 2024-01-16 https://www.future-feed.com
 www.future-feed.com##.yui-popup-container-node
 
-! 2024-01-16 https://www.independent.co.uk
 www.independent.co.uk##.jXjFKb.sc-1qz44j0-14.iEdPqp.sc-1qz44j0-13
 
-! 2024-01-16 https://www.usatoday.com
 www.usatoday.com###gnt_atomsnc > .hydrated
 www.usatoday.com##.gnt_em_anc.gnt_em
 www.usatoday.com##.tealplayer-ad-container
 www.usatoday.com##.gnt_em_vp_c
 
-! 2024-01-16 https://www.edinburghlive.co.uk
 ||www.inyourarea.co.uk/widgets/$subdocument
 www.edinburghlive.co.uk##.has-image.factbox
 www.edinburghlive.co.uk##.sharebar > ul
 
-! 2024-01-16 https://www.nytimes.com
 www.nytimes.com###dock-container
 
-! 2024-01-21 https://www.skyscrapercity.com
 www.skyscrapercity.com###google-one-tap-iframe
 www.skyscrapercity.com##.primis-wrapper.message-cell--main.message-info-block.message-cell
 www.skyscrapercity.com##.california-thread-ad.california-ad-mobile.california-ad.california-banner-ad-container
 
 www.independent.co.uk##.vf-tray-trigger-widget
 
-! 2023-12-15 https://secretmelbourne.com
-
-! 2023-12-26 https://nypost.com
 nypost.com##.jw-float-to-top.jw-reset.jw-wrapper
 nypost.com##div.d-none-lg.d-block.ad--inline.ad--container.ad > .ad__wrapper
 nypost.com##.ad__slot
 nypost.com##.sticky.d-block-lg.ad--container.ad > .ad__wrapper
 
-! 2024-01-03 https://www.theregister.com
 www.theregister.com###condor_2
 www.theregister.com###falcon_5
 
@@ -4023,13 +4004,11 @@ damndelicious.net##.adthrive-content-5.adthrive-content.adthrive-ad
 damndelicious.net##.inner-post > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
 damndelicious.net###comments > .adthrive-below-post-1.adthrive-below-post.adthrive-ad
 
-! 2024-01-09 https://www.nytimes.com
 www.nytimes.com##.LargeCTABanner-module_relative__vctEf.LargeCTABanner-module_banner__Wrm0P
 
 bakeplaysmile.com##.cky-box-bottom-left.cky-consent-container
 bakeplaysmile.com##.feast-film-strip.slick-film-strip
 bakeplaysmile.com##.slick-inline-search-panel
-
 
 www.allrecipes.com###mntl-mob-square-flex-1_1-0
 www.allrecipes.com##.is-requested.dynamic.billboard.gpt.mntl-gpt-adunit
@@ -4056,7 +4035,6 @@ www.worldatlas.com##.ad_hfix_600.mod_ad
 www.worldatlas.com##.ad_wfix_mb_std.ad_wfix_tb_728.ad_wfix_dt_728.ad_hfix_320.mod_ad
 www.worldatlas.com##.ad_cls_fix.ad_content_below.ad_push.mod_ad_container
 
-! 2023-03-22 https://www.cnet.com
 www.cnet.com##.o-ratio_content
 www.cnet.com##.t-alignCol8.c-avStickyVideo
 
