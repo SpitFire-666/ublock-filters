@@ -499,6 +499,12 @@ mobile.pipe.aria.microsoft.com
 notes-analytics-events.apple.com
 tracking.rus.miui.com
 weather-analytics-events.apple.com
+ads-cdn.reastatic.net
+sasinator.realestate.com.au
+rea-ads.aimatch.com
+zn5znfuutmq7imrpr-reagroup.siteintercept.qualtrics.com
+prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
+
 
 
 $removeparam=ref,domain=americastestkitchen.com
