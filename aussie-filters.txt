@@ -1523,3 +1523,28 @@ www.sbs.com.au##.css-18j8i7y > div > section
 
 www.themandarin.com.au##.has-text-color.has-grey-color
 www.themandarin.com.au##.wp-block-heading.has-oxygen-font-family
+
+ebay.com.au##body:style(overflow:scroll!important)
+
+gio.com.au/data-insights-api/
+suncorpbank.com.au/data-insights-api/
+apia.com.au/data-insights-api/
+shannons.com.au/data-insights-api/
+aami.com.au/data-insights-api/
+
+www.domain.com.au##.css-1ya71fe
+www.health.vic.gov.au##.rpl-site-footer__acknowledgement.rpl-acknowledgement
+
+supportingaustralians.gov.au##.col-md-9 > .mb-0
+
+ozhomeandtravel.com##.Footer__Block--newsletter.Footer__Block
+
+www.booktopia.com.au##.mui-style-kxu0dz.MuiGrid-grid-xs-true.MuiGrid-item.MuiGrid-root
+
+www.woodards.com.au##.no-spacing.subscription.element
+
+www.ebay.com.au##.drawer-dialog--mask-fade-slow.gadget-bottom-container.drawer-dialog
+
+www.ebay.com.au##.recs-module
+
+www.recipetineats.com##.footer-subscribe--wrapper
