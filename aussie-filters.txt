@@ -1416,3 +1416,110 @@ www.homestolove.com.au##.teads.ad
 www.homestolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(3)
 www.homestolove.com.au###page > .hide-on-desktop.mrec.ad
 www.homestolove.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
+
+www.mcec.com.au##.translate-y-0.opacity-1.md\:px-10.ease-in-out.duration-1000.transition-all.px-6.bg-opacity-\[0\.92\].bg-black.justify-center.items-center.w-screen.h-screen.flex.z-50.left-0.top-0.fixed.text-l
+www.mcec.com.au##.lg\:max-w-xl
+www.mcec.com.au##.md\:text-center.md\:px-6.px-4.py-12.w-full.lg\:py-70.md\:py-30.text-accent-pink.bg-accent-pink.text-banner
+
+www.ngv.vic.gov.au##.acknowledgement
+
+www.melbourne.vic.gov.au##.layout-container > .field__items.field--label-hidden.field--type-entity-reference-revisions.field--name-field-content.field > .field__item
+
+moondog.com.au###block-yui_3_17_2_1_1652856603465_9927 > .sqs-block-content > .sqs-html-content > p.sqsrte-small:nth-of-type(1)
+moondog.com.au##section.black.vertical-alignment--middle.horizontal-alignment--center.content-width--wide.section-height--small.background-width--full-bleed.layout-engine-section.full-bleed-section.page-section
+
+https://creative.vic.gov.au/__data/assets/git_bridge/0011/2069903/dist/AcknowledgementPopup-69a7d638.png
+
+wheelercentre.com##html:style(overflow: auto !important;)
+
+www.wheelercentre.com##.show.modal.modal-acknowledgement
+www.wheelercentre.com##.show.modal-backdrop.fade
+www.wheelercentre.com##.custom-text.wysiwyg-content > p
+
+mrc.racing.com###ca0af9e0-5fe2-4a7a-be15-50597555ffa1 > .ck-content
+mrc.racing.com###\33 bd43da7-9aa3-4b43-8f23-87f3b8d441e7 > .ck-content
+
+www.vrc.com.au##.footer__heritage > p
+
+fedsquare.com##.fAwWwg.Acknowledgement__Container-sc-1ukmy2k-4
+fedsquare.com##*.Footer__Description-sc-6wmpea-2
+fedsquare.com##.iDCXaM.Footer__Acknowledgement-sc-6wmpea-16 > .dOvcmo.Footer__Subheading-sc-6wmpea-1
+fedsquare.com##.Newsletter__Wrapper-sc-j6khvx-4
+
+www.artscentremelbourne.com.au##small > small
+www.artscentremelbourne.com.au##.promo-panel-1up.bg-mid-coral.promo-panel
+
+www.schoolbuildings.vic.gov.au##.rpl-footer__custom-content
+
+mnc.org.au##.et_pb_bg_layout_light.et_pb_text_align_center.et_pb_text_2_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner
+
+vic.netball.com.au##.footer__ack-col
+
+museumsvictoria.com.au##.Acknowledgement
+
+marrinergroup.com.au##.acknowledgement
+
+
+civictheatrenewcastle.com.au##.acknowledgement-container
+
+www.lindy.com.au###newsletter-validate-detail
+
+melbournefringe.com.au##.footer__content > p
+
+www.lifeblood.com.au###block-copyrightblock > .content
+
+myatiger.com.au##.c-footer-acknowledgement--full-width__body
+
+www.energy.gov.au##p:nth-of-type(2)
+www.energy.gov.au##.align-items-center.d-flex.pr-2.col-auto
+www.energy.gov.au##.col > h4
+
+deedsbrewing.com.au###shopify-section-popup
+
+www.carsales.com.au##.is-qualtricsEmbed.csn-home-section
+
+tellmebaby.com.au##div.no-gutters.row:nth-of-type(9)
+tellmebaby.com.au###block-3 > p
+
+www.dementia.org.au##.print\:\!hidden.md\:mb-56.md\:order-none.md\:grid-col-span-9.xs\:grid-col-span-6.items-start.flex-col.flex.mt-24.order-4.grid-col-span-4
+
+www.ergopouch.com.au##.footer-column1.footer-column
+www.ergopouch.com.au##.content-text-footer > p
+
+cornerhotel.com##.subscribe-modal-wrapper--show.subscribe-modal-wrapper
+
+www.drive.com.au##.liveChat_drive-container__6_tlA
+www.drive.com.au##.footer-wrapper.layout_drive-layout__footer-wrapper__JV_Z4 > div
+
+www.recipetineats.com##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
+www.recipetineats.com##.adthrive-content-4.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-3.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-2.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
+www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
+www.recipetineats.com##.subscribe
+
+www.unimelb.edu.au##.page-footer-alt__reconciliation
+
+www.rmit.edu.au##.full-width.country-acknowlegement__wrapper
+
+www.swinburne.edu.au##.parsys.brand-footer__acknowlodgement
+www.swinburne.edu.au###contentblock_632287407_KJWKBSN8F > .container > .aem-Grid--default--12.aem-Grid--12.aem-Grid
+
+https://www.swinburne.edu.au/content/dam/media/brand/indigenous-acknowledgement.svg
+
+rtrfm.com.au##.border-y-midnightMocha.border-y-2.py-4
+
+orima.com.au##.site-info > p
+
+www.police.vic.gov.au##.rpl-footer__custom-content
+
+www.bom.gov.au###copyright
+
+www.nsw.gov.au##.nsw-container > p
+
+www.sbs.com.au###newsletter-form
+www.sbs.com.au##.css-18j8i7y > div > section
+
+www.themandarin.com.au##.has-text-color.has-grey-color
+www.themandarin.com.au##.wp-block-heading.has-oxygen-font-family
