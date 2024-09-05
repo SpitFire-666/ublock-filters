@@ -4321,3 +4321,26 @@ turbobit.net##.action-block > div > .btn-red
 
 songbpm.com##.border-gray-200.border.min-h-12
 www.fujifilm.com##.c-confirm-cookie
+
+##.adthrive-header-1
+##.adthrive-content-1
+##.adthrive-content-2
+##.adthrive-content-3
+##.adthrive-content-4
+##.adthrive-content-5
+##.adthrive-content-6
+
+###AdThrive_Sidebar_1_desktop
+###AdThrive_Sidebar_2_desktop
+###AdThrive_Sidebar_3_desktop
+###AdThrive_Sidebar_4_desktop
+
+##.widget.adthrive-sidebar-1
+##.widget.adthrive-sidebar-2
+##.widget.adthrive-sidebar-3
+##.widget.adthrive-sidebar-4
+##.widget.adthrive-sidebar-5
+##.widget.adthrive-sidebar-6
+##.widget.adthrive-sidebar-7
+##.widget.adthrive-sidebar-8
+##.widget.adthrive-sidebar-9
