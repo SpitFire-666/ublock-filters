@@ -655,6 +655,17 @@ sp.whattoexpect.com
 t.luxuryescapes.com
 stoawugluce.net
 ndaspiratiotyukn.com
+metrics.nymag.com
+advice.pgs.io
+prebid.smilewanted.com
+csync.smilewanted.com
+prebid.sv.rkdms.com
+prebid.outcomes.net
+static.smilewanted.com
+epsilon.6sense.com
+privacy.paramount.com
+blue.thehill.com
+collector-px6zcfgh4h.px-cloud.net
 
 
 
@@ -4344,3 +4355,38 @@ www.fujifilm.com##.c-confirm-cookie
 ##.widget.adthrive-sidebar-7
 ##.widget.adthrive-sidebar-8
 ##.widget.adthrive-sidebar-9
+
+p7cloud.net/p.png
+newsweek.com/www/js/prebid.js
+p7cloud.net/if.html
+doppler-beacon.cbsivideo.com/log
+channelexco.com/events
+ex.co/v1/cookie_sync
+inforum.com/_track
+https://www.propublica.org//api_components/modal-default.json
+https://www.esquire.com/_assets/moapt/
+
+www.artspaceversailles.com##.cookie-management-title
+www.artspaceversailles.com##.row.cookie-management-settings.w-cell
+
+www.whattoexpect.com##.js-stickybit-parent.right-rail-ad-1
+www.whattoexpect.com##.js-stickybit-parent.right-rail-ad-2
+
+www.huffpost.com##.treated.ad-bottom-right-sticky
+www.huffpost.com##.bottom-right-sticky-container > .ad-bottom-right-sticky
+www.newsweek.com###topad
+www.newsweek.com###block-system-main > .block-fusion-ads.block
+
+primis.tech/content/prebid/
+
+www.drumchat.com##.responsivebanner
+
+www.ebay.com##.bottom-of-page.gadget-banner
+
+watchcollecting.com###modalOverlay
+
+www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
+
+short-ly.co##center > .short-ly_co_in_article
+
+www.halleonard.com##.bannershow.policybanner
