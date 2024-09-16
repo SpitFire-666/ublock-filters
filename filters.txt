@@ -3988,19 +3988,6 @@ https://fbstreams.pm/partytown/partytown.js
 
 pitchfork.com##.cne-video-embed
 
-https://substackcdn.com/bundle/assets/tracking-*.js
-https://substackcdn.com/bundle/assets/Modal-*.js
-https://substackcdn.com/bundle/assets/app_install_modal-*.js
-https://substackcdn.com/bundle/assets/UpgradeToDmModal-*.js
-https://substackcdn.com/bundle/assets/newsletter_item_list-*.css
-https://substackcdn.com/bundle/assets/NewsletterIcon-*.js
-https://substackcdn.com/bundle/assets/tracking-*.js
-https://substackcdn.com/bundle/assets/postPingbackTracker-*.js
-https://substackcdn.com/bundle/assets/RewardBox-*.css
-https://substackcdn.com/bundle/assets/RewardBox-*.js
-substack.com##div.subscription-widget-wrap
-substack.com##.subscribe-footer
-
 www.feastingathome.com##.adthrive-content-2.adthrive-content.adthrive-ad
 www.feastingathome.com##.adthrive-content-1.adthrive-content.adthrive-ad
 www.feastingathome.com###cls-video-container-vXuWO3iE_1
@@ -4263,23 +4250,6 @@ www.tiktok.com##.flex-auto.tt-sheet__body
 music.tutsplus.com##.cta-toast-popup
 
 https://apps.bazaarvoice.com/apps/vendors/bv-ui-core_cookieConsent
-
-https://substackcdn.com/bundle/assets/welcome-*.js
-https://substackcdn.com/bundle/assets/IntroPopup-*.js
-https://substackcdn.com/bundle/assets/free_email_form.module-*.js
-https://substackcdn.com/bundle/assets/TermsFooter-*.js
-https://substackcdn.com/bundle/assets/IntroPopup-*.css
-https://substackcdn.com/bundle/theme/welcome
-https://substackcdn.com/bundle/assets/FlexBox-*.css
-https://substackcdn.com/bundle/assets/tiktok-*.js
-https://substackcdn.com/bundle/assets/cookie_constants-*.js
-https://substackcdn.com/bundle/assets/CookieConsentFooter-*.js
-https://substackcdn.com/bundle/assets/ChatAppUpsell-*.js
-https://substackcdn.com/bundle/assets/CookieConsentFooter-*.css
-https://substackcdn.com/bundle/assets/FacebookIcon-*.js
-https://substackcdn.com/bundle/assets/usePostSelectionHighlight-*.js
-https://substackcdn.com/bundle/assets/Banner-*.js
-
 
 img-dpreview.com/resources/scripts/vendor/twitter/
 
