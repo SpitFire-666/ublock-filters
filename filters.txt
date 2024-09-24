@@ -666,7 +666,25 @@ epsilon.6sense.com
 privacy.paramount.com
 blue.thehill.com
 collector-px6zcfgh4h.px-cloud.net
-
+cookies-data.onetrust.io
+privacymanager.io
+privacy-sandbox.uol.com.br
+api.samsungconsent.com
+convertkit.com
+gorgias-convert.com
+cdn-ukwest.onetrust.com
+assets.flodesk.com
+form.flodesk.com
+prebid.andbeyond.media
+rtbpass-us.andbeyond.media
+in1.clevertap-prod.com
+viafoura.net
+pixel.roymorgan.com
+origami.secure.ownlocal.com
+brightcombid.marphezis.com
+cdata.mpio.io
+events.landmarksid.com
+acdn.adnxs.com
 
 
 $removeparam=ref,domain=americastestkitchen.com
@@ -4360,3 +4378,51 @@ www.theurbanlist.com##.js-cookieOverlay.cookie-overlay
 short-ly.co##center > .short-ly_co_in_article
 
 www.halleonard.com##.bannershow.policybanner
+
+reviewed.usatoday.com##.slide-in
+
+https://pl.allsportsflix.xyz/scripts/global.js
+
+fbstreams.pm###s5c0b8w8j0 > .w-100.position-absolute.h-100
+fbstreams.pm##.top-0.text-dark.bg-opacity-25.bg-light.w-100.position-absolute.h-100
+fbstreams.pm##.m-1.btn-primary.btn-lg.btn
+fbstreams.pm##.m-1.btn-danger.btn-lg.btn
+
+www.watzatsong.com##.ad.header_ad
+www.watzatsong.com##.sidebar_lhs > .right-box-ads
+
+fuseplatform.net/prebid/
+www.groovypost.com##.raptive-content-end
+
+https://www.ocregister.com/wp-content/themes/wp-mason/static/js/ads.js
+https://fp.theoaklandpress.com/
+https://fp.macombdaily.com/prod/dfm/fp.min.js
+https://u066.ocregister.com/script.js
+www.moneycontrol.com##.wiz-show-animate.wzrk-alert
+
+https://activate.platform.californiatimes.com/
+https://www.latimes.com/api/scripts/js/gfc.js
+libs.platform.latimes.com/meteringjs/latspot.js
+www.latimes.com##div.enhancement > .google-dfp-ad-wrapper
+www.latimes.com##.page-above > .google-dfp-ad-wrapper
+www.latimes.com##.page-below > .google-dfp-ad-wrapper
+
+www.groovypost.com##.formkit-form.seva-form > div
+
+cdn-ops.verloop.io/assets/sounds/chime.mp3
+
+d2r1yp2w7bby2u.cloudfront.net/js/wzrk_dialog.min.js
+d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js
+
+www.afamilyfeast.com##.cls-inserted.slick-film-strip
+www.afamilyfeast.com##.cls-inserted.slick-inline-search-panel
+
+www.loudersound.com##.newsletter-form__wrapper--inbodyContent
+
+www.revolvermag.com##.ad-leaderboard-foot
+
+*/wp-content/themes/irau/assets/js/jquery.cookie.js
+*/wp-content/plugins/firebase-octov2-fmcg/assets/js/jquery.cookie.js
+
+aecmag.com##.top-area2.top-area
+aecmag.com###custom_html-2 > .custom-html-widget.textwidget > div
