@@ -3942,18 +3942,6 @@ https://static.telegraph.co.uk/telegraph-advertising/
 https://www.telegraph.co.uk/martech/
 https://www.foodingredientsfirst.com/Home/GetCookiePolicyStatus
 
-https://*/wp-content/plugins/leaky-paywall/
-https://*/wp-content/plugins/advanced-ads-tracking/
-https://*/wp-content/plugins/advanced-ads-pro/
-https://*/wp-content/plugins/advanced-ads-sticky-ads/
-https://*/wp-content/plugins/advanced-ads/
-https://*/wp-content/plugins/leaky-paywall-registration-redirect/
-https://*/wp-content/plugins/advanced-ads-layer/
-https://*/wp-content/plugins/embed-privacy/
-https://*/wp-content/plugins/leaky-paywall-conditional-display-notice/
-https://*/wp-content/plugins/shariff/
-https://*/wp-content/plugins/leaky-paywall-article-countdown-nag/
-https://*/wp-content/plugins/leaky-paywall-invoices/
 https://*.wp.com/p/woocommerce/*/assets/js/js-cookie/
 
 https://cdn.ampproject.org/v0/amp-consent-0.1.js
@@ -3973,9 +3961,7 @@ amp.cnn.com##.ad-slot__ad-wrapper
 amp.cnn.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 
 https://search-api.fie.futurecdn.net/hl/es6/hawklinks.js
-https://*/wp-content/plugins/social-warfare/
-https://*/wp-content/plugins/contact-form-7/
-https://*/wp-content/plugins/wp-statistics/
+
 https://ms-cookie-sync.presage.io/
 
 organiccdn.io/assets/prebid9.4.0.js
@@ -3987,9 +3973,8 @@ https://www.mashed.com/wp-content/themes/unified/js/prebid.js
 https://sdk.mrf.io/statics/marfeel-sdk.js
 https://risemediagroup.s3.eu-west-2.amazonaws.com/vt.co/Ads-main.js
 https://risemediagroup.s3.eu-west-2.amazonaws.com/vt.co/ads-style.css
-https://*/wp-content/plugins/sailthru-widget/
-https://*/wp-content/plugins/nxst-advertising/
-https://*/wp-content/plugins/lakana/
+
+
 https://thehill.com/*/xhr/api/v2/collector
 https://player-api.instaread.co/api/metrics/collect
 https://thehill.com/*/xhr/b/s
@@ -4225,7 +4210,6 @@ https://css.ml-static.com/static/websat-profile/global/css/components/secondary-
 https://css.ml-static.com/static/websat-profile/global/css/components/registration-modal.css
 
 financialexpress.com/api/capture/ua
-https://www.financialexpress.com/wp-content/plugins/ie-network-moengage/
 https://www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/js/vendor/taboola.js
 https://media-central.indianexpress.com/static/subscription/js/newsletter.js
 https://www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/js/vendor/gdpr-ad-script.js
@@ -4394,7 +4378,7 @@ www.watzatsong.com##.sidebar_lhs > .right-box-ads
 fuseplatform.net/prebid/
 www.groovypost.com##.raptive-content-end
 
-https://www.ocregister.com/wp-content/themes/wp-mason/static/js/ads.js
+
 https://fp.theoaklandpress.com/
 https://fp.macombdaily.com/prod/dfm/fp.min.js
 https://u066.ocregister.com/script.js
@@ -4421,8 +4405,35 @@ www.loudersound.com##.newsletter-form__wrapper--inbodyContent
 
 www.revolvermag.com##.ad-leaderboard-foot
 
-*/wp-content/themes/irau/assets/js/jquery.cookie.js
-*/wp-content/plugins/firebase-octov2-fmcg/assets/js/jquery.cookie.js
-
 aecmag.com##.top-area2.top-area
 aecmag.com###custom_html-2 > .custom-html-widget.textwidget > div
+
+*/wp-content/themes/irau/assets/js/jquery.cookie.js
+*/wp-content/plugins/firebase-octov2-fmcg/assets/js/jquery.cookie.js
+https://*/wp-content/plugins/convertplug/
+https://*/wp-content/plugins/lakana/
+https://*/wp-content/plugins/sailthru-widget/
+https://*/wp-content/plugins/nxst-advertising
+https://*/wp-content/plugins/leaky-paywall/
+https://*/wp-content/plugins/advanced-ads-tracking/
+https://*/wp-content/plugins/advanced-ads-pro/
+https://*/wp-content/plugins/advanced-ads-sticky-ads/
+https://*/wp-content/plugins/advanced-ads/
+https://*/wp-content/plugins/leaky-paywall-registration-redirect/
+https://*/wp-content/plugins/advanced-ads-layer/
+https://*/wp-content/plugins/embed-privacy/
+https://*/wp-content/plugins/leaky-paywall-conditional-display-notice/
+https://*/wp-content/plugins/shariff/
+https://*/wp-content/plugins/leaky-paywall-article-countdown-nag/
+https://*/wp-content/plugins/leaky-paywall-invoices/
+https://*/wp-content/plugins/social-warfare/
+https://*/wp-content/plugins/contact-form-7/
+https://*/wp-content/plugins/wp-statistics/
+
+https://www.ocregister.com/wp-content/themes/wp-mason/static/js/ads.js
+https://www.financialexpress.com/wp-content/plugins/ie-network-moengage/
+
+theeverymom.com##.sponsored-by
+
+socceronline.me##.m-1.fw-bold.btn-danger.btn
+socceronline.me##.top-0.text-white.bg-opacity-50.bg-light.w-100.position-absolute.h-100
