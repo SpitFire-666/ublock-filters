@@ -11,11 +11,6 @@
 ! ||xyz^ ! commented out due to some streams requiring it!
 ! ||to^ ! commented out as it blocked torrent sites
 
-! HOSTS
-! Domains that snuck through uBlock and caught by pi-hole
-! PowerShell de-dupe: $domains = Get-Clipboard | ? {$_} ; $domains.Split("`n") | select -unique | sort | clip
-
-
 t.amyfc.link
 dqpnq362acqdi.cloudfront.net
 affilimate.io
@@ -690,6 +685,17 @@ human-check.b-cdn.net
 human-verify02.b-cdn.net
 get-verified2.b-cdn.net
 myapt67.s3.amazonaws.com
+transcend-cdn.com
+cookiebot.com
+consentcdn.cookiebot.com
+consent.cookiebot.com
+imgsct.cookiebot.com
+advertising.a2z.com
+analytics-ipv6.tiktokw.us
+pangle-ads.com
+analytics.tiktok.com.ttdns2.com
+samsungconsent.com
+
 
 $removeparam=ref,domain=americastestkitchen.com
 $removeparam=extcode,domain=americastestkitchen.com
