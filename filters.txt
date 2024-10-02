@@ -685,7 +685,11 @@ brightcombid.marphezis.com
 cdata.mpio.io
 events.landmarksid.com
 acdn.adnxs.com
-
+get-verified.b-cdn.net
+human-check.b-cdn.net
+human-verify02.b-cdn.net
+get-verified2.b-cdn.net
+myapt67.s3.amazonaws.com
 
 $removeparam=ref,domain=americastestkitchen.com
 $removeparam=extcode,domain=americastestkitchen.com
