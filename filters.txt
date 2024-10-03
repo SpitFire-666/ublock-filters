@@ -165,7 +165,6 @@ image8.pubmatic.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img.strpst.com
 in.cuebiq.com
-ingresshid.unixfox.eu
 jac.yahoosandbox.com
 jikkass.xyz
 js-agent.newrelic.com
