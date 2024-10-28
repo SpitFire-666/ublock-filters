@@ -1391,8 +1391,6 @@ old.reddit.com##.commentsignupbar.infobar
 
 clickamericana.com##.IRPP_ruby
 
-||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*$xhr
-||www.homeimproverx.com/wp-content/plugins/wp-content-copy-protector/*
 ||www.homeimproverx.com/?wmcAction=wmcTrack
 
 www.hunker.com##.component-article-section-jwplayer
@@ -2156,7 +2154,7 @@ www.aliexpress.com##.es--product-fix-wrap--2t2rDch > div
 www.aliexpress.com##.es--product-fix-sns--3dZQv4l
 
 www.prajwaldesai.com###kadence-conversion-320745
-https://www.prajwaldesai.com/wp-content/plugins/kadence-conversions/
+
 
 https://gae2-spclient.spotify.com/gabo-receiver-service/public/v3/events
 https://gae2-spclient.spotify.com/gabo-receiver-service/v3/events
@@ -2345,7 +2343,6 @@ onlineradiobox.com##._promo.player
 theslenderwrist.com##.formkit-overlay.seva-overlay
 
 microbrandwatchworld.com###elementor-popup-modal-9319
-https://microbrandwatchworld.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
 
 www.drugs.com##.ddc-modal-visible.ddc-modal
 https://www.drugs.com/bundle/82ef3cb9/js/module/modal.js
@@ -2602,12 +2599,10 @@ tonedeaf.thebrag.com###floating-player-wrap
 
 grail-watch.com##.widget-area.after-entry
 
-||www.thetrendspotter.net/wp-content/plugins/easy-social-share-buttons3/*
 www.thetrendspotter.net##.essb-subscribe-form-inline.essb-subscribe-form-741309945.essb-subscribe-form
 
 https://assets.squarespace.com/universal/scripts-compressed/popup-overlay-*.min.en-US.js
 
-https://www.thecrazytourist.com/wp-content/plugins/easy-social-share-buttons3/
 
 www.androidcentral.com##.slice-container-newsletterForm
 
@@ -2682,7 +2677,6 @@ www.capjournal.com##[href="https://www.thestreet.com/quote/TM"]
 
 www.reddit.com###credential_picker_container
 
-https://www.recordingbase.com/wp-content/plugins/convertplug/modules/modal/assets/js/modal.min.js
 www.recordingbase.com##.cp-first-order-container.cp_id_3a473.cp-modal-popup-container.cp-module
 
 ||static.olelive.com/upload/site/$image
@@ -2817,8 +2811,6 @@ outlook.live.com##._2PxBL_S6KFCMTya8zm3aLF.ZXaaK9lo4E9sH50KY3o0C
 
 www.vietjetair.com##.jss54.MuiDialogContent-root
 www.vietjetair.com##.MuiDialog-root
-
-pcdn.co/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js
 spot.im/production/conversation/tags/v3.82.23/ad-container-bundle.js
 
 https://statics.teams.cdn.office.net.mcas.ms/teams-modular-packages/hashed-assets/survey-locale-en-gb-6e441296e623f57b.js
@@ -3290,7 +3282,6 @@ https://s.yimg.com/uc/finance/nimbus/_app/immutable/chunks/Ads
 https://s.yimg.com/aaq/prebid/
 https://s.yimg.com/cx/acookie/
 https://s.yimg.com/ss/analytics3.js
-https://boingboing.net/wp-content/plugins/advanced-ads-pro/
 
 https://vanilla.futurecdn.net/techradar/media/shared/js/nav-subscribe
 https://hawk.techradar.com/hl/es6/hawklinks.js
@@ -3370,14 +3361,8 @@ www.ign.com##.deskOnly.pg-article.pogocnt.bobble-0.bobble.jsx-303009029
 
 https://cdn.ziffstatic.com/pg/ign.prebid.js
 https://cdn.ziffstatic.com/jst/zdconsent.js
-
-https://variety.com/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/display-ads.js
-https://variety.com/wp-content/plugins/pmc-plugins/pmc-sticky-rail-ads/
-https://variety.com/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/setup-ads.js
-https://variety.com/wp-content/plugins/pmc-plugins/pmc-global-functions/js/pmc-consent.min.js
-https://variety.com/wp-content/plugins/pmc-plugins/pmc-piano/assets/build/js/pmc-consent.js
 variety.com###adm-inline-article-ad-1
-https://variety.com/wp-content/plugins/pmc-plugins/pmc-google-universal-analytics/
+
 ping-meta-prd.jwpltx.com
 
 ew.com##.jw-reset.jw-related-shelf-container
@@ -3633,6 +3618,11 @@ theconversation.com##.MuiDialog-root
 outlook.live.com##.obf-Visible.obf-Toast
 
 https://*/wp-content/plugins/wordpress-popup/assets/hustle-ui/
+https://*/wp-content/plugins/easy-social-share-buttons3/*
+https://*/wp-content/plugins/wp-content-copy-protector/*
+https://*/wp-content/plugins/convertplug/modules/modal/assets/js/modal.min.js
+https://*/wp-content/plugins/advanced-ads-pro/
+
 
 instagram.com##div > div > article header > div > div > span> div > span:upward(article > div)
 
@@ -3863,8 +3853,6 @@ https://www.loveandlemons.com/wp-content/themes/loveandlemons5/widgets/subscribe
 
 https://spicysouthernkitchen.com/wp-content/cache/min/1/wp-content/plugins/wp-popups-lite/
 
-https://www.momontimeout.com/wp-content/cache/min/1/affiliate.mvp.min.js
-
 https://www.theatlantic.com/packages/hummingbirdjs/
 https://www.theatlantic.com/sponsored/
 
@@ -4014,8 +4002,7 @@ https://www.usatoday.com/pbd/
 https://cpt-static.gannettdigital.com/universal-web-client/master/latest/gallium/behaviors/partner-bid.html
 https://www.gannett-cdn.com/ads/
 
-https://grist.org/wp-content/themes/grist/dist/appealBar.js
-https://grist.org/wp-content/mu-plugins/jetpack-13.6/modules/widgets/eu-cookie-law/style.css
+
 grist.org###popup-container
 www.pinkvilla.com##.ad-box-head
 
@@ -4024,7 +4011,6 @@ https://cdn.ampproject.org/v0/amp-social-share-0.1.mjs
 https://www.independent.co.uk/js/third-party/
 https://aegis.anonymised.io/health
 https://app-maa-prod-fw-api-web-content-v2.azurewebsites.net/fw/v2//analytics/
-https://www.fwi.co.uk/wp-content/plugins/pm-adverts/
 https://chat.direqt.ai/api/collect
 www.pinkvilla.com##div#BelowArticle-content.in-article-ads
 https://success-software.biz/adintel/
@@ -4502,6 +4488,10 @@ www.revolvermag.com##.ad-leaderboard-foot
 aecmag.com##.top-area2.top-area
 aecmag.com###custom_html-2 > .custom-html-widget.textwidget > div
 
+https://*/wp-content/themes/grist/dist/appealBar.js
+https://*/wp-content/mu-plugins/jetpack-13.6/modules/widgets/eu-cookie-law/style.css
+https://*/wp-content/cache/min/1/affiliate.mvp.min.js
+https://*/wp-content/plugins/pm-adverts/
 */wp-content/themes/irau/assets/js/jquery.cookie.js
 */wp-content/plugins/firebase-octov2-fmcg/assets/js/jquery.cookie.js
 https://*/wp-content/plugins/convertplug/
@@ -4523,9 +4513,23 @@ https://*/wp-content/plugins/leaky-paywall-invoices/
 https://*/wp-content/plugins/social-warfare/
 https://*/wp-content/plugins/contact-form-7/
 https://*/wp-content/plugins/wp-statistics/
+https://*/wp-content/themes/wp-mason/static/js/ads.js
+https://*/wp-content/plugins/ie-network-moengage/
+https://*/wp-content/plugins/nyp-video-player/build/jwanalytics
+https://*/wp-content/plugins/nyp-video-player/build/jwadvertise
+https://*/wp-content/themes/nypost-2016/client/build/js/analytics.bundle.js
+https://*/wp-content/plugins/convertpro/
+https://*/wp-content/plugins/kadence-conversions/
+https://*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
+https://*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js
+https://*/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/display-ads.js
+https://*/wp-content/plugins/pmc-plugins/pmc-sticky-rail-ads/
+https://*/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/setup-ads.js
+https://*/wp-content/plugins/pmc-plugins/pmc-global-functions/js/pmc-consent.min.js
+https://*/wp-content/plugins/pmc-plugins/pmc-piano/assets/build/js/pmc-consent.js
+https://*/wp-content/plugins/pmc-plugins/pmc-google-universal-analytics/
 
-https://www.ocregister.com/wp-content/themes/wp-mason/static/js/ads.js
-https://www.financialexpress.com/wp-content/plugins/ie-network-moengage/
+
 
 theeverymom.com##.sponsored-by
 
@@ -4541,10 +4545,7 @@ https://www.wbir.com/ad_*.js
 https://www.wbir.com/modal_*.js
 https://www.wbir.com/taboola_*.js
 
-https://nypost.com/wp-content/plugins/nyp-video-player/build/jwanalytics
 https://ssl.p.jwpcdn.com/player/v/8.36.2/polyfills
-https://nypost.com/wp-content/plugins/nyp-video-player/build/jwadvertise
-https://nypost.com/wp-content/themes/nypost-2016/client/build/js/analytics.bundle.js
 www.wbir.com##.ad_background_true
 www.wbir.com##.article__adhesion
 
