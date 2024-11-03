@@ -776,7 +776,53 @@ samsungconsent.com
 consent.api.osano.com
   
 
-
+! WORDPRESS GARBAGE
+https://*/wp-content/themes/grist/dist/appealBar.js
+https://*/wp-content/mu-plugins/jetpack-13.6/modules/widgets/eu-cookie-law/style.css
+https://*/wp-content/cache/min/1/affiliate.mvp.min.js
+https://*/wp-content/plugins/pm-adverts/
+*/wp-content/themes/irau/assets/js/jquery.cookie.js
+*/wp-content/plugins/firebase-octov2-fmcg/assets/js/jquery.cookie.js
+https://*/wp-content/plugins/convertplug/
+https://*/wp-content/plugins/lakana/
+https://*/wp-content/plugins/sailthru-widget/
+https://*/wp-content/plugins/nxst-advertising
+https://*/wp-content/plugins/leaky-paywall/
+https://*/wp-content/plugins/advanced-ads-tracking/
+https://*/wp-content/plugins/advanced-ads-pro/
+https://*/wp-content/plugins/advanced-ads-sticky-ads/
+https://*/wp-content/plugins/advanced-ads/
+https://*/wp-content/plugins/leaky-paywall-registration-redirect/
+https://*/wp-content/plugins/advanced-ads-layer/
+https://*/wp-content/plugins/embed-privacy/
+https://*/wp-content/plugins/leaky-paywall-conditional-display-notice/
+https://*/wp-content/plugins/shariff/
+https://*/wp-content/plugins/leaky-paywall-article-countdown-nag/
+https://*/wp-content/plugins/leaky-paywall-invoices/
+https://*/wp-content/plugins/social-warfare/
+https://*/wp-content/plugins/contact-form-7/
+https://*/wp-content/plugins/wp-statistics/
+https://*/wp-content/themes/wp-mason/static/js/ads.js
+https://*/wp-content/plugins/ie-network-moengage/
+https://*/wp-content/plugins/nyp-video-player/build/jwanalytics
+https://*/wp-content/plugins/nyp-video-player/build/jwadvertise
+https://*/wp-content/themes/nypost-2016/client/build/js/analytics.bundle.js
+https://*/wp-content/plugins/convertpro/
+https://*/wp-content/plugins/kadence-conversions/
+https://*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
+https://*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js
+https://*/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/display-ads.js
+https://*/wp-content/plugins/pmc-plugins/pmc-sticky-rail-ads/
+https://*/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/setup-ads.js
+https://*/wp-content/plugins/pmc-plugins/pmc-global-functions/js/pmc-consent.min.js
+https://*/wp-content/plugins/pmc-plugins/pmc-piano/assets/build/js/pmc-consent.js
+https://*/wp-content/plugins/pmc-plugins/pmc-google-universal-analytics/
+https://*/wp-content/plugins/wordpress-popup/assets/hustle-ui/
+https://*/wp-content/plugins/easy-social-share-buttons3/*
+https://*/wp-content/plugins/wp-content-copy-protector/*
+https://*/wp-content/plugins/convertplug/modules/modal/assets/js/modal.min.js
+https://*/wp-content/plugins/advanced-ads-pro/
+https://*/wp-content/plugins/eu-cookie-law/
 
 
 
@@ -3617,13 +3663,6 @@ theconversation.com##.MuiDialog-root
 
 outlook.live.com##.obf-Visible.obf-Toast
 
-https://*/wp-content/plugins/wordpress-popup/assets/hustle-ui/
-https://*/wp-content/plugins/easy-social-share-buttons3/*
-https://*/wp-content/plugins/wp-content-copy-protector/*
-https://*/wp-content/plugins/convertplug/modules/modal/assets/js/modal.min.js
-https://*/wp-content/plugins/advanced-ads-pro/
-
-
 instagram.com##div > div > article header > div > div > span> div > span:upward(article > div)
 
 instagram.com##div > div > article > div > div > div > div > span:upward(article > div)
@@ -4487,49 +4526,6 @@ www.revolvermag.com##.ad-leaderboard-foot
 
 aecmag.com##.top-area2.top-area
 aecmag.com###custom_html-2 > .custom-html-widget.textwidget > div
-
-https://*/wp-content/themes/grist/dist/appealBar.js
-https://*/wp-content/mu-plugins/jetpack-13.6/modules/widgets/eu-cookie-law/style.css
-https://*/wp-content/cache/min/1/affiliate.mvp.min.js
-https://*/wp-content/plugins/pm-adverts/
-*/wp-content/themes/irau/assets/js/jquery.cookie.js
-*/wp-content/plugins/firebase-octov2-fmcg/assets/js/jquery.cookie.js
-https://*/wp-content/plugins/convertplug/
-https://*/wp-content/plugins/lakana/
-https://*/wp-content/plugins/sailthru-widget/
-https://*/wp-content/plugins/nxst-advertising
-https://*/wp-content/plugins/leaky-paywall/
-https://*/wp-content/plugins/advanced-ads-tracking/
-https://*/wp-content/plugins/advanced-ads-pro/
-https://*/wp-content/plugins/advanced-ads-sticky-ads/
-https://*/wp-content/plugins/advanced-ads/
-https://*/wp-content/plugins/leaky-paywall-registration-redirect/
-https://*/wp-content/plugins/advanced-ads-layer/
-https://*/wp-content/plugins/embed-privacy/
-https://*/wp-content/plugins/leaky-paywall-conditional-display-notice/
-https://*/wp-content/plugins/shariff/
-https://*/wp-content/plugins/leaky-paywall-article-countdown-nag/
-https://*/wp-content/plugins/leaky-paywall-invoices/
-https://*/wp-content/plugins/social-warfare/
-https://*/wp-content/plugins/contact-form-7/
-https://*/wp-content/plugins/wp-statistics/
-https://*/wp-content/themes/wp-mason/static/js/ads.js
-https://*/wp-content/plugins/ie-network-moengage/
-https://*/wp-content/plugins/nyp-video-player/build/jwanalytics
-https://*/wp-content/plugins/nyp-video-player/build/jwadvertise
-https://*/wp-content/themes/nypost-2016/client/build/js/analytics.bundle.js
-https://*/wp-content/plugins/convertpro/
-https://*/wp-content/plugins/kadence-conversions/
-https://*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
-https://*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js
-https://*/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/display-ads.js
-https://*/wp-content/plugins/pmc-plugins/pmc-sticky-rail-ads/
-https://*/wp-content/plugins/pmc-plugins/pmc-adm-v2/build/setup-ads.js
-https://*/wp-content/plugins/pmc-plugins/pmc-global-functions/js/pmc-consent.min.js
-https://*/wp-content/plugins/pmc-plugins/pmc-piano/assets/build/js/pmc-consent.js
-https://*/wp-content/plugins/pmc-plugins/pmc-google-universal-analytics/
-
-
 
 theeverymom.com##.sponsored-by
 
