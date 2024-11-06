@@ -4407,7 +4407,6 @@ www.bmwgroup.com##epaas-consent-drawer-shell
 theconversation.com##.jss130.MuiDialogContent-root
 theconversation.com##.MuiDialogActions-spacing.jss5.jss141.MuiDialogActions-root
 
-
 vonbaronmusic.com###cookie-notice
 
 onedrive.live.com##.planCardWrapper_1d191c09
@@ -4496,7 +4495,6 @@ www.watzatsong.com##.sidebar_lhs > .right-box-ads
 
 fuseplatform.net/prebid/
 www.groovypost.com##.raptive-content-end
-
 
 https://fp.theoaklandpress.com/
 https://fp.macombdaily.com/prod/dfm/fp.min.js
