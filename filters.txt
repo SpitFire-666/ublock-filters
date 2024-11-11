@@ -4553,3 +4553,4 @@ www.firstpost.com##div.clearfix.newcontainer.newtopadd
 
 yammer.com.mcas.ms/api/v1/yamalytics/
 mcas.ms/yammer/*/yammer-locale/en-us/survey.json
+yammer.com/api/v1/yamalytics/
