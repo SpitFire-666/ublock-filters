@@ -4550,3 +4550,5 @@ https://premium.express.co.uk/versions/version-pp.json
 www.firstpost.com###bodyad-4472971-0
 www.firstpost.com##.taboola_body_ad
 www.firstpost.com##div.clearfix.newcontainer.newtopadd
+
+yammer.com.mcas.ms/api/v1/yamalytics/
