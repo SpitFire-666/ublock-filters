@@ -1402,13 +1402,13 @@ mumbrella.com.au##.nivo-lightbox-open
 
 www.themandarin.com.au##.footer-area.col-xs-12.col-md-4
 
-https://www.weatherzone.com.au/wz-web/common/static/scripts/hotjar.js
-https://www.weatherzone.com.au/wz-web/prod/static/scripts/gtmHead.js
-https://www.weatherzone.com.au/wz-web/common/static/scripts/plugin-configs.js
+weatherzone.com.au/wz-web/common/static/scripts/hotjar.js
+weatherzone.com.au/wz-web/prod/static/scripts/gtmHead.js
+weatherzone.com.au/wz-web/common/static/scripts/plugin-configs.js
 
-https://au.loopearplugs.com/cdn/shopifycloud/media-analytics/v0.1/analytics.js
+au.loopearplugs.com/cdn/shopifycloud/media-analytics/v0.1/analytics.js
 
-www.babycenter.com.au##section:nth-of-type(3)
+babycenter.com.au##section:nth-of-type(3)
 
 www.homestolove.com.au##.teads.ad
 www.homestolove.com.au##div.hide-on-desktop.mrec.ad:nth-of-type(3)
@@ -1457,7 +1457,6 @@ museumsvictoria.com.au##.Acknowledgement
 
 marrinergroup.com.au##.acknowledgement
 
-
 civictheatrenewcastle.com.au##.acknowledgement-container
 
 www.lindy.com.au###newsletter-validate-detail
@@ -1489,17 +1488,17 @@ cornerhotel.com##.subscribe-modal-wrapper--show.subscribe-modal-wrapper
 www.drive.com.au##.liveChat_drive-container__6_tlA
 www.drive.com.au##.footer-wrapper.layout_drive-layout__footer-wrapper__JV_Z4 > div
 
-www.recipetineats.com##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
-www.recipetineats.com##.adthrive-content-4.adthrive-content.adthrive-ad
-www.recipetineats.com##.adthrive-content-3.adthrive-content.adthrive-ad
-www.recipetineats.com##.adthrive-content-2.adthrive-content.adthrive-ad
-www.recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
-www.recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
-www.recipetineats.com##.subscribe
+recipetineats.com##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
+recipetineats.com##.adthrive-content-4.adthrive-content.adthrive-ad
+recipetineats.com##.adthrive-content-3.adthrive-content.adthrive-ad
+recipetineats.com##.adthrive-content-2.adthrive-content.adthrive-ad
+recipetineats.com##.adthrive-content-1.adthrive-content.adthrive-ad
+recipetineats.com##.adthrive-content-5.adthrive-content.adthrive-ad
+recipetineats.com##.subscribe
 
-www.unimelb.edu.au##.page-footer-alt__reconciliation
+unimelb.edu.au##.page-footer-alt__reconciliation
 
-www.rmit.edu.au##.full-width.country-acknowlegement__wrapper
+rmit.edu.au##.full-width.country-acknowlegement__wrapper
 
 www.swinburne.edu.au##.parsys.brand-footer__acknowlodgement
 www.swinburne.edu.au###contentblock_632287407_KJWKBSN8F > .container > .aem-Grid--default--12.aem-Grid--12.aem-Grid
@@ -1601,3 +1600,167 @@ https://museumsvictoria.com.au/js/mv-country-acknowledgement.js
 https://museumsvictoria.com.au/js/survey.js
 
 cathedral.org.au###block-7
+
+www.parliament.vic.gov.au##.p-0.text-white.bg-black.relative
+
+www.legislation.vic.gov.au##.rpl-footer__custom-content
+
+creative.vic.gov.au###react-acknowledgement
+creative.vic.gov.au##.bg-black-1.flex.lg\:w-8\/12.w-full
+
+www.acmi.net.au##.opacity-90
+www.acmi.net.au##.sp-mt-base.text-gray.meta--sm > p
+
+www.health.gov.au##.acknowledgement-of-country
+
+www.adorebeauty.com.au##.text-neutral-40.leading-\[22px\].text-14.text-center.px-\[10px\].py-\[20px\].max-w-\[1056px\].mx-auto.my-0 > p
+
+www.sephora.com.au##.modal
+
+prov.vic.gov.au###spb-block-cultural-sensitivity-popup
+prov.vic.gov.au/sites/default/files/hotjar/
+
+visitgreatoceanroad.org.au###acknowledgement
+
+victoriancollections.net.au##.sensitivity-warning
+
+victoriancollections.net.au##.acknowlegement
+
+victoriancollections.net.au##.sensitivity-warning
+victoriancollections.net.au##.acknowlegement
+prov.vic.gov.au##.traditional-land-owners
+
+thememo.com.au##.rte.footer-block__details-content > h5
+
+www.3zzz.com.au##.large-4.medium-6.small-12.cell
+
+www.3mbs.org.au##.show.modal.modal-acknowledgement
+www.3mbs.org.au##.show.modal-backdrop.fade
+
+www.melbourneskydeck.com.au##.full_width_text.module
+
+www.sydneyoperahouse.com##.text-large
+www.sydneyoperahouse.com###block-firstnations
+
+www.mca.com.au/files/documents/ack_desktop.mp4
+
+https://www.mca.com.au/javascript-log-error/
+
+mhnsw.au##.styles_welcomeToCountry__7v0ij
+mhnsw.au###firstNationsBar
+
+www.artgallery.nsw.gov.au###aoc
+www.artgallery.nsw.gov.au##.siteFooter-acknowledgmentOfCountry
+
+www.stgeorge.com.au##.column-container
+
+www.cairnspost.com.au##.ad-block
+www.cairnspost.com.au##.sticky.header_ads-container
+
+www.jelliscraig.com.au##.text-sm.py-5
+
+www.onthehouse.com.au##.DmpConsent__dmpConsentIsShown--R\+GC\+
+
+||s.domainstatic.com.au/content/fe-static/@domain-group/fe-co-allhomes-footer/static/country-acknowledgement_*.svg$image
+www.allhomes.com.au##.css-fb48br
+www.allhomes.com.au##.css-dysdhy
+
+www.magnt.net.au###popups-wrapper
+
+www.museum.qld.gov.au###cc--main
+www.museum.qld.gov.au##.acknowledgement-banner
+www.museum.qld.gov.au##.site-footer__acknowledgement
+
+australian.museum##.footer__acknowledgement
+https://media.australian.museum/static/js/acknowledgement_popup
+https://media.australian.museum/static/images/acknowledgement-country-shield
+
+www.nelsoncottage.com.au##.sqsrte-text-color--black
+
+victoriancollections.net.au##.sensitivity-warning
+victoriancollections.net.au##.acknowlegement
+
+www.hobsonsbay.vic.gov.au##div.col-lg-4.col-m-4.col-s-6.col-xs-12:nth-of-type(4) > p:nth-of-type(1) > span
+
+www.parks.vic.gov.au##.col-sm-10.global-footer__link-container > div > .global-footer__info
+
+trove.nla.gov.au##[href="https://trove.nla.gov.au/node/249"]
+
+www.health.tas.gov.au###block-dhhstas-theme-footer-logo > .content > .field__item.field--label-hidden.field--type-text-with-summary.field--name-body.field > p:nth-of-type(2)
+
+www.health.nsw.gov.au###acknowledgement
+
+https://www.anguscoote.com.au/analytics-js/
+https://www.cairnspost.com.au/remote/check_cookie.html
+
+purebaby.com.au##.CookieConsent
+
+www.buyict.gov.au##.margin-xs-top-05.au-footer__end--xxsfont.au-footer__end > .margin-xs-top-05
+
+securityexpo.com.au##.footer-acknowledgement
+
+museum.rba.gov.au###footer > p
+
+mgnsw.org.au##.footer-text > p:nth-of-type(2)
+
+www.ebay.com.au###placement101875
+www.ebay.com.au###placement101196
+www.ebay.com.au##.x-vi-evo-main-container__top-panel
+
+api.zipmoney.com.au
+
+www.pacificblue.com.au##.acknowledgement
+
+www.townsville.health.qld.gov.au##.sitemap-acknowledgement > p
+
+ergobaby.com.au##.trigger-button-holder
+
+slwa.wa.gov.au##.content > .field__item.field--label-hidden.field--type-text-with-summary.field--name-body.field > p
+slwa.wa.gov.au###block-acknowledgementofcountry
+
+culture.wa.gov.au##.warning-block
+culture.wa.gov.au###footer-first > div
+
+ticketing.museum.wa.gov.au##.mb-lg-0.mb-4.col-footer-ack > h4
+
+https://museumsvictoria.com.au/css/venues/acknowledgement-modal.css
+
+www.manlylaptops.com.au###podium-website-widget
+
+heavymag.com.au##.elementor-popup-modal
+https://heavymag.com.au/wp-content/plugins/elementor-pro/assets/js/popup
+
+www2.primecreative.com.au
+
+www.canberratimes.com.au##.md\:h-\[90px\].xl\:h-\[250px\].justify-center.items-center.flex
+www.news.com.au##.sticky.header_ads-container
+www.news.com.au###ad-hybrid-banner-1
+www.news.com.au##.footer_ads
+thewest.com.au###ArticleContent > div.css-svlwa0-StyledAdUnitWrapper.ad-no-notice.hide-print
+www.centralwesterndaily.com.au##.duration-1000.transition-all
+
+www.skynews.com.au##.sticky.header_ads-container
+www.3cr.org.au##.acknowledge
+www.defenceconnect.com.au##.overlay
+www.defenceconnect.com.au##.article-ad
+www.defenceconnect.com.au###b-topLeaderboard-zoneunit
+www.theaustralian.com.au##.sticky.header_ads-container
+www.theaustralian.com.au##.ad-block
+greens.org.au##p:nth-of-type(3)
+
+thebabycarriage.com.au##.show-on-pc-only.gb-container-9fecb68f.gb-container > .has-text-color.has-contrast-2-color.has-text-align-center
+thebabycarriage.com.au##.show-on-pc-only.gb-container-94dd5990.gb-container > .has-text-color.has-contrast-2-color.has-text-align-center
+
+$removeparam=_odkw,domain=ebay.com.au
+
+www.marieclaire.com.au##.promotion-modal__footer.modal-footer
+https://www.marieclaire.com.au/discount-codes/vassets/packages/tippingcanoe/referrer-tracking/
+www.elle.com.au##span.font-weight-light.mt-5
+
+https://www.fool.com.au/wp-content/plugins/fool-wp-tracker/src/js/lib/cookie-helper.js
+https://www.fool.com.au/wp-content/plugins/fool-wp-tracker/src/js/fool-ad-listener.js
+www.fool.com.au##section.widget.foot-widget:nth-of-type(1) > .textwidget > p:nth-of-type(2)
+
+trove.nla.gov.au###culturalModal___BV_modal_outer_
+
+rocksdiscoverymuseum.com
