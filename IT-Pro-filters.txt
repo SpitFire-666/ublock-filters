@@ -1176,7 +1176,6 @@ forum.xda-developers.com###xdadevelopers_leaderboard_atf
 www.omgubuntu.co.uk##.is-active.CookieWarning
 www.omgubuntu.co.uk##.above-comments > .widget_text.widget
 
-
 www.anoopcnair.com###ai_widget-49
 www.anoopcnair.com###ai_widget-32
 www.anoopcnair.com###ai_widget-2
@@ -1249,7 +1248,6 @@ www.windows-noob.com###ipsLayout_mainArea > div > center
 www.windows-noob.com##div.ipsClearfix > div > center
 
 helpcenter.trendmicro.com##.cookie_verif
-
 
 blog.f-secure.com##.js-pop-notification.c-pop-notification
 
@@ -1330,26 +1328,18 @@ www.androidauthority.com##div.--___Mh:nth-of-type(12)
 www.tenforums.com###thread_info > div:nth-of-type(1)
 
 
-! 2023-09-03 https://www.thewindowsclub.com
 www.thewindowsclub.com##.entry.tag-tips.tag-backup.category-windows.has-post-thumbnail.format-standard.status-publish.type-post.post.post-7678 > .widget
 
-! 2023-09-03 https://www.minitool.com
 www.minitool.com##.flex.footer-join-wrapper
 
-! 2023-09-03 https://www.ubackup.com
 www.ubackup.com###__aomei-sidebar
 
-
 https://mcasproxy.azureedge.net/proxyweb/1.42.20/js/templates/monitored-access.hbs
-
-
-
 https://aad.portal.azure.com/AzureHubs/api/Telemetry
 https://aad.portal.azure.com/api/extensiontelemetry
 https://pac.support.ext.azure.com/api/v1/clientTelemetry
 https://aad.portal.azure.com/Content/*/Scripts/@microsoft/1ds-analytics-web-js.js
 
-! 2023-09-16 https://cpu-comparison.com
 cpu-comparison.com##div.row:nth-of-type(4)
 cpu-comparison.com##.mt-3.row > .col-12
 
@@ -1379,17 +1369,11 @@ adamtheautomator.com##.slick-inline-search-panel
 
 ||www.moon-soft.com/program/FORMAT/jpg/di1.JPG$image
 
-
-! 2023-07-18 https://askubuntu.com
 askubuntu.com##.wmx12.mx-auto
-
-! 2023-07-19 https://www.betaarchive.com
 
 ||www.betaarchive.com/imageupload/2013-08/1376294707.or.33957.jpg$image
 www.betaarchive.com##.signature
 
-
-! 2023-07-20 https://www.wired.com
 www.wired.com##.ddagmel.bIieWF.PersistentBottomWrapper-eddooY
 www.wired.com##.newsletter-subscribe-form
 www.wired.com##.verso-in-page-marketing-newsletter-row
@@ -1407,23 +1391,15 @@ https://tr-tmc-geo.office.com.mcas.ms/apc/trans.gif
 https://teams.events.data.microsoft.com.mcas.ms/OneCollector/
 https://statics.teams.cdn.office.net.mcas.ms/evergreen-assets/personal-expressions/v2/assets/emoticons/
 
-! 2023-06-26 https://www.windowscentral.com
 www.windowscentral.com###slice-container-newsletterForm-articleInbodyContent
 
-! 2023-06-29 https://discussions.apple.com
 discussions.apple.com##.shown.site-wide.notification
-
-
-! 2023-06-30 https://www.ebay.com
 
 https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watson
 https://to-do-cdn.microsoft.com/webapp/ba12c19c3d5a0b0dc97b4959ff6a024d34b3bc5d1c333ae733c79c2eeeeea793/telemetry.dll.js
 
-
-! 2023-07-04 https://www.pctechguide.com
 ||www.pctechguide.com/wp-content/themes/focus-pro/images/lines.png$image
 
-! 2023-07-05 https://forum.vcfed.org
 forum.vcfed.org##.tooltip-content
 https://res-1.cdn.office.net/todo/1108307_2.99.2/telemetry.dll.js
 
@@ -1519,7 +1495,6 @@ https://www.geekwire.com/wp-includes/js/dist/interactivity.min.js
 www.geekwire.com##.active.flyover-email-cta
 www.geekwire.com###mobile-share-bar
 
-
 www.pcgamer.com##.slice-container-newsletterForm
 
 www.tomshardware.com##.slice-container-newsletterForm
@@ -1528,7 +1503,6 @@ laptopmedia.com##.md\:h-24.h-64.justify-center.items-center.flex.relative
 
 ||www.soundcard-drivers.com/imgs/123.png$image
 www.soundcard-drivers.com##[href^="https://www.sveronet.com/VRk9Yn"]
-
 
 www.windowscentral.com###slice-container-newsletterForm-articleInbodyContent-YHCPGxeGjRaZEKVmzqEKxe
 
@@ -1547,17 +1521,13 @@ patrickdomingues.com##.sgpb-popup-dialog-main-div-wrapper
 patrickdomingues.com##.sgpb-popup-overlay
 patrickdomingues.com##.has-border-color.wp-block-group
 
-
-
 https://s3.ap-southeast-1.amazonaws.com/5579.k52.bgopr.8bt7d0.4j9f5h.vjyhhg37.39.00.771.bg8po.015/
-
 
 mobilesyrup.com##.newsletter-article-container.clearfix.container
 mobilesyrup.com##.sign-up
 
 https://myaccount.microsoft.com/locales/en/InProductFeedback.json
 https://myaccount.microsoft.com/locales/en/InProductFeedbackMyAccount.json
-
 
 www.vogons.org###p1113091
 www.vogons.org###p1117497
@@ -1574,3 +1544,4 @@ www.thewindowsclub.com##cloudflare-app
 
 https://hawk.tomshardware.com/translations.php
 
+cyberdom.blog##html,body:style(user-select: auto !important)
