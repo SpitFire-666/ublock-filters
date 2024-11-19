@@ -823,6 +823,11 @@ https://*/wp-content/plugins/wp-content-copy-protector/*
 https://*/wp-content/plugins/convertplug/modules/modal/assets/js/modal.min.js
 https://*/wp-content/plugins/advanced-ads-pro/
 https://*/wp-content/plugins/eu-cookie-law/
+*/wp-includes/js/dist/vendor/wp-polyfill.min.js
+*/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
+*/wp-content/plugins/jetpack/_inc/build/wordads/
+*/wp-content/blog-plugins/wordads-classes/
+
 
 
 
