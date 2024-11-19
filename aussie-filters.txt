@@ -1634,8 +1634,8 @@ thememo.com.au##.rte.footer-block__details-content > h5
 
 www.3zzz.com.au##.large-4.medium-6.small-12.cell
 
-www.3mbs.org.au##.show.modal.modal-acknowledgement
-www.3mbs.org.au##.show.modal-backdrop.fade
+!www.3mbs.org.au##.show.modal.modal-acknowledgement
+!www.3mbs.org.au##.show.modal-backdrop.fade
 
 www.melbourneskydeck.com.au##.full_width_text.module
 
