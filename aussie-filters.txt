@@ -1764,3 +1764,7 @@ www.fool.com.au##section.widget.foot-widget:nth-of-type(1) > .textwidget > p:nth
 trove.nla.gov.au###culturalModal___BV_modal_outer_
 
 rocksdiscoverymuseum.com
+
+3mbs.org.au##html:style(overflow: auto !important;)
+www.3mbs.org.au##.show.modal.modal-acknowledgement.fade
+www.3mbs.org.au##.show.modal-backdrop.fade
