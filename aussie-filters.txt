@@ -1768,3 +1768,8 @@ rocksdiscoverymuseum.com
 3mbs.org.au##html:style(overflow: auto !important;)
 www.3mbs.org.au##.show.modal.modal-acknowledgement.fade
 www.3mbs.org.au##.show.modal-backdrop.fade
+
+www.nla.gov.au##.popup-info-container
+www.nla.gov.au##.region-footer-first.region.row
+
+https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js
