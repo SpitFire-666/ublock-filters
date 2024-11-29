@@ -313,6 +313,8 @@ dandenongmarket.com.au##.overlay__content--newsletter.overlay__content.type__cen
 
 www.gourmettraveller.com.au##.sticky-block--out-of-view.sticky-block--at-bottom.sticky-block
 
+www.sydney.com##.clearfix.block-block-contentb3471bd4-3cde-4c2c-91d9-c065fcce1ba7.block-block-content.block
+
 www.babycenter.com.au##.bc-show-for-small.bcAd
 
 au.movember.com##.row.mospace-fb-and-apps
@@ -362,6 +364,10 @@ www.news.com.au###module-more-in
 www.news.com.au###sticky-module-1
 www.news.com.au###header-ads-container
 
+
+www.dcceew.gov.au###block-block-content-footer-text > .field__item.field--label-hidden.field--type-text-with-summary.field--name-body.field.text-formatted.clearfix
+www.dcceew.gov.au##.wrapper > .energy.footer
+
 www.carsales.com.au##csn-gdpr-toaster
 www.ramint.gov.au##.div_text
 
@@ -388,6 +394,8 @@ www.brightlife.com.au##.mfp-ready.middle-center.mfp-fade-zoom.mfp-bg
 
 www.hotdoc.com.au##.js_smartbanner.smartbanner--ios.smartbanner
 www.hotdoc.com.au###native-apps
+
+visitperth.com##.component-content > p
 
 www.drive.com.au##.openChat_drive__open-chat__tab-container__vdQvB
 www.drive.com.au##.gam_textfixed_pos1.gam-textfixed-pos1.gam-ad
@@ -650,17 +658,19 @@ www.thedistrictdocklands.com.au###overlay_subscribe
 
 whatson.melbourne.vic.gov.au##.footer__acknowledgement
 
-www.carsguide.com.au##.default-newsletter
-www.bigfooty.com##.topbanner.chaching
+carsguide.com.au##.default-newsletter
+bigfooty.com##.topbanner.chaching
 www.bigfooty.com##.js-bottomFixTarget.u-bottomFixer
 www.bigfooty.com##.noticeScrollContainer.lSSlideOuter
 www.bigfooty.com##p
 
 www.shannons.com.au##.active.popup__container
 
-https://dip.suncorp.com.au/data-insights-api/ac/said/cookie
+www.westernaustralia.com##.banner-image
 
-www.justcars.com.au##.notify-user-experience
+suncorp.com.au/data-insights-api/ac/said/cookie
+
+justcars.com.au##.notify-user-experience
 
 https://endotaspa.com.au/static/version*/frontend/Endota2022/base/en_AU/Magento_GoogleTagManager/js/google-analytics-universal.min.js
 wwos.nine.com.au##.kUzrxD.woidg2-0
@@ -1428,6 +1438,8 @@ moondog.com.au##section.black.vertical-alignment--middle.horizontal-alignment--c
 
 https://creative.vic.gov.au/__data/assets/git_bridge/0011/2069903/dist/AcknowledgementPopup-69a7d638.png
 
+www.bridgeclimb.com##.u-tac-xl.u-tal-lg.u-tac.o-richtext.u-mbb6-md.u-mbb10.container
+
 wheelercentre.com##html:style(overflow: auto !important;)
 
 www.wheelercentre.com##.show.modal.modal-acknowledgement
@@ -1779,3 +1791,30 @@ mcg.org.au##em
 
 puffingbilly.com.au##.fl-row-align-center.fl-row-default-height.fl-node-fqitpdxovh2c.fl-row-bg-none.fl-row-full-width.fl-row
 puffingbilly.com.au##.fl-row-align-center.fl-row-default-height.fl-node-7df1m3y6vecb.fl-row-bg-none.fl-row-full-width.fl-row
+
+www.examiner.com.au###billboard-container
+www.weeklytimesnow.com.au##.sticky.header_ads-container
+www.weeklytimesnow.com.au##.ad-block
+
+www.woodreview.com.au##.header-ad-inner
+www.woodreview.com.au##.footer-ack
+www.visitnsw.com###block-acknowledgementofthecountry
+www.visitthemurray.com.au##.c-Footer__acknowledgement
+||assets.visitthemurray.com.au/murray/images/DNSWMurray_20190617_LakeMulwala_Kayaking_CREDITDestinationNSW_AA-10-VTMfooter.jpg$image
+
+nsw.gov.au##.margin-top.center.feature-text
+
+placesofpride.awm.gov.au###block-audiencedisclaimer
+
+www.bet365.com.au###TopPromotionInfo
+www.bet365.com.au###TopPromotion
+
+www.tractorhouse.com.au##.top-banner-ad-container
+
+victoriancollections.net.au##.sensitivity-warning
+victoriancollections.net.au##.acknowlegement
+prov.vic.gov.au##.traditional-land-owners
+discover.data.vic.gov.au##.rpl-site-footer__acknowledgement.rpl-acknowledgement
+
+bigbuild.vic.gov.au##.global-footer-imprint__excerpt
+transport.vic.gov.au##.col-md-6.col-sm-6.col-12 > .container
