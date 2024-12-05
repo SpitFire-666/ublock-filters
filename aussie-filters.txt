@@ -1047,3 +1047,18 @@ www.ayersrockresort.com.au##.col-lg-4.col-md-5.footer__message
 uluru.gov.au##.footer__acknowledgement
 www.davidjones.com##div.wp-block-spacer
 yarratrams.com.au##.footer-text
+
+victoriauncovered.com.au##.adtester-container-119
+
+northcotesocialclub.com##.subscribe-modal-wrapper--show
+
+www.rbg.vic.gov.au##.footer__top
+www.zoo.org.au##.aoc-popover__modal
+openhousemelbourne.org###form-popup
+openhousemelbourne.org###popup-aoc
+acca.melbourne##.lg\:pr-8.border-acca.border-t-2.pt-8.gap-8.grid > div
+qvm.com.au##.footer__welcome-to-country
+www.transport.nsw.gov.au##div.container:nth-of-type(3)
+
+https://rightpaw.com.au/static/css/CookieConsent
+https://rightpaw.com.au/static/js/CookieConsent
