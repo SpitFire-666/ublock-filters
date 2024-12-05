@@ -4616,3 +4616,57 @@ https://substackcdn.com/bundle/assets/useEmailCheck-*.js
 https://substackcdn.com/bundle/assets/IntroPopup-*.css
 https://substackcdn.com/bundle/assets/Popover-*.css
 https://substackcdn.com/bundle/assets/Popover-*.js
+
+
+www.madetobeamomma.com##.single-content.entry-content > .adthrive
+www.madetobeamomma.com##.adthrive
+www.madetobeamomma.com##.adthrive-below-post-1
+www.motor1.com##.bh.super.m1-apb
+www.motor1.com##.m1-newsfeed_sidebar-wrapper > div.apb-dmpu
+www.motor1.com##.latest__articles--desktop > .apb-dmpu.apb
+
+
+anitalianinmykitchen.com###savetherecipe
+anitalianinmykitchen.com##.adthrive
+anitalianinmykitchen.com##.adthrive-below-post-2
+cooking.nytimes.com##.adunit_ad-unit__IhpkS
+www.insidetherustickitchen.com##.block-area-after-first-image.block-area
+www.insidetherustickitchen.com##.block-pinterest-cta
+www.insidetherustickitchen.com##.has-quaternary-background-color
+www.insidetherustickitchen.com##.wpforms-render-modern
+www.delicioustable.com##.adthrive
+www.delicioustable.com##.imark_newsletter_content
+www.delicioustable.com###AdThrive_Content_16_desktop
+www.delicioustable.com###AdThrive_Content_17_desktop
+www.delicioustable.com###AdThrive_Content_18_desktop
+www.delicioustable.com###AdThrive_Content_19_desktop
+www.delicioustable.com###AdThrive_Content_20_desktop
+www.delicioustable.com##.cls-inserted.slick-inline-search-panel
+www.delicioustable.com###AdThrive_Content_21_desktop
+
+
+www.tripsavvy.com##.not-sticky.gpt.leaderboard
+www.tripsavvy.com###leaderboard-deferred-footer_1-0
+www.tripsavvy.com###main > .mntl-block.travel-outbrain.comp
+
+||k2s.cc/static/media/cloud/$image
+k2s.cc##.banner-continue-watching
+
+www.freeconvert.com##.ads-side-layout__right
+duckduckgo.com###ra-1
+duckduckgo.com###ra-0
+
+community.whattoexpect.com##.sign-up-banner
+https://content.whattoexpect.com/assets/whattoexpect/dist/vendors/css3animate.min.js
+
+www.timeextension.com##div.lazyload.for-desktop.with-label.centered.block
+www.timeextension.com##.inset.masthead > .for-desktop.insert
+www.timeextension.com##div.lazyload.insert-extended.for-desktop.with-label.centered
+www.timeextension.com##li.for-mobile.item-insert
+www.timeextension.com##.for-mobile.insert-mobile-sticky
+www.forbes.com##.save-article-tooltip
+www.forbes.com###article-stream-0 > .font-size.font-base.color-body.bg-base > .color-body.font-body.inner-contain.bg-base.fs-article.article-body > .ampplus-connatix
+
+nbc16.com##.index-module_adBeforeContent__AMXn
+nbc16.com##.NewAd-module_Block300__a6nb
+www.veganfoodandliving.com##h6
