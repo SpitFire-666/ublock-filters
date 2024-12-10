@@ -3018,7 +3018,6 @@ humornama.com##.gb-headline-text.gb-headline-cd083838.gb-headline > span
 m.economictimes.com###downloadApp
 
 www.nzherald.co.nz##.toaster-text-wrap
-||accounts.google.com/gsi/iframe/select$subdocument
 www.nzherald.co.nz###credential_picker_iframe
 www.nzherald.co.nz##.header-wrap
 www.nzherald.co.nz##.down.premium-toaster
@@ -4226,14 +4225,12 @@ timesofindia.indiatimes.com##.sticky_minitv
 timesofindia.indiatimes.com##.is_ads_visible
 
 www.nzherald.co.nz##.toaster-text-wrap
-||accounts.google.com/gsi/iframe/select$subdocument
 www.nzherald.co.nz###credential_picker_iframe
 www.nzherald.co.nz##.header-wrap
 www.nzherald.co.nz##.down.premium-toaster
 
 www.forbes.com##.no-close.zephr-generic-modal.zephr-article-modal-modal
 www.forbes.com##.zephr-backdrop.zephr-article-modal-backdrop
-
 
 www.semafor.com##.css-3dbklf
 
@@ -4322,7 +4319,6 @@ www.cnet.com##.t-alignCol8.c-avStickyVideo
 
 luxuryescapes.com##.lg.ilPewA.GDPRWarningBanner__Alert-sc-1mwq5ah-1.gswtFw.LayoutContainer__Container-sc-rvo2nj-0
 luxuryescapes.com###credential_picker_iframe
-
 
 www.jamieoliver.com##.mt-relative-minus-40.clearfix.desktop-ad-placeholder.desktop-recipe-list-ad
 www.jamieoliver.com##.-is-inline.top-avocado
