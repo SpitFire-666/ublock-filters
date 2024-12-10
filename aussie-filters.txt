@@ -1008,7 +1008,6 @@ www.elle.com.au##span.font-weight-light.mt-5
 fool.com.au/wp-content/plugins/fool-wp-tracker/src/js/lib/cookie-helper.js
 fool.com.au/wp-content/plugins/fool-wp-tracker/src/js/fool-ad-listener.js
 www.fool.com.au##section.widget.foot-widget:nth-of-type(1) > .textwidget > p:nth-of-type(2)
-trove.nla.gov.au###culturalModal___BV_modal_outer_
 rocksdiscoverymuseum.com
 3mbs.org.au##html:style(overflow: auto !important;)
 www.3mbs.org.au##.show.modal.modal-acknowledgement.fade
