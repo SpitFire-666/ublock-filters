@@ -777,6 +777,7 @@ consent.api.osano.com
   
 
 ! WORDPRESS GARBAGE
+https://*/wp-content/plugins/jetpack/modules/subscriptions/
 https://*/wp-content/themes/grist/dist/appealBar.js
 https://*/wp-content/mu-plugins/jetpack-13.6/modules/widgets/eu-cookie-law/style.css
 https://*/wp-content/cache/min/1/affiliate.mvp.min.js
