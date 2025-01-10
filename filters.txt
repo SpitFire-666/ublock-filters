@@ -3311,13 +3311,11 @@ onetrust.com/consent/
 https://cdn.pbstck.com/collector-53e3df7.js
 https://content-aapm1.uplynk.com/
 
-
 https://s.yimg.com/nn/lib/metro/g/myy/advertisement_0.0.19.js
 https://s.yimg.com/uc/finance/nimbus/_app/immutable/chunks/Ads
 https://s.yimg.com/aaq/prebid/
 https://s.yimg.com/cx/acookie/
 https://s.yimg.com/ss/analytics3.js
-
 
 events.newsroom.bi/ingest.php
 www.businessinsider.com/chunks/scripts/components~paywall-client
@@ -3340,8 +3338,6 @@ https://champagne.futurecdn.net/champagne.js
 https://material.anonymised.io/metrics/collect
 onetrust.com/consent/
 https://cdn.pbstck.com/collector-53e3df7.js
-https://content-aapm1.uplynk.com/
-uplynk.com
 
 https://newatlas.com/_track
 https://cloudfront.loggly.com/js/loggly.tracker-latest.min.js
