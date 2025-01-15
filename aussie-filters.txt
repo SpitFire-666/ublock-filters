@@ -868,10 +868,49 @@ www.energy.gov.au##p:nth-of-type(2)
 www.energy.gov.au##.align-items-center.d-flex.pr-2.col-auto
 www.energy.gov.au##.col > h4
 deedsbrewing.com.au###shopify-section-popup
+trove.nla.gov.au##.pr-5.col-md-4
+www.nla.gov.au##.modaal-outer-wrapper
+www.nla.gov.au##.modaal-inline
+www.nla.gov.au##.modaal-overlay
+
+https://swvic.au/images/marble.jpg
+
+www.3mbs.org.au##.show.modal
+www.3mbs.org.au##.show
+www.nationaltrust.org.au##.footer-acknowledgement
+reiwa.com.au##.aoc
+australiayourway.com###block-109 > p
+www.awm.gov.au##.disclaimerfooter__description
+www.navy.gov.au##.text-small.text-center.weight-semi.font-family1
+www.navy.gov.au##.justify-content-center.align-items-center.d-flex.dod-footer-acknowledge.col-sm-6.col-md-5
+
+www.unitedenergy.com.au##.Footer-module--acknowledgementFooterContent--99021
+
+www.energyaustralia.com.au##.paragraph--type--reusable-content-component.paragraph--view-mode--default.paragraph--37721.paragraph
+www.wordofmouth.com.au##.ad-panel-dimensions
+providers.dffh.vic.gov.au###block-footerbottomleft > .field-label-hidden.field-type-text-with-summary.field-name-body.field-block-content--body.field.body.field-wrapper > .field-items
+www.consumer.vic.gov.au###block-atsi-acknowledgement
+tenantsvic.org.au##.site-footer-acknowledgement
+tenantsvic.org.au###cookies__bar
+tenantsvic.org.au##.site-footer-subscribe
+
+www.consumer.vic.gov.au###block-atsi-acknowledgement
+www.legalaid.vic.gov.au##.rpl-footer__custom-content > .rpl-container
+www.businessnews.com.au###block-bn2020-dfprunofsiteleaderboard > .leaderboard
+https://www.ancestry.com.au/api/privacy/consent-info
+mhnsw.au###firstNationsNotice
+bensw.com.au##.block--nsw-destination-footerdescription.block--basic.block > .basic__body.rich-text--content > p
+www.destinationnsw.com.au##.w-full.medium\:mt-0.medium\:text-fluid-h4.mt-16.font-sans.text-16 > div > p
+
+www.vividsydney.com##.container-fluid.c02417
+
+www.tourism.wa.gov.au##corp-promo-panel.ng-star-inserted:nth-of-type(2)
 www.carsales.com.au##.is-qualtricsEmbed.csn-home-section
+||www.diabetesaustralia.com.au/wp-content/uploads/2024_da_website_aoc_artwork_500x90.png$image
 tellmebaby.com.au##div.no-gutters.row:nth-of-type(9)
 www.dementia.org.au##.print\:\!hidden.md\:mb-56.md\:order-none.md\:grid-col-span-9.xs\:grid-col-span-6.items-start.flex-col.flex.mt-24.order-4.grid-col-span-4
 www.ergopouch.com.au##.footer-column1.footer-column
+www.sunnylife.com.au##.tout--1659045191132967b6.tout > .container-fluid-max
 recipetineats.com##.adthrive-recipe-1.adthrive-recipe.adthrive-ad
 recipetineats.com##.adthrive-content-4.adthrive-content.adthrive-ad
 recipetineats.com##.adthrive-content-3.adthrive-content.adthrive-ad
@@ -895,6 +934,7 @@ www.themandarin.com.au##.has-text-color.has-grey-color
 www.themandarin.com.au##.wp-block-heading.has-oxygen-font-family
 gio.com.au/data-insights-api/
 suncorpbank.com.au/data-insights-api/
+www.pathologytestsexplained.org.au##.container1
 apia.com.au/data-insights-api/
 shannons.com.au/data-insights-api/
 aami.com.au/data-insights-api/
@@ -904,6 +944,7 @@ supportingaustralians.gov.au##.col-md-9 > .mb-0
 ozhomeandtravel.com##.Footer__Block--newsletter.Footer__Block
 www.booktopia.com.au##.mui-style-kxu0dz.MuiGrid-grid-xs-true.MuiGrid-item.MuiGrid-root
 www.woodards.com.au##.no-spacing.subscription.element
+slwa.wa.gov.au###block-acknowledgementofcountryfrontpage
 www.ebay.com.au##.drawer-dialog--mask-fade-slow.gadget-bottom-container.drawer-dialog
 ebay.com.au##body:style(overflow:scroll!important)
 www.recipetineats.com##.footer-subscribe--wrapper
@@ -1061,3 +1102,8 @@ www.transport.nsw.gov.au##div.container:nth-of-type(3)
 
 https://rightpaw.com.au/static/css/CookieConsent
 https://rightpaw.com.au/static/js/CookieConsent
+
+betterhealth.vic.gov.au##.page-footer-bottom__content
+betterhealth.vic.gov.au##.page-footer-bottom__logo-stretcher
+
+www.vicroads.vic.gov.au##.cookie-notification
