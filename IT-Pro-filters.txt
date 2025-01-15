@@ -1545,3 +1545,158 @@ www.thewindowsclub.com##cloudflare-app
 https://hawk.tomshardware.com/translations.php
 
 cyberdom.blog##html,body:style(user-select: auto !important)
+
+intunestuff.com##.open.jetpack-subscribe-modal
+
+
+! 18 Dec 2024 https://foldersync.io
+foldersync.io##.CookieConsent
+
+www.osboxes.org##.pps-h-auto-px
+www.osboxes.org##.__b-popup1__.b-modal
+
+https://www.osboxes.org/wp-content/plugins/popup-press/
+https://www.osboxes.org/wp-content/plugins/cookie-law-info/
+
+! 20 Dec 2024 https://xdaforums.com
+xdaforums.com###js-post-88545625
+
+https://bennygreb.de/wp-content/cache/borlabs-cookie/
+https://bennygreb.de/wp-json/borlabs-cookie/
+https://bennygreb.de/wp-content/plugins/woocommerce/assets/js/js-cookie/
+
+techpilipinas.com###pum-50717
+techpilipinas.com###mailchimp
+
+vsttorrentz.net##.buttonPress-637 > button
+
+www.softpedia.com##.bigatf
+www.softpedia.com###Softpedia_software_postdownload_btf_P1
+www.softpedia.com##.mgtop_40.ad-970x250
+www.softpedia.com###Softpedia_software_ros_P2
+www.softpedia.com##.mgbot_20.ad-970
+
+researchworks.oclc.org###footer > div
+
+cyberdom.blog##+js(acis, document.onkeydown)
+
+www.thewindowsclub.com##.entry-content > p > span
+
+https://outlook-1.cdn.office.net.mcas.ms/yammer/*/officebrowserfeedback/
+office.net/midgard/versionless/px-telemetry-sink-1ds_without-*.js
+microsoft/owamail/hashed-v1/scripts/owa.worker.Analytics
+microsoft/owamail/hashed-v1/scripts/owa.Analytics
+microsoft/owamail/*/resources/boot-analytics-ping.js
+microsoft/owamail/*/resources/sounds/notifications/newmail.mp3
+
+cyberdom.blog##+js(acis, document.onkeydown)
+
+
+www.elevenforum.com###js-post-366587
+www.elevenforum.com###js-post-366594
+www.elevenforum.com###js-post-366598
+www.elevenforum.com###js-post-366604
+www.elevenforum.com###js-post-366630
+www.elevenforum.com###js-post-366687
+www.elevenforum.com###js-post-366744
+
+
+community.spiceworks.com##.alert-info.alert.signup-cta
+
+www.osradar.com##.td_block_template_1.tdi_110.td-a-rec-id-sidebar.td-a-rec
+www.osradar.com##.tdc-element-style.td-pb-row.wpb_row.tdi_17.tdc_zone > .td-stretch-content.stretch_row_1800.tdc-row
+
+www.limetorrents.lol##div.downloadarea:nth-of-type(5)
+
+forums.servethehome.com###js-post-277597
+
+www.softwareok.com##tr:nth-of-type(2) > td:nth-of-type(1) > div:nth-of-type(1)
+
+community.spiceworks.com###post_3
+community.spiceworks.com###post_4
+community.spiceworks.com###post_12
+
+
+chatgpt.com##.flex-row.md\:gap-8.md\:justify-between.md\:items-center.md\:flex-row.md\:mt-0.gap-4.items-start.grow.flex.mt-1\.5
+
+www.ubackup.com##.banner > .container-theme
+
+www.minitool.com##.article-share-wrap
+www.minitool.com##p:nth-of-type(26)
+
+https://www.pcmag.com/js/alpine/newsletters.js
+
+https://computercyber.com/wp-content/themes/woodmart/js/libs/magnific-popup.min.js
+https://computercyber.com/wp-content/themes/woodmart/js/scripts/global/promoPopup.min.js
+
+
+www.tenforums.com###post_937319
+www.tenforums.com###post_937323
+
+mail.spiceworks.com/resources/sharing/popoverv2.js
+spiceworks.com/wp-content/cache/min/1/npm/*/dist/js.cookie.min.js
+
+
+download.cnet.com##.rv-di-modal
+
+
+www.cyberithub.com##.widget_mailpoet_form
+
+www.addictivetips.com##.newsletter
+
+www.pcmag.com##.\!mb-0.video-parent
+www.pcmag.com##.container-xs.mt-8.p-4.md\:py-8.md\:px-32.text-center.bg-gray-100.rounded
+www.pcmag.com##.leading-tight.text-gray-400.text-sm.border-gray-600.border-b.py-8
+
+gizmodo.com##.js_ad-sticky-footer
+gizmodo.com###video-player-1
+gizmodo.com##.gRtQsx.sc-1needdh-1
+
+www.gartner.com##div.aem-GridColumn--default--12.aem-GridColumn.responsivegrid > .aem-Grid--default--12.aem-Grid--12.aem-Grid > div.aem-GridColumn--default--12.aem-GridColumn.cmp-globalsite-columncontrol.globalsite > .no-top-bottom.grid-norm.column-control > .sm-flex-direction-column.xs-flex-direction-column.row > .col-xs-12.col-sm-12.col-md-4.col-lg-4
+
+
+happymod.com##.download-bottom-message
+
+www.techtimes.com##.adunit_adhesion
+www.techtimes.com##.bts_social
+
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-incontent-ad-plus
+www.cnet.com##div.blank.spaced.c-adDisplay_container_mobile-mpu.g-outer-spacing-bottom-medium.c-pageArticle_ad-250
+www.cnet.com##.blank.spaced.c-adDisplay_container_mobile-incontent-all-bottom
+
+||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/premium/mountain-background-large.svg$image
+||modernb.akamai.odsp.cdn.office.net/files/sp-client/odsp-media-8e2cbba6/images/*.svg$image
+
+
+www.midomi.com###onetrust-consent-sdk
+www.midomi.com##.Banner_snackBar__2zo3A
+
+liliputing.com##.adthrive-content-1.adthrive-content.adthrive-ad
+
+www.wired.com###lgepdblba
+
+! 2023-06-13 https://www.wired.com
+www.wired.com##.journey-unit__container
+www.wired.com##div.row-mid-content-ad.full-bleed-ad.HEhan.RowWrapper-UmqTg:nth-of-type(8)
+www.wired.com##div.row-mid-content-ad.full-bleed-ad.HEhan.RowWrapper-UmqTg
+
+www.lifewire.com###adslot_3-0-1
+
+moddroid.com###ad_block_reminder_dialog
+moddroid.com##.text-center.fixed-icons
+
+www.maketecheasier.com##.cls-inserted.slick-inline-search-panel
+
+forums.malwarebytes.com###elPostFeed .ipsSpacer_half.ipsSpacer_both.ipsMmalware
+forums.malwarebytes.com##.ipsLayout_container > .ipsSpacer_half.ipsSpacer_both.ipsMmalware
+
+
+www.itpro.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent-a9qzgMujcN8rmvyp8sj2v5.newsletter-inbodyContent-slice.slice-container
+
+www.engadget.com##.wafer-rapid-tracked.fp-item-card.wafer-rapid-module
+
+
+www.geekwire.com###mobile-share-bar
+
+
+www.windowscentral.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
