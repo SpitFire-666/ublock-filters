@@ -5116,3 +5116,23 @@ aiforgemini.com
 sclpfybn.com
 tnagofsg.com
 kra18.com
+
+chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2
+www.justanswer.com##.chatMainWrapper
+nypost.com###credential_picker_iframe
+nypost.com##.site-header__container
+
+
+www.goodwall.io##.header-sticky-mobile
+www.goodwall.io##div.is-stacked-on-mobile.alignwide.wp-block-media-text
+
+
+www.reddit.com###credential_picker_iframe
+
+www.justthewoods.com##form.formkit-form.seva-form:nth-of-type(1) > div
+
+cleantechnica.com##[href^="https://www.youtube.com/channel/UCSUThAoiQIrb5lqUAwbaxfg"]
+
+www.amazon.com.au###nav-app-banner-container
+www.yummytoddlerfood.com##.slick-film-strip
+foolproofliving.com##.cls-inserted.slick-film-strip
