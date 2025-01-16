@@ -5136,3 +5136,104 @@ cleantechnica.com##[href^="https://www.youtube.com/channel/UCSUThAoiQIrb5lqUAwba
 www.amazon.com.au###nav-app-banner-container
 www.yummytoddlerfood.com##.slick-film-strip
 foolproofliving.com##.cls-inserted.slick-film-strip
+
+html.duckduckgo.com##div.result--ad
+www.marthastewart.com##.rightrail-ad-placed
+www.spendwithpennies.com##.adthrive-recipe-1
+www.marthastewart.com###mm-ads-squareFixed-sticky-dynamic_2-0
+www.marthastewart.com###mm-ads-squareFixed-sticky-dynamic_1-0
+www.marthastewart.com###mm-ads-squareFlex2-sticky-dynamic_1-0
+www.marthastewart.com###mm-ads-squareFixed-sticky-dynamic_3-0
+www.marthastewart.com###mm-ads-squareFixed-sticky-dynamic_4-0
+www.marthastewart.com###mm-ads-squareFixed-sticky-dynamic_5-0
+www.marthastewart.com###mm-ads-squareFixed-sticky-dynamic_6-0
+www.marthastewart.com###mm-ads-squareFixed-sticky-dynamic_7-0
+www.babycenter.com##div.eiqco3n0.mui-style-1txh3s1.cmsAdContainer:nth-of-type(11)
+www.babycenter.com##.rightRailSegment > .rightRailAdWrapper
+www.babycenter.com###rightRail > .rightRailAdWrapper
+www.babycenter.com###leaderboardContainer
+www.babycenter.com###connatixOuter
+www.babycenter.com##.adSlotContainer
+recipes.net##.col-xl-3.col-lg-4.col-md-5 > div
+sewingtrip.com##.adtester-container-108.adtester-container.medrectangle-3108.medrectangle-3.ezoic-at-0.ezoic-ad
+sewingtrip.com##.mvt-content.entry-content > p > span
+sewingtrip.com##.adtester-container-715
+
+sewingtrip.com/porpoiseant/banger.js
+www.nbcnews.com##.header-and-footer--static.topbannerAd
+
+https://cdn.ampproject.org/
+apnews.com###mobile-entitlements
+
+nbc.com/generetic/scripts/ads.js
+
+*/com.snowplowanalytics.snowplow/
+pixall.esm1.net/cookie-first.js?
+www.loveandlemons.com##.adthrive-below-post-1
+redhousespice.com##.adthrive
+
+*/wp-content/plugins/convertkit/
+redhousespice.com###savetherecipe
+redhousespice.com##.adthrive
+www.marionskitchen.com##.cli-modal-dialog
+www.marionskitchen.com##.cli-style-v2
+
+moderate.cleantalk.org
+www.hungryhuy.com##.tve_empty_dropzone
+redhousespice.com##.adthrive-recipe-5
+redhousespice.com###AdThrive_Recipe_2_phone
+redhousespice.com###AdThrive_Recipe_3_phone
+redhousespice.com##.wprm-recipe-notes > .adthrive-recipe-1
+redhousespice.com###AdThrive_Below_Post_1_phone
+redhousespice.com###AdThrive_Below_Post_2_phone
+redhousespice.com###AdThrive_Below_Post_3_phone
+redhousespice.com###AdThrive_Below_Post_4_phone
+redhousespice.com###AdThrive_Below_Post_5_phone
+redhousespice.com##.adthrive-below-post-1
+
+*/wp-content/cache/min/1/wp-content/plugins/thirstyaffiliates-pro/*
+www.sugarsaltmagic.com##.adthrive-recipe-1
+www.sugarsaltmagic.com##.has-background.has-text-color.has-white-color.subscribe
+www.kitchensanctuary.com##.wp-block-group-is-layout-flow.is-layout-flow.wp-block-group__inner-container > .adthrive
+www.kitchensanctuary.com##.wpforms-render-modern.wpforms-location-save_recipe_wprm
+whattocooktoday.com###penci-post-entry-inner > .adthrive
+whattocooktoday.com##.cls-inserted.slick-on-page
+www.loveandlemons.com##.adthrive
+||www.loveandlemons.com/wp-content/themes/loveandlemons5/images/lnl-pin-it.png$image
+www.loveandlemons.com###AdThrive_Recipe_5_phone
+www.loveandlemons.com##.adthrive-recipe-1
+www.chinasichuanfood.com##.adthrive
+www.tastingtable.com##.sticky-ad-container
+
+*/wp-content/themes/unified/js/prebid.js
+www.tastingtable.com##.before-ad
+uptodown.com##div.ad
+
+pastebin.com##.content > div:nth-of-type(1)
+pastebin.com##.js-post-view.post-view > div > .adsbyvli
+pastebin.com##.adsbyvli
+
+topgear.*##[id^="AdContainer-"]
+www.autoblog.com##phoenix-super-link
+www.autoblog.com##aside.not-size-d
+www.autoblog.com##.m-in-content-ad
+
+https://www.washingtonpost.com/tetro/wall/
+fox.com/static/tmz/display/libs/prebid.js
+
+||thisvid.com/enblk/envbcdldr.php$image
+
+*/wp-content/plugins/convertpro/
+*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
+
+mygpstools.com##.CookieConsent
+mygpstools.com##.text-center.space-y-1
+
+panmore.com##.ba_cookie_bar
+
+duckduckgo.com##div.results--ads:nth-of-type(29)
+
+play.google.com/log
+
+
+gazetadepinheiros.com.br###barlgpd_cookies
