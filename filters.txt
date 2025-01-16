@@ -5237,3 +5237,14 @@ play.google.com/log
 
 
 gazetadepinheiros.com.br###barlgpd_cookies
+
+outpost.pub
+
+*/wp-content/themes/*/widgets/subscribe/
+
+https://cmp.inmobi.com/tcfv2/53/cmp2.js
+
+otel.highlight.io
+pub.highlight.io
+leadsy.ai
+trovo-tag.com
