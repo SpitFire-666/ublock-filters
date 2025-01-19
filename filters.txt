@@ -774,9 +774,25 @@ pangle-ads.com
 analytics.tiktok.com.ttdns2.com
 samsungconsent.com
 consent.api.osano.com
-  
+otel.highlight.io
+pub.highlight.io
+leadsy.ai
+trovo-tag.com
+outpost.pub
+
 
 ! WORDPRESS GARBAGE
+
+*/wp-includes/js/dist/vendor/wp-polyfill.min.js
+*/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
+*/wp-content/plugins/jetpack/_inc/build/wordads/
+*/wp-content/blog-plugins/wordads-classes/
+*/wp-content/plugins/convertkit/
+*/wp-content/cache/min/1/wp-content/plugins/thirstyaffiliates-pro/*
+*/wp-content/plugins/convertpro/
+*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
+*/wp-content/themes/*/widgets/subscribe/
+*/wp-content/themes/unified/js/prebid.js
 */wp-content/blog-plugins/wordads-classes/
 */wp-content/cache/min/1/affiliate.mvp.min.js
 */wp-content/mu-plugins/jetpack-13.6/modules/widgets/eu-cookie-law/style.css
@@ -4909,10 +4925,6 @@ www.findagrave.com##.position-relative.visible-lg.visible-md.visible-sm.d-md-blo
 
 www.ancientfaces.com##.my-auto.text-center.col-md-6
 
-*/wp-includes/js/dist/vendor/wp-polyfill.min.js
-*/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
-*/wp-content/plugins/jetpack/_inc/build/wordads/
-*/wp-content/blog-plugins/wordads-classes/
 https://selfstudyhistory.com/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-includes/js/dist/vendor/wp-polyfill.min.js,wp-content/plugins/jetpack/_inc/build/wordads/
 
 
@@ -5172,7 +5184,7 @@ pixall.esm1.net/cookie-first.js?
 www.loveandlemons.com##.adthrive-below-post-1
 redhousespice.com##.adthrive
 
-*/wp-content/plugins/convertkit/
+
 redhousespice.com###savetherecipe
 redhousespice.com##.adthrive
 www.marionskitchen.com##.cli-modal-dialog
@@ -5191,7 +5203,8 @@ redhousespice.com###AdThrive_Below_Post_4_phone
 redhousespice.com###AdThrive_Below_Post_5_phone
 redhousespice.com##.adthrive-below-post-1
 
-*/wp-content/cache/min/1/wp-content/plugins/thirstyaffiliates-pro/*
+
+
 www.sugarsaltmagic.com##.adthrive-recipe-1
 www.sugarsaltmagic.com##.has-background.has-text-color.has-white-color.subscribe
 www.kitchensanctuary.com##.wp-block-group-is-layout-flow.is-layout-flow.wp-block-group__inner-container > .adthrive
@@ -5205,7 +5218,7 @@ www.loveandlemons.com##.adthrive-recipe-1
 www.chinasichuanfood.com##.adthrive
 www.tastingtable.com##.sticky-ad-container
 
-*/wp-content/themes/unified/js/prebid.js
+
 www.tastingtable.com##.before-ad
 uptodown.com##div.ad
 
@@ -5223,9 +5236,6 @@ fox.com/static/tmz/display/libs/prebid.js
 
 ||thisvid.com/enblk/envbcdldr.php$image
 
-*/wp-content/plugins/convertpro/
-*/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/
-
 mygpstools.com##.CookieConsent
 mygpstools.com##.text-center.space-y-1
 
@@ -5238,13 +5248,17 @@ play.google.com/log
 
 gazetadepinheiros.com.br###barlgpd_cookies
 
-outpost.pub
 
-*/wp-content/themes/*/widgets/subscribe/
 
 https://cmp.inmobi.com/tcfv2/53/cmp2.js
 
-otel.highlight.io
-pub.highlight.io
-leadsy.ai
-trovo-tag.com
+
+lucid.app/documents/*/invitations
+lucid.app##lucid-persona-survey-modal
+lucidchart.com/app/spark/onboarding-ab-tests/
+lucidchart.com/app/chart/dialogs/paywall-images
+lucidchart.com/app/chart/dialogs/personasurvey
+iceberg.lucid.app/perf/minuteMetrics
+iceberg.lucid.app/perf/browserStoreMetrics
+iceberg.lucid.app/perf/sessionMetrics
+lucidchart.com/app/spark/collaborator-onboarding-experience/
