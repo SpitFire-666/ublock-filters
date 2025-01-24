@@ -5298,3 +5298,5 @@ www.pbs.org##.in.modal--subscribe
 www.pbs.org##.in.fade.modal-backdrop
 
 cookieandkate.com##.has-octonary-background-color.has-background.cwp-large.block-email
+
+##.adthrive
