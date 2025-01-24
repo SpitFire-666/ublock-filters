@@ -4619,12 +4619,10 @@ www.pv-magazine.com##.in.fade.modal-backdrop
 https://substackcdn.com/bundle/assets/CookieConsentFooter-*.js
 https://substackcdn.com/bundle/assets/ChatAppUpsell-*.js
 https://substackcdn.com/bundle/assets/CookieConsentFooter-*.css
-
 https://substackcdn.com/bundle/assets/useEmailCheck-*.js
 https://substackcdn.com/bundle/assets/IntroPopup-*.css
 https://substackcdn.com/bundle/assets/Popover-*.css
 https://substackcdn.com/bundle/assets/Popover-*.js
-
 
 www.madetobeamomma.com##.single-content.entry-content > .adthrive
 www.madetobeamomma.com##.adthrive
@@ -5262,3 +5260,41 @@ iceberg.lucid.app/perf/minuteMetrics
 iceberg.lucid.app/perf/browserStoreMetrics
 iceberg.lucid.app/perf/sessionMetrics
 lucidchart.com/app/spark/collaborator-onboarding-experience/
+
+www.torrentdownload.info##.torrentinfo.table3 > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+
+https://www.redditstatic.com/shreddit/en-US/ad-event-tracker-*.js
+https://www.redditstatic.com/shreddit/en-US/search-telemetry-tracker-*.js
+https://www.redditstatic.com/shreddit/en-US/promote-post-actions-controller-*.js
+https://www.redditstatic.com/shreddit/en-US/scheduled-post-mod-actions-menu-*.js
+https://www.redditstatic.com/shreddit/en-US/xpromo-educational-deeplink-prompt-*.js
+https://www.redditstatic.com/shreddit/en-US/apply-polyfill-*.js
+https://www.redditstatic.com/shreddit/en-US/screen-reader-alert-outlet-*.js
+https://www.redditstatic.com/shreddit/en-US/telemetry-event-struct-*.js
+https://www.redditstatic.com/shreddit/en-US/award-leaderboard-empty-banner-client-js-*.js
+https://www.redditstatic.com/shreddit/en-US/award-leaderboard-locked-banner-client-js-*.js
+https://www.redditstatic.com/shreddit/en-US/award-dialog-client-js-*.js
+https://www.redditstatic.com/shreddit/award-dialog-client-css-*.css
+https://www.redditstatic.com/shreddit/en-US/report-award-*.js
+https://www.redditstatic.com/shreddit/en-US/awards-*.js
+
+jsdelivr.net/npm/js-cookie@beta/
+
+reddit.com##.m-0.p-0.list-none
+reddit.com##.p-0.list-none
+reddit.com##.pt-lg.xs\:px-0.px-md
+reddit.com##.pl-xs.items-center.flex
+
+https://substackcdn.com/bundle/assets/IntroPopup-*.js
+https://substackcdn.com/bundle/theme/welcome.*.css
+https://substackcdn.com/bundle/assets/newsletter_item_list-*.css
+https://substackcdn.com/bundle/assets/NewsletterIcon-*.js
+
+www.medicinenet.com##a.quizlink:nth-of-type(1)
+www.medicinenet.com##a.quizlink:nth-of-type(2)
+www.medicinenet.com##a.quizlink:nth-of-type(3)
+
+www.pbs.org##.in.modal--subscribe
+www.pbs.org##.in.fade.modal-backdrop
+
+cookieandkate.com##.has-octonary-background-color.has-background.cwp-large.block-email
