@@ -1107,3 +1107,21 @@ betterhealth.vic.gov.au##.page-footer-bottom__content
 betterhealth.vic.gov.au##.page-footer-bottom__logo-stretcher
 
 www.vicroads.vic.gov.au##.cookie-notification
+
+www.exploreoutdoors.vic.gov.au##.ripple-footer__acknowledgement
+
+www.visitgrampians.com.au##.c-Footer__indigenous
+
+www.foodstandards.gov.au##.region-footer-main-nav.region
+
+www.foodsafety.asn.au##.copyright-left span
+
+www.foodauthority.nsw.gov.au##.field__item.field--label-hidden.field--type-text-long.field--name-field-body.field > p
+
+www.mannys.com.au##.acknowledgement-container
+
+www.westernsydneymums.au##.wp-block-kadence-rowlayout.subscribe-popup
+www.westernsydneymums.au##.has-text-color.footer-description.has-text-align-left
+
+www.monash.edu##.background-grey.home-landing__splash-screen
+www.monash.edu##.col-sm-12.footer-info > div.pl-0.col-12.col-md-6.content-container__inner.content-container > p
