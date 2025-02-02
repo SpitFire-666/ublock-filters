@@ -1125,3 +1125,6 @@ www.westernsydneymums.au##.has-text-color.footer-description.has-text-align-left
 
 www.monash.edu##.background-grey.home-landing__splash-screen
 www.monash.edu##.col-sm-12.footer-info > div.pl-0.col-12.col-md-6.content-container__inner.content-container > p
+
+library.gov.au/core/assets/vendor/js-cookie/
+library.gov.au/modules/custom/nla_notice_section/
