@@ -798,7 +798,7 @@ outpost.pub
 */wp-content/mu-plugins/jetpack-13.6/modules/widgets/eu-cookie-law/style.css
 */wp-content/plugins/advanced-ads-layer/
 */wp-content/plugins/advanced-ads-pro/
-*/wp-content/plugins/advanced-ads-pro/
+*/wp-content/uploads/pum/
 */wp-content/plugins/advanced-ads-sticky-ads/
 */wp-content/plugins/advanced-ads-tracking/
 */wp-content/plugins/advanced-ads/
@@ -844,7 +844,11 @@ outpost.pub
 */wp-content/themes/wp-mason/static/js/ads.js
 */wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
 */wp-includes/js/dist/vendor/wp-polyfill.min.js
-
+*/wp-content/plugins/tmbi-cookie-compliance/
+*/wp-content/plugins/tmbi-ad-density/
+*/wp-content/plugins/pup-referral-tracking/
+*/wp-content/plugins/tmbi-brandmetrics/
+*/wp-content/themes/kinsta/dist/newsletter-cta.js
 
 
 
@@ -4583,6 +4587,15 @@ cyberdom.blog##+js(acis, document.onkeydown)
 */wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
 */wp-content/plugins/jetpack/_inc/build/wordads/
 */wp-content/blog-plugins/wordads-classes/
+*/wp-json/sscats/v2/tk/Hello_Bar
+*/wp-content/plugins/tmbi-affiliate-product-pricing/*
+*/wp-content/plugins/abm-sej/includes/hello-bar/
+*/wp-json/sscats/v2/tk/Hello_Bar
+*/wp-content/plugins/elementor-pro/assets/js/popup
+*/wp-content/plugins/elementor-pro/
+
+
+
 
 office.net.mcas.ms/yammer/*/officebrowserfeedback/
 office.net/midgard/versionless/px-telemetry-sink-1ds_without-*.js
@@ -4900,7 +4913,7 @@ https://static-cdn.spot.im/production/conversation/tags/*/ad-container-bundle.js
 https://www.carthrottle.com/themes/custom/base_theme/js/header/advertisement.js
 https://www.carthrottle.com/modules/custom/ad_manager/
 https://www.carthrottle.com/sites/default/files/prebid9.18.0.js
-https://www.carscoops.com/wp-content/themes/carscoops/scripts/ads-adpushup.js
+*/wp-content/themes/carscoops/scripts/ads-adpushup.js
 
 pages-stats.rbl.ms
 assets.rebelmouse.io
@@ -4976,7 +4989,7 @@ https://assets.guim.co.uk/polyfill.io/
 
 www.linkedin.com##.guest-upsells
 
-metro.co.uk/wp-content/client-mu-plugins/dist/metro-newsletters/
+*/wp-content/client-mu-plugins/dist/metro-newsletters/
 metro.co.uk##.newsletter-end-card__inner
 
 https://www.powerfront.com/www/5000/js/cookie-manager.js
@@ -5004,8 +5017,8 @@ https://eu.i.posthog.com/
 
 recipes.net##body > div
 recipes.net##div.lazy-loaded-ads
-recipes.net/wp-includes/js/clipboard.min.js
-recipes.net/wp-content/plugins/jquery-pin-it-button-for-images/
+*/wp-includes/js/clipboard.min.js
+*/wp-content/plugins/jquery-pin-it-button-for-images/
 pgammedia.com
 dmp.dexerto.media/adx-tag-manager/
 minutemedia-prebid.com
@@ -5300,3 +5313,49 @@ www.pbs.org##.in.fade.modal-backdrop
 cookieandkate.com##.has-octonary-background-color.has-background.cwp-large.block-email
 
 ##.adthrive
+
+*/js/jquery.cookie.js
+lulucdn.com/js/pop.js
+lulucdn.com/player/jw8/polyfills.webvtt.js
+
+www.rd.com##div.ad-type-content
+
+www.rd.com##.dfp-ad-widget.glide-on-mobile
+www.rd.com###gch-prearticle-container
+thetechylife.com##.adtester-container-104
+thetechylife.com##.adtester-container-901
+www.searchenginejournal.com##.mmh-90-wrap.sss2_sllo_o6.content-unit
+
+www.smartschoolhouse.com##.has-secondary-background-color.has-background.cwp-large.block-save-email
+www.realtor.com##.ad-wrapper
+realtor.com/rdc_user_check/xhr/api/v2/collector
+google.com/adsense/
+pbc.realtor.com/p/realtor/realtor/pb.js
+www.southernliving.com###mm-ads-squareFlex1-sticky_1-0
+
+littlenorthernbakehouse.com###pum-2941
+
+www.simplyrecipes.com##.gpt.leaderboard--header.leaderboard.has-right-label.mm-ads-gpt-adunit
+www.simplyrecipes.com###mm-ads-sc-sticky-square-ad_2-0
+
+noodlemagazine.com##.ifa-postload
+
+https://musescore.com/components/data?target=mu_monetization_next
+
+https://www.tunefind.com/assets/AdsWrapper-*.js
+https://www.tunefind.com/assets/AdsBannerFallbackBox-*.js
+https://www.tunefind.com/assets/AmplifiedAd-*.js
+https://www.tunefind.com/assets/TonefuseWidgetAd-*.js
+*/wp-content/plugins/cookie-notice/
+
+cdn.mytuner.mobi/static/ctr/site/images/optimize_experiments/
+
+nypr.org/newsletter-signup/
+
+
+www.toysperiod.com##div.adbox
+
+*/wp-content/uploads/pum/
+
+https://www.ancestrycdn.com/webui-unifiedtracking/
+https://www.ancestrycdn.com/marketing-flows/
