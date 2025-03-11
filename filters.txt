@@ -1859,7 +1859,6 @@ outpost.pub
 */wp-content/plugins/abm-sej/includes/hello-bar/
 */wp-json/sscats/v2/tk/Hello_Bar
 */wp-content/plugins/elementor-pro/assets/js/popup
-*/wp-content/plugins/elementor-pro/
 */wp-includes/js/clipboard.min.js
 */wp-content/plugins/jquery-pin-it-button-for-images/
 */wp-content/plugins/cookie-notice/
@@ -1868,8 +1867,6 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/elementor/assets/lib/share-link/
 */wp-content/uploads/pum/
 */wp-content/client-mu-plugins/dist/metro-newsletters/
-
-
 
 
 $removeparam=ref,domain=americastestkitchen.com
