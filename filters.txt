@@ -5402,8 +5402,6 @@ www.tiktok.com##.flex-auto.tt-sheet__body
 
 music.tutsplus.com##.cta-toast-popup
 
-https://apps.bazaarvoice.com/apps/vendors/bv-ui-core_cookieConsent
-
 img-dpreview.com/resources/scripts/vendor/twitter/
 
 https://www.watzatsong.com/bundles/wzsfrontend/images/Remove_Ads3.png
