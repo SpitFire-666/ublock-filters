@@ -1070,7 +1070,6 @@ app.adjust.net.in
 app.adjust.world
 appboy-images.com
 apps.rokt.com
-assets-jpcust.jwpsrv.com
 assets.emarsys.net
 assets.hearstapps.com
 banners.askmecca.com
