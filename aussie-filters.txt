@@ -1126,3 +1126,110 @@ www.monash.edu##.col-sm-12.footer-info > div.pl-0.col-12.col-md-6.content-contai
 
 library.gov.au/core/assets/vendor/js-cookie/
 library.gov.au/modules/custom/nla_notice_section/
+
+unimelb.edu.au##.AcknowledgementBlock
+
+www.goldcoastbulletin.com.au##.rp-recommendations-container
+www.goldcoastbulletin.com.au##.active.vjs-playlist
+
+lawyersweekly.com.au##.px-0.container
+lawyersweekly.com.au##.tabletSkinAd
+lawyersweekly.com.au##.tabletSkin
+lawyersweekly.com.au###tabletSkinBlock-zoneunit
+lawyersweekly.com.au###momentum-promotedcontent-zoneunit-container
+
+www.penguin.com.au##.l-container > div > .c-footer__company
+www.penguin.com.au##.component__gutters
+
+beat.com.au##.show-for-large > .offset-bottom-2.ad--full
+
+www.ebay.com.au##.template-evo-avip.x-vi-evo-main-container.vim > div:nth-of-type(5)
+www.ebay.com.au###placement_100379
+www.ebay.com.au###placement100379
+
+
+www.museumofplayandart.com.au##.footer__entry > p
+
+www.workshop.bunnings.com.au##.lia-component-custom-social-share
+
+www.macpac.com.au##.grid-x.cookie-message
+
+www.aec.gov.au##.acknowledgement
+
+forms.aec.gov.au##.pb-sm.d-md-flex.d-none.body-small-regular
+
+www.mannys.com.au##.acknowledgement-wrap
+
+www.screenaustralia.gov.au##.aoc-h100.modal-aoc-dialog
+www.screenaustralia.gov.au##p
+
+auctionsplus.com.au##.z-60.py-1.justify-center.lg\:flex.bg-gray-200.hidden
+
+arc.educationapps.vic.gov.au##.g-0.mt-4.row > .justify-content-center.d-flex.col-12
+arc.educationapps.vic.gov.au##small
+
+www.ebay.com.au###placement101912
+
+my.donateblood.com.au##.pb-3.pt-3.footer-copyright
+
+www.vu.edu.au##.vu-grid-cell--6
+
+www.ebay.com.au##.x-evo-middle-river.vi-grid.vim > .d-vi-evo-region.vim > div:nth-of-type(2)
+www.ebay.com.au###s0-1-26-7-x-atf-left-bottom-river-1-108\[0\]-1-0-0-0 > div
+www.ebay.com.au##.x-rx-slot-btf--101506.x-rx-slot-btf.vim-ds6.vim
+
+www.biome.com.au##em
+
+www.superreview.com.au##.billboard__default
+www.superreview.com.au##.kevel__billboard
+
+au.linkedin.com###credential_picker_container
+au.linkedin.com##.guest-upsells
+
+www.dashville.com.au##p.sqsrte-small > .sqsrte-text-color--custom
+www.dashville.com.au##.fe-block-yui_3_17_2_1_1671532543033_50102.fe-block > .sqs-block-html.html-block.sqs-block
+
+homeaffairs.gov.au##.col-sm-12 > p
+homeaffairs.gov.au/AssetLibrary/dist/assets/images/Artwork-footer.jpg
+
+rottnestchannelswim.com.au###text-4 > .textwidget > p
+
+au.bougerv.com##.customBgBorderRadiusLeft.customPreviewBorderRadiusStandard-0-0-5.customPreviewModal-0-0-3.mars24.MuiDialog-scrollPaper.MuiDialog-container
+au.bougerv.com##.mars33.MuiBackdrop-root
+au.bougerv.com##.MuiDialog-root
+
+
+themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex
+
+www.thedriveadelaide.com.au##.has-backgrounds.d-flex.mb-0.row.hero-internal
+
+www.ebay.com.au###s0-1-26-7-18-1-110\[0\]-1-0-0-0
+www.ebay.com.au###placement101506
+
+www.radio-australia.org###optimize_experiment
+
+https://www.3aw.com.au/wp-content/themes/ucms/assets/js/ads.js
+https://www.3aw.com.au/wp-content/themes/ucms/assets/js/analytics/
+https://www.3aw.com.au/wp-content/themes/ucms/assets/js/mml-cookie.js
+
+vic.gov.au##.ripple-footer__acknowledgement
+
+trove.nla.gov.au##.col-lg-5.col-sm-4.acknowledgement
+
+humbletrail.com.au##.footer56__copyright
+
+www.creativespirits.info##.promBlocked2
+www.creativespirits.info##.ace-announce
+www.creativespirits.info##.aside-main.span-16 > p
+
+
+forums.whirlpool.net.au###rr12340747 > .reply-archived.reply
+forums.whirlpool.net.au###rr12340958 > .reply-archived.reply
+forums.whirlpool.net.au###rr12340993 > .reply-archived.reply
+forums.whirlpool.net.au###rr8607755 > .reply-archived.reply
+forums.whirlpool.net.au###rr8608236 > div.reply-archived.reply
+forums.whirlpool.net.au###rr28786230
+forums.whirlpool.net.au###rr68833443
+forums.whirlpool.net.au###rr68833601
+forums.whirlpool.net.au###rr64945692
+forums.whirlpool.net.au###rr68520554
