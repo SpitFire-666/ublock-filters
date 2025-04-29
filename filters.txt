@@ -11,8 +11,6 @@
 ! ||xyz^ ! commented out due to some streams requiring it!
 ! ||to^ ! commented out as it blocked torrent sites
 
-
-
 reddit-69.loom.pw
 reddit-8.loom.pw
 reddit-7.loom.pw
@@ -1872,6 +1870,9 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/wpconsent-premium/
 */wp-includes/js/wp-emoji-release.min_ver-*.js
 */wp-content/plugins/affiliate-wp/
+*/wp-content/cache/min/1/wp-content/plugins/social-pug/
+*/wp-content/plugins/social-pug/
+
 
 $removeparam=ref,domain=americastestkitchen.com
 $removeparam=extcode,domain=americastestkitchen.com
