@@ -1866,7 +1866,12 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/elementor/assets/lib/share-link/
 */wp-content/uploads/pum/
 */wp-content/client-mu-plugins/dist/metro-newsletters/
-
+*/wp-content/plugins/woocommerce-subscriptions/vendor/woocommerce/subscriptions-core/
+*/wp-includes/js/wp-emoji-release.min.js
+*/wp-content/plugins/optinmonster/
+*/wp-content/plugins/wpconsent-premium/
+*/wp-includes/js/wp-emoji-release.min_ver-*.js
+*/wp-content/plugins/affiliate-wp/
 
 $removeparam=ref,domain=americastestkitchen.com
 $removeparam=extcode,domain=americastestkitchen.com
@@ -6291,6 +6296,13 @@ flex.expertphotography.com/p/analytics
 popity.sfo2.cdn.digitaloceanspaces.com
 gardeningknowhow.com/vite/assets/cookies-*.js
 
-*/wp-content/plugins/woocommerce-subscriptions/vendor/woocommerce/subscriptions-core/
+
 
 superdeluxeedition.com##.active.newsletter-popup
+
+themusicnetwork.com##.fuse-ad-leaderboard.fuse-ad
+themusicnetwork.com##.fuse-ad-incontent_1.fuse-ad
+themusicnetwork.com##.subscribe-single-inner
+
+kv.conversiontracking.com
+conversiontracking.com
