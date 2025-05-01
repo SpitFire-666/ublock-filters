@@ -1875,6 +1875,7 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 
 
 $removeparam=ref,domain=americastestkitchen.com
+$removeparam=id,domain=instagram.com
 $removeparam=extcode,domain=americastestkitchen.com
 
 $removeparam=hl,domain=google.com
