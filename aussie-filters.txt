@@ -162,10 +162,6 @@ www.broadsheet.com.au##.hvEBaY.SearchForm-sc-1rtba0o-0
 ||www.broadsheet.com.au/ping/*$xhr,domain=www.broadsheet.com.au
 www.ebay.com.au###placement_html_101195 > .merch-module
 www.ebay.com.au###placement_html_101196 > .merch-module
-www.ebay.co.uk##.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module
-www.ebay.com###placement_html_101197
-www.ebay.com###placement_html_101198
-www.ebay.com###glbfooter
 www.ebay.com.au###s0-14-11-8-5\[0\]-1-20-list
 www.ebay.com.au###placement_html_101197 > .merch-module
 www.ebay.com.au###placement_html_101198 > .merch-module
@@ -186,7 +182,6 @@ ebay.com.au##html:style(overflow: auto !important;)
 www.ebay.com.au##.drawer-dialog--mask-fade-slow.dialog--mask-fade.drawer-dialog
 www.ebay.com.au##.gf-mrecad.gh-clearfix
 www.ebay.com.au##.s-item__watchheart--watch.on-image.s-item__watchheart
-ebay.com##html:style(overflow: auto !important;)
 www.ebay.com.au##.srp-main-below-river
 $removeparam=itmprp,domain=ebay.com.au
 $removeparam=itmmeta,domain=ebay.com.au
@@ -195,6 +190,14 @@ www.ebay.com.au##.x-ads-placements--101506.vim.adp-vim.x-ads-placements
 www.ebay.com.au###placement101195
 www.ebay.com.au##.x-ads-placements--101196
 www.ebay.com.au##.ux-navigator__container
+!www.ebay.com.au###s0-1-26-7-18-1-110\[0\]-1-0-0-0
+!www.ebay.com.au###placement101506
+www.ebay.com.au##.recs-module
+www.ebay.com.au##.clearfix.srp-merch__items
+www.ebay.com.au###placement_html_101112 > .merch-module
+www.ebay.com.au##.merch-module--grid.merch-module > .aspects-1.container_wrapper
+
+
 www.ptv.vic.gov.au##.favourites-layout__modal--non-blocking.favourites-layout__modal.modal--simple.myki-modal.show.fade.modal
 www.nickscali.com.au##._hide-for-tablet._hide-for-mobile.non-purchasable-info
 paycalculator.com.au##.jss493.MuiBox-root
@@ -671,7 +674,7 @@ koalaliving.com.au##.col-12.col-md-5 > p
 kidsafeqld.com.au##.et_pb_bg_layout_light.et_pb_text_align_center.et_pb_text_7_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner > p
 www.transparency.gov.au##.MainFooter_contents__LwJJb > p
 www.bonds.com.au##.maxfocus-highlighted.rap-banner
-www.ebay.com.au##.recs-module
+
 www.mamamia.com.au##.post-content-parent-5
 www.mamamia.com.au##.notHiddenDiv.subscribe-theme-1.subscribe-border-bottom
 www.stonnington.vic.gov.au##div.col-m-4.col-s-6.col-xs-12:nth-of-type(3) > p:nth-of-type(3)
@@ -689,7 +692,6 @@ deliver.oztam.com.au
 htlb.carsalesmedia.com
 fls-fe.amazon.com.au
 www.propertychat.com.au###nativeads_ad_below_messages
-www.ebay.com.au##.clearfix.srp-merch__items
 www.productreview.com.au##div.d-flex_RNf.flex-column__BR.align-items-center_amm:nth-of-type(5)
 www.productreview.com.au##div.d-flex_RNf.flex-column__BR.align-items-center_amm:nth-of-type(10)
 au.nextdoor.com###id-5 > .css-yh6px8
@@ -703,8 +705,6 @@ danmurphys.com.au$removeparam=pageName
 asos.*^$removeparam=clr
 www.harrisscarfe.com.au##.show.fade.modal-backdrop
 www.ramint.gov.au##.div_splash
-www.ebay.com.au###placement_html_101112 > .merch-module
-www.ebay.com.au##.merch-module--grid.merch-module > .aspects-1.container_wrapper
 www.news.com.au##.vms-sticky-player
 www.news.com.au##.rp-muted-autoplay
 www.news.com.au##.vms-playlist-loaded.vms-playing.mobileui-mini
@@ -1174,9 +1174,9 @@ my.donateblood.com.au##.pb-3.pt-3.footer-copyright
 
 www.vu.edu.au##.vu-grid-cell--6
 
-www.ebay.com.au##.x-evo-middle-river.vi-grid.vim > .d-vi-evo-region.vim > div:nth-of-type(2)
-www.ebay.com.au###s0-1-26-7-x-atf-left-bottom-river-1-108\[0\]-1-0-0-0 > div
-www.ebay.com.au##.x-rx-slot-btf--101506.x-rx-slot-btf.vim-ds6.vim
+!www.ebay.com.au##.x-evo-middle-river.vi-grid.vim > .d-vi-evo-region.vim > div:nth-of-type(2)
+!www.ebay.com.au###s0-1-26-7-x-atf-left-bottom-river-1-108\[0\]-1-0-0-0 > div
+!www.ebay.com.au##.x-rx-slot-btf--101506.x-rx-slot-btf.vim-ds6.vim
 
 www.biome.com.au##em
 
@@ -1203,8 +1203,6 @@ themusic.com.au##div.max-w-full.items-center.justify-center.mb-5.flex
 
 www.thedriveadelaide.com.au##.has-backgrounds.d-flex.mb-0.row.hero-internal
 
-www.ebay.com.au###s0-1-26-7-18-1-110\[0\]-1-0-0-0
-www.ebay.com.au###placement101506
 
 www.radio-australia.org###optimize_experiment
 
