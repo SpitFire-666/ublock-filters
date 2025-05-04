@@ -6308,3 +6308,9 @@ themusicnetwork.com##.subscribe-single-inner
 
 kv.conversiontracking.com
 conversiontracking.com
+
+www.ebay.co.uk##.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module
+www.ebay.com###placement_html_101197
+www.ebay.com###placement_html_101198
+www.ebay.com###glbfooter
+ebay.com##html:style(overflow: auto !important;)
