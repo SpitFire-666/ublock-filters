@@ -11,6 +11,10 @@
 ! ||xyz^ ! commented out due to some streams requiring it!
 ! ||to^ ! commented out as it blocked torrent sites
 
+
+api.intelligems.io
+intelligems.io
+sparkloop.app
 reddit-69.loom.pw
 reddit-8.loom.pw
 reddit-7.loom.pw
@@ -5815,6 +5819,39 @@ https://web.archive.org/web/*/https://cdn.privacy-mgmt.com/
 https://web.archive.org/web/*/https://www.dianomi.com/
 https://web.archive.org/web/*/https://www.rd.com/wp-content/plugins/tmbi-cookie-compliance/
 https://web.archive.org/web/*/https://www.rd.com/wp-content/plugins/tmbi-ad-density/
+https://web.archive.org/web/*/http://ads.metblogs.com
+https://web.archive.org/web/*/http://pagead2.googlesyndication.com/
+https://web.archive.org/web/*/http://static.fmpub.net/
+https://web.archive.org/web/*/http://w.sharethis.com/
+https://web.archive.org/web/*/http://*/wp-content/plugins/wp-email/
+https://web.archive.org/web/*/https://*/wp-content/plugins/share-this/
+https://web.archive.org/web/*/http://pledgie.com/
+https://web.archive.org/web/*/https://ads.adthrive.com/
+https://web.archive.org/web/*/https://adthrive.com/
+https://web.archive.org/web/*/https://uk-script.dotmetrics.net/
+https://web.archive.org/web/*/https://p1.parsely.com/
+https://web.archive.org/web/*/https://cdn.parsely.com/
+https://web.archive.org/web/*/https://global.ketchcdn.com/
+https://web.archive.org/web/*/https://cdn.ketchjs.com/
+https://web.archive.org/web/*/https://vi.ml314.com/
+https://web.archive.org/web/*/https://scripts.mediavine.com/
+https://web.archive.org/web/*/https://keywords.mediavine.com/
+https://web.archive.org/web/*/https://exchange.mediavine.com/
+https://web.archive.org/web/*/https://trackerapi.ebxcdn.com/
+https://web.archive.org/web/*/https://applets.ebxcdn.com/
+https://web.archive.org/web/*/https://srtb.msn.com/auction
+https://web.archive.org/web/*/https://noa.yahoo.com/
+https://web.archive.org/web/*/https://consent.cmp.oath.com/
+https://web.archive.org/web/*/https://martech.condenastdigital.com/
+https://web.archive.org/web/*/https://ads-static.conde.digital/
+https://web.archive.org/web/*/https://cdn.permutive.app/
+https://web.archive.org/web/*/https://a.et.nytimes.com/track
+
+https://web.archive.org/web/*/https://static.hotjar.com/
+https://web.archive.org/web/*/https://script.hotjar.com/
+https://web.archive.org/web/*/https://z.moatads.com/
+https://web.archive.org/web/*/https://mb.moatads.com/
+
 
 resources.twiz.io##.popup-main-div
 
