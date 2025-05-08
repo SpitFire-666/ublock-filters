@@ -5846,7 +5846,10 @@ https://web.archive.org/web/*/https://martech.condenastdigital.com/
 https://web.archive.org/web/*/https://ads-static.conde.digital/
 https://web.archive.org/web/*/https://cdn.permutive.app/
 https://web.archive.org/web/*/https://a.et.nytimes.com/track
-
+http://web.archive.org/web/*/https://onetrust.com/
+http://web.archive.org/web/*/https://*.onetrust.com/
+http://web.archive.org/web/*/https://*.cookielaw.org/
+http://web.archive.org/web/*/https://ads-static.conde.digital/
 https://web.archive.org/web/*/https://static.hotjar.com/
 https://web.archive.org/web/*/https://script.hotjar.com/
 https://web.archive.org/web/*/https://z.moatads.com/
