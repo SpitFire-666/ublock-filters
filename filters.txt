@@ -1879,12 +1879,12 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 
 
 $removeparam=ref,domain=americastestkitchen.com
+$removeparam=xsdata,domain=sharepoint.com
 $removeparam=id,domain=instagram.com
 $removeparam=extcode,domain=americastestkitchen.com
 
 $removeparam=hl,domain=google.com
 $removeparam=source,domain=google.com
-!$removeparam=tbm,domain=google.com
 $removeparam=sa,domain=google.com
 $removeparam=ved,domain=google.com
 $removeparam=biw,domain=google.com
@@ -6354,3 +6354,28 @@ www.ebay.com###placement_html_101197
 www.ebay.com###placement_html_101198
 www.ebay.com###glbfooter
 ebay.com##html:style(overflow: auto !important;)
+
+thequietus.com##steady-engagement-wall
+thequietus.com##steady-newsletter-embed
+thequietus.com##.ad-container--header
+
+*/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css
+*/wp-content/plugins/elementor/assets/css/widget-heading.min.css
+*/wp-content/plugins/elementor/assets/css/widget-image.min.css
+*/wp-content/plugins/optinmonster/
+
+*.cloudfront.net/static/version1738578318/frontend/quickstart/kepler-theme/en_US/js-cookie/
+*.cloudfront.net/static/version1738578318/frontend/quickstart/kepler-theme/en_US/mage/cookies.min.js
+*.cloudfront.net/static/version1738578318/frontend/quickstart/kepler-theme/en_US/Magento_Theme/js/jquery.cookie.min.js
+*.cloudfront.net/static/version1738578318/frontend/quickstart/kepler-theme/en_US/Magento_Theme/js/cookie-status.min.js
+*.cloudfront.net/static/version1738578318/frontend/quickstart/kepler-theme/en_US/jquery/jquery.cookie.min.js
+
+*/wp-content/plugins/bloom/
+
+kajabi-cdn.com
+mykajabi.com/forms/
+
+wp.com/wp-content/mu-plugins/actionbar/
+wp.com/wp-content/blog-plugins/marketing-bar/
+
+toysperiod.com/blockers.js
