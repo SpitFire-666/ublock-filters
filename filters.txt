@@ -1881,6 +1881,9 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 $removeparam=ref,domain=americastestkitchen.com
 $removeparam=xsdata,domain=sharepoint.com
 $removeparam=SafeLinksUrl,domain=sharepoint.com
+$removeparam=ovuser,domain=sharepoint.com
+$removeparam=OR,domain=sharepoint.com
+$removeparam=clickparams,domain=sharepoint.com
 $removeparam=id,domain=instagram.com
 $removeparam=extcode,domain=americastestkitchen.com
 
