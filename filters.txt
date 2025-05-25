@@ -6375,10 +6375,62 @@ thequietus.com##.ad-container--header
 *.cloudfront.net/static/version1738578318/frontend/quickstart/kepler-theme/en_US/jquery/jquery.cookie.min.js
 
 */wp-content/plugins/bloom/
+*/wp-content/plugins/really-simple-popup/*
+*/wp-content/plugins/preloader-plus/*
+*/wp-content/plugins/newsletter/
+*/wp-content/themes/monument-2025/css/mnmnt-modal.css
+*/wp-content/plugins/jetpack/modules/sharedaddy/
+*/wp-content/themes/monument-2025/js/mnmnt-modal.js
 
 kajabi-cdn.com
 mykajabi.com/forms/
 
+ninjaone.com/com.ninjaone/dd0
+app.qualified.com
+assets.qualified.com
+js.qualified.com
+
+
+||universecitiz3n.tech/assets/head_image_sized.png$image
+||universecitiz3n.tech/assets/images/posts/2020-01-31.gif$image
+
+https://www.thisamericanlife.org/sites/all/modules/custom/tal_membership/
+www.thisamericanlife.org###takeover
+
+
+www.dropbox.com###credential_picker_container
+
+www.benzworld.org##.primis-wrapper.MessageCard__container
+www.benzworld.org###In-Thread_Middle
+www.benzworld.org###signature-content-wrapper > .bbWrapper
+
+www.quickstart.com###bss-cookie-notice
+
+gardenforindoor.com##.cls-inserted.slick-on-page
+gardenforindoor.com##.eager-load.wp-image-4837.dpsp-pin-it-wrapper > .dpsp-pin-it-button-has-label.dpsp-pin-it-button-shape-rectangular.dpsp-pin-it-button-top-left.dpsp-pin-it-button
+gardenforindoor.com##.dpsp-pin-it-button-has-label
+gardenforindoor.com##.cls-inserted.slick-inline-search-panel
+
+alicdn.com/@g/big-brother
+alicdn.com/@xconfig/icbu_marketing/
+aliyuncs.com/logstores/intl_trace/track
+
+web.archive.org##.has-bulleted-list.article-content > .social-icons-container
+web.archive.org##.article-subhead > .social-icons-container
+
+https://web.archive.org/web/*/https://c.amazon-adsystem.com/
+https://web.archive.org/web/*/http://aax.amazon-adsystem.com/
+
+www.stuff.tv##.c-ad--mpu-top-mobile.c-ad
+www.stuff.tv##.c-ad--mpu-in-article.c-ad
+www.stuff.tv##.c-ad--mpu-bottom-mobile.c-ad
+
+hp.com/apj_newsletter_popupform
+in-files.apjonlinecdn.com/landingpages/
+apjonlinecdn.com/static/version1741097837/frontend/HPOLS/stellar/en_US/HP_HawkSearch/js/google-analytics
+apjonlinecdn.com/static/version1741097837/frontend/HPOLS/stellar/en_US/Smile_ElasticsuiteTracker/
+
+ultimatebackyard.com.au##.gb-headline-text.gb-headline-59727ee4.gb-headline
 wp.com/wp-content/mu-plugins/actionbar/
 wp.com/wp-content/blog-plugins/marketing-bar/
 
