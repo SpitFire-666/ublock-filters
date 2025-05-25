@@ -1887,6 +1887,11 @@ $removeparam=clickparams,domain=sharepoint.com
 $removeparam=id,domain=instagram.com
 $removeparam=extcode,domain=americastestkitchen.com
 
+$removeparam=ls,domain=etsy.com
+$removeparam=bes,domain=etsy.com
+$removeparam=content_source,domain=etsy.com
+$removeparam=logging_key,domain=etsy.com
+
 $removeparam=hl,domain=google.com
 $removeparam=source,domain=google.com
 $removeparam=sa,domain=google.com
