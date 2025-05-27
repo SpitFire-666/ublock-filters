@@ -1876,7 +1876,8 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/affiliate-wp/
 */wp-content/cache/min/1/wp-content/plugins/social-pug/
 */wp-content/plugins/social-pug/
-
+*/wp-content/mu-plugins/jetpack-plugin/sun/modules/subscriptions/
+*/wp-content/js/mobile-useragent-info.js
 
 $removeparam=ref,domain=americastestkitchen.com
 $removeparam=xsdata,domain=sharepoint.com
