@@ -5865,7 +5865,8 @@ https://web.archive.org/web/*/https://static.hotjar.com/
 https://web.archive.org/web/*/https://script.hotjar.com/
 https://web.archive.org/web/*/https://z.moatads.com/
 https://web.archive.org/web/*/https://mb.moatads.com/
-
+https://web.archive.org/web/*/https://secure.gravatar.com/
+https://web.archive.org/web/*/https://www.npttech.com/advertising.js
 
 resources.twiz.io##.popup-main-div
 
