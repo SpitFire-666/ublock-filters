@@ -1879,6 +1879,8 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/mu-plugins/jetpack-plugin/sun/modules/subscriptions/
 */wp-content/js/mobile-useragent-info.js
 
+
+! URL Parameters
 $removeparam=xsdata,domain=sharepoint.com
 $removeparam=SafeLinksUrl,domain=sharepoint.com
 $removeparam=ovuser,domain=sharepoint.com
@@ -1886,7 +1888,7 @@ $removeparam=OR,domain=sharepoint.com
 $removeparam=clickparams,domain=sharepoint.com
 $removeparam=sdata,domain=sharepoint.com
 $removeparam=CT,domain=sharepoint.com
-
+$removeparam=cid,domain=kayoutlet.com
 $removeparam=id,domain=instagram.com
 $removeparam=extcode,domain=americastestkitchen.com
 $removeparam=ref,domain=americastestkitchen.com
@@ -1901,10 +1903,58 @@ $removeparam=ved,domain=google.com
 $removeparam=biw,domain=google.com
 $removeparam=bih,domain=google.com
 $removeparam=dpr,domain=google.com
-
 $removeparam=app,domain=youtube.com
-
 $removeparam=s,domain=twitter.com
+$removeparam=eq,domain=pinterest.com.*
+$removeparam=etslf,domain=pinterest.com.*
+$removeparam=term_meta[],domain=pinterest.com.*
+$removeparam=rs,domain=pinterest.com.*
+$removeparam=pdp_npi,domain=aliexpress.com
+$removeparam=utm_medium,domain=sli.do
+$removeparam=ref,domain=amazon.com.*
+$removeparam=sh,domain=forbes.com
+$removeparam=source,domain=nextdoor.com
+$removeparam=init_source,domain=nextdoor.com
+$removeparam=query,domain=nextdoor.com
+$removeparam=utm\_source,domain=addons.mozilla.org
+$removeparam=utm\_medium,domain=addons.mozilla.org
+$removeparam=utm\_content,domain=addons.mozilla.org
+$removeparam=keywords,domain=amazon.com
+$removeparam=ref,domain=amazon.com
+$removeparam=ch,domain=ebay.*
+$removeparam=ut,domain=ebay.*
+$removeparam=osub,domain=ebay.*
+$removeparam=segname,domain=ebay.*
+$removeparam=norover,domain=ebay.*
+$removeparam=mkscid,domain=ebay.*
+$removeparam=merchantid,domain=ebay.*
+$removeparam=ocid,domain=msn.com
+$removeparam=li,domain=msn.com
+$removeparam=cvid,domain=msn.com
+$removeparam=cp,domain=nextdoor.com
+$removeparam=s,domain=nextdoor.com
+$removeparam=section,domain=nextdoor.com
+$removeparam=ct,domain=nextdoor.com
+$removeparam=ec,domain=nextdoor.com
+$removeparam=ref,domain=amazon.com
+$removeparam=psc,domain=amazon.com
+$removeparam=content-id,domain=amazon.com
+$removeparam=src,domain=aliexpress.com
+$removeparam=albslr,domain=aliexpress.com
+$removeparam=isdl,domain=aliexpress.com
+$removeparam=utm_medium,domain=simplywall.st
+$removeparam=utm_campaign,domain=simplywall.st
+$removeparam=utm_source,domain=simplywall.st
+ebay.*^$removeparam=exe
+ebay.*^$removeparam=ext
+ebay.*^$removeparam=epid
+ebay.*^$removeparam=pt
+
+facebook.*^$removeparam=ref
+facebook.*^$removeparam=referral_code
+facebook.*^$removeparam=referral_story_type
+
+
 ||www.googletagservices.com^
 www.tomshardware.com###inpost-related-links
 
@@ -2562,7 +2612,6 @@ cdn122.com###btn-unmute
 
 ||www.washingtonpost.com/wp-apps/imrs.php$image
 
-$removeparam=pdp_npi,domain=aliexpress.com
 newbedev.com##.ads-718-460
 dziurologia.blogspot.com##.skiptranslate.goog-te-banner-frame
 
@@ -2619,55 +2668,6 @@ coinmarketcap.com##.hgMLDB.sc-16r8icm-0
 
 ||embed.spotify.com/$subdocument
 
-$removeparam=eq,domain=pinterest.com.*
-$removeparam=etslf,domain=pinterest.com.*
-$removeparam=term_meta[],domain=pinterest.com.*
-$removeparam=rs,domain=pinterest.com.*
-
-$removeparam=utm_medium,domain=sli.do
-
-$removeparam=ref,domain=amazon.com.*
-
-$removeparam=sh,domain=forbes.com
-
-$removeparam=source,domain=nextdoor.com
-$removeparam=init_source,domain=nextdoor.com
-$removeparam=query,domain=nextdoor.com
-
-$removeparam=utm\_source,domain=addons.mozilla.org
-$removeparam=utm\_medium,domain=addons.mozilla.org
-$removeparam=utm\_content,domain=addons.mozilla.org
-
-$removeparam=keywords,domain=amazon.com
-$removeparam=ref,domain=amazon.com
-
-$removeparam=ch,domain=ebay.*
-$removeparam=ut,domain=ebay.*
-$removeparam=osub,domain=ebay.*
-$removeparam=segname,domain=ebay.*
-$removeparam=norover,domain=ebay.*
-$removeparam=mkscid,domain=ebay.*
-$removeparam=merchantid,domain=ebay.*
-
-
-$removeparam=ocid,domain=msn.com
-$removeparam=li,domain=msn.com
-$removeparam=cvid,domain=msn.com
-
-$removeparam=cp,domain=nextdoor.com
-$removeparam=s,domain=nextdoor.com
-$removeparam=section,domain=nextdoor.com
-$removeparam=ct,domain=nextdoor.com
-$removeparam=ec,domain=nextdoor.com
-
-$removeparam=ref,domain=amazon.com
-$removeparam=psc,domain=amazon.com
-$removeparam=content-id,domain=amazon.com
-
-$removeparam=src,domain=aliexpress.com
-$removeparam=albslr,domain=aliexpress.com
-$removeparam=isdl,domain=aliexpress.com
-
 jeffreyappel.nl##.sh-page-notice
 
 www.ionos.com###bio_ep_bg
@@ -2682,9 +2682,6 @@ support.zoom.us##.article-body-community
 ||cdn.privacy-mgmt.com/index.html$subdocument
 ||cdn.privacy-mgmt.com/index.html$subdocument
 
-$removeparam=utm_medium,domain=simplywall.st
-$removeparam=utm_campaign,domain=simplywall.st
-$removeparam=utm_source,domain=simplywall.st
 simplywall.st###modal-container
 https://simplywall.st/static/js/components-GuestRegistrationModal.modern.9283a7a6.js
 
@@ -2833,15 +2830,6 @@ magnetmagazine.com##.postsAd
 
 www.ebay.ca###placement_html_101197
 www.ebay.ca###placement_html_101198
-
-ebay.*^$removeparam=exe
-ebay.*^$removeparam=ext
-ebay.*^$removeparam=epid
-ebay.*^$removeparam=pt
-
-facebook.*^$removeparam=ref
-facebook.*^$removeparam=referral_code
-facebook.*^$removeparam=referral_story_type
 
 www.healthline.com##.css-6l6gc > .email.button-wrapper
 
