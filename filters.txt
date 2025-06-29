@@ -6431,3 +6431,29 @@ wp.com/wp-content/mu-plugins/actionbar/
 wp.com/wp-content/blog-plugins/marketing-bar/
 
 toysperiod.com/blockers.js
+
+www.britannica.com##.py-\[5px\].bg-\(--color-header-bg\).justify-center.flex.z-1010.relative
+
+wordpress.com###marketingbar
+
+boards.straightdope.com##.visible.quote-button
+
+*/wp-content/cache/busting/1/wp-content/plugins/sassy-social-share/
+*/wp-content/plugins/mom-event-tracking/
+*/wp-content/cache/min/1/analytics.js
+
+
+slate.com##.newsletter-signup
+
+morbidkuriosity.com##.mmt-flight.mmt-primary.mmt-biacdsid-f2ic-jitb-kmil-ictoamttthtc
+
+||www.aclassclub.co.uk/login/onetap$subdocument
+
+gannett-cdn.com/partner/vendor/pbjsandwich-uw.min.js
+https://cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/partner/partner-omniture-heartbeat-media-video/partner-omniture-heartbeat-media-video.html
+https://cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/app-measurement.html
+
+www.artofit.org##.home-share
+
+plantophiles.com##form.formkit-form.seva-form:nth-of-type(1)
+plantophiles.com##form.formkit-form.seva-form > div
