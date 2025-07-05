@@ -1945,6 +1945,7 @@ $removeparam=isdl,domain=aliexpress.com
 $removeparam=utm_medium,domain=simplywall.st
 $removeparam=utm_campaign,domain=simplywall.st
 $removeparam=utm_source,domain=simplywall.st
+$removeparam=share,domain=vimeo.com
 ebay.*^$removeparam=exe
 ebay.*^$removeparam=ext
 ebay.*^$removeparam=epid
