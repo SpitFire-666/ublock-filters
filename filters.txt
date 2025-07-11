@@ -1946,6 +1946,8 @@ $removeparam=utm_medium,domain=simplywall.st
 $removeparam=utm_campaign,domain=simplywall.st
 $removeparam=utm_source,domain=simplywall.st
 $removeparam=share,domain=vimeo.com
+$removeparam=sourceid,domain=google.com
+
 ebay.*^$removeparam=exe
 ebay.*^$removeparam=ext
 ebay.*^$removeparam=epid
