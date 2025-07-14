@@ -1104,7 +1104,7 @@ cdn.watchingthat.net
 cdn23381261.ahacdn.me
 cdnssl.clicktale.net
 cetrk.com
-chat.reddit.com
+! chat.reddit.com required for DMs
 chimpstatic.com
 cm.mgid.com
 code.yengo.com
