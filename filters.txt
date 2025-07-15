@@ -6460,6 +6460,3 @@ www.artofit.org##.home-share
 
 plantophiles.com##form.formkit-form.seva-form:nth-of-type(1)
 plantophiles.com##form.formkit-form.seva-form > div
-
-! block google account sign in prompts
-$3p,script,xhr,to=accounts.google.com,from=~google.*|~youtube.com
