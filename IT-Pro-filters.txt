@@ -1705,3 +1705,6 @@ securityonline.info##.so-donate-banner
 securityonline.info##swg-popup-background
 
 https://news.google.com/swg/
+
+https://www.ultimatewindowssecurity.com/css/cookieConsent.css
+https://www.ultimatewindowssecurity.com/css/subscriptionPopup.css
