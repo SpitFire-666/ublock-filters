@@ -1700,3 +1700,8 @@ www.geekwire.com###mobile-share-bar
 
 
 www.windowscentral.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+
+securityonline.info##.so-donate-banner
+securityonline.info##swg-popup-background
+
+https://news.google.com/swg/
