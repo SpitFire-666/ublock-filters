@@ -6460,3 +6460,8 @@ www.artofit.org##.home-share
 
 plantophiles.com##form.formkit-form.seva-form:nth-of-type(1)
 plantophiles.com##form.formkit-form.seva-form > div
+
+microsoft.com/locales/en-US/InProductFeedback.json
+microsoft.com/locales/en/InProductFeedback.json
+microsoft.com/locales/en-US/InProductFeedbackMyAccess.json
+microsoft.com/locales/en/InProductFeedbackMyAccess.json
