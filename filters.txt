@@ -1947,6 +1947,8 @@ $removeparam=utm_campaign,domain=simplywall.st
 $removeparam=utm_source,domain=simplywall.st
 $removeparam=share,domain=vimeo.com
 $removeparam=sourceid,domain=google.com
+$removeparam=_trksid,domain=ebay.com.au
+$removeparam=_osacat,domain=ebay.com.au
 
 ebay.*^$removeparam=exe
 ebay.*^$removeparam=ext
