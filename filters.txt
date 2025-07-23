@@ -1878,6 +1878,9 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/social-pug/
 */wp-content/mu-plugins/jetpack-plugin/sun/modules/subscriptions/
 */wp-content/js/mobile-useragent-info.js
+*/wp-content/plugins/divi-pixel/vendor/js/magnific-popup.min.js
+*/wp-content/plugins/divi-pixel/dist/public/css/popup_effect.min.css
+*/wp-content/plugins/divi-pixel/dist/public/js/popup_effect.min.js
 
 
 ! URL Parameters
