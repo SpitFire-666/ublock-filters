@@ -6474,3 +6474,4 @@ microsoft.com/locales/en-US/InProductFeedbackMyAccess.json
 microsoft.com/locales/en/InProductFeedbackMyAccess.json
 
 web.webex.com##.cookie-banner-body
+reddit.com##.block.relative.promotedlink
