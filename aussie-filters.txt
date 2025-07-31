@@ -1217,3 +1217,52 @@ forums.whirlpool.net.au###rr68833443
 forums.whirlpool.net.au###rr68833601
 forums.whirlpool.net.au###rr64945692
 forums.whirlpool.net.au###rr68520554
+
+
+www.sydneytheatre.com.au###modal-acknowledgement
+www.sydneytheatre.com.au##.show.fade.modal-backdrop
+www.sydneytheatre.com.au##html:style(overflow: auto !important;)
+
+architectureau.com##.footer__ack > p
+
+pedavoli.com.au###block-yui_3_17_2_1_1739845420389_2701 > .fadeIn.preFade.sqs-block-content > .sqs-html-content > .fadeIn.preFade.sqsrte-small > .sqsrte-text-color--accent
+
+www.fire.qld.gov.au##.col-sm-12.col-md-4.queensland-logo
+
+www.reinsw.com.au###ste_container_Acknowledgementofcountrycontent > p
+
+www.reinsw.com.au###ste_container_AcknowledgementofCountryheading
+
+www.fire.nsw.gov.au##.flow-text.white-text
+
+innersydneyhighschool.schools.nsw.gov.au##.local-footer-message.uk-width-1-1 > .uk-container-center.uk-container > p
+
+slattery.com.au##.textwidget > p > em
+
+askizzy.org.au##.acknowledgements
+
+vinnies.org.au/api/legal/get-cookie-policy
+
+www.uwa.edu.au##aside
+
+www.anu.edu.au##.anu-col-lg-10
+
+www.adelaide.edu.au##.c-global-footer__column > p
+
+about-us.uq.edu.au##.uq-acknowledgement--large.uq-acknowledgement
+
+www.westernsydney.edu.au##.cmp-footer__title
+
+www.aph.gov.au##.acknowledgement.columns.medium-12
+
+www.unitingvictas.org.au##.desktop-flags.d-desktop
+
+about.unimelb.edu.au##.bg-inverted-75.page-footer-alt__acknowledgement
+
+able.adelaide.edu.au##.c-global-footer__column > p
+
+www.frv.vic.gov.au##.rpl-footer__custom-content-inner
+
+performinglines.org.au##.overlay
+performinglines.org.au###pl-newsletter-signup
+performinglines.org.au###pl-footer-acknowledgements > p
