@@ -6477,3 +6477,5 @@ web.webex.com##.cookie-banner-body
 reddit.com##.block.relative.promotedlink
 
 ads.assemblyexchange.com
+librato-collector.genius.com
+genius.com/javascripts/compiled/reactAds.*.js
