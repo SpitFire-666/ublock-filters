@@ -6479,3 +6479,5 @@ reddit.com##.block.relative.promotedlink
 ads.assemblyexchange.com
 librato-collector.genius.com
 genius.com/javascripts/compiled/reactAds.*.js
+
+cdn.shopify.com/extensions/71911bf6-a26c-4d7e-9bb3-a7936741ccaf/essential-upsell-297/
