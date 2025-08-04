@@ -6485,3 +6485,4 @@ cdn.shopify.com/extensions/71911bf6-a26c-4d7e-9bb3-a7936741ccaf/essential-upsell
 ir.ebaystatic.com/cr/v/c01/radware_stormcaster_v24.js
 sherlock-events-sampler.ebay.com
 cas.avalon.perfdrive.com
+sherlock-tracing-sampler.ebay.com
