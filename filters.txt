@@ -1954,6 +1954,7 @@ $removeparam=share,domain=vimeo.com
 $removeparam=sourceid,domain=google.com
 $removeparam=_trksid,domain=ebay.com.au
 $removeparam=_osacat,domain=ebay.com.au
+$removeparam=bk,domain=reverb.com
 
 ebay.*^$removeparam=exe
 ebay.*^$removeparam=ext
