@@ -1883,6 +1883,8 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/divi-pixel/dist/public/js/popup_effect.min.js
 */wp-content/plugins/mailoptin/
 */wp-content/themes/schneier/assets/vendor/socialshareprivacy/
+! obnoxious cookie banner:
+*/wp-content/8d0e790014df9d8ec7288007ab49895a/
 
 
 ! URL Parameters
@@ -6487,3 +6489,7 @@ ir.ebaystatic.com/cr/v/c01/radware_stormcaster_v24.js
 sherlock-events-sampler.ebay.com
 cas.avalon.perfdrive.com
 sherlock-tracing-sampler.ebay.com
+
+
+electronics.stackexchange.com###credential_picker_container
+
