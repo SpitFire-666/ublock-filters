@@ -1883,6 +1883,7 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/divi-pixel/dist/public/js/popup_effect.min.js
 */wp-content/plugins/mailoptin/
 */wp-content/themes/schneier/assets/vendor/socialshareprivacy/
+*/wp-content/mu-plugins/wpcomsh/frontend-notices/gifting-banner/
 ! obnoxious cookie banner:
 */wp-content/8d0e790014df9d8ec7288007ab49895a/
 
