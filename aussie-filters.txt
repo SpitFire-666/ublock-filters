@@ -1218,7 +1218,6 @@ forums.whirlpool.net.au###rr68833601
 forums.whirlpool.net.au###rr64945692
 forums.whirlpool.net.au###rr68520554
 
-
 www.sydneytheatre.com.au###modal-acknowledgement
 www.sydneytheatre.com.au##.show.fade.modal-backdrop
 www.sydneytheatre.com.au##html:style(overflow: auto !important;)
@@ -1268,3 +1267,39 @@ performinglines.org.au###pl-newsletter-signup
 performinglines.org.au###pl-footer-acknowledgements > p
 
 repairpartners.com.au/cdn/shop/t/3/assets/magnific-popup.css
+
+www.ebay.com.au##li.srp-river-answer--ITEMS_CAROUSEL_WITH_COLOR
+
+www.ebay.com.au##.d-vi-evo-region.vim > section
+
+safeinator.reamedia.com.au/dfecea6c4e95d26661aa980ae8db7d34263bc615/
+
+order.ebay.com.au###placement101366 > .thanks-openrtb
+order.ebay.com.au###placement101365 > .thanks-openrtb
+
+www.ebay.com.au##.pad-b-12.mar-t-16.x-coupon.vim
+
+www.casey.vic.gov.au###block-acknowledgestatement
+
+www.ebay.com.au##.x-rx-slot-btf--101506
+
+www.australiangeographic.com.au##.ownership.mend7.mstart1.tend13.tstart1.end11.start3 > div
+
+who.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
+
+www.ebay.com.au###placement_101912
+
+www.whistleout.com.au##.pad-b-0.wrapper-2
+
+www.ga.gov.au##.body-s.ga-footer__acknowledgement > p
+fundraise.mater.org.au##.mt20
+
+www.ebay.com.au##.x-rx-slot-btf--101506.x-rx-slot-btf.vim-ds6.vim > div > div
+
+community.ato.gov.au##.bottom-message
+
+science.anu.edu.au##.anu-pt-3.anu-row
+
+www.rch.org.au##.visible-md.row
+
+www1.racgp.org.au##.acknowledgement
