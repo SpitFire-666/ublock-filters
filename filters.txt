@@ -1782,7 +1782,7 @@ trovo-tag.com
 outpost.pub
 
 
-! WORDPRESS GARBAGE
+! WORDPRESS GARBAGE - plugins, cookies, newsletters, ads
 
 */wp-includes/js/dist/vendor/wp-polyfill.min.js
 */wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
@@ -1887,6 +1887,10 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 ! obnoxious cookie banner:
 */wp-content/8d0e790014df9d8ec7288007ab49895a/
 */wp-content/plugins/custom-share-buttons-with-floating-sidebar
+*/wp-content/plugins/gtranslate/
+*/wp-content/plugins/hustle/
+*/wp-content/plugins/updraftcentral/
+*/wp-content/plugins/google-site-kit/
 
 
 ! URL Parameters
