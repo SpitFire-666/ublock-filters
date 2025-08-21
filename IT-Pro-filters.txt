@@ -1708,3 +1708,5 @@ https://news.google.com/swg/
 
 https://www.ultimatewindowssecurity.com/css/cookieConsent.css
 https://www.ultimatewindowssecurity.com/css/subscriptionPopup.css
+
+campaigns.cyberinsider.com
