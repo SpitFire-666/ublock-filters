@@ -6501,3 +6501,6 @@ electronics.stackexchange.com###credential_picker_container
 api.leadconnectorhq.com
 stcdn.leadconnectorhq.com
 assets.mailerlite.com
+bf.dynatrace.com
+doaks-prod14-australiaeast.bf.dynatrace.com
+bf57098vsi.bf.dynatrace.com
