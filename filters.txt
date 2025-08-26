@@ -1892,6 +1892,8 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/updraftcentral/
 */wp-content/plugins/google-site-kit/
 */wp-content/plugins/creative-mail-by-constant-contact/
+*/wp-content/plugins/email-subscribers/
+*/wp-content/plugins/pixelyoursite-pinterest/
 
 ! URL Parameters
 $removeparam=xsdata,domain=sharepoint.com
