@@ -5876,6 +5876,7 @@ https://web.archive.org/web/*/https://z.moatads.com/
 https://web.archive.org/web/*/https://mb.moatads.com/
 https://web.archive.org/web/*/https://secure.gravatar.com/
 https://web.archive.org/web/*/https://www.npttech.com/advertising.js
+https://web.archive.org/web/*/http://*/wp-content/plugins/jetpack/modules/widgets/
 
 resources.twiz.io##.popup-main-div
 
