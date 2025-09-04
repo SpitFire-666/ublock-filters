@@ -6507,3 +6507,10 @@ assets.mailerlite.com
 bf.dynatrace.com
 doaks-prod14-australiaeast.bf.dynatrace.com
 bf57098vsi.bf.dynatrace.com
+
+https://cdn-web.tunein.com/assets/js/withAds.*.js
+
+translate.google.com
+translate.googleapis.com
+translate-pa.googleapis.com
+gstatic.com/_/translate_http/
