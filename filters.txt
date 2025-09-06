@@ -1093,6 +1093,7 @@ cdn.attn.tv
 cdn.cloudimagesb.com
 cdn.cookielaw.org
 cdn.onesignal.com
+onesignal.com
 cdn.optimizely.com
 cdn.polyfill.io
 cdn.snigelweb.com
