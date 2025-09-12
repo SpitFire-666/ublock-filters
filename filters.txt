@@ -6515,3 +6515,10 @@ translate.google.com
 translate.googleapis.com
 translate-pa.googleapis.com
 gstatic.com/_/translate_http/
+
+soyboyrad.io###art-rotator-img
+soyboyrad.io##.art-split
+soyboyrad.io/images/
+soyboyrad.io/blur.jpg
+soyboyrad.io/newballz.mp4
+soyboyrad.io/thering.gif
