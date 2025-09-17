@@ -1895,6 +1895,12 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/creative-mail-by-constant-contact/
 */wp-content/plugins/email-subscribers/
 */wp-content/plugins/pixelyoursite-pinterest/
+*/wp-content/plugins/elementor/assets/lib/animations/
+*/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css
+https://web.archive.org/web/*/https://secure.gravatar.com/
+https://web.archive.org/web/*/https://web.vortex.data.microsoft.com/
+https://web.archive.org/web/*/wp-content/plugins/simple-follow-me-social-buttons-widget/
+*/wp-content/plugins/thrive-leads/
 
 ! URL Parameters
 $removeparam=xsdata,domain=sharepoint.com
