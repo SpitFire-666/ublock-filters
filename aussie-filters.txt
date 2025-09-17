@@ -1311,3 +1311,75 @@ files-collection.sl.nsw.gov.au/images/intro-modal/
 collection.sl.nsw.gov.au/_next/static/chunks/pages/intro-modal-*.js
 collection.sl.nsw.gov.au/intro-modal
 
+www.hesta.com.au##.footer-acknowledge-country-container
+
+aware.com.au##.footer-middle__body__disclaimer > .cmp-text > h6:nth-of-type(1)
+
+www.australiansuper.com##.c-footer__text-acknowledgement
+
+www.bendigobank.com.au##.pb-3.pt-3.wysiwyg-block
+
+www.nab.com.au##.xf-content-height > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.responsivegrid--gutters-row.responsivegrid--gutters-col.responsivegrid--fixed.responsivegrid > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.parbase.text > .nab-text > p:nth-of-type(1)
+
+www.australianretirementtrust.com.au##.bg-light.col
+
+www.westpac.com.au##.col-sm-8.col-xs-12
+||www.westpac.com.au/content/dam/public/wbc/images/home/wbc-AoC_westpac-weave_356x130.png$image
+
+hostplus.com.au###promote-campaign-5b8fc9eec8
+
+www.cbussuper.com.au##div.row:nth-of-type(4)
+www.chadstone.com.au##.fwy8bjf.fsuivmx.fxcqnds > .f19lgzsw
+
+||api.leadconnectorhq.com/widget/form/w7sRnhq514HofkrG2KWh$subdocument
+aussiegreenthumb.com##.code-block-1.code-block
+
+www.slsa.sa.gov.au##.footer__library-hours > p:nth-of-type(1)
+
+www.nfsa.gov.au##.region-takeover.region
+www.nfsa.gov.au###block-nfsa-acknowledgementofcountry
+
+www.nari.net.au##.NewsletterSign-up.footerBox1.footerBox > p
+
+tiffanyeckhardt.com.au###feature_block_20693264 > .text_feature.feature
+
+ararattownhall.com.au##h6
+
+www.energysafe.vic.gov.au##.rpl-footer__custom-content-inner
+
+fruugoaustralia.com##.dialog.js-modal
+
+
+www.qld.gov.au##.sm-border-bottom.qg-footer-col-content.qg-cultural-notice
+
+
+www.rcpa.edu.au###Site-Footer > .clearfix.container > p.fw-200.colour-white.text-center.mb-0.mt-30
+
+
+www.sahealth.sa.gov.au##.acknowledgement-of-country-wrapper
+
+
+visitsydney.com##.custom-footer-content > p
+
+
+opera.org.au##.container.pre-footer-inner > p
+
+www.nma.gov.au###content_container_805507 > p
+
+artscentre.frankston.vic.gov.au##.acknowledgement-footer-widget
+
+choirworks.au##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner > p
+
+fremantlepress.com.au##.text-center.row > .col-12
+
+wfac.org.au##.is-acknowledgement
+wfac.org.au/wp-content/themes/freoarts/js/lib/modaal.min.js
+wfac.org.au##.content
+
+www.appliancesonline.com.au##.country-acknowledgement-wrapper
+
+www.gumtree.com.au##div.e102c3rk0.css-1u1kv78-Box
+
+fare.org.au##.elementor-section-items-middle.elementor-section-height-default.elementor-section-boxed.elementor-hidden-tablet.elementor-section-height-min-height.elementor-element-ae1e809.elementor-element.elementor-top-section.elementor-section > .elementor-column-gap-default.elementor-container
+
+au.yamaha.com##.free-area
