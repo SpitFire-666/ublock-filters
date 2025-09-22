@@ -1784,6 +1784,7 @@ outpost.pub
 
 
 ! WORDPRESS GARBAGE - plugins, cookies, newsletters, ads
+*/wp-content/plugins/ad-inserter-pro/
 */wp-content/plugins/complianz-gdpr/
 */wp-includes/js/dist/vendor/wp-polyfill.min.js
 */wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
