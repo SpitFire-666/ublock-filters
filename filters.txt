@@ -6566,3 +6566,7 @@ www.whathifi.com##.max-h-\[90vh\].shadow-lg.py-10.px-5.w-screen.bottom-0
 www.whathifi.com##.\!z-\[999999999999999999\]
 www.whathifi.com##.slice-container-newsletterForm
 https://www.whathifi.com/vite/assets/cookies-*.js
+
+*/wp-content/plugins/honeypot/
+*/wp-content/themes/readingaustralia/assets/js/plugins/cookie.js
+*/wp-content/themes/readingaustralia/assets/js/plugins/share.js
