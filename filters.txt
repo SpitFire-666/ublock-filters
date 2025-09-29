@@ -6538,3 +6538,31 @@ osintteam.blog##.zd.zc.ik.zb.o.uw.za.yz.yy.ij.yx.yw.ci.r.ac
 osintteam.blog##.cv.r.ac.xf.xe.gh.xd
 osintteam.blog##.afi.aff.wv.afh.fk
 
+github.io###__docusaurus > div:nth-of-type(3)
+
+www.allmusic.com###subscribeHelpContainer
+
+https://www.retrospace.net/desknavanimslow.js
+
+yandex.st/share/share.js
+
+dadgold.com##.columns-3.woocommerce
+
+www.serialshack.com##td > [href^="https://usenetbay.com/"]
+www.serialshack.com##[href^="https://usenetbay.com/"]
+www.serialshack.com##.share
+www.serialshack.com##table.table-results-header:nth-of-type(3)
+
+www.carmanualsonline.info##div:nth-of-type(16)
+
+https://en.lexusclub.cz/blocked_ad.php
+https://en.lexusclub.cz/aaa.php
+
+
+https://www.whathifi.com/vite/assets/SponsoredScroll/
+https://www.whathifi.com/vite/assets/Footer/gdpr-footer-link
+https://www.whathifi.com/vite/assets/Recirculation/Overlay/
+www.whathifi.com##.max-h-\[90vh\].shadow-lg.py-10.px-5.w-screen.bottom-0
+www.whathifi.com##.\!z-\[999999999999999999\]
+www.whathifi.com##.slice-container-newsletterForm
+https://www.whathifi.com/vite/assets/cookies-*.js
