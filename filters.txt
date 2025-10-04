@@ -1902,6 +1902,7 @@ https://web.archive.org/web/*/https://secure.gravatar.com/
 https://web.archive.org/web/*/https://web.vortex.data.microsoft.com/
 https://web.archive.org/web/*/wp-content/plugins/simple-follow-me-social-buttons-widget/
 */wp-content/plugins/thrive-leads/
+*/wp-content/plugins/gravityforms/
 
 ! URL Parameters
 $removeparam=xsdata,domain=sharepoint.com
