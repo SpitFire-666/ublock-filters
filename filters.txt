@@ -6572,3 +6572,16 @@ https://www.whathifi.com/vite/assets/cookies-*.js
 */wp-content/plugins/honeypot/
 */wp-content/themes/readingaustralia/assets/js/plugins/cookie.js
 */wp-content/themes/readingaustralia/assets/js/plugins/share.js
+
+www.imdb.com##.opt-in-dialog
+www.imdb.com###betaOptIn
+www.imdb.com###facebook-signin-link[href^="https://graph.facebook.com/v2.7/oauth/authorize"]
+www.imdb.com###nb_extra_nav > .js_nav_item.social > a[href^="/offsite/"]:nth-of-type(1) > .follow-facebook.desktop-sprite
+www.imdb.com###maindetails_sidebar_bottom > .aux-content-widget-2:nth-of-type(5)
+www.imdb.com###social-share-widget
+www.imdb.com##.ab_hero
+www.imdb.com###relatedListsWidget
+www.imdb.com##.swiper-wrapper
+www.imdb.com###top_ad_wrapper
+www.imdb.com##.inline20-page-background.ipc-page-background--baseAlt.ipc-page-background > .ipc-page-content-container--center.ipc-page-content-container > .nas-slot
+
