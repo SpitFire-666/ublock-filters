@@ -6585,3 +6585,7 @@ www.imdb.com##.swiper-wrapper
 www.imdb.com###top_ad_wrapper
 www.imdb.com##.inline20-page-background.ipc-page-background--baseAlt.ipc-page-background > .ipc-page-content-container--center.ipc-page-content-container > .nas-slot
 
+
+media-amazon.com/images/*/*/*/showads.v2.js
+
+https://www.cosmopolitan.com/_assets/moapt/
