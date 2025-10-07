@@ -1383,3 +1383,5 @@ www.gumtree.com.au##div.e102c3rk0.css-1u1kv78-Box
 fare.org.au##.elementor-section-items-middle.elementor-section-height-default.elementor-section-boxed.elementor-hidden-tablet.elementor-section-height-min-height.elementor-element-ae1e809.elementor-element.elementor-top-section.elementor-section > .elementor-column-gap-default.elementor-container
 
 au.yamaha.com##.free-area
+
+fremantlepress.com.au##.footer-small-text.p-small.col-md-8.col-12 > p
