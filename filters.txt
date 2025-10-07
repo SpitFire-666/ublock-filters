@@ -6589,3 +6589,7 @@ www.imdb.com##.inline20-page-background.ipc-page-background--baseAlt.ipc-page-ba
 media-amazon.com/images/*/*/*/showads.v2.js
 
 https://www.cosmopolitan.com/_assets/moapt/
+
+happymag.tv###primary-menu > .nav-item.menu-item-363199.menu-item-object-custom.menu-item-type-custom.menu-item > .nav-link
+
+redroompoetry.org##.footer-acknowledgement_inner > p
