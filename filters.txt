@@ -6593,3 +6593,6 @@ https://www.cosmopolitan.com/_assets/moapt/
 happymag.tv###primary-menu > .nav-item.menu-item-363199.menu-item-object-custom.menu-item-type-custom.menu-item > .nav-link
 
 redroompoetry.org##.footer-acknowledgement_inner > p
+
+https://cdn.craft.cloud/*/builds/*/artifacts/assets/js/ads.js
+https://cdn.craft.cloud/*/builds/*/artifacts/assets/js/abchecker.js
