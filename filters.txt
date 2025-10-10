@@ -1904,6 +1904,9 @@ https://web.archive.org/web/*/https://web.vortex.data.microsoft.com/
 https://web.archive.org/web/*/wp-content/plugins/simple-follow-me-social-buttons-widget/
 */wp-content/plugins/thrive-leads/
 */wp-content/plugins/gravityforms/
+*/wp-content/plugins/monarch/
+*/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css
+*/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
 
 ! URL Parameters
 $removeparam=xsdata,domain=sharepoint.com
