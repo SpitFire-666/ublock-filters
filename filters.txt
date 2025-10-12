@@ -1887,6 +1887,9 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/themes/schneier/assets/vendor/socialshareprivacy/
 */wp-content/mu-plugins/wpcomsh/frontend-notices/gifting-banner/
 */wp-content/plugins/fszrnvx/
+*/wp-content/cache/min/1/wp-content/plugins/jet-popup/
+*/wp-content/plugins/jet-popup/
+
 ! obnoxious cookie banner:
 */wp-content/8d0e790014df9d8ec7288007ab49895a/
 */wp-content/plugins/custom-share-buttons-with-floating-sidebar
