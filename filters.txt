@@ -6603,3 +6603,5 @@ redroompoetry.org##.footer-acknowledgement_inner > p
 
 https://cdn.craft.cloud/*/builds/*/artifacts/assets/js/ads.js
 https://cdn.craft.cloud/*/builds/*/artifacts/assets/js/abchecker.js
+
+https://assets.genius.com/javascripts/compiled/reactAds-*.js
