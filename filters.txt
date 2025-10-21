@@ -1784,7 +1784,12 @@ outpost.pub
 
 
 ! WORDPRESS GARBAGE - plugins, cookies, newsletters, ads
+*/wp-content/plugins/honeypot/
+*/wp-content/themes/readingaustralia/assets/js/plugins/cookie.js
+*/wp-content/themes/readingaustralia/assets/js/plugins/share.js
+*/wp-content/plugins/advanced-ads/
 */wp-content/plugins/ad-inserter-pro/
+*/wp-content/plugins/wccp-pro/
 */wp-content/plugins/complianz-gdpr/
 */wp-includes/js/dist/vendor/wp-polyfill.min.js
 */wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
@@ -6576,10 +6581,6 @@ www.whathifi.com##.\!z-\[999999999999999999\]
 www.whathifi.com##.slice-container-newsletterForm
 https://www.whathifi.com/vite/assets/cookies-*.js
 
-*/wp-content/plugins/honeypot/
-*/wp-content/themes/readingaustralia/assets/js/plugins/cookie.js
-*/wp-content/themes/readingaustralia/assets/js/plugins/share.js
-
 www.imdb.com##.opt-in-dialog
 www.imdb.com###betaOptIn
 www.imdb.com###facebook-signin-link[href^="https://graph.facebook.com/v2.7/oauth/authorize"]
@@ -6605,3 +6606,4 @@ https://cdn.craft.cloud/*/builds/*/artifacts/assets/js/ads.js
 https://cdn.craft.cloud/*/builds/*/artifacts/assets/js/abchecker.js
 
 https://assets.genius.com/javascripts/compiled/reactAds-*.js
+
