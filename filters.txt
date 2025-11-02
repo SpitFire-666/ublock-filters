@@ -1908,9 +1908,6 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/pixelyoursite-pinterest/
 */wp-content/plugins/elementor/assets/lib/animations/
 */wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css
-https://web.archive.org/web/*/https://secure.gravatar.com/
-https://web.archive.org/web/*/https://web.vortex.data.microsoft.com/
-https://web.archive.org/web/*/wp-content/plugins/simple-follow-me-social-buttons-widget/
 */wp-content/plugins/thrive-leads/
 */wp-content/plugins/gravityforms/
 */wp-content/plugins/monarch/
@@ -5899,6 +5896,12 @@ https://web.archive.org/web/*/https://mb.moatads.com/
 https://web.archive.org/web/*/https://secure.gravatar.com/
 https://web.archive.org/web/*/https://www.npttech.com/advertising.js
 https://web.archive.org/web/*/http://*/wp-content/plugins/jetpack/modules/widgets/
+https://web.archive.org/web/*/https://secure.gravatar.com/
+https://web.archive.org/web/*/https://web.vortex.data.microsoft.com/
+https://web.archive.org/web/*/wp-content/plugins/simple-follow-me-social-buttons-widget/
+https://web.archive.org/web/*/http://partner.googleadservices.com/
+https://web.archive.org/web/*/http://pubads.g.doubleclick.net/
+https://web.archive.org/web/*/https://www.lala.com/
 
 resources.twiz.io##.popup-main-div
 
