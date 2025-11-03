@@ -5902,6 +5902,7 @@ https://web.archive.org/web/*/wp-content/plugins/simple-follow-me-social-buttons
 https://web.archive.org/web/*/http://partner.googleadservices.com/
 https://web.archive.org/web/*/http://pubads.g.doubleclick.net/
 https://web.archive.org/web/*/https://www.lala.com/
+web.archive.org/web/*/http://ipc.adbureau.net/
 
 resources.twiz.io##.popup-main-div
 
