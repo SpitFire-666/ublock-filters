@@ -1366,3 +1366,16 @@ fare.org.au##.elementor-section-items-middle.elementor-section-height-default.el
 au.yamaha.com##.free-area
 
 fremantlepress.com.au##.footer-small-text.p-small.col-md-8.col-12 > p
+
+$removeparam=_odkw,domain=ebay.com.au
+$removeparam=_osacat,domain=ebay.com.au
+$removeparam=_trksid,domain=ebay.com.au
+$removeparam=itemid,domain=ebay.com.au
+$removeparam=itmmeta,domain=ebay.com.au
+$removeparam=itmprp,domain=ebay.com.au
+$removeparam=merchantid,domain=ebay.com.au
+$removeparam=mkscid,domain=ebay.com.au
+$removeparam=norover,domain=ebay.com.au
+ebay.com.au/chocolatechip/track
+ebay.com.au/gh/useracquisition
+ebay.com.au/ifh/
