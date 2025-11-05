@@ -158,20 +158,11 @@ www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(
 www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(3)
 www.broadsheet.com.au##.hvEBaY.SearchForm-sc-1rtba0o-0
 ||www.broadsheet.com.au/ping/*$xhr,domain=www.broadsheet.com.au
-$removeparam=norover,domain=ebay.com.au
-$removeparam=mkscid,domain=ebay.com.au
-$removeparam=itemid,domain=ebay.com.au
-$removeparam=merchantid,domain=ebay.com.au
-$removeparam=itmprp,domain=ebay.com.au
-$removeparam=itmmeta,domain=ebay.com.au
 $removeparam=utm_source,domain=drive.com.au
 $removeparam=ei,domain=commbank.com.au
 $removeparam=hkey,domain=vicbar.com.au
 
 
-www.ebay.com.au###placement101196
-www.ebay.com.au###placement101506
-www.ebay.com.au##.x-rx-slot--101196
 
 business.vic.gov.au##.mt-4.row
 
@@ -1032,7 +1023,7 @@ www.theaustralian.com.au##.ad-block
 greens.org.au##p:nth-of-type(3)
 thebabycarriage.com.au##.show-on-pc-only.gb-container-9fecb68f.gb-container > .has-text-color.has-contrast-2-color.has-text-align-center
 thebabycarriage.com.au##.show-on-pc-only.gb-container-94dd5990.gb-container > .has-text-color.has-contrast-2-color.has-text-align-center
-$removeparam=_odkw,domain=ebay.com.au
+
 www.marieclaire.com.au##.promotion-modal__footer.modal-footer
 marieclaire.com.au/discount-codes/vassets/packages/tippingcanoe/referrer-tracking/
 www.elle.com.au##span.font-weight-light.mt-5
@@ -1267,34 +1258,24 @@ performinglines.org.au###pl-newsletter-signup
 performinglines.org.au###pl-footer-acknowledgements > p
 
 repairpartners.com.au/cdn/shop/t/3/assets/magnific-popup.css
-
-www.ebay.com.au##li.srp-river-answer--ITEMS_CAROUSEL_WITH_COLOR
-
-www.ebay.com.au##.d-vi-evo-region.vim > section
-
 safeinator.reamedia.com.au/dfecea6c4e95d26661aa980ae8db7d34263bc615/
 
 order.ebay.com.au###placement101366 > .thanks-openrtb
 order.ebay.com.au###placement101365 > .thanks-openrtb
 
-www.ebay.com.au##.pad-b-12.mar-t-16.x-coupon.vim
-
 www.casey.vic.gov.au###block-acknowledgestatement
 
-www.ebay.com.au##.x-rx-slot-btf--101506
 
 www.australiangeographic.com.au##.ownership.mend7.mstart1.tend13.tstart1.end11.start3 > div
 
 who.com.au##.site-footer__container__section-copyright-notice.m-none.text-medium-dark
-
-www.ebay.com.au###placement_101912
 
 www.whistleout.com.au##.pad-b-0.wrapper-2
 
 www.ga.gov.au##.body-s.ga-footer__acknowledgement > p
 fundraise.mater.org.au##.mt20
 
-www.ebay.com.au##.x-rx-slot-btf--101506.x-rx-slot-btf.vim-ds6.vim > div > div
+
 
 community.ato.gov.au##.bottom-message
 
