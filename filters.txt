@@ -1981,8 +1981,6 @@ $removeparam=utm_campaign,domain=simplywall.st
 $removeparam=utm_source,domain=simplywall.st
 $removeparam=share,domain=vimeo.com
 $removeparam=sourceid,domain=google.com
-$removeparam=_trksid,domain=ebay.com.au
-$removeparam=_osacat,domain=ebay.com.au
 $removeparam=bk,domain=reverb.com
 
 ebay.*^$removeparam=exe
@@ -5432,8 +5430,6 @@ ebay.com/tag-manager/
 ebaystatic.com/cr/v/c1/ebay-cookies/
 ebayrtm.com/rtm?RtmCmd&a=json
 pages.ebay.com/identity/device/
-ebay.com.au/ifh/
-
 
 interestingengineering.com##.ArticleSubscribeModal_popupOverlay__
 interestingengineering.com##.undefined.t-pb-3.home-news-letter-banner
