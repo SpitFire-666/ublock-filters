@@ -1690,14 +1690,11 @@ www.maketecheasier.com##.cls-inserted.slick-inline-search-panel
 forums.malwarebytes.com###elPostFeed .ipsSpacer_half.ipsSpacer_both.ipsMmalware
 forums.malwarebytes.com##.ipsLayout_container > .ipsSpacer_half.ipsSpacer_both.ipsMmalware
 
-
 www.itpro.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent-a9qzgMujcN8rmvyp8sj2v5.newsletter-inbodyContent-slice.slice-container
 
 www.engadget.com##.wafer-rapid-tracked.fp-item-card.wafer-rapid-module
 
-
 www.geekwire.com###mobile-share-bar
-
 
 www.windowscentral.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
 
@@ -1710,3 +1707,7 @@ https://www.ultimatewindowssecurity.com/css/cookieConsent.css
 https://www.ultimatewindowssecurity.com/css/subscriptionPopup.css
 
 campaigns.cyberinsider.com
+
+https://socradar.io/wp-content/themes/socradar/assets/js/custom24.js
+socradar.io###fancybox-1
+socradar.io##.consent-banner
