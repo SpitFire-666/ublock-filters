@@ -1785,6 +1785,7 @@ outpost.pub
 
 
 ! WORDPRESS GARBAGE - plugins, cookies, newsletters, ads
+*/wp-includes/js/dist/vendor/wp-polyfill.js
 */wp-content/plugins/honeypot/
 */wp-content/themes/readingaustralia/assets/js/plugins/cookie.js
 */wp-content/themes/readingaustralia/assets/js/plugins/share.js
