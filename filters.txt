@@ -1917,6 +1917,11 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
 
 ! URL Parameters
+$removeparam=w,domain=google.com
+$removeparam=h,domain=google.com
+$removeparam=vet,domain=google.com
+$removeparam=kgs,domain=google.com
+$removeparam=sv,domain=google.com
 $removeparam=xsdata,domain=sharepoint.com
 $removeparam=SafeLinksUrl,domain=sharepoint.com
 $removeparam=ovuser,domain=sharepoint.com
@@ -6609,3 +6614,4 @@ https://cdn.craft.cloud/*/builds/*/artifacts/assets/js/abchecker.js
 
 https://assets.genius.com/javascripts/compiled/reactAds-*.js
 
+https://www.loudersound.com/vite/assets/Recirculation/
