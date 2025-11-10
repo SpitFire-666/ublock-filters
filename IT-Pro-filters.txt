@@ -158,13 +158,6 @@ www.wired.com##div.row-mid-content-ad.full-bleed-ad.HEhan.RowWrapper-UmqTg
 www.ghacks.net###didomi-host
 ||sdk.privacy-center.org^$script,domain=www.ghacks.net
 
-||jotform.io^
-||www.jotform.com^
-||cjotfor.ms^
-||jotfor.ms^
-||js.jotform.com^
-||form.jotform.com^
-
 www.techrepublic.com##.row.medusa-list-sidebar.medusa-list
 www.techrepublic.com##.jotform-excel-tips
 www.techrepublic.com##.jotform-twenty-pro-tips
