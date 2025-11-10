@@ -438,12 +438,6 @@ petri.com##.inContent.contentHighlight
 petri.com##div.adContainer:nth-of-type(4)
 petri.com##div.adContainer:nth-of-type(6)
 
-||jotform.io^
-||www.jotform.com^
-||cjotfor.ms^
-||jotfor.ms^
-||js.jotform.com^
-||form.jotform.com^
 
 www.techrepublic.com##.row.medusa-list-sidebar.medusa-list
 
