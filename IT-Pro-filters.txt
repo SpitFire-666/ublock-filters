@@ -710,7 +710,6 @@ techcommunity.microsoft.com##.lia-in.lia-dialog-titleless.lia-accessibility.lia-
 techcommunity.microsoft.com##.ui-widget-overlay
 
 ||www.techrepublic.com/forums/discussions/how-to-deny-create-folder-on-root-c/$subdocument
-||cdn.jotfor.ms^
 
 www.ifixit.com##div > div > .react-component
 
