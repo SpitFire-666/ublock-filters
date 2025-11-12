@@ -1690,3 +1690,6 @@ campaigns.cyberinsider.com
 https://socradar.io/wp-content/themes/socradar/assets/js/custom24.js
 socradar.io###fancybox-1
 socradar.io##.consent-banner
+
+vulners.com##.css-q2ksim-CookieConsentBanner-root
+https://vulners.com/2cpo/
