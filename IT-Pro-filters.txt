@@ -91,7 +91,7 @@ adamtheautomator.com##.lg\:mb-0.mb-4.justify-self-center.items-center.flex-col.f
 $removeparam=sysparm_category,domain=service-now.com
 $removeparam=catalog_id,domain=service-now.com
 $removeparam=referrer,domain=service-now.com
-
+$removeparam=ref,domain=learn.microsoft.com
 4sysops.com##div:nth-of-type(12)
 
 helpx.adobe.com##.is-Open.mobile-height-auto.tablet-width-640.mobile-width-100.dexter-Modal
