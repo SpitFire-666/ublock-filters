@@ -1693,3 +1693,8 @@ socradar.io##.consent-banner
 
 vulners.com##.css-q2ksim-CookieConsentBanner-root
 https://vulners.com/2cpo/
+
+admin.cloud.microsoft/admin/api/users/surveysinfo
+admin.cloud.microsoft/feedback/SurveyResource/
+admin.cloud.microsoft/feedback/SurveySettings/
+admin.cloud.microsoft/feedback/SurveyConfig
