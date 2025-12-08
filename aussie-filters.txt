@@ -744,6 +744,7 @@ www.awm.gov.au##.modaal-inner-wrapper
 www.awm.gov.au##.modaal-outer-wrapper
 www.awm.gov.au##.modaal-inline.modaal-wrapper
 www.awm.gov.au##.modaal-overlay
+www.awm.gov.au##.disclaimerfooter__description
 www.novafm.com.au##.index_nova_disclaimer__lVWAY > p
 www.choice.com.au##.footer__acknowledge-copy
 www.choice.com.au##.footer__acknowledge
@@ -864,7 +865,6 @@ www.3mbs.org.au##.show
 www.nationaltrust.org.au##.footer-acknowledgement
 reiwa.com.au##.aoc
 australiayourway.com###block-109 > p
-www.awm.gov.au##.disclaimerfooter__description
 www.navy.gov.au##.text-small.text-center.weight-semi.font-family1
 www.navy.gov.au##.justify-content-center.align-items-center.d-flex.dod-footer-acknowledge.col-sm-6.col-md-5
 
