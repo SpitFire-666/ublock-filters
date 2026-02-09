@@ -1379,3 +1379,37 @@ $removeparam=norover,domain=ebay.com.au
 ebay.com.au/chocolatechip/track
 ebay.com.au/gh/useracquisition
 ebay.com.au/ifh/
+
+trove.nla.gov.au###culturalModal___BV_modal_outer_
+
+auctions.knightfrank.com.au##.siteFooter-footertext > p
+
+
+www.imagemakersassociation.com.au##.fe-block-yui_3_17_2_1_1737496724199_60014.fe-block
+
+
+https://api.smh.com.au/graphql?query=query%20PaywallBypassMemberDetailsQuery
+
+www.racv.com.au##.gdpr--show
+https://www.racv.com.au/bin/racv/v1/gdpr
+
+||www.workshop.bunnings.com.au/html/assets/signature-give-thumbs-up1.png$image
+www.workshop.bunnings.com.au##.message-uid-87048
+
+carnegiecentral.com.au##.lg\:pb-0.pb-8.lg\:pr-12.lg\:w-\[30\%\].w-full.gap-8.flex-col.flex > div:nth-of-type(3)
+carnegiecentral.com.au##.gap-2.flex
+
+
+www.beyondblue.org.au##.py-12.border-t-primary-blue-100.border-t.block
+www.polartech.com.au##.pswp--has_mouse
+nma.gov.au##.modaal--welcome  
+https://pwa.mamamia.com.au/getAdvancedPopups
+www.mamamia.com.au##.consent-wrapper
+
+www.genv.org.au##.active.screen.o-section--highlight.c-cookie-banner
+
+inaturalist.ala.org.au##.content-column.col-xs-12
+
+my.donateblood.com.au##.pb-4.pt-4.footer-message
+
+www.bunnings.com.au###id_ATCRecommendations
