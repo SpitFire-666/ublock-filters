@@ -6624,3 +6624,12 @@ www.findagrave.com##.mt-1.mb-0
 www.findagrave.com##.border-dark.small.mb-1.py-0.rounded-pill.opacity-75
 
 error-report.com
+
+api-gateway.mappedin.com/track-analytics/
+api-gateway.mappedin.com/analytics/
+https://s3.amazonaws.com/a.storyblok.com/f/*/x/*/chadstone-extralight.ttf
+https://s3.amazonaws.com/a.storyblok.com/f/*/x/*/chadstone-regular.ttf
+https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-SemiBold-*.woff2
+https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-Regular-*.woff2
+https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-Medium-*.woff2
+||js.stripe.com/v3/fingerprinted/
