@@ -1413,3 +1413,14 @@ inaturalist.ala.org.au##.content-column.col-xs-12
 my.donateblood.com.au##.pb-4.pt-4.footer-message
 
 www.bunnings.com.au###id_ATCRecommendations
+https://www.bunnings.com.au/_next/static/chunks/ProductRecommendations.*.js
+https://api.prod.bunnings.com.au/v1/search/recommendation
+https://www.bunnings.com.au/_apis/ad-service/
+https://www.bunnings.com.au/_next/static/chunks/ProductRecommendations.*.js
+https://www.bunnings.com.au/_platforms/features/api/frontend/client/metrics
+https://www.bunnings.com.au/_next/static/chunks/ContentRecommendations.*.js
+https://www.bunnings.com.au/_next/static/chunks/Footer.*.js
+https://www.bunnings.com.au/_next/static/chunks/BannerBlock.*.js
+https://www.bunnings.com.au/_next/static/chunks/BannerNotification.*.js
+https://www.bunnings.com.au/_next/static/chunks/SmartBanner.*.js
+
