@@ -6637,3 +6637,5 @@ https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-SemiBold-*.woff2
 https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-Regular-*.woff2
 https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-Medium-*.woff2
 ||js.stripe.com/v3/fingerprinted/
+
+https://newsgroup.xnview.com/assets/cookieconsent/
