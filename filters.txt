@@ -1782,6 +1782,9 @@ pub.highlight.io
 leadsy.ai
 trovo-tag.com
 outpost.pub
+mailmunch.co
+mailmunch.co.herokudns.com
+mailmunch.com
 
 
 ! WORDPRESS GARBAGE - plugins, cookies, newsletters, ads
