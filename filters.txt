@@ -1900,6 +1900,7 @@ wp.com/p/jetpack/*/modules/subscriptions/subscribe-modal/
 */wp-content/099b47c0694fbc4809ae8686f79cd0c7/
 */wp-content/plugins/mom-products/
 */wp-content/plugins/popup-manager/
+*/wp-content/plugins/complianz-gdpr/
 
 ! obnoxious cookie banner:
 */wp-content/8d0e790014df9d8ec7288007ab49895a/
