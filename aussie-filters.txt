@@ -1424,3 +1424,5 @@ https://www.bunnings.com.au/_next/static/chunks/BannerBlock.*.js
 https://www.bunnings.com.au/_next/static/chunks/BannerNotification.*.js
 https://www.bunnings.com.au/_next/static/chunks/SmartBanner.*.js
 
+https://www.turramusic.com.au/cdn/shop/t/37/assets/cookie-consent.css
+https://www.turramusic.com.au/cdn/shop/t/37/assets/cookie-consent.min.js
