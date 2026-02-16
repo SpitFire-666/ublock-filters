@@ -6639,3 +6639,4 @@ https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-Medium-*.woff2
 ||js.stripe.com/v3/fingerprinted/
 
 https://newsgroup.xnview.com/assets/cookieconsent/
+https://cf.mhcache.com/Static/FP/Assets/bundles/CssOutput/CookiePreferencesBanner/
