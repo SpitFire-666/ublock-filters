@@ -6640,3 +6640,7 @@ https://d1p5cqqchvbqmy.cloudfront.net/web2/release/Inter-Medium-*.woff2
 
 https://newsgroup.xnview.com/assets/cookieconsent/
 https://cf.mhcache.com/Static/FP/Assets/bundles/CssOutput/CookiePreferencesBanner/
+
+
+*/content/mu-plugins/hm-gtm/
+*/content/plugins/social-pug/
