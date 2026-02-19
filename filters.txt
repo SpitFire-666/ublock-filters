@@ -5913,6 +5913,11 @@ https://web.archive.org/web/*/http://partner.googleadservices.com/
 https://web.archive.org/web/*/http://pubads.g.doubleclick.net/
 https://web.archive.org/web/*/https://www.lala.com/
 web.archive.org/web/*/http://ipc.adbureau.net/
+web.archive.org/web/*/https://cdn.subscribers.com/
+web.archive.org/web/*/https://*/wp-content/client-mu-plugins/idg-newsletter/
+web.archive.org/web/*/https://cse.google.com/adsense/
+
+
 
 resources.twiz.io##.popup-main-div
 
