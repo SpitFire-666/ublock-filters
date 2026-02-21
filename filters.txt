@@ -6649,3 +6649,5 @@ https://cf.mhcache.com/Static/FP/Assets/bundles/CssOutput/CookiePreferencesBanne
 
 */content/mu-plugins/hm-gtm/
 */content/plugins/social-pug/
+
+*/blog/app/plugins/borlabs-cookie/
