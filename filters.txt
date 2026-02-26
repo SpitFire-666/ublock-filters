@@ -2895,8 +2895,6 @@ www.javascripttutorial.net##.whitelist
 
 ||lgincdnmsftuswe2.azureedge.net/shared/1.0/content/images/backgrounds/$image
 
-web.archive.org###dms-txt
-
 www.espn.com##.active.video.feed-item-figure > .img-wrap
 www.espn.com##.editorial.sub-module
 
@@ -3851,9 +3849,6 @@ archive.energyfm.net##.CookieBanner-module__wrap--1QK9t
 https://static.files.bbci.co.uk/cookies/
 
 www.fixradio.co.uk##.CookieBanner-module__inner--ZAwNc
-
-web.archive.org##[href*=".facebook.com"]
-web.archive.org##[href*=".fbcdn.net"]
 
 www.verywellmind.com###article__broad-video-jw_1-0
 
@@ -4915,7 +4910,6 @@ chat.openai.com##.shadow-lg.popover
 
 ||p.scdn.co^$media,domain=nickwanders.com
 
-web.archive.org##.adGrayMed.showcaseAd
 
 ruclips.net##.dblock
 
@@ -5924,6 +5918,11 @@ web.archive.org/web/*/https://*/wp-admin/
 web.archive.org/web/*/https://*/unified/*/gdpr-tcf.*.bundle.js
 web.archive.org/web/*/https://www.google.com/cse/
 web.archive.org/web/*/https://tt.onthe.io/
+web.archive.org##.adGrayMed.showcaseAd
+web.archive.org##[href*=".facebook.com"]
+web.archive.org##[href*=".fbcdn.net"]
+web.archive.org###dms-txt
+web.archive.org/web/*/https://static-assets.bamgrid.com/config/adserve/
 
 
 resources.twiz.io##.popup-main-div
