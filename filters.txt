@@ -5916,7 +5916,14 @@ web.archive.org/web/*/http://ipc.adbureau.net/
 web.archive.org/web/*/https://cdn.subscribers.com/
 web.archive.org/web/*/https://*/wp-content/client-mu-plugins/idg-newsletter/
 web.archive.org/web/*/https://cse.google.com/adsense/
-
+web.archive.org/web/*/https://cdn.subscribers.com/
+web.archive.org/web/*/https://*/wp-content/client-mu-plugins/idg-newsletter/
+web.archive.org/web/*/https://*/wp-content/client-mu-plugins/idg-newsletter/
+web.archive.org/web/*/https://cse.google.com/adsense/
+web.archive.org/web/*/https://*/wp-admin/
+web.archive.org/web/*/https://*/unified/*/gdpr-tcf.*.bundle.js
+web.archive.org/web/*/https://www.google.com/cse/
+web.archive.org/web/*/https://tt.onthe.io/
 
 
 resources.twiz.io##.popup-main-div
@@ -6651,3 +6658,17 @@ https://cf.mhcache.com/Static/FP/Assets/bundles/CssOutput/CookiePreferencesBanne
 */content/plugins/social-pug/
 
 */blog/app/plugins/borlabs-cookie/
+
+
+www.dailymail.co.uk###dms-txt
+
+!https://betawiki.net/load.php?lang=en&modules=ext.CookieWarning
+*/blog/app/plugins/borlabs-cookie/
+
+betawiki.net##.mw-cookiewarning-container
+
+||s1.wp.com/wp-content/themes/h4/i/pic-crowd-2x.jpg$image
+
+carxplorer.com##.code-block-2.code-block > div
+
+discuss.grapheneos.org##.Post-quoteButtonContainer
