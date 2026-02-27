@@ -6671,3 +6671,6 @@ betawiki.net##.mw-cookiewarning-container
 carxplorer.com##.code-block-2.code-block > div
 
 discuss.grapheneos.org##.Post-quoteButtonContainer
+
+consent.carwow.co.uk
+privacy.gatekeeperconsent.com
