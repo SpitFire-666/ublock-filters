@@ -6674,3 +6674,8 @@ discuss.grapheneos.org##.Post-quoteButtonContainer
 
 consent.carwow.co.uk
 privacy.gatekeeperconsent.com
+
+*/@bugsnag--js-*.js
+*/bugsnag-*.js
+*/bugsnag_module-*.js
+*/@bugsnag--browser-*.js
