@@ -6680,3 +6680,7 @@ privacy.gatekeeperconsent.com
 */bugsnag-*.js
 */bugsnag_module-*.js
 */@bugsnag--browser-*.js
+
+https://d1itauognrhtm5.cloudfront.net/bydataAnalytics_1.js
+
+*/wp-content/wp-content/plugins/mailchimp-for-wp/
