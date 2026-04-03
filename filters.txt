@@ -6684,3 +6684,10 @@ privacy.gatekeeperconsent.com
 https://d1itauognrhtm5.cloudfront.net/bydataAnalytics_1.js
 
 */wp-content/wp-content/plugins/mailchimp-for-wp/
+
+mind-flayer.podium.com
+connect.podium.com
+
+threedradio.com##.text-xl\/none.text-sand.font-condensed.brxe-text-basic
+
+www.tomsguide.com###widgetArea100
