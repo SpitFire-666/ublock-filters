@@ -6691,3 +6691,19 @@ connect.podium.com
 threedradio.com##.text-xl\/none.text-sand.font-condensed.brxe-text-basic
 
 www.tomsguide.com###widgetArea100
+
+
+www.audiosciencereview.com##.notice-content
+www.audiosciencereview.com##.message-signature
+
+
+academo.org##.sponsor-wrapper > div
+academo.org##.sponsor-wrapper
+
+
+www.digitalcameraworld.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+
+
+www.hardreset.info##.sf34bdsi83
+www.hardreset.info##.subscription-box
+
