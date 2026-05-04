@@ -162,8 +162,6 @@ $removeparam=utm_source,domain=drive.com.au
 $removeparam=ei,domain=commbank.com.au
 $removeparam=hkey,domain=vicbar.com.au
 
-
-
 business.vic.gov.au##.mt-4.row
 
 www.melbourneairport.com.au##.footer-acknowledgment
@@ -1369,7 +1367,7 @@ fremantlepress.com.au##.footer-small-text.p-small.col-md-8.col-12 > p
 
 $removeparam=_odkw,domain=ebay.com.au
 $removeparam=_osacat,domain=ebay.com.au
-$removeparam=_trksid,domain=ebay.com.au
+! $removeparam=_trksid,domain=ebay.com.au !breaks "add to watch list"
 $removeparam=itemid,domain=ebay.com.au
 $removeparam=itmmeta,domain=ebay.com.au
 $removeparam=itmprp,domain=ebay.com.au
