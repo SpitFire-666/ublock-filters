@@ -1424,3 +1424,109 @@ https://www.bunnings.com.au/_next/static/chunks/SmartBanner.*.js
 
 https://www.turramusic.com.au/cdn/shop/t/37/assets/cookie-consent.css
 https://www.turramusic.com.au/cdn/shop/t/37/assets/cookie-consent.min.js
+
+www.apsc.gov.au##.acknowledgement-content
+
+www.oaic.gov.au##.footer__content-group
+
+
+www.austrac.gov.au##.footer-acknowledgement
+
+
+www.defence.gov.au##.text-small.text-center.weight-semi.font-family1
+
+
+||coonawarra.org/wp-content/uploads/2020/10/4-1.jpg$image
+coonawarra.org##.module-wrap > .container
+coonawarra.org##section.module--welcome.module:nth-of-type(11) > .container
+
+
+www.wineaustralia.com##.acknowledgement
+
+
+www.australianmusicvault.com.au###modal-acknowledgement
+
+www.ausnetservices.com.au##.footer__top__right__links-container > .footer__acknowledgement-container
+www.westernrenewableslink.com.au##.py-4.text-inner > p
+
+community.acciona.com.au##.col-md-offset-4.col-md-4 > .ljs.hive-block-content.hive-block > p:nth-of-type(2)
+
+www.bigfooty.com###bf_FuseForumHeader
+www.bigfooty.com##.js-notices.notices--block.notices
+www.bigfooty.com##.tooltip-content
+www.bigfooty.com###bf_FuseThreadReplyIC5
+www.bigfooty.com###bf_ForumMidThread1
+www.bigfooty.com###bf_ForumMidThread2
+www.bigfooty.com##.js-replyNewMessageContainer.block-body > h2 > [href="/forum/login/register"]
+www.bigfooty.com##.p-body-pageContent > h2 > [href="/forum/login/register"]
+www.bigfooty.com##h2 > [href="/forum/login/register"]
+
+
+calculate.fairwork.gov.au##.container-fluid > p
+
+
+www.fairwork.gov.au##.block-block-content252444d1-b759-4a11-8faf-f1f413485140.block-block-content.block.block-globalinfo.settings-tray-editable > .field__item.field--label-hidden.field--type-text-with-summary.field--name-body.field.text-formatted.clearfix
+
+
+www.bettermusic.com.au##.text-block--background.custom-color.custom-font-size.custom-typography.custom.text-block--ANkFkMUsya2UyMzAyT__text_q6TwrE.text-block.spacing-style > p
+www.naa.gov.au##.show-modal.modal
+
+
+www.flyingdoctor.org.au##.page-footer__text > p
+
+www.gmct.com.au##p:nth-of-type(10)
+
+www.readings.com.au##.col-md-5.col-xl-4 > p
+
+www.afp.gov.au##.field__item.field--label-hidden.field--type-text-with-summary.field--name-body.field.text-formatted.clearfix > p
+||www.afp.gov.au/themes/custom/subthemes/afp/images/footer-graphic.png$image
+www.afp.gov.au##.footer__graphic
+
+www.statedevelopment.qld.gov.au##.footer__ack
+
+www.dta.gov.au##div.ct-vertical-spacing-inset--bottom.ct-theme-dark.ct-basic-content:nth-of-type(2) > .container > .row
+
+||www.tweddle.org.au/wp-content/uploads/2025/06/Tweddle-First-Nations-Acknowledgement-banner.png$image
+www.tweddle.org.au##.et_pb_fullwidth_image_0.et_pb_fullwidth_image.et_pb_module
+||www.tweddle.org.au/wp-content/uploads/2024/01/Dixon-Patten-Bayila-Aboriginal-Artwork-Tweddle-2021-1.jpg$image
+
+
+www.reverseau.com##.u.t.s.r.q .ads
+www.reverseau.com##.bm.bl.bk > .bp.ads
+www.reverseau.com##div.ads:nth-of-type(2)
+
+readingaustralia.com.au##.active.modal-wrapper
+
+imcl.org.au##.footerright
+
+www.thebirthstore.com.au##em
+
+www.pvfm.org.au##.large-4.medium-6.small-12.cell
+
+www.bettermusic.com.au##div:nth-of-type(2) > .row-full-width-inner > div > div:nth-of-type(1) > p
+
+rednose.org.au##.elementor-widget-text-editor.elementor-widget.elementor-element-2c3587c
+rednose.org.au##.elementor-widget-image.elementor-widget.elementor-element-91a4633.elementor-element
+
+www.naa.gov.au##.acknowledgement-country.footer-row
+
+www.tenders.wa.gov.au###ack-country > div
+
+
+hillmartin.com.au##.elementor-widget-text-editor.elementor-widget.elementor-element-339dd55c.elementor-element > .elementor-widget-container
+
+
+gayletierney.com.au##.bottom-text-block > p
+
+
+www.amagavic.org.au##.fe-block-yui_3_17_2_1_1700776393064_3227.fe-block > .sqs-block-html.html-block.sqs-block
+
+
+museumsvictoria.com.au###\31 244
+
+
+canoehire.com.au##.aligncenter.size-medium.wp-image-527
+canoehire.com.au##p:nth-of-type(5)
+
+
+www.rfds.org.au##.page-footer__text > p
