@@ -1530,3 +1530,10 @@ canoehire.com.au##p:nth-of-type(5)
 
 
 www.rfds.org.au##.page-footer__text > p
+www.westfield.com.au##.css-7bvbpj.chakra-text
+www.premier.vic.gov.au##.rpl-footer__custom-content-inner
+www.money3.com.au##.row
+
+auth.service.vic.gov.au##.MFA-middle
+
+www.nine.com.au###desktop-header-ads
