@@ -3480,13 +3480,13 @@ gearjunkie.com##.is-visible.center-flyout.flyout_newsletter_center
 
 www.lg.com##.show.fade.toast-coupon.toast
 
-onlineradiobox.com###alert_mahjong
-onlineradiobox.com##.saveUA
-onlineradiobox.com##.playmarket
-onlineradiobox.com###alert_puzzlegarage
+!onlineradiobox.com###alert_mahjong
+!onlineradiobox.com##.saveUA
+!onlineradiobox.com##.playmarket
+!onlineradiobox.com###alert_puzzlegarage
 onlineradiobox.com##.alert--playmarket
 onlineradiobox.com###alert_cookies
-||cdn.onlineradiobox.com/img/player__promo.jpg$image
+!||cdn.onlineradiobox.com/img/player__promo.jpg$image
 onlineradiobox.com##.player__promo
 onlineradiobox.com##._promo.player
 
