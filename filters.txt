@@ -2642,6 +2642,14 @@ www.dropbox.com##.ReactModalPortal
 
 www.ebay.com###placement_html_101197 > .merch-module
 www.ebay.com###placement_html_101198
+www.ebay.com.au##li.srp-river-answer--ITEMS_CAROUSEL_WITH_COLOR.srp-river-answer
+www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(2)
+www.ebay.com.au##.s-answer-region-center-top.s-answer-region > section
+www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(3)
+www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(4)
+www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(5)
+www.ebay.com.au###placement_100379
+www.ebay.com.au###placement100379
 
 www.picturecorrect.com###tve_tcb2_set-040 > .tve-leads-conversion-object
 
