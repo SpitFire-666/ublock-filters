@@ -1536,4 +1536,100 @@ www.money3.com.au##.row
 
 auth.service.vic.gov.au##.MFA-middle
 
+www.tga.gov.au###block-legal
+www.sleephealthfoundation.org.au##.footer-ack
+www.safetyandquality.gov.au##.text-align-center
 www.nine.com.au###desktop-header-ads
+
+sitchu.com.au###master-ad__container
+
+www.bosshunting.com.au##.shadow-\[0_-4px_24px_rgba\(0\,0\,0\,0\.08\)\].border-stone.border-t.bg-cream.z-40.inset-x-0.bottom-0.fixed
+www.bosshunting.com.au##.border-stone.border-b.py-3.justify-center.flex
+www.bosshunting.com.au##.my-8 > .max-w-full.items-center.flex-col.flex.relative
+
+cancerwa.asn.au##.footer__country
+
+gardinerhotel.com.au##.c-footer-acknowledgement--full-width
+
+www.radio-australia.org###appDownloadAd
+
+tuningintokids.org.au##.acknowledge > p
+
+www.betterplaceaustralia.com.au##.footer-bottom
+www.betterplaceaustralia.com.au##.ob-harakiri.elementor-widget-text-editor.elementor-widget.ob-has-background-overlay.ob-harakiri-inherit.elementor-element-c7fb4bf.elementor-element > .elementor-widget-container > p
+www.betterplaceaustralia.com.au##.elementor-section-height-default.elementor-section-boxed.elementor-element-2d9053b.elementor-element.elementor-inner-section.elementor-section.ob-bb-inner.ob-is-breaking-bad
+
+service.vic.gov.au##._bottom
+
+www.guardian.edu.au##.aol
+
+www.apraamcos.com.au##.tabletWide\:mr-15.tabletWide\:w-2\/6.mb-8 > small
+www.service.nsw.gov.au##.Acknowledgement-9KvAuglabN
+
+www.alintaenergy.com.au###container-6f519adc99 > .columncontrol
+
+www.rch.org.au##.col-md-9
+
+www.nfsa.gov.au##.items-center.flex.max-w-\[45ch\].md\:text-22.text-16.text-center.grow
+www.nfsa.gov.au##.\!leading-\[1\.66em\].text-default.xl\:col-span-4.col-span-full
+
+||accounts.google.com/gsi/iframe/select?client_id=198234539093-irftvph204jm4rrei38t7btqgup1ptvs
+
+au.yamaha.com##.au_flag_container
+
+www.servicesaustralia.gov.au##.md\:w-1\/2.md\:text-right.md\:mb-0.mb-9
+
+www.vicroads.vic.gov.au##.content > p
+
+digital.atlas.gov.au##p:nth-of-type(4)
+www.strandbags.com.au###obv-portal-root
+
+uniden.com.au##.text-left > p
+
+
+photobooth.ngv.vic.gov.au###acknowledgment
+
+
+www.lifeline.org.au##.xl\:pl-16.text-lg.text-white > p
+www.lifeline.org.au##a.sm\:mb-0.mb-3.lg\:min-h-\[135px\].lg\:w-\[200px\].p-4.border-blue-faint.rounded-lg.border-1.sm\:w-full.sm\:block.justify-between.flex:nth-of-type(1)
+
+
+www.mamamia.com.au##.consent-banner
+www.mamamia.com.au##.svelte-1557mhz.items-end.flex.z-50.inset-0.fixed
+
+www.standard.net.au##.overflow-hidden.flex.md\:h-\[90px\].xl\:h-\[250px\].justify-center.items-center
+www.standard.net.au###sticky-footer-container
+
+www.vline.com.au###site-footer-art
+
+thenightly.com.au##.e1qdqyh710.css-t03kxs-StickyBreachContainer
+
+https://creative.vic.gov.au/__data/assets/git_bridge/*/*/dist/assets/Modal.*.js
+https://creative.vic.gov.au/__data/assets/git_bridge/*/*/dist/Modal-*.css
+
+www.ato.gov.au##.RclFooter_footer__bottom__content__acknowledgement__EhgYX
+www.readings.com.au##.col-md-5.col-xl-4 > p
+
+||static.weboffice.uwa.edu.au/visualid/sites/guides.library.uwa.edu.au/img/watermark.svg$image
+guides.library.uwa.edu.au##._link-blocks._row > div > div._col-1:nth-of-type(1)
+
+www.thermh.org.au##.text-brand-gray-dark.lg\:text-lg.font-light.text-center.lg\:w-4\/5.mx-auto
+
+www.ngv.vic.gov.au##div.inside:nth-of-type(2) > .features.features-two > div.feature:nth-of-type(2) > .small
+
+www.acmi.net.au##.container-sm-md.py-12.site-content-warning
+www.onefootforward.org.au###LightboxPanel
+www.reverseau.com##.u.t.s.r.q .ads
+www.reverseau.com##.bm.bl.bk > .bp.ads
+www.reverseau.com##div.ads
+
+www.railtrails.org.au##.disclaimermain
+www.onefootforward.org.au##.mb40.OFF-content.col-xs-12.col-sm-5.col-md-5.col-lg-5
+
+www.bendigobank.com.au##.pb-5.pt-3.twoColumnContent > .container
+
+www.wla.edu.au##p.text-\[\#272727\].font-\[Roboto\].ack-trade:nth-of-type(1)
+
+www.upskilled.edu.au##.footer__acknowledgement > p
+
+www.naa.gov.au##.acknowledgement-country.footer-row
