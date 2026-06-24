@@ -2000,6 +2000,8 @@ $removeparam=utm_source,domain=simplywall.st
 $removeparam=share,domain=vimeo.com
 $removeparam=sourceid,domain=google.com
 $removeparam=bk,domain=reverb.com
+$removeparam=set,domain=facebook.com
+$removeparam=idorvanity,domain=facebook.com
 
 ebay.*^$removeparam=exe
 ebay.*^$removeparam=ext
@@ -2009,6 +2011,7 @@ ebay.*^$removeparam=pt
 facebook.*^$removeparam=ref
 facebook.*^$removeparam=referral_code
 facebook.*^$removeparam=referral_story_type
+
 
 
 ||www.googletagservices.com^
