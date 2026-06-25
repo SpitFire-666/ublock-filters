@@ -6720,3 +6720,5 @@ www.hardreset.info##.subscription-box
 
 drsiggie.com##.mfp-ready.mfp-fade.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 drsiggie.com##.mfp-ready.mfp-fade.mfp-bg
+
+https://www.loudersound.com/vite/assets/Newsletter/
