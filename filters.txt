@@ -1239,7 +1239,6 @@ scripts.webcontentassessor.com
 secure-ds.serving-sys.com
 secure-gl.imrworldwide.com
 secure.aadcdn.microsoftonline-p.com
-secureir.ebaystatic.com
 securepubads.g.doubleclick.net
 settings.crashlytics.com.lan
 share.9cdn.net
