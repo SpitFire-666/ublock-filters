@@ -1633,3 +1633,75 @@ www.wla.edu.au##p.text-\[\#272727\].font-\[Roboto\].ack-trade:nth-of-type(1)
 www.upskilled.edu.au##.footer__acknowledgement > p
 
 www.naa.gov.au##.acknowledgement-country.footer-row
+
+www.questacon.edu.au##div.large-6.small-12.cell > .text-block > p
+www.questacon.edu.au##.block-aoc
+
+www.csiro.au##.gap--bottom--default.gap--top--default.bg--primary-dark
+
+asta.edu.au##.footer-bottom-text
+
+www.sasta.asn.au##.acknowledge-of-country > p
+
+rac.com.au##.mui-19wpu2y.MuiTypography-finePrint.MuiTypography-root
+
+www.artshub.com.au##.text--white.acknowledgement
+
+seniorsinmelbourne.com.au###block-54 > .has-text-align-center
+
+www.boroondara.vic.gov.au###block-acknowledgement
+withgracetherapy.com.au##.elementor-widget-text-editor.elementor-widget.elementor-element-af2b045.elementor-element > .elementor-widget-container > p
+
+www.experienceoz.com.au##.cgwWId.sc-36f46a9c-2
+
+puffingbillyrailway.org.au##.fl-row-align-center.fl-row-default-height.fl-node-fqitpdxovh2c.fl-row-bg-none.fl-row-full-width.fl-row
+puffingbillyrailway.org.au##.fl-col-group-align-center.fl-col-group-equal-height.fl-node-1tcyjw430dfx.fl-col-group
+
+www.ombudsman.vic.gov.au##.vo-footer__acknowledgement
+
+! 15 July 2026 https://catalogue.nla.gov.au
+catalogue.nla.gov.au##.acknowledgement
+
+! 15 July 2026 https://knowmore.org.au
+knowmore.org.au###text-2178816263 > p:nth-of-type(1)
+knowmore.org.au##.large-4.small-4.medium-4.col
+
+www.aco.org.au##.flex-column.ack-column.col3
+www.aco.org.au##.flex-column.ack-column.col4
+
+www.ramint.gov.au##.splash-screen
+www.destinationperth.com.au##.contentRender_name_plugins_core_textbox.contentRender_type_widget.contentRender_40.contentRender > section > p
+
+! 1 July 2026 https://rac.com.au
+rac.com.au##p.fine-print:nth-of-type(3)
+
+! 1 July 2026 https://www.bgpa.wa.gov.au
+www.bgpa.wa.gov.au##.layout-footer__highlight
+
+! 1 July 2026 https://www.audible.com.au
+www.audible.com.au##.bc-color-secondary.bc-size-small.bc-text
+
+www.visityarravalley.com.au##.aos-animate.aos-init.text-center.mx-auto.max-w-xl
+
+https://www.brisbanefestival.com.au/api/hide-acknowledgement
+
+! 1 July 2026 https://www.brisbanefestival.com.au
+www.brisbanefestival.com.au##.md\:col-span-5.max-md\:border-t.max-md\:order-2.col-span-12.border-pink-90\/20
+
+https://www.destinationperth.com.au/includes/public/managed/*/core/plugins/common/virtuals/css/widget_cookie_banner.css
+
+www.3mbs.org.au##.acknowledge-text
+www.health.vic.gov.au##.rpl-footer__custom-content
+
+forums.whirlpool.net.au##.user31861.num3
+forums.whirlpool.net.au##.user64300.num7
+forums.whirlpool.net.au##.user778227.num6
+forums.whirlpool.net.au##.user228382.num11
+forums.whirlpool.net.au##.user683359.num15
+forums.whirlpool.net.au##.user683359.num17
+forums.whirlpool.net.au##.user70273.num25
+forums.whirlpool.net.au##.user556556.num29
+
+www.theiconic.com.au##+js(set-cookie, NV_Theme, true)
+
+99bikes.com.au##.c-row
