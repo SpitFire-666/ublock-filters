@@ -1705,3 +1705,14 @@ forums.whirlpool.net.au##.user556556.num29
 www.theiconic.com.au##+js(set-cookie, NV_Theme, true)
 
 99bikes.com.au##.c-row
+
+www.canadabay.nsw.gov.au##.col-md-4.ccbc-footer-col1.footer-col > p
+
+www.healthpromotion.com.au##.custom-html-widget.textwidget > p
+
+www.canberra.edu.au##.ucweb-common-acknowledgement
+
+www.rdasna.org.au##.sqsrte-small
+
+www.nationaltribune.com.au##p:nth-of-type(2)
+
