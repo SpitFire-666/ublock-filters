@@ -2642,16 +2642,6 @@ semaphoreci.com##.gagpzpd.g1b36ey.g4yn9cd.g-fh86qq.gifw5gm.g-h0t0jn
 
 www.dropbox.com##.ReactModalPortal
 
-www.ebay.com###placement_html_101197 > .merch-module
-www.ebay.com###placement_html_101198
-www.ebay.com.au##li.srp-river-answer--ITEMS_CAROUSEL_WITH_COLOR.srp-river-answer
-www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(2)
-www.ebay.com.au##.s-answer-region-center-top.s-answer-region > section
-www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(3)
-www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(4)
-www.ebay.com.au##.s-answer-region-center-top.s-answer-region > div:nth-of-type(5)
-www.ebay.com.au###placement_100379
-www.ebay.com.au###placement100379
 
 www.picturecorrect.com###tve_tcb2_set-040 > .tve-leads-conversion-object
 
@@ -3913,9 +3903,6 @@ dealspotr.com###code-copied > .flex
 
 drive.google.com##.a-ee-zh-k
 
-www.ebay.com##.x-ads-placements--101506.vim.adp-vim.x-ads-placements
-www.ebay.com##.x-ads-placements--101195.vim.adp-vim.x-ads-placements
-www.ebay.com##.x-ads-placements--101196.vim.adp-vim.x-ads-placements
 
 ||www.varmintal.com/huntbgd.gif$image
 
@@ -6411,10 +6398,6 @@ themusicnetwork.com##.subscribe-single-inner
 kv.conversiontracking.com
 conversiontracking.com
 
-www.ebay.co.uk##.hl-standard-carousel.hl-atf-module-js.grid.card.hl-side-card.hl-module
-www.ebay.com###placement_html_101197
-www.ebay.com###placement_html_101198
-www.ebay.com###glbfooter
 ebay.com##html:style(overflow: auto !important;)
 
 thequietus.com##steady-engagement-wall
