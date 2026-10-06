@@ -1659,10 +1659,8 @@ puffingbillyrailway.org.au##.fl-col-group-align-center.fl-col-group-equal-height
 
 www.ombudsman.vic.gov.au##.vo-footer__acknowledgement
 
-! 15 July 2026 https://catalogue.nla.gov.au
 catalogue.nla.gov.au##.acknowledgement
 
-! 15 July 2026 https://knowmore.org.au
 knowmore.org.au###text-2178816263 > p:nth-of-type(1)
 knowmore.org.au##.large-4.small-4.medium-4.col
 
@@ -1672,20 +1670,15 @@ www.aco.org.au##.flex-column.ack-column.col4
 www.ramint.gov.au##.splash-screen
 www.destinationperth.com.au##.contentRender_name_plugins_core_textbox.contentRender_type_widget.contentRender_40.contentRender > section > p
 
-! 1 July 2026 https://rac.com.au
 rac.com.au##p.fine-print:nth-of-type(3)
 
-! 1 July 2026 https://www.bgpa.wa.gov.au
 www.bgpa.wa.gov.au##.layout-footer__highlight
 
-! 1 July 2026 https://www.audible.com.au
 www.audible.com.au##.bc-color-secondary.bc-size-small.bc-text
 
 www.visityarravalley.com.au##.aos-animate.aos-init.text-center.mx-auto.max-w-xl
 
 https://www.brisbanefestival.com.au/api/hide-acknowledgement
-
-! 1 July 2026 https://www.brisbanefestival.com.au
 www.brisbanefestival.com.au##.md\:col-span-5.max-md\:border-t.max-md\:order-2.col-span-12.border-pink-90\/20
 
 https://www.destinationperth.com.au/includes/public/managed/*/core/plugins/common/virtuals/css/widget_cookie_banner.css
@@ -1715,4 +1708,127 @@ www.canberra.edu.au##.ucweb-common-acknowledgement
 www.rdasna.org.au##.sqsrte-small
 
 www.nationaltribune.com.au##p:nth-of-type(2)
+
+www.screenaustralia.gov.au##.acknowledgement-popup__content
+www.screenaustralia.gov.au##.is-visible
+
+qso.com.au##.line-height-s.max-width-s.flex-none
+
+www.awa.asn.au##.p-0.m-0.text.footer__acknowledgement-text-wrapper > p
+
+anmac.org.au/##html:style(overflow: auto !important;)
+
+www.anmac.org.au##.print\:hidden.p-4.justify-center.items-center.flex.z-\[100\].inset-0.fixed
+www.anmac.org.au##.leading-tight.copy-2
+
+anmf.org.au##.elementor-widget-text-editor.elementor-widget.elementor-element-29a16cc.elementor-element > p
+
+catsinam.org.au###ste_container_Announcement > p
+
+www.acn.edu.au##td
+
+www.midwives.org.au###ste_container_Acknowledgement > p
+
+northcoteaquaticreccentre.com.au##.elementor-widget-text-editor.elementor-widget.elementor-widget-mobile__width-initial.elementor-element-51c60664.elementor-element > p
+
+searchlibrary.adelaide.edu.au###content_warning
+
+portrait.gov.au###acknowledgement
+portrait.gov.au###showacknowledgement > p:nth-of-type(1)
+
+countdowndeals.com.au###shopify-section-popups
+
+reefknowledgesystem.gbrmpa.gov.au##.disclaimer.footer__disclaimer
+
+www2.gbrmpa.gov.au###block-footeracknowledgement > .content > .field__item.field--label-hidden.field--type-text-long.field--name-field-body.field.text-formatted.clearfix > p
+
+! 9 Sept 2025 https://www.aims.gov.au
+www.aims.gov.au##.lg\:gap-y-0.gap-y-8.pb-9.pt-16.gap-20.grid-cols-footer.grid > .text-brand-tundora.footer-columns > .clearfix.ds-1col.block-content--view-mode-full.block-content--type-rich-text.block-content > div > .field__item.field--label-hidden.field--type-text-with-summary.field--name-body.field.text-formatted.clearfix > .acknowledgement.m-0 > p
+
+library.gleneira.vic.gov.au##.aux-footer-nav__wrapper > ul.list--inline > li > [href]
+
+melbourne.lottedutyfree.com.au##.footer-bottom-text-wrap > p
+
+koornangroad.com.au##.elementor-widget-text-editor.elementor-widget.elementor-element-ef10288.elementor-element > .elementor-widget-container > p
+
+
+www.aria.com.au##em
+
+moonlitsanctuary.com.au###block-10 > p
+
+cbca.org.au##.elementor-widget-text-editor.elementor-widget.elementor-widget__width-inherit.elementor-element-6fea722.elementor-element > .elementor-widget-container > p
+
+www.domain.com.au##.css-s1if6s
+www.domain.com.au##.css-1pitwnc
+
+childaustralia.org.au##.acknowledgement
+
+kidsbookweekcostumes.com.au###app-embed-container-1057482
+
+www.healthdirect.gov.au##.rspopup_btn.rspopup_translation
+www.healthdirect.gov.au###rs-dialog
+
+www.ripponleaestate.com.au##.message
+
+www.caulfieldgs.vic.edu.au##.footer__info
+
+outdoorlivingdirect.com.au##.show.newsletter-popup
+
+koalaliving.com.au##.col-sm-12 > p
+
+$removeparam=federated_search_id,domain=airbnb.com.au
+$removeparam=source_impression_id,domain=airbnb.com.au
+
+birdlife.org.au##p:nth-of-type(5)
+
+themusic.com.au##.pos-R1.tower.ad
+wearescooter.com.au##.privacy-statement.has-text-align-left
+
+portrait.gov.au###acknowledgement
+portrait.gov.au###showacknowledgement > p:nth-of-type(1)
+
+clefhifi.com.au##.active.ybc-mail-wrapper.ynpt5.ybc-newsletter-popup
+bluntmag.com.au##.align-items-start.align-top.d-flex
+www.police.qld.gov.au###our-respect
+
+www.slv.vic.gov.au##.col-sm-12 > p
+
+www.margaretriver.com##.lg\:pl-4.flex-1
+
+mitchamsocial.com.au##.et_pb_bg_layout_light.et_pb_text_align_center.et_pb_text_10_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner > p > em
+experiencegoldcoast.com##.dgc-acknowledgment.component
+www.blackdoginstitute.org.au##.primary-footer__area--left.primary-footer__area
+www.beyondblue.org.au###footer-flags-section
+www.safercare.vic.gov.au##.field--item.field--entity-block-content.field--label-hidden.field--type-text-with-summary.field--name-body.field
+
+www.30degreessports.com.au###shopify-section-sections--19115104764128__section_custom_code_6hcMAX > .color-scheme-11.wrapper--narrow.section-padding.custom-code
+
+www.bundanon.com.au##.displayed.actived.transition-all.acknowledgement-overlay
+www.bundanon.com.au##.footer-activate.footer-bottom
+www.bundanon.com.au##.displayed.actived
+www.cairnsadventuregroup.com.au##.acknowledge-message
+accesshc.org.au##.col-xs-offset-1.col-xs-10.col-md-offset-0.col-md-12
+
+caseyleisure.com.au##.e-child.e-con.e-flex.e-con-full.elementor-element-d7eda04.elementor-element
+
+gardenstatehotel.com.au##.c-footer-acknowledgement--full-width__body
+www.appliancesonline.com.au##.country-acknowledgement-wrapper
+
+www.museumoffire.net##p.wixui-rich-text__text.font_8 > .wixui-rich-text__text.color_11 > .wixui-rich-text__text
+
+https://servicefinder.emphn.org.au/privacy
+
+servicefinder.emphn.org.au##.border-gray-200.border-t.lg\:px-8.sm\:px-6.px-3.sm\:py-10.py-8.bg-brand-light-blue > .mx-auto.container
+
+
+www.outlawmedia.com.au##.p-5.rounded-lg.border-zinc-800.border.bg-zinc-950\/95.z-40.sm\:max-w-sm.sm\:bottom-6.sm\:right-6.sm\:left-auto.right-4.left-4.bottom-4.fixed
+
+www.collection.nfsa.gov.au##.disclaimer-block
+
+www.ahpra.gov.au##.acknowledgement
+
+www.anmac.org.au##.mix-blend-multiply.bg-black\/60.inset-0.absolute
+www.anmac.org.au##.print\:hidden.p-4.justify-center.items-center.flex.z-\[100\].inset-0.fixed
+
+www.nursingmidwiferyboard.gov.au##.acknowledgement
 
