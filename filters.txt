@@ -5903,6 +5903,21 @@ web.archive.org##[href*=".facebook.com"]
 web.archive.org##[href*=".fbcdn.net"]
 web.archive.org###dms-txt
 web.archive.org/web/*/https://static-assets.bamgrid.com/config/adserve/
+https://web.archive.org/web/*/http://ad.linkexchange.com/
+https://web.archive.org/web/*/https://guce.yahoo.com/consent
+https://web.archive.org/web/*/https://report.error-report.com/
+https://web.archive.org/web/*/https://www.yahoo.com/?guccounter
+https://web.archive.org/web/*/https://error-report.com
+https://web.archive.org/web/*/https://4.show.onlylineddisplay.com
+https://web.archive.org/web/*/https://show.onlylineddisplay.com
+https://web.archive.org/web/*/http://adforce.imgis.com
+https://web.archive.org/web/*/https://www.yahoo.com/_nca/
+https://web.archive.org/web/*/https://go.andwonderful.com/
+https://web.archive.org/web/*/https://s.yimg.com/oa/consent.js
+https://web.archive.org/web/*/https://s.yimg.com/lo/mysterio/
+https://web.archive.org/web/*/http://www.angelfire.com/adm/ad/
+https://web.archive.org/web/*/https://res.etranslate.io/
+
 
 
 resources.twiz.io##.popup-main-div
