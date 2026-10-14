@@ -6743,3 +6743,10 @@ hsforms.com
 js.hsforms.com
 
 office-watch.com##.active.slide-in-container
+
+||www.avsforum.com/login/onetap$subdocument
+
+cdnpure.com/static/share-button/
+a.cdnpure.com/report/group_user
+
+www.apkmirror.com###bottom-slider
