@@ -6750,3 +6750,10 @@ cdnpure.com/static/share-button/
 a.cdnpure.com/report/group_user
 
 www.apkmirror.com###bottom-slider
+
+https://assets.genius.com/javascripts/compiled/js.cookie-*.js
+https://assets.genius.com/javascripts/compiled/polyfills-*.js
+https://assets.genius.com/javascripts/compiled/useAnnotationTracking-*.js
+https://assets.genius.com/javascripts/compiled/questionsSlicePreloader-*.js
+https://assets.genius.com/javascripts/compiled/ReactSelect.components-*.js
+https://assets.genius.com/javascripts/compiled/referentsClient-*.js
