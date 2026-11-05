@@ -1832,3 +1832,48 @@ www.anmac.org.au##.print\:hidden.p-4.justify-center.items-center.flex.z-\[100\].
 
 www.nursingmidwiferyboard.gov.au##.acknowledgement
 
+knowledge.aidr.org.au##.footer__acknowledgement__text
+knowledge.aidr.org.au##.footer__acknowledgement
+www.safeworkaustralia.gov.au##.block-block-content00522c9c-cb68-4cea-8a50-6da3cbbd3f4b.block-block-content.block.block-content-menu_block.settings-tray-editable
+www.disaster.qld.gov.au##.footer-acknowledgements
+www.youngausint.org.au##.wixui-rich-text__text.color_36 > .wixui-rich-text__text > .wixui-rich-text__text > .wixui-rich-text__text
+www.ndiscommission.gov.au##.text-align-center
+naa.gov.au##.show-modal.modal
+ngv.vic.gov.au##div.inside:nth-of-type(2) > .features.features-two > div.feature:nth-of-type(2) > .small
+sac.sa.edu.au##.footer__acknowledgment
+www.screenaustralia.gov.au##.aoc-h100.modal-aoc-dialog
+www.screenaustralia.gov.au##p
+
+www.questacon.edu.au##.block-aoc--body
+www.questacon.edu.au##.block-aoc
+library.gov.au/core/assets/vendor/js-cookie/
+library.gov.au/modules/custom/nla_notice_section/
+
+www.womensweeklyfood.com.au##.billboard-is-fixed
+www.womensweeklyfood.com.au##.is-sidebar.article-header__sidebar > .sticky-ad-wrapper
+www.womensweeklyfood.com.au##.primary-sidebar > .sticky-ad-wrapper
+www.womensweeklyfood.com.au##.secondary-sidebar > .sticky-ad-wrapper
+www.gourmettraveller.com.au##.billboard-is-fixed.billboard.ad
+www.gourmettraveller.com.au##.is-sidebar.article-header__sidebar > .sticky-ad-wrapper
+www.gourmettraveller.com.au##.primary-sidebar > .sticky-ad-wrapper
+www.gourmettraveller.com.au##.hide-on-mobile.mrec.ad
+www.bestrecipes.com.au##.header-ad.row
+www.bestrecipes.com.au##.outbrain-bottom-row.row
+www.thenewdaily.com.au##.sm\:top-0.sm\:relative.w-screen.top-\[50px\].sticky
+www.thenewdaily.com.au##.my-5.z-\[5\].relative.md\:min-h-\[250px\].sm\:min-h-\[250px\].sm\:h-auto.h-\[100px\]
+www.thenewdaily.com.au##div.py-4.border-grey-300.border-y.block.my-5.clear-both
+www.thenewdaily.com.au##div.my-5
+www.thenewdaily.com.au##body > .mx-auto.relative.container
+www.thenewdaily.com.au##.flex-1.block.mb-auto
+vic.gov.au##.rpl-footer__custom-content-inner
+askforhealth.org.au##.e-child.e-con.e-con-boxed.e-flex.elementor-element-6279ee3.elementor-element
+
+nutritionnsw.org.au##.elementor-widget-icon-list.elementor-widget.elementor-list-item-link-full_width.elementor-icon-list--layout-traditional.elementor-align-start.elementor-element-7d0d07be.elementor-element > .elementor-widget-container > .elementor-icon-list-items > .elementor-icon-list-item > [href] > .elementor-icon-list-text
+
+futureadvisory.com.au##.v-footer-flag
+
+flash-fwd.com##.footer-acknowledgement
+newsouthbooks.com.au##.leading-snug > .rich-text > p:nth-of-type(2)
+
+www.jmff.com.au###comp-kz86i5s0 > .wixui-rich-text__text.font_5 > .wixui-rich-text__text.color_36 > .wixui-rich-text__text > .wixui-rich-text__text > .wixui-rich-text__text > .wixui-rich-text__text
+
