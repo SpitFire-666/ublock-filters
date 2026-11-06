@@ -159,6 +159,7 @@ www.catch.com.au##section.product-carousel.recommended.full-section:nth-of-type(
 www.broadsheet.com.au##.hvEBaY.SearchForm-sc-1rtba0o-0
 ||www.broadsheet.com.au/ping/*$xhr,domain=www.broadsheet.com.au
 $removeparam=utm_source,domain=drive.com.au
+$removeparam=haid,domain=domain.com.au
 $removeparam=ei,domain=commbank.com.au
 $removeparam=hkey,domain=vicbar.com.au
 
