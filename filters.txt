@@ -7156,3 +7156,11 @@ https://assets.genius.com/javascripts/compiled/uniq-*.js
 www.watzatsong.com##.sidebar_lhs
 
 www.theaureview.com##.heateor_sss_bottom_sharing.heateor_sss_vertical_sharing.heateor_sss_sharing_container
+
+
+https://soyboyrad.io/globe/
+https://soyboyrad.io/player-releases/*/milkdrop.js
+https://static.cbox.ws/snd/blip1.ogg
+https://soyboyrad.io/player-releases/*/milkdrop.css
+https://soyboyrad.io/player-releases/*/milkdrop/modes.js
+https://soyboyrad.io/background-poster.jpg
