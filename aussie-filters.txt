@@ -1878,3 +1878,44 @@ newsouthbooks.com.au##.leading-snug > .rich-text > p:nth-of-type(2)
 
 www.jmff.com.au###comp-kz86i5s0 > .wixui-rich-text__text.font_5 > .wixui-rich-text__text.color_36 > .wixui-rich-text__text > .wixui-rich-text__text > .wixui-rich-text__text > .wixui-rich-text__text
 
+$removeparam=token,domain=au.seek.com
+$removeparam=tracking,domain=au.seek.com
+$removeparam=origin,domain=au.seek.com
+$removeparam=type,domain=au.seek.com
+$removeparam=ref,domain=au.seek.com
+$removeparam=sol,domain=au.seek.com
+$removeparam=savedSearchID,domain=au.seek.com
+$removeparam=pos,domain=au.seek.com
+
+www.realestate.com.au##._1ihnrzi2
+
+bluntmag.com.au##.py-4.bg-darkgray.a-d.a-d-article.home-page-leader-a-ds
+bluntmag.com.au##div.py-4.bg-lightgray.a-d-unit.a-d:nth-of-type(11)
+bluntmag.com.au##div.py-4.bg-lightgray.a-d-unit.a-d:nth-of-type(8)
+bluntmag.com.au##div.py-4.bg-lightgray.a-d-unit.a-d:nth-of-type(6)
+bluntmag.com.au##div.py-4.bg-lightgray.a-d-unit.a-d:nth-of-type(4)
+
+auspost.com.au##.p-y-sm-400.p-y-500.p-x-500.m-t-md-400.m-t-sm-300.m-t-600.align-items-sm-center.align-items-start.footer-card.footer-acknowledgment
+
+artgallery.wa.gov.au###DisclaimerText
+
+digitalcollections.anu.edu.au###cultural-advice
+digitalcollections.anu.edu.au##.anu-pt-3.anu-row
+
+quarteracrehotel.com.au##.c-footer-acknowledgement--full-width
+
+moondog.com.au###block-yui_3_17_2_1_1652856603465_9927 > .sqs-block-content > .sqs-text-block-container > .sqs-html-content > p.sqsrte-small:nth-of-type(1)
+
+www.nikon.com.au###notice-cookie-block
+
+visitlimestonecoast.com.au##.fl-col-bg-color.fl-node-60945118d2814.fl-col
+
+southaustralia.com##.cell-content-grid__two-cell--cell-one.col-lg-6
+southaustralia.com##p
+southaustralia.com##.section.richtext-section
+||southaustralia.com/media/v5em3msd/satc_website_community_footer_transparent.png$image
+
+searchlibrary.adelaide.edu.au###content_warning
+northcoteaquaticreccentre.com.au##.elementor-widget-text-editor.elementor-widget.elementor-widget-mobile__width-initial.elementor-element-51c60664.elementor-element > p
+
+www.aqwa.com.au##.f-copy-b2.color-blue-002e.l-footer-bar__bottom
