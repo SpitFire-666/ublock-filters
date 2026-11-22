@@ -1304,7 +1304,6 @@ prefmgr-cookie.truste-svc.net
 consent.trustarc.com
 histats.com
 kwanmmmdgr.com
-kwanmmmdgr.com
 naubatodo.com
 inbound.clkcore.com
 cpacrack.com
@@ -1784,10 +1783,14 @@ outpost.pub
 mailmunch.co
 mailmunch.co.herokudns.com
 mailmunch.com
-
+gostatera.com
+vault.gostatera.com
+api.breinify.com
+emma-content-aggregates-prd.s3.amazonaws.com
 
 ! WORDPRESS GARBAGE - plugins, cookies, newsletters, ads
 */wp-content/plugins/site-performance-tracker/
+*/wp-content/plugins/gdpr-cookie-compliance/
 */wp-content/plugins/yarpp-dynamic-related-cards/
 */wp-includes/js/dist/vendor/wp-polyfill.js
 */wp-content/plugins/honeypot/
@@ -7191,3 +7194,25 @@ onlineradiobox.com##.playmarket
 onlineradiobox.com###alert_puzzlegarage
 nlineradiobox.com##.alert--playmarket
 onlineradiobox.com###alert_cookies
+
+https://b2c-unleash-proxy.fresha.com/proxy/client/metrics
+
+https://cdn-static-design-system.fresha.com/lottie/ill-anim-confirmed-delayed-onLoud-*.json
+
+www.songtexte.com##.prmtnTop.prmtnKeepHeight.hidden-print.visible-lg.visible-md
+www.songtexte.com##.prmtnContentRight.prmtnContentMin
+
+
+https://www.livescience.com/vite/assets/cookies-*.js
+
+medium.com##.sj.si.sh.m
+
+www.nytimes.com###complianceOverlay
+
+www.nytimes.com##body,html:style(overflow:auto!important)
+
+https://www.independent.co.uk/_build/init_register_wall
+
+www.independent.co.uk###main > .hydrate-root
+
+rocksdiscoverymuseum.com##.message
