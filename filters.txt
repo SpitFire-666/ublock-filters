@@ -2004,6 +2004,8 @@ $removeparam=sourceid,domain=google.com
 $removeparam=bk,domain=reverb.com
 $removeparam=set,domain=facebook.com
 $removeparam=idorvanity,domain=facebook.com
+$removeparam=domain,domain=apply.careers.microsoft.com
+$removeparam=source,domain=apply.careers.microsoft.com
 
 ebay.*^$removeparam=exe
 ebay.*^$removeparam=ext
